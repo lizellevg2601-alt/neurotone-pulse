@@ -15,6 +15,6 @@ export const mockProfile: RelevanceProfile = {
   strategicWeight: 70,
   tacticalWeight: 30,
   podcastWeight: 50,
-  boostedKeywords: ["auditory training", "neuroplasticity", "tinnitus", "hearing loss", "practice growth"],
+  boostedKeywords: ["auditory training", "neuroplasticity", "tinnitus", "tinnitus relief", "hearing loss", "practice growth", "cognitive training"],
   blockedTopics: ["hearing aid pricing comparison"],
 };

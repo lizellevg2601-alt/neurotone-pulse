@@ -9,26 +9,26 @@ export const mockTrendingThemes: TrendingTheme[] = [
   },
   {
     rank: 2,
+    topic: "Tinnitus Neuromodulation",
+    change: 31,
+    direction: "up",
+  },
+  {
+    rank: 3,
     topic: "Hearing & Dementia Prevention",
     change: 28,
     direction: "up",
   },
   {
-    rank: 3,
+    rank: 4,
     topic: "OTC Hearing Aid Market",
     change: 22,
     direction: "up",
   },
   {
-    rank: 4,
+    rank: 5,
     topic: "Practice Management AI",
     change: 15,
     direction: "up",
-  },
-  {
-    rank: 5,
-    topic: "Tinnitus Neurostimulation",
-    change: -4,
-    direction: "down",
   },
 ];

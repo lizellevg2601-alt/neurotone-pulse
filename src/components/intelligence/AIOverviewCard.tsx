@@ -29,7 +29,7 @@ export function AIOverviewCard() {
           <div className="space-y-2">
             <Insight text="Auditory-cognitive training shows clinically meaningful improvements in speech-in-noise perception — 85% of patients achieve ≥3 dB SNR improvement." />
             <Insight text="WHO now recommends hearing aids for dementia prevention — cognitive health is becoming a primary motivator for patients seeking hearing care." />
-            <Insight text="OTC hearing aid market grew 40% YoY — practitioners need to differentiate through clinical expertise and patient outcomes." />
+            <Insight text="Bimodal neuromodulation for tinnitus shows strong compliance and satisfaction — brain-based tinnitus therapies are gaining clinical adoption." />
             <Insight text="Practitioners report patient objections around cost and perceived benefit as top barriers — clinical evidence is the strongest rebuttal." />
           </div>
         ) : (
