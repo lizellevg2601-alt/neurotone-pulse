@@ -57,7 +57,7 @@ export function AIOverviewCard() {
               <div className="flex items-center gap-3 mt-1">
                 <span>📝 42 articles</span>
                 <span>🎙 8 podcasts</span>
-                <span>💼 15 industry reports</span>
+                <span>📋 15 industry reports</span>
               </div>
             </div>
           </div>

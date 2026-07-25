@@ -28,9 +28,6 @@ export interface RelevanceProfile {
   functionFocus: string[];
   region: string[];
   industry?: string[];
-  revenueModel?: string[];
-  salesMotion?: string[];
-  techStack?: string[];
   preferredDepth: "brief" | "balanced" | "deep";
   strategicWeight: number;
   tacticalWeight: number;

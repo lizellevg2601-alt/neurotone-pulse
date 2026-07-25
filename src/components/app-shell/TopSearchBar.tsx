@@ -36,7 +36,7 @@ export function TopSearchBar() {
             type="text"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            placeholder="Search insights, topics, companies, or people..."
+            placeholder="Search hearing care insights, research, or clinical topics..."
             className="w-full pl-9 pr-10 py-2 bg-[var(--page)] border border-[var(--border)] rounded-lg text-sm text-[var(--navy-950)] placeholder:text-[var(--slate-500)] focus:outline-none focus:ring-2 focus:ring-[var(--coral-300)] focus:border-transparent transition-all"
           />
           <div className="absolute right-2.5 top-1/2 -translate-y-1/2 flex items-center gap-1 text-[10px] text-[var(--slate-500)] bg-white border border-[var(--border)] rounded px-1.5 py-0.5">
