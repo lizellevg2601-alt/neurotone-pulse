@@ -27,10 +27,10 @@ export function AIOverviewCard() {
 
         {!expanded ? (
           <div className="space-y-2">
-            <Insight text="AI tools for RevOps are moving from experiments to scaled impact — 67% of B2B companies now use AI agents in GTM." />
-            <Insight text="Forecast accuracy improves 15–25% with AI-driven signal detection and pipeline scoring." />
-            <Insight text="Revenue organisations are investing in data quality and workflow automation as prerequisites for AI." />
-            <Insight text="Accountability and change management are leading drivers of AI success in revenue teams." />
+            <Insight text="Auditory-cognitive training shows clinically meaningful improvements in speech-in-noise perception — 85% of patients achieve ≥3 dB SNR improvement." />
+            <Insight text="WHO now recommends hearing aids for dementia prevention — cognitive health is becoming a primary motivator for patients seeking hearing care." />
+            <Insight text="OTC hearing aid market grew 40% YoY — practitioners need to differentiate through clinical expertise and patient outcomes." />
+            <Insight text="Practitioners report patient objections around cost and perceived benefit as top barriers — clinical evidence is the strongest rebuttal." />
           </div>
         ) : (
           <div className="space-y-3">
@@ -41,13 +41,11 @@ export function AIOverviewCard() {
               <ul className="space-y-1">
                 <li className="text-xs text-[var(--slate-700)] flex items-start gap-1.5">
                   <span className="text-[var(--coral-500)]">•</span>
-                  Agentic CRM is the active battleground — 39% of enterprises
-                  expect AI via task-automating agents
+                  Neuroplasticity research shows auditory training reshapes cortical pathways in as little as 4 weeks
                 </li>
                 <li className="text-xs text-[var(--slate-700)] flex items-start gap-1.5">
                   <span className="text-[var(--coral-500)]">•</span>
-                  Gong turns prompts into agents — your existing tools are
-                  becoming platforms
+                  Medicare Advantage hearing benefits are expanding — more patients entering the pipeline
                 </li>
               </ul>
             </div>
@@ -57,9 +55,9 @@ export function AIOverviewCard() {
                 Source breakdown
               </span>
               <div className="flex items-center gap-3 mt-1">
-                <span>📝 28 articles</span>
-                <span>🎙 12 podcasts</span>
-                <span>💼 46 LinkedIn posts</span>
+                <span>📝 42 articles</span>
+                <span>🎙 8 podcasts</span>
+                <span>💼 15 industry reports</span>
               </div>
             </div>
           </div>

@@ -6,12 +6,16 @@ import { fileURLToPath } from "url";
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 const feedSources = [
-  { id: "hearing-tracker", name: "Hearing Tracker", type: "article", feedUrl: "https://www.hearingtracker.com/feed.xml", siteUrl: "https://www.hearingtracker.com" },
-  { id: "hearing-review", name: "The Hearing Review", type: "article", feedUrl: "https://www.hearingreview.com/feed", siteUrl: "https://www.hearingreview.com" },
-  { id: "audiology-online", name: "Audiology Online", type: "article", feedUrl: "https://www.audiologyonline.com/releases/feed", siteUrl: "https://www.audiologyonline.com" },
-  { id: "audiology-worldnews", name: "Audiology Worldnews", type: "article", feedUrl: "https://www.audiology-worldnews.com/feed", siteUrl: "https://www.audiology-worldnews.com" },
-  { id: "bihima", name: "BIHIMA", type: "article", feedUrl: "https://www.bihima.com/feed", siteUrl: "https://www.bihima.com" },
-  { id: "phonak-blog", name: "Phonak Audiology Blog", type: "article", feedUrl: "https://audiologyblog.phonakpro.com/feed", siteUrl: "https://audiologyblog.phonakpro.com" },
+  { id: "hearing-tracker", name: "Hearing Tracker", type: "article", feedUrl: "https://www.hearingtracker.com/feed.xml", siteUrl: "https://www.hearingtracker.com", image: "https://images.unsplash.com/photo-1629909613651-89e2b4f1d1ef?w=600&q=80" },
+  { id: "hearing-review", name: "The Hearing Review", type: "article", feedUrl: "https://www.hearingreview.com/feed", siteUrl: "https://www.hearingreview.com", image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=600&q=80" },
+  { id: "audiology-online", name: "Audiology Online", type: "article", feedUrl: "https://www.audiologyonline.com/releases/feed", siteUrl: "https://www.audiologyonline.com", image: "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?w=600&q=80" },
+  { id: "audiology-worldnews", name: "Audiology Worldnews", type: "article", feedUrl: "https://www.audiology-worldnews.com/feed", siteUrl: "https://www.audiology-worldnews.com", image: "https://images.unsplash.com/photo-1582750433449-648ed127bb54?w=600&q=80" },
+  { id: "bihima", name: "BIHIMA", type: "article", feedUrl: "https://www.bihima.com/feed", siteUrl: "https://www.bihima.com", image: "https://images.unsplash.com/photo-1559757175-5700dde675bc?w=600&q=80" },
+  { id: "phonak-blog", name: "Phonak Audiology Blog", type: "article", feedUrl: "https://audiologyblog.phonakpro.com/feed", siteUrl: "https://audiologyblog.phonakpro.com", image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&q=80" },
+  { id: "audiology-academy", name: "American Academy of Audiology", type: "article", feedUrl: "https://www.audiology.org/feed", siteUrl: "https://www.audiology.org", image: "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?w=600&q=80" },
+  { id: "hearing-health-matters", name: "Hearing Health Matters", type: "article", feedUrl: "https://hearinghealthmatters.org/feed", siteUrl: "https://hearinghealthmatters.org", image: "https://images.unsplash.com/photo-1585435557343-3b092031a831?w=600&q=80" },
+  { id: "pivot-hearing", name: "Pivot Hearing", type: "article", feedUrl: "https://pivothearing.com/feed", siteUrl: "https://pivothearing.com", image: "https://images.unsplash.com/photo-1664575602276-acd073f104c1?w=600&q=80" },
+  { id: "hearing-loss-org", name: "Hearing Loss Association", type: "article", feedUrl: "https://www.hearingloss.org/feed", siteUrl: "https://www.hearingloss.org", image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&q=80" },
 ];
 
 function estimateReadTime(content) {
@@ -27,9 +31,9 @@ function parseDuration(duration) {
   return Math.round(Number(duration) / 60);
 }
 
-function extractImage(content) {
+function extractImage(content, fallback) {
   const match = (content || "").match(/<img[^>]+src=["']([^"']+)["']/);
-  return match?.[1];
+  return match?.[1] || fallback;
 }
 
 function hashId(str) {
@@ -82,7 +86,7 @@ async function main() {
           readTime: isArticle ? estimateReadTime(content) : undefined,
           duration: !isArticle ? parseDuration(item["itunes:duration"]) : undefined,
           summary: item.contentSnippet?.trim() || item.content?.replace(/<[^>]*>/g, "").trim().slice(0, 400) || "",
-          imageUrl: isArticle ? extractImage(content) : item["itunes:image"] || undefined,
+          imageUrl: isArticle ? extractImage(content, source.image) : item["itunes:image"] || source.image,
           tags: normalizeTags(item.categories),
           relevanceScore: 50,
           whyItMatters: [],

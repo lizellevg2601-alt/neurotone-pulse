@@ -13,8 +13,8 @@ export function ThemeOfWeekCard() {
     >
       <div className="h-40 relative">
         <img
-          src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&q=80"
-          alt="Coastal lighthouse guiding the way"
+          src="https://images.unsplash.com/photo-1559757175-5700dde675bc?w=600&q=80"
+          alt="Brain neural connections and hearing"
           className="absolute inset-0 w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-[var(--navy-950)]/80 via-[var(--navy-950)]/30 to-transparent" />
@@ -26,11 +26,10 @@ export function ThemeOfWeekCard() {
       </div>
       <div className="p-4 bg-white">
         <h3 className="font-editorial text-lg font-bold text-[var(--navy-950)] leading-tight mb-1">
-          AI Copilots for Revenue Teams
+          Auditory-Cognitive Training
         </h3>
         <p className="text-xs text-[var(--slate-700)] leading-relaxed mb-3">
-          How leading teams use AI copilots to automate work, improve decisions
-          and accelerate GTM impact.
+          How structured auditory training induces neuroplasticity, improves speech-in-noise perception, and opens new conversations for hearing care practitioners.
         </p>
         <button className="inline-flex items-center gap-1 text-xs font-semibold text-[var(--coral-500)] hover:text-[var(--coral-300)] transition-colors">
           Explore theme

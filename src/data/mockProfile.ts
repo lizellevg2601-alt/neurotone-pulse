@@ -1,20 +1,20 @@
 import { RelevanceProfile } from "@/lib/types";
 
 export const mockProfile: RelevanceProfile = {
-  role: "RevOps Leader",
+  role: "Hearing Care Sales",
   seniority: "Director / VP",
   orgSize: "Mid-market",
   companyStage: "Growth",
-  functionFocus: ["Revenue Operations", "GTM Strategy", "Sales Operations"],
+  functionFocus: ["Auditory Health", "Cognitive Training", "Practice Sales"],
   region: ["North America", "Europe"],
-  industry: ["SaaS", "B2B Technology"],
-  revenueModel: ["Subscription"],
-  salesMotion: ["Inbound", "Outbound", "Channel"],
-  techStack: ["Salesforce", "HubSpot", "Clari", "Gong"],
+  industry: ["Hearing Care", "Audiology", "Health Tech"],
+  revenueModel: ["B2B", "Channel"],
+  salesMotion: ["Consultative", "Clinical", "Partnership"],
+  techStack: ["CRM", "Audiology Practice Mgmt", "Telehealth"],
   preferredDepth: "balanced",
   strategicWeight: 70,
   tacticalWeight: 30,
   podcastWeight: 50,
-  boostedKeywords: ["AI agents", "forecasting", "data quality", "compensation"],
-  blockedTopics: ["SDR cold calling scripts"],
+  boostedKeywords: ["auditory training", "neuroplasticity", "tinnitus", "hearing loss", "practice growth"],
+  blockedTopics: ["hearing aid pricing comparison"],
 };
