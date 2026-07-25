@@ -871,60 +871,6 @@
       "saved": false
     },
     {
-      "id": "feed-ata-sgq5th",
-      "type": "article",
-      "title": "When Sound Hurts: The Reality of Pain Hyperacusis",
-      "source": "American Tinnitus Association",
-      "sourceUrl": "https://www.ata.org/when-sound-hurts/?utm_source=rss&utm_medium=rss&utm_campaign=when-sound-hurts",
-      "author": "Jeremy Flick",
-      "publishedAt": "2026-07-16T19:46:59.000Z",
-      "readTime": 1,
-      "summary": "By David Treworgy Originally published in the Spring 2025 issue of \"Tinnitus Today\" magazine. Pain hyperacusis is an enormously challenging condition. It is invisible, with no objective diagnostic procedure. There's…\nThe post When Sound Hurts: The Reality of Pain Hyperacusis first appeared on American Tinnitus Association.",
-      "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=600&q=80",
-      "tags": [
-        "Tinnitius Today"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [],
-      "saved": false
-    },
-    {
-      "id": "feed-ata-wk60gb",
-      "type": "article",
-      "title": "Tuner Brings Hyperacusis to the Big Screen",
-      "source": "American Tinnitus Association",
-      "sourceUrl": "https://www.ata.org/tuner-brings-hyperacusis-to-the-big-screen/?utm_source=rss&utm_medium=rss&utm_campaign=tuner-brings-hyperacusis-to-the-big-screen",
-      "author": "Jeremy Flick",
-      "publishedAt": "2026-07-16T18:39:42.000Z",
-      "readTime": 1,
-      "summary": "By Joy Onozuka Tinnitus can be hard to explain to those without it, and the same is even more true for pain and loudness hyperacusis, which can make normal everyday…\nThe post Tuner Brings Hyperacusis to the Big Screen first appeared on American Tinnitus Association.",
-      "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=600&q=80",
-      "tags": [
-        "Uncategorized"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [],
-      "saved": false
-    },
-    {
-      "id": "feed-ata-i79m7t",
-      "type": "article",
-      "title": "Hyperacusis Makes Its Movie Debut",
-      "source": "American Tinnitus Association",
-      "sourceUrl": "https://www.ata.org/hyperacusis-makes-its-movie-debut/?utm_source=rss&utm_medium=rss&utm_campaign=hyperacusis-makes-its-movie-debut",
-      "author": "Jeremy Flick",
-      "publishedAt": "2026-07-16T15:36:27.000Z",
-      "readTime": 1,
-      "summary": "By Steven Barad, MD, president of Hyperacusis Research, Ltd., July 2026 For the first time ever, hyperacusis takes the lead in a major motion picture, Tuner. The Washington Post has…\nThe post Hyperacusis Makes Its Movie Debut first appeared on American Tinnitus Association.",
-      "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?w=600&q=80",
-      "tags": [
-        "Uncategorized"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-academy-scdn04",
       "type": "article",
       "title": "Where Audiology Comes Together: Join Us for AAA 2027 in St. Louis",
@@ -941,7 +887,61 @@
       "relevanceScore": 50,
       "whyItMatters": [],
       "saved": false
+    },
+    {
+      "id": "feed-audiology-academy-4xfngp",
+      "type": "article",
+      "title": "CMS Releases Calendar Year 2027 Proposed Medicare Physician Fee Schedule (MPFS) and Hospital Outpatient Prospective Payment System (OPPS)",
+      "source": "American Academy of Audiology",
+      "sourceUrl": "https://www.audiology.org/cms-releases-calendar-year-2027-proposed-medicare-physician-fee-schedule-mpfs-and-hospital-outpatient-prospective-payment-system-opps/",
+      "author": "AishaAli",
+      "publishedAt": "2026-07-15T16:47:01.000Z",
+      "readTime": 1,
+      "summary": "Updated July 22, 2026 The Centers for Medicare and Medicaid Services (CMS) released the 2027 Medicare Physician Fee Schedule proposed rule late on July 14, 2026, reducing the PFS conversion…\nThe post CMS Releases Calendar Year 2027 Proposed Medicare Physician Fee Schedule (MPFS) and Hospital Outpatient Prospective Payment System (OPPS) appeared first on American Academy of Audiology.",
+      "imageUrl": "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?w=600&q=80",
+      "tags": [
+        "Coding and Reimbursement"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-6na8vr",
+      "type": "article",
+      "title": "The Cost of Noise Exposure: Protect Your Hearing Today",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/cost-noise-exposure-hearing-loss/",
+      "author": "HHTM",
+      "publishedAt": "2026-07-15T15:46:18.000Z",
+      "readTime": 1,
+      "summary": "What does it take to damage your hearing? The truth is that it can happen quicker than you think. A single gunshot. An afternoon using power tools. A night out at a concert. Many of the activities we love pose a risk for harmful noise exposure. While these sounds may seem temporary, repeated exposure can have lasting effects on your ...\nThe post The Cost of Noise Exposure: Protect Your Hearing Today appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://images.unsplash.com/photo-1585435557343-3b092031a831?w=600&q=80",
+      "tags": [
+        "Hearing Technologies"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-academy-ili0x2",
+      "type": "article",
+      "title": "Vestibular Exercises May Improve Outcomes in Those with Intracerebral Hemorrhage",
+      "source": "American Academy of Audiology",
+      "sourceUrl": "https://www.audiology.org/vestibular-exercises-may-improve-outcomes-in-those-with-intracerebral-hemorrhage/",
+      "author": "AishaAli",
+      "publishedAt": "2026-07-15T14:00:00.000Z",
+      "readTime": 1,
+      "summary": "In a recent article study by Killedar and Kanase (2026), effects of vestibular stimulation exercises were analyzed in individuals with intracerebral hemorrhage. This study randomly assigned patients into two groups.…\nThe post Vestibular Exercises May Improve Outcomes in Those with Intracerebral Hemorrhage appeared first on American Academy of Audiology.",
+      "imageUrl": "https://images.unsplash.com/photo-1631217868264-e5b90bb7e133?w=600&q=80",
+      "tags": [
+        "Audiology in the News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [],
+      "saved": false
     }
   ],
-  "fetchedAt": "2026-07-25T16:53:55.773Z"
+  "fetchedAt": "2026-07-25T17:10:59.453Z"
 }
