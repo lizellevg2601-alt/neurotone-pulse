@@ -48,6 +48,10 @@ const parser = new Parser({
   customFields: { item: ["itunes:duration", "itunes:image"] },
 });
 
+function normalizeTags(categories) {
+  return (categories || []).map((c) => (typeof c === "object" ? c._ || c.label || "" : c)).filter(Boolean).slice(0, 6);
+}
+
 async function main() {
   console.log("Fetching RSS feeds...");
 
@@ -79,7 +83,7 @@ async function main() {
           duration: !isArticle ? parseDuration(item["itunes:duration"]) : undefined,
           summary: item.contentSnippet?.trim() || item.content?.replace(/<[^>]*>/g, "").trim().slice(0, 400) || "",
           imageUrl: isArticle ? extractImage(content) : item["itunes:image"] || undefined,
-          tags: (item.categories || []).slice(0, 6),
+          tags: normalizeTags(item.categories),
           relevanceScore: 50,
           whyItMatters: [],
           saved: false,

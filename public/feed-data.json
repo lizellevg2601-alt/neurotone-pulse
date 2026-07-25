@@ -11,12 +11,7 @@
       "readTime": 1,
       "summary": "Struggling to afford hearing aids? Use our exclusive promo codes, and discover the best hearing aid deals and discounts available right now.",
       "tags": [
-        {
-          "_": "News",
-          "$": {
-            "domain": "https://www.hearingtracker.com/news"
-          }
-        }
+        "News"
       ],
       "relevanceScore": 50,
       "whyItMatters": [],
@@ -54,12 +49,7 @@
       "readTime": 1,
       "summary": "WHO’s new dementia guidelines conditionally recommend hearing aids for adults with hearing loss as part of strategies to reduce cognitive decline and dementia risk.",
       "tags": [
-        {
-          "_": "News",
-          "$": {
-            "domain": "https://www.hearingtracker.com/news"
-          }
-        }
+        "News"
       ],
       "relevanceScore": 50,
       "whyItMatters": [],
@@ -76,12 +66,7 @@
       "readTime": 1,
       "summary": "The International Association for Hearing Accessibility (IAHA) has established a new working group to assess global regulations, identify areas for improvement, and take action to make assistive listening technology universally available.",
       "tags": [
-        {
-          "_": "Press Releases",
-          "$": {
-            "domain": "https://www.hearingtracker.com/press-releases"
-          }
-        }
+        "Press Releases"
       ],
       "relevanceScore": 50,
       "whyItMatters": [],
@@ -142,12 +127,7 @@
       "readTime": 1,
       "summary": "Untreated hearing loss can increase listening effort and fatigue. Learn how OTC hearing aids like the Yeasound RIC800 may help make conversations easier.",
       "tags": [
-        {
-          "_": "News",
-          "$": {
-            "domain": "https://www.hearingtracker.com/news"
-          }
-        }
+        "News"
       ],
       "relevanceScore": 50,
       "whyItMatters": [],
@@ -288,12 +268,7 @@
       "readTime": 1,
       "summary": "An audiologist explains why telehealth may provide valid, accessible auditory processing disorder (APD) care, with clinical standards that are matched to the questions being asked.",
       "tags": [
-        {
-          "_": "Opinion",
-          "$": {
-            "domain": "https://www.hearingtracker.com/opinion"
-          }
-        }
+        "Opinion"
       ],
       "relevanceScore": 50,
       "whyItMatters": [],
@@ -310,12 +285,7 @@
       "readTime": 1,
       "summary": "Starkey honors Vice Chair Tani Austin on her 70th birthday, celebrating decades of leadership, philanthropy, and global impact in hearing healthcare.",
       "tags": [
-        {
-          "_": "Press Releases",
-          "$": {
-            "domain": "https://www.hearingtracker.com/press-releases"
-          }
-        }
+        "Press Releases"
       ],
       "relevanceScore": 50,
       "whyItMatters": [],
@@ -460,12 +430,7 @@
       "readTime": 1,
       "summary": "Wireless connectivity offers benefits like call or audio streaming. Discover the disadvantages of Bluetooth hearing aids and how to resolve them.",
       "tags": [
-        {
-          "_": "Resources",
-          "$": {
-            "domain": "https://www.hearingtracker.com/resources"
-          }
-        }
+        "Resources"
       ],
       "relevanceScore": 50,
       "whyItMatters": [],
@@ -482,12 +447,7 @@
       "readTime": 1,
       "summary": "I spent the last two weeks wearing MOMENT and I’m ready to share my personal experiences, feature highlights, pros and cons, and buying recommendations.",
       "tags": [
-        {
-          "_": "Opinion",
-          "$": {
-            "domain": "https://www.hearingtracker.com/opinion"
-          }
-        }
+        "Opinion"
       ],
       "relevanceScore": 50,
       "whyItMatters": [],
@@ -504,12 +464,7 @@
       "readTime": 1,
       "summary": "I wasn't even 50. Surely, hearing loss wasn't the problem... I had refused to believe the signs that my ears were the issue.",
       "tags": [
-        {
-          "_": "Opinion",
-          "$": {
-            "domain": "https://www.hearingtracker.com/opinion"
-          }
-        }
+        "Opinion"
       ],
       "relevanceScore": 50,
       "whyItMatters": [],
@@ -526,12 +481,7 @@
       "readTime": 1,
       "summary": "I spent over 130 hours reviewing the new Signia Styletto X hearing aids. Here are the pros and cons of these devices.",
       "tags": [
-        {
-          "_": "Opinion",
-          "$": {
-            "domain": "https://www.hearingtracker.com/opinion"
-          }
-        }
+        "Opinion"
       ],
       "relevanceScore": 50,
       "whyItMatters": [],
@@ -997,5 +947,5 @@
       "saved": false
     }
   ],
-  "fetchedAt": "2026-07-25T15:22:17.059Z"
+  "fetchedAt": "2026-07-25T15:53:53.174Z"
 }
