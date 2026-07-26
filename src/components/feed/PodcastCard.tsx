@@ -1,13 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import {
-  Play,
-  RotateCcw,
-  Forward,
-  Bookmark,
-  MoreHorizontal,
-} from "lucide-react";
+import { Bookmark } from "lucide-react";
 import { TopicTag } from "../shared/TopicTag";
 import type { FeedItem } from "@/lib/types";
 
@@ -83,29 +77,10 @@ export function PodcastCard({ item, onSave }: Props) {
               href={item.sourceUrl}
               target="_blank"
               rel="noopener noreferrer"
-              className="w-8 h-8 flex items-center justify-center rounded-full bg-[var(--navy-900)] text-white hover:bg-[var(--navy-800)] transition-colors"
-              aria-label="Play episode"
+              className="text-xs text-[var(--coral-500)] hover:text-[var(--coral-300)] font-medium transition-colors"
             >
-              <Play className="w-3.5 h-3.5 fill-white ml-0.5" />
+              Listen →
             </a>
-            <button
-              className="w-7 h-7 flex items-center justify-center rounded-full hover:bg-[var(--coral-50)] text-[var(--slate-500)]"
-              aria-label="Rewind 15 seconds"
-            >
-              <RotateCcw className="w-3 h-3" />
-            </button>
-            <button
-              className="w-7 h-7 flex items-center justify-center rounded-full hover:bg-[var(--coral-50)] text-[var(--slate-500)]"
-              aria-label="Forward 30 seconds"
-            >
-              <Forward className="w-3 h-3" />
-            </button>
-            <button
-              className="w-7 h-7 flex items-center justify-center rounded-full hover:bg-[var(--coral-50)] text-[var(--slate-500)]"
-              aria-label="More options"
-            >
-              <MoreHorizontal className="w-3 h-3" />
-            </button>
           </div>
 
           <div className="flex items-center justify-between">

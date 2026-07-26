@@ -5,6 +5,7 @@ import {
   Rss,
   Bookmark,
   Headphones,
+  Calendar,
   Settings,
 } from "lucide-react";
 import type { FeedFiltersState, ViewMode } from "@/lib/types";
@@ -19,6 +20,7 @@ const items: { icon: React.ComponentType<{ className?: string }>; label: string;
   { icon: Rss, label: "Feed", action: { view: "feed" as ViewMode, contentType: "all", showSavedOnly: false } },
   { icon: Bookmark, label: "Saved", action: { view: "saved" as ViewMode } },
   { icon: Headphones, label: "Podcasts", action: { view: "feed" as ViewMode, contentType: "podcast", topicFilter: undefined } },
+  { icon: Calendar, label: "Events", action: { view: "events" as ViewMode } },
   { icon: Settings, label: "Settings", action: { view: "settings" as ViewMode } },
 ];
 
@@ -27,6 +29,7 @@ function isActive(f: FeedFiltersState, item: typeof items[number]): boolean {
   if (item.label === "Feed") return f.view === "feed" && f.contentType === "all" && !f.showSavedOnly;
   if (item.label === "Saved") return f.view === "saved";
   if (item.label === "Podcasts") return f.contentType === "podcast" && f.view === "feed";
+  if (item.label === "Events") return f.view === "events";
   if (item.label === "Settings") return f.view === "settings";
   return false;
 }

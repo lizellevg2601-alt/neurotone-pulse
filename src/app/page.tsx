@@ -12,6 +12,7 @@ import { PodcastCard } from "@/components/feed/PodcastCard";
 import { ThemeOfWeekCard } from "@/components/intelligence/ThemeOfWeekCard";
 import { AIOverviewCard } from "@/components/intelligence/AIOverviewCard";
 import { TrendingThemes } from "@/components/intelligence/TrendingThemes";
+import { mockEvents } from "@/data/mockEvents";
 import type { FeedFiltersState, FeedItem } from "@/lib/types";
 
 function filterAndSort(
@@ -128,6 +129,26 @@ export default function Dashboard() {
       }));
   }, [feed]);
 
+  const computedThemeOfWeek = useMemo(() => {
+    const tagCounts = new Map<string, number>();
+    for (const item of feed) {
+      for (const tag of item.tags) {
+        const key = tag.toLowerCase();
+        tagCounts.set(key, (tagCounts.get(key) || 0) + 1);
+      }
+    }
+    const topTag = [...tagCounts.entries()].sort((a, b) => b[1] - a[1])[0]?.[0] || "auditory-cognitive training";
+    const descriptions: Record<string, { title: string; description: string }> = {
+      "tinnitus": { title: "Tinnitus Therapies", description: "How neuromodulation and brain-based approaches are transforming tinnitus management and patient outcomes." },
+      "auditory": { title: "Auditory-Cognitive Training", description: "How structured auditory training induces neuroplasticity, improves speech-in-noise perception, and opens new conversations for hearing care practitioners." },
+      "hearing": { title: "Hearing Science Update", description: "The latest research on hearing loss prevention, treatment pathways, and the connection to cognitive health." },
+      "dementia": { title: "Hearing & Dementia Prevention", description: "Growing evidence positions hearing care as a critical intervention for reducing dementia risk." },
+      "neuroplasticity": { title: "Neuroplasticity in Practice", description: "How the brain rewires itself through auditory training and what it means for your patients." },
+    };
+    const key = Object.keys(descriptions).find((k) => topTag.includes(k)) || "auditory";
+    return descriptions[key];
+  }, [feed]);
+
   const feedStats = useMemo(() => {
     const articles = feed.filter((i) => i.type === "article").length;
     const podcasts = feed.filter((i) => i.type === "podcast").length;
@@ -176,6 +197,36 @@ export default function Dashboard() {
                     )}
                   </div>
                 )}
+              </div>
+            )}
+
+            {filters.view === "events" && (
+              <div className="max-w-2xl">
+                <h1 className="font-editorial text-xl font-bold text-[var(--navy-950)] mb-4">Industry Events</h1>
+                <p className="text-sm text-[var(--slate-500)] mb-6">Upcoming hearing care conferences, exhibitions, and professional gatherings.</p>
+                <div className="space-y-3">
+                  {mockEvents.sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime()).map((event) => (
+                    <div key={event.id} className="bg-white border border-[var(--border)] rounded-xl p-4 flex items-start gap-4">
+                      <div className="w-12 h-12 rounded-xl bg-[var(--coral-100)] flex items-center justify-center shrink-0">
+                        <span className="text-lg font-bold text-[var(--coral-500)]">{new Date(event.date).toLocaleDateString("en-GB", { month: "short" })}</span>
+                      </div>
+                      <div className="min-w-0 flex-1">
+                        <div className="flex items-center gap-2 text-xs text-[var(--slate-500)] mb-1">
+                          <span className="text-[10px] font-semibold uppercase tracking-wider text-[var(--navy-700)]">{event.virtual ? "Virtual" : "In-Person"}</span>
+                          <span>·</span>
+                          <span>{event.location}</span>
+                          <span>·</span>
+                          <span>{new Date(event.date).toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" })}</span>
+                        </div>
+                        <h3 className="font-semibold text-sm text-[var(--navy-950)]">{event.name}</h3>
+                        <p className="text-xs text-[var(--slate-500)]">{event.organisation}</p>
+                        <a href={event.url} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1 text-xs font-medium text-[var(--coral-500)] hover:text-[var(--coral-300)] mt-2 transition-colors">
+                          Visit website →
+                        </a>
+                      </div>
+                    </div>
+                  ))}
+                </div>
               </div>
             )}
 
@@ -309,7 +360,7 @@ export default function Dashboard() {
                 </div>
 
                 <aside className="xl:w-[300px] shrink-0 space-y-4">
-                  <ThemeOfWeekCard />
+                  <ThemeOfWeekCard theme={computedThemeOfWeek} onSelect={(topic) => setFilters((prev) => ({ ...prev, topicFilter: prev.topicFilter === topic ? undefined : topic, contentType: "all", view: "feed" }))} />
                   <AIOverviewCard feedItems={feed} />
                   <TrendingThemes themes={computedThemes} onSelect={(topic) => setFilters((prev) => ({ ...prev, topicFilter: prev.topicFilter === topic ? undefined : topic, contentType: "all" }))} />
                 </aside>

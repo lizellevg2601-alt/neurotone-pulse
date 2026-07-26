@@ -7,6 +7,7 @@ import {
   Bookmark,
   Headphones,
   Newspaper,
+  Calendar,
   Settings,
   ChevronLeft,
 } from "lucide-react";
@@ -25,6 +26,7 @@ const navItems: { icon: ComponentType<{ className?: string }>; label: string; fi
   { icon: Bookmark, label: "Saved", filter: { view: "saved" } },
   { icon: Headphones, label: "Podcasts", filter: { view: "feed", contentType: "podcast", topicFilter: undefined } },
   { icon: Newspaper, label: "Digest", filter: { view: "digest" } },
+  { icon: Calendar, label: "Events", filter: { view: "events" } },
   { icon: Settings, label: "Settings", filter: { view: "settings" } },
 ];
 
@@ -39,6 +41,7 @@ export function AppSidebar({ filters, onChange }: Props) {
     if (item.label === "Saved") return filters.view === "saved";
     if (item.label === "Podcasts") return filters.contentType === "podcast" && filters.view === "feed";
     if (item.label === "Digest") return filters.view === "digest";
+    if (item.label === "Events") return filters.view === "events";
     if (item.label === "Settings") return filters.view === "settings";
     return false;
   }

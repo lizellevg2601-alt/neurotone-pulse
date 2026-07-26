@@ -3,7 +3,12 @@
 import { motion } from "framer-motion";
 import { ArrowUpRight } from "lucide-react";
 
-export function ThemeOfWeekCard() {
+type Props = {
+  theme: { title: string; description: string };
+  onSelect: (topic: string) => void;
+};
+
+export function ThemeOfWeekCard({ theme, onSelect }: Props) {
   return (
     <motion.div
       initial={{ opacity: 0, y: 12 }}
@@ -26,12 +31,15 @@ export function ThemeOfWeekCard() {
       </div>
       <div className="p-4 bg-white">
         <h3 className="font-editorial text-lg font-bold text-[var(--navy-950)] leading-tight mb-1">
-          Auditory-Cognitive Training
+          {theme.title}
         </h3>
         <p className="text-xs text-[var(--slate-700)] leading-relaxed mb-3">
-          How structured auditory training induces neuroplasticity, improves speech-in-noise perception, and opens new conversations for hearing care practitioners.
+          {theme.description}
         </p>
-        <button className="inline-flex items-center gap-1 text-xs font-semibold text-[var(--coral-500)] hover:text-[var(--coral-300)] transition-colors">
+        <button
+          onClick={() => onSelect(theme.title)}
+          className="inline-flex items-center gap-1 text-xs font-semibold text-[var(--coral-500)] hover:text-[var(--coral-300)] transition-colors"
+        >
           Explore theme
           <ArrowUpRight className="w-3 h-3" />
         </button>

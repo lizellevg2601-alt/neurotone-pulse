@@ -36,7 +36,17 @@ export interface RelevanceProfile {
   blockedTopics: string[];
 }
 
-export type ViewMode = "feed" | "topics" | "digest" | "settings" | "saved";
+export type ViewMode = "feed" | "topics" | "digest" | "settings" | "saved" | "events";
+
+export interface IndustryEvent {
+  id: string;
+  name: string;
+  organisation: string;
+  date: string;
+  location: string;
+  url: string;
+  virtual: boolean;
+}
 
 export interface FeedFiltersState {
   contentType: ContentType | "all";
