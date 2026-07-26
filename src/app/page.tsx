@@ -213,7 +213,7 @@ export default function Dashboard() {
             {filters.view === "settings" && (
               <div className="max-w-2xl">
                 <h1 className="font-editorial text-xl font-bold text-[var(--navy-950)] mb-4">Settings</h1>
-                <RelevanceProfileDrawer open />
+                <RelevanceProfileDrawer open onClose={() => setFilters((prev) => ({ ...prev, view: "feed" }))} />
               </div>
             )}
 

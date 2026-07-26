@@ -38,9 +38,10 @@ function saveProfile(p: RelevanceProfile) {
 
 type Props = {
   open?: boolean;
+  onClose?: () => void;
 };
 
-export function RelevanceProfileDrawer({ open: externalOpen }: Props) {
+export function RelevanceProfileDrawer({ open: externalOpen, onClose }: Props) {
   const [internalOpen, setInternalOpen] = useState(false);
   const [profile, setProfile] = useState<RelevanceProfile>(DEFAULT_PROFILE);
 
@@ -49,6 +50,14 @@ export function RelevanceProfileDrawer({ open: externalOpen }: Props) {
   }, []);
 
   const open = externalOpen !== undefined ? externalOpen : internalOpen;
+
+  function handleClose() {
+    if (onClose) {
+      onClose();
+    } else {
+      setInternalOpen(false);
+    }
+  }
 
   function update(next: RelevanceProfile) {
     setProfile(next);
@@ -72,7 +81,7 @@ export function RelevanceProfileDrawer({ open: externalOpen }: Props) {
         <>
           <div
             className="fixed inset-0 bg-black/20 z-40"
-            onClick={() => { if (externalOpen === undefined) setInternalOpen(false); }}
+            onClick={handleClose}
           />
           <div className="fixed top-0 right-0 bottom-0 w-full max-w-md bg-white border-l border-[var(--border)] z-50 overflow-y-auto shadow-xl">
             <div className="sticky top-0 bg-white border-b border-[var(--border)] px-6 py-4 flex items-center justify-between">
@@ -85,7 +94,7 @@ export function RelevanceProfileDrawer({ open: externalOpen }: Props) {
                 </p>
               </div>
               <button
-                onClick={() => { if (externalOpen === undefined) setInternalOpen(false); }}
+                onClick={handleClose}
                 className="w-8 h-8 flex items-center justify-center rounded-lg hover:bg-[var(--coral-50)]"
                 aria-label="Close"
               >
