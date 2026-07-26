@@ -1,0 +1,11 @@
+name = "neurotone-pulse2"
+compatibility_date = "2026-07-26"
+account_id = "c3974c9f555d3c107ece3f4f48defb23"
+
+assets = { directory = "out", binding = "ASSETS" }
+
+kv_namespaces = [
+  { binding = "neurotone_saved", id = "3b743ecb96ea4307abc0af0df1993dad" }
+]
+
+main = "src/worker.ts"

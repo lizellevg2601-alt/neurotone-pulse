@@ -88,10 +88,14 @@ export default function Dashboard() {
       try {
         setLoading(true);
         setError(null);
-        const res = await fetch("/feed-data.json");
-        if (!res.ok) throw new Error("Failed to load feed");
-        const data = await res.json();
-        setFeed(data.items);
+        const [feedRes, savedRes] = await Promise.all([
+          fetch("/feed-data.json"),
+          fetch("/api/saved"),
+        ]);
+        if (!feedRes.ok) throw new Error("Failed to load feed");
+        const feed = await feedRes.json();
+        const savedIds: string[] = savedRes.ok ? await savedRes.json() : [];
+        setFeed(feed.items.map((i: FeedItem) => ({ ...i, saved: savedIds.includes(i.id) })));
       } catch (err) {
         setError(err instanceof Error ? err.message : "Unknown error");
       } finally {
@@ -132,11 +136,18 @@ export default function Dashboard() {
   }, [feed]);
 
   function handleSave(id: string) {
-    setFeed((prev) =>
-      prev.map((item) =>
+    setFeed((prev) => {
+      const next = prev.map((item) =>
         item.id === id ? { ...item, saved: !item.saved } : item
-      )
-    );
+      );
+      const savedIds = next.filter((i) => i.saved).map((i) => i.id);
+      fetch("/api/saved", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(savedIds),
+      }).catch(() => {});
+      return next;
+    });
   }
 
   return (
