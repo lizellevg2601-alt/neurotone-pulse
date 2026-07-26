@@ -36,11 +36,15 @@ export interface RelevanceProfile {
   blockedTopics: string[];
 }
 
+export type ViewMode = "feed" | "topics" | "digest" | "settings";
+
 export interface FeedFiltersState {
   contentType: ContentType | "all";
   sort: "relevant" | "recent" | "discussed" | "score";
   topicFilter?: string;
+  searchQuery?: string;
   showSavedOnly?: boolean;
+  view: ViewMode;
 }
 
 export interface TrendingTheme {

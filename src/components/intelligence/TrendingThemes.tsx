@@ -1,20 +1,23 @@
 "use client";
 
 import { TrendingUp, TrendingDown, Minus } from "lucide-react";
-import { mockTrendingThemes } from "@/data/mockFeed";
+import type { TrendingTheme } from "@/lib/types";
 
 type Props = {
+  themes: TrendingTheme[];
   onSelect?: (topic: string) => void;
 };
 
-export function TrendingThemes({ onSelect }: Props) {
+export function TrendingThemes({ themes, onSelect }: Props) {
+  if (themes.length === 0) return null;
+
   return (
     <div className="bg-white border border-[var(--border)] rounded-xl p-4">
       <h3 className="font-semibold text-sm text-[var(--navy-950)] mb-3">
         Trending Themes
       </h3>
       <div className="space-y-2">
-        {mockTrendingThemes.map((theme) => (
+        {themes.map((theme) => (
           <div
             key={theme.rank}
             onClick={() => onSelect?.(theme.topic)}

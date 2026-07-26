@@ -2,10 +2,42 @@
 
 import { motion } from "framer-motion";
 import { Sparkles, ChevronDown } from "lucide-react";
-import { useState } from "react";
+import { useState, useMemo } from "react";
+import type { FeedItem } from "@/lib/types";
 
-export function AIOverviewCard() {
+type Props = {
+  feedItems: FeedItem[];
+};
+
+const insightTemplates = [
+  { keywords: ["tinnitus", "ringing"], insight: "Tinnitus research is trending — neuromodulation and brain-based therapies are gaining clinical adoption." },
+  { keywords: ["dementia", "cognitive decline", "alzheimer"], insight: "WHO now recommends hearing aids for dementia prevention — cognitive health is becoming a primary motivator for patients." },
+  { keywords: ["auditory", "auditory-cognitive", "speech", "training"], insight: "Auditory-cognitive training shows clinically meaningful improvements in speech-in-noise perception." },
+  { keywords: ["neuroplasticity", "brain", "cortical"], insight: "Neuroplasticity research shows auditory training reshapes cortical pathways in as little as 4 weeks." },
+  { keywords: ["OTC", "over-the-counter"], insight: "The OTC hearing aid market continues to evolve — new entrants and pricing shifts affect patient acquisition." },
+  { keywords: ["practice", "clinic", "revenue", "patient acquisition"], insight: "Practice management AI tools are helping clinics streamline operations and improve patient retention." },
+  { keywords: ["medicare", "insurance", "coverage"], insight: "Medicare Advantage hearing benefits are expanding — more patients entering the pipeline." },
+  { keywords: ["neuromodulation", "bimodal", "stimulation"], insight: "Bimodal neuromodulation for tinnitus shows strong compliance and satisfaction rates in recent studies." },
+  { keywords: ["hearing loss", "hearing aid"], insight: "Hearing aid technology advancements are driving better patient outcomes and adoption rates." },
+];
+
+export function AIOverviewCard({ feedItems }: Props) {
   const [expanded, setExpanded] = useState(false);
+
+  const insights = useMemo(() => {
+    const text = feedItems.map((i) => `${i.title} ${i.summary} ${i.tags.join(" ")}`).join(" ").toLowerCase();
+    const matched: string[] = [];
+    for (const tpl of insightTemplates) {
+      if (tpl.keywords.some((kw) => text.includes(kw))) {
+        matched.push(tpl.insight);
+      }
+    }
+    return matched.length > 0 ? matched.slice(0, 4) : ["Your feed is active — check back for AI-generated insights as more articles are indexed."];
+  }, [feedItems]);
+
+  const articleCount = feedItems.filter((i) => i.type === "article").length;
+  const podcastCount = feedItems.filter((i) => i.type === "podcast").length;
+  const sourceCount = new Set(feedItems.map((i) => i.source)).size;
 
   return (
     <motion.div
@@ -27,10 +59,12 @@ export function AIOverviewCard() {
 
         {!expanded ? (
           <div className="space-y-2">
-            <Insight text="Auditory-cognitive training shows clinically meaningful improvements in speech-in-noise perception — 85% of patients achieve ≥3 dB SNR improvement." />
-            <Insight text="WHO now recommends hearing aids for dementia prevention — cognitive health is becoming a primary motivator for patients seeking hearing care." />
-            <Insight text="Bimodal neuromodulation for tinnitus shows strong compliance and satisfaction — brain-based tinnitus therapies are gaining clinical adoption." />
-            <Insight text="Practitioners report patient objections around cost and perceived benefit as top barriers — clinical evidence is the strongest rebuttal." />
+            {insights.slice(0, 3).map((text, i) => (
+              <div key={i} className="flex items-start gap-2">
+                <span className="w-1.5 h-1.5 rounded-full bg-[var(--coral-300)] mt-1.5 shrink-0" />
+                <p className="text-xs text-[var(--slate-700)] leading-relaxed">{text}</p>
+              </div>
+            ))}
           </div>
         ) : (
           <div className="space-y-3">
@@ -39,14 +73,12 @@ export function AIOverviewCard() {
                 Top Signals for You
               </h4>
               <ul className="space-y-1">
-                <li className="text-xs text-[var(--slate-700)] flex items-start gap-1.5">
-                  <span className="text-[var(--coral-500)]">•</span>
-                  Neuroplasticity research shows auditory training reshapes cortical pathways in as little as 4 weeks
-                </li>
-                <li className="text-xs text-[var(--slate-700)] flex items-start gap-1.5">
-                  <span className="text-[var(--coral-500)]">•</span>
-                  Medicare Advantage hearing benefits are expanding — more patients entering the pipeline
-                </li>
+                {insights.slice(0, 3).map((text, i) => (
+                  <li key={i} className="text-xs text-[var(--slate-700)] flex items-start gap-1.5">
+                    <span className="text-[var(--coral-500)]">•</span>
+                    {text}
+                  </li>
+                ))}
               </ul>
             </div>
 
@@ -55,9 +87,9 @@ export function AIOverviewCard() {
                 Source breakdown
               </span>
               <div className="flex items-center gap-3 mt-1">
-                <span>📝 42 articles</span>
-                <span>🎙 8 podcasts</span>
-                <span>📋 15 industry reports</span>
+                <span>📝 {articleCount} articles</span>
+                <span>🎙 {podcastCount} podcasts</span>
+                <span>📋 {sourceCount} sources</span>
               </div>
             </div>
           </div>
@@ -79,26 +111,17 @@ export function AIOverviewCard() {
       <div className="px-4 py-2.5 bg-[var(--blue-grey-100)] border-t border-[var(--border)] text-[10px] text-[var(--slate-500)] flex items-center gap-3">
         <span>Synthesised from</span>
         <span className="font-medium text-[var(--navy-950)]">
-          28 articles
+          {articleCount} articles
         </span>
         <span className="w-1 h-1 rounded-full bg-[var(--slate-500)]" />
         <span className="font-medium text-[var(--navy-950)]">
-          12 podcasts
+          {podcastCount} podcasts
         </span>
         <span className="w-1 h-1 rounded-full bg-[var(--slate-500)]" />
         <span className="font-medium text-[var(--navy-950)]">
-          46 LinkedIn posts
+          {sourceCount} sources
         </span>
       </div>
     </motion.div>
-  );
-}
-
-function Insight({ text }: { text: string }) {
-  return (
-    <div className="flex items-start gap-2">
-      <span className="w-1.5 h-1.5 rounded-full bg-[var(--coral-300)] mt-1.5 shrink-0" />
-      <p className="text-xs text-[var(--slate-700)] leading-relaxed">{text}</p>
-    </div>
   );
 }

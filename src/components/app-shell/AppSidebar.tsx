@@ -10,7 +10,7 @@ import {
   Settings,
   ChevronLeft,
 } from "lucide-react";
-import { useState } from "react";
+import { useState, type ComponentType } from "react";
 import type { FeedFiltersState } from "@/lib/types";
 
 type Props = {
@@ -18,14 +18,14 @@ type Props = {
   onChange: (f: FeedFiltersState) => void;
 };
 
-const navItems = [
-  { icon: LayoutDashboard, label: "Home", filter: {} as Partial<FeedFiltersState> },
-  { icon: Rss, label: "Feed", filter: { contentType: "all", topicFilter: undefined, showSavedOnly: false } as Partial<FeedFiltersState> },
-  { icon: Tags, label: "Topics" },
-  { icon: Bookmark, label: "Saved", filter: { showSavedOnly: true } as Partial<FeedFiltersState> },
-  { icon: Headphones, label: "Podcasts", filter: { contentType: "podcast", topicFilter: undefined } as Partial<FeedFiltersState> },
-  { icon: Newspaper, label: "Digest" },
-  { icon: Settings, label: "Settings" },
+const navItems: { icon: ComponentType<{ className?: string }>; label: string; filter: Partial<FeedFiltersState> }[] = [
+  { icon: LayoutDashboard, label: "Home", filter: { view: "feed", contentType: "all", topicFilter: undefined, showSavedOnly: false } },
+  { icon: Rss, label: "Feed", filter: { view: "feed", contentType: "all", topicFilter: undefined, showSavedOnly: false } },
+  { icon: Tags, label: "Topics", filter: { view: "topics" } },
+  { icon: Bookmark, label: "Saved", filter: { view: "feed", showSavedOnly: true } },
+  { icon: Headphones, label: "Podcasts", filter: { view: "feed", contentType: "podcast", topicFilter: undefined } },
+  { icon: Newspaper, label: "Digest", filter: { view: "digest" } },
+  { icon: Settings, label: "Settings", filter: { view: "settings" } },
 ];
 
 export function AppSidebar({ filters, onChange }: Props) {
@@ -33,16 +33,19 @@ export function AppSidebar({ filters, onChange }: Props) {
 
   function isActive(item: typeof navItems[number]) {
     if (!item.filter) return false;
-    if (item.label === "Home") return filters.contentType === "all" && !filters.topicFilter && !filters.showSavedOnly;
-    if (item.label === "Feed") return filters.contentType === "all" && !filters.showSavedOnly;
+    if (item.label === "Home") return filters.view === "feed" && filters.contentType === "all" && !filters.topicFilter && !filters.showSavedOnly;
+    if (item.label === "Feed") return filters.view === "feed" && filters.contentType === "all" && !filters.showSavedOnly;
+    if (item.label === "Topics") return filters.view === "topics";
     if (item.label === "Saved") return !!filters.showSavedOnly;
-    if (item.label === "Podcasts") return filters.contentType === "podcast";
+    if (item.label === "Podcasts") return filters.contentType === "podcast" && filters.view === "feed";
+    if (item.label === "Digest") return filters.view === "digest";
+    if (item.label === "Settings") return filters.view === "settings";
     return false;
   }
 
   function handleClick(item: typeof navItems[number]) {
     if (!item.filter) return;
-    onChange({ ...filters, ...item.filter });
+    onChange({ ...filters, ...item.filter } as FeedFiltersState);
   }
 
   return (

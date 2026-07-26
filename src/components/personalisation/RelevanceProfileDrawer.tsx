@@ -1,30 +1,78 @@
 "use client";
 
 import { X, Sliders } from "lucide-react";
-import { useState } from "react";
-import { mockProfile } from "@/data/mockProfile";
+import { useState, useEffect } from "react";
 import type { RelevanceProfile } from "@/lib/types";
 
-export function RelevanceProfileDrawer() {
-  const [open, setOpen] = useState(false);
-  const [profile, setProfile] = useState<RelevanceProfile>(mockProfile);
+const DEFAULT_PROFILE: RelevanceProfile = {
+  role: "Hearing Care Practitioner",
+  seniority: "Practice Owner / Audiologist",
+  orgSize: "Independent Practice",
+  companyStage: "Established",
+  functionFocus: ["Clinical Audiology", "Cognitive Training", "Patient Care"],
+  region: ["North America", "Europe"],
+  industry: ["Hearing Care", "Audiology", "Health Tech"],
+  preferredDepth: "balanced",
+  strategicWeight: 70,
+  tacticalWeight: 30,
+  podcastWeight: 50,
+  boostedKeywords: ["auditory training", "neuroplasticity", "tinnitus", "tinnitus relief", "hearing loss", "practice growth", "cognitive training", "patient outcomes"],
+  blockedTopics: ["hearing aid retail pricing"],
+};
+
+function loadProfile(): RelevanceProfile {
+  if (typeof window === "undefined") return DEFAULT_PROFILE;
+  try {
+    const stored = localStorage.getItem("neurotone-profile");
+    return stored ? JSON.parse(stored) : DEFAULT_PROFILE;
+  } catch {
+    return DEFAULT_PROFILE;
+  }
+}
+
+function saveProfile(p: RelevanceProfile) {
+  try {
+    localStorage.setItem("neurotone-profile", JSON.stringify(p));
+  } catch {}
+}
+
+type Props = {
+  open?: boolean;
+};
+
+export function RelevanceProfileDrawer({ open: externalOpen }: Props) {
+  const [internalOpen, setInternalOpen] = useState(false);
+  const [profile, setProfile] = useState<RelevanceProfile>(DEFAULT_PROFILE);
+
+  useEffect(() => {
+    setProfile(loadProfile());
+  }, []);
+
+  const open = externalOpen !== undefined ? externalOpen : internalOpen;
+
+  function update(next: RelevanceProfile) {
+    setProfile(next);
+    saveProfile(next);
+  }
 
   return (
     <>
-      <button
-        onClick={() => setOpen(true)}
-        className="flex items-center gap-2 text-sm text-[var(--slate-500)] hover:text-[var(--navy-900)] transition-colors"
-        aria-label="Open relevance profile"
-      >
-        <Sliders className="w-4 h-4" />
-        My Relevance Profile
-      </button>
+      {externalOpen === undefined && (
+        <button
+          onClick={() => setInternalOpen(true)}
+          className="flex items-center gap-2 text-sm text-[var(--slate-500)] hover:text-[var(--navy-900)] transition-colors"
+          aria-label="Open relevance profile"
+        >
+          <Sliders className="w-4 h-4" />
+          My Relevance Profile
+        </button>
+      )}
 
       {open && (
         <>
           <div
             className="fixed inset-0 bg-black/20 z-40"
-            onClick={() => setOpen(false)}
+            onClick={() => { if (externalOpen === undefined) setInternalOpen(false); }}
           />
           <div className="fixed top-0 right-0 bottom-0 w-full max-w-md bg-white border-l border-[var(--border)] z-50 overflow-y-auto shadow-xl">
             <div className="sticky top-0 bg-white border-b border-[var(--border)] px-6 py-4 flex items-center justify-between">
@@ -37,7 +85,7 @@ export function RelevanceProfileDrawer() {
                 </p>
               </div>
               <button
-                onClick={() => setOpen(false)}
+                onClick={() => { if (externalOpen === undefined) setInternalOpen(false); }}
                 className="w-8 h-8 flex items-center justify-center rounded-lg hover:bg-[var(--coral-50)]"
                 aria-label="Close"
               >
@@ -64,28 +112,28 @@ export function RelevanceProfileDrawer() {
                     label="More strategic"
                     checked={profile.strategicWeight > 50}
                     onChange={(v) =>
-                      setProfile({ ...profile, strategicWeight: v ? 70 : 30 })
+                      update({ ...profile, strategicWeight: v ? 70 : 30 })
                     }
                   />
                   <Toggle
                     label="More tactical"
                     checked={profile.tacticalWeight > 50}
                     onChange={(v) =>
-                      setProfile({ ...profile, tacticalWeight: v ? 70 : 30 })
+                      update({ ...profile, tacticalWeight: v ? 70 : 30 })
                     }
                   />
                   <Toggle
                     label="Podcast-heavy"
                     checked={profile.podcastWeight > 50}
                     onChange={(v) =>
-                      setProfile({ ...profile, podcastWeight: v ? 70 : 30 })
+                      update({ ...profile, podcastWeight: v ? 70 : 30 })
                     }
                   />
                   <Toggle
                     label="Prefer brief summaries"
                     checked={profile.preferredDepth === "brief"}
                     onChange={(v) =>
-                      setProfile({
+                      update({
                         ...profile,
                         preferredDepth: v ? "brief" : "balanced",
                       })
@@ -95,7 +143,7 @@ export function RelevanceProfileDrawer() {
                     label="Prefer deep analysis"
                     checked={profile.preferredDepth === "deep"}
                     onChange={(v) =>
-                      setProfile({
+                      update({
                         ...profile,
                         preferredDepth: v ? "deep" : "balanced",
                       })
