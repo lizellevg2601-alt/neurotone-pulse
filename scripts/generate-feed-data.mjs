@@ -30,9 +30,9 @@ function parseDuration(duration) {
   return Math.round(Number(duration) / 60);
 }
 
-function extractImage(content, fallback) {
+function extractImage(content, fallback, seed) {
   const match = (content || "").match(/<img[^>]+src=["']([^"']+)["']/);
-  return match?.[1] || fallback;
+  return match?.[1] || `https://picsum.photos/seed/${seed}/600/400`;
 }
 
 function hashId(str) {
@@ -43,6 +43,30 @@ function hashId(str) {
     hash |= 0;
   }
   return Math.abs(hash).toString(36);
+}
+
+const relevanceReasons = [
+  { keywords: ["tinnitus", "ringing", "tinnitus relief"], reasons: ["Directly relevant to brain-based tinnitus therapy approaches your patients ask about."] },
+  { keywords: ["neuroplasticity", "brain plasticity", "cortical"], reasons: ["Supports your work in auditory-cognitive training and brain reorganization for hearing."] },
+  { keywords: ["auditory", "auditory-cognitive", "auditory training", "speech perception"], reasons: ["Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes."] },
+  { keywords: ["dementia", "cognitive decline", "alzheimer", "brain health"], reasons: ["Key evidence for the hearing-dementia prevention link — a growing patient motivator."] },
+  { keywords: ["cognitive training", "cognitive", "brain training"], reasons: ["Directly supports the brain-training approach your hearing app is built on."] },
+  { keywords: ["hearing loss", "hearing aid", "amplification"], reasons: ["Relevant to your core patient population and treatment pathways."] },
+  { keywords: ["OTC", "over-the-counter", "direct-to-consumer"], reasons: ["OTC market shifts affect how patients discover and purchase hearing solutions."] },
+  { keywords: ["practice", "clinic", "revenue", "patient acquisition", "retention"], reasons: ["Practice management insights to help grow your hearing care business."] },
+  { keywords: ["medicare", "insurance", "reimbursement", "coverage"], reasons: ["Policy changes affect patient access and your practice revenue."] },
+  { keywords: ["neuromodulation", "bimodal", "stimulation"], reasons: ["Emerging tinnitus treatment modality — understand the competitive landscape."] },
+];
+
+function generateWhyItMatters(title, summary, tags) {
+  const text = `${title} ${summary} ${tags.join(" ")}`.toLowerCase();
+  const matched = [];
+  for (const entry of relevanceReasons) {
+    if (entry.keywords.some((kw) => text.includes(kw))) {
+      matched.push(...entry.reasons);
+    }
+  }
+  return matched.slice(0, 2).length > 0 ? matched.slice(0, 2) : ["Trending topic in hearing care — stay informed on latest developments."];
 }
 
 const parser = new Parser({
@@ -74,21 +98,26 @@ async function main() {
         const content = item.content || item.contentSnippet || "";
         const isArticle = source.type === "article";
 
+        const itemId = `feed-${source.id}-${hashId(link)}`;
+        const summary = item.contentSnippet?.trim() || item.content?.replace(/<[^>]*>/g, "").trim().slice(0, 400) || "";
+        const title = item.title || "Untitled";
+        const tags = normalizeTags(item.categories);
+
         return {
-          id: `feed-${source.id}-${hashId(link)}`,
+          id: itemId,
           type: source.type,
-          title: item.title || "Untitled",
+          title,
           source: source.name,
           sourceUrl: link,
           author: item.creator || source.author,
           publishedAt: item.isoDate || item.pubDate || new Date().toISOString(),
           readTime: isArticle ? estimateReadTime(content) : undefined,
           duration: !isArticle ? parseDuration(item["itunes:duration"]) : undefined,
-          summary: item.contentSnippet?.trim() || item.content?.replace(/<[^>]*>/g, "").trim().slice(0, 400) || "",
-          imageUrl: isArticle ? extractImage(content, source.image) : item["itunes:image"] || source.image,
-          tags: normalizeTags(item.categories),
+          summary,
+          imageUrl: isArticle ? extractImage(content, source.image, hashId(link)) : item["itunes:image"] || source.image,
+          tags,
           relevanceScore: 50,
-          whyItMatters: [],
+          whyItMatters: generateWhyItMatters(title, summary, tags),
           saved: false,
         };
       });

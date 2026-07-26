@@ -23,6 +23,20 @@ function filterAndSort(
       ? items
       : items.filter((i) => i.type === filters.contentType);
 
+  if (filters.showSavedOnly) {
+    filtered = filtered.filter((i) => i.saved);
+  }
+
+  if (filters.topicFilter) {
+    const topic = filters.topicFilter.toLowerCase();
+    filtered = filtered.filter(
+      (i) =>
+        i.title.toLowerCase().includes(topic) ||
+        i.summary.toLowerCase().includes(topic) ||
+        i.tags.some((t) => t.toLowerCase().includes(topic))
+    );
+  }
+
   switch (filters.sort) {
     case "recent":
       filtered.sort(
@@ -91,7 +105,7 @@ export default function Dashboard() {
   return (
     <div className="min-h-screen bg-[var(--page)]">
       <div className="flex">
-        <AppSidebar />
+        <AppSidebar filters={filters} onChange={setFilters} />
 
         <div className="flex-1 flex flex-col min-w-0 pb-16 lg:pb-0">
           <TopSearchBar />
@@ -157,7 +171,7 @@ export default function Dashboard() {
               <aside className="xl:w-[300px] shrink-0 space-y-4">
                 <ThemeOfWeekCard />
                 <AIOverviewCard />
-                <TrendingThemes />
+                <TrendingThemes onSelect={(topic) => setFilters((prev) => ({ ...prev, topicFilter: prev.topicFilter === topic ? undefined : topic, contentType: "all" }))} />
               </aside>
             </div>
           </main>

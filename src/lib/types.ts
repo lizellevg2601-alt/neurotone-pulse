@@ -39,6 +39,8 @@ export interface RelevanceProfile {
 export interface FeedFiltersState {
   contentType: ContentType | "all";
   sort: "relevant" | "recent" | "discussed" | "score";
+  topicFilter?: string;
+  showSavedOnly?: boolean;
 }
 
 export interface TrendingTheme {

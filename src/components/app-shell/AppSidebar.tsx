@@ -11,19 +11,39 @@ import {
   ChevronLeft,
 } from "lucide-react";
 import { useState } from "react";
+import type { FeedFiltersState } from "@/lib/types";
+
+type Props = {
+  filters: FeedFiltersState;
+  onChange: (f: FeedFiltersState) => void;
+};
 
 const navItems = [
-  { icon: LayoutDashboard, label: "Home", active: true },
-  { icon: Rss, label: "Feed" },
+  { icon: LayoutDashboard, label: "Home", filter: {} as Partial<FeedFiltersState> },
+  { icon: Rss, label: "Feed", filter: { contentType: "all", topicFilter: undefined, showSavedOnly: false } as Partial<FeedFiltersState> },
   { icon: Tags, label: "Topics" },
-  { icon: Bookmark, label: "Saved" },
-  { icon: Headphones, label: "Podcasts" },
+  { icon: Bookmark, label: "Saved", filter: { showSavedOnly: true } as Partial<FeedFiltersState> },
+  { icon: Headphones, label: "Podcasts", filter: { contentType: "podcast", topicFilter: undefined } as Partial<FeedFiltersState> },
   { icon: Newspaper, label: "Digest" },
   { icon: Settings, label: "Settings" },
 ];
 
-export function AppSidebar() {
+export function AppSidebar({ filters, onChange }: Props) {
   const [collapsed, setCollapsed] = useState(false);
+
+  function isActive(item: typeof navItems[number]) {
+    if (!item.filter) return false;
+    if (item.label === "Home") return filters.contentType === "all" && !filters.topicFilter && !filters.showSavedOnly;
+    if (item.label === "Feed") return filters.contentType === "all" && !filters.showSavedOnly;
+    if (item.label === "Saved") return !!filters.showSavedOnly;
+    if (item.label === "Podcasts") return filters.contentType === "podcast";
+    return false;
+  }
+
+  function handleClick(item: typeof navItems[number]) {
+    if (!item.filter) return;
+    onChange({ ...filters, ...item.filter });
+  }
 
   return (
     <aside
@@ -53,15 +73,16 @@ export function AppSidebar() {
         {navItems.map((item) => (
           <button
             key={item.label}
+            onClick={() => handleClick(item)}
             className={`w-full flex items-center gap-3 px-3 py-2 rounded-lg text-sm transition-colors ${
-              item.active
+              isActive(item)
                 ? "bg-[var(--coral-100)] text-[var(--navy-900)]"
                 : "text-[var(--slate-500)] hover:bg-[var(--coral-50)] hover:text-[var(--navy-900)]"
             }`}
           >
             <item.icon
               className={`w-4 h-4 shrink-0 ${
-                item.active ? "text-[var(--coral-500)]" : ""
+                isActive(item) ? "text-[var(--coral-500)]" : ""
               }`}
             />
             {!collapsed && <span className="font-medium">{item.label}</span>}

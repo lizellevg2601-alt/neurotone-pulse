@@ -3,7 +3,11 @@
 import { TrendingUp, TrendingDown, Minus } from "lucide-react";
 import { mockTrendingThemes } from "@/data/mockFeed";
 
-export function TrendingThemes() {
+type Props = {
+  onSelect?: (topic: string) => void;
+};
+
+export function TrendingThemes({ onSelect }: Props) {
   return (
     <div className="bg-white border border-[var(--border)] rounded-xl p-4">
       <h3 className="font-semibold text-sm text-[var(--navy-950)] mb-3">
@@ -13,6 +17,7 @@ export function TrendingThemes() {
         {mockTrendingThemes.map((theme) => (
           <div
             key={theme.rank}
+            onClick={() => onSelect?.(theme.topic)}
             className="flex items-center gap-3 py-1.5 group cursor-pointer"
           >
             <span className="text-xs font-bold text-[var(--slate-500)] w-4">
