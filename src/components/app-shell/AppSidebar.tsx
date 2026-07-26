@@ -22,7 +22,7 @@ const navItems: { icon: ComponentType<{ className?: string }>; label: string; fi
   { icon: LayoutDashboard, label: "Home", filter: { view: "feed", contentType: "all", topicFilter: undefined, showSavedOnly: false } },
   { icon: Rss, label: "Feed", filter: { view: "feed", contentType: "all", topicFilter: undefined, showSavedOnly: false } },
   { icon: Tags, label: "Topics", filter: { view: "topics" } },
-  { icon: Bookmark, label: "Saved", filter: { view: "feed", showSavedOnly: true } },
+  { icon: Bookmark, label: "Saved", filter: { view: "saved" } },
   { icon: Headphones, label: "Podcasts", filter: { view: "feed", contentType: "podcast", topicFilter: undefined } },
   { icon: Newspaper, label: "Digest", filter: { view: "digest" } },
   { icon: Settings, label: "Settings", filter: { view: "settings" } },
@@ -36,7 +36,7 @@ export function AppSidebar({ filters, onChange }: Props) {
     if (item.label === "Home") return filters.view === "feed" && filters.contentType === "all" && !filters.topicFilter && !filters.showSavedOnly;
     if (item.label === "Feed") return filters.view === "feed" && filters.contentType === "all" && !filters.showSavedOnly;
     if (item.label === "Topics") return filters.view === "topics";
-    if (item.label === "Saved") return !!filters.showSavedOnly;
+    if (item.label === "Saved") return filters.view === "saved";
     if (item.label === "Podcasts") return filters.contentType === "podcast" && filters.view === "feed";
     if (item.label === "Digest") return filters.view === "digest";
     if (item.label === "Settings") return filters.view === "settings";

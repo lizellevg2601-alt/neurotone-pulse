@@ -17,7 +17,7 @@ type Props = {
 const items: { icon: React.ComponentType<{ className?: string }>; label: string; action: Partial<FeedFiltersState> }[] = [
   { icon: LayoutDashboard, label: "Home", action: { view: "feed" as ViewMode, contentType: "all", topicFilter: undefined, showSavedOnly: false } },
   { icon: Rss, label: "Feed", action: { view: "feed" as ViewMode, contentType: "all", showSavedOnly: false } },
-  { icon: Bookmark, label: "Saved", action: { view: "feed" as ViewMode, showSavedOnly: true } },
+  { icon: Bookmark, label: "Saved", action: { view: "saved" as ViewMode } },
   { icon: Headphones, label: "Podcasts", action: { view: "feed" as ViewMode, contentType: "podcast", topicFilter: undefined } },
   { icon: Settings, label: "Settings", action: { view: "settings" as ViewMode } },
 ];
@@ -25,7 +25,7 @@ const items: { icon: React.ComponentType<{ className?: string }>; label: string;
 function isActive(f: FeedFiltersState, item: typeof items[number]): boolean {
   if (item.label === "Home") return f.view === "feed" && f.contentType === "all" && !f.showSavedOnly && !f.topicFilter;
   if (item.label === "Feed") return f.view === "feed" && f.contentType === "all" && !f.showSavedOnly;
-  if (item.label === "Saved") return !!f.showSavedOnly;
+  if (item.label === "Saved") return f.view === "saved";
   if (item.label === "Podcasts") return f.contentType === "podcast" && f.view === "feed";
   if (item.label === "Settings") return f.view === "settings";
   return false;

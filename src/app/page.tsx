@@ -160,6 +160,25 @@ export default function Dashboard() {
           <PersonalisationBar />
 
           <main className="flex-1 p-4 lg:p-6">
+            {filters.view === "saved" && (
+              <div className="max-w-2xl">
+                <h1 className="font-editorial text-xl font-bold text-[var(--navy-950)] mb-4">Saved Items</h1>
+                {feed.filter((i) => i.saved).length === 0 ? (
+                  <p className="text-sm text-[var(--slate-500)]">No saved items yet. Click the bookmark icon on any article to save it here.</p>
+                ) : (
+                  <div className="space-y-3">
+                    {feed.filter((i) => i.saved).map((item) =>
+                      item.type === "podcast" ? (
+                        <PodcastCard key={item.id} item={item} onSave={handleSave} />
+                      ) : (
+                        <FeaturedArticleCard key={item.id} item={item} onSave={handleSave} />
+                      )
+                    )}
+                  </div>
+                )}
+              </div>
+            )}
+
             {filters.view === "topics" && (
               <div className="max-w-2xl">
                 <h1 className="font-editorial text-xl font-bold text-[var(--navy-950)] mb-4">Topics</h1>

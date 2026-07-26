@@ -36,7 +36,7 @@ export interface RelevanceProfile {
   blockedTopics: string[];
 }
 
-export type ViewMode = "feed" | "topics" | "digest" | "settings";
+export type ViewMode = "feed" | "topics" | "digest" | "settings" | "saved";
 
 export interface FeedFiltersState {
   contentType: ContentType | "all";
