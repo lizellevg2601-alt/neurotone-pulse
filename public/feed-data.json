@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "id": "feed-hearing-tracker-bc2mao",
+      "type": "article",
+      "title": "Lexie H1 Hearing Buds: Wireless OTC Hearing Aids for $299",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/lexie-announces-h1-hearing-buds",
+      "author": "Karl Strom",
+      "publishedAt": "2026-07-27T14:55:00.000Z",
+      "readTime": 1,
+      "summary": "Lexie H1 Hearing Buds merge OTC hearing aid tech with audio streaming for $299—offering clear sound, app control, and comfort.",
+      "imageUrl": "https://picsum.photos/seed/bc2mao/600/400",
+      "tags": [
+        "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-tinnitus-tips-dyvycl",
       "type": "article",
       "title": "Digital Therapeutics for Tinnitus in Emerging Markets",
@@ -78,26 +98,6 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-bioj6l",
-      "type": "article",
-      "title": "Staying Physically Active May Benefit Hearing Health as We Age, Study Finds",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/healthy-hearing-active-aging/",
-      "author": "HHTM",
-      "publishedAt": "2026-07-24T22:44:11.000Z",
-      "readTime": 1,
-      "summary": "COLUMBIA, SOUTH CAROLINA — Older adults who maintain higher levels of physical function may also be more likely to retain better hearing, according to a new study from researchers at the University of South Carolina and collaborating institutions. Published in Scientific Reports, the study examined the relationships among physical function, systolic blood pressure, hearing sensitivity, and cognition in 150 community-dwelling ...\nThe post Staying Physically Active May Benefit Hearing Health as We Age, Study Finds appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/bioj6l/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
       ],
       "saved": false
     },
@@ -249,26 +249,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-zea3s0",
-      "type": "article",
-      "title": "Rznomics Reports New Research Funding as RNA-Editing Hearing Loss Program Advances",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/rna-hearing-loss-program/",
-      "author": "HHTM",
-      "publishedAt": "2026-07-23T23:22:40.000Z",
-      "readTime": 1,
-      "summary": "SEONGNAM, SOUTH KOREA — South Korean biotechnology company Rznomics has received an additional research payment from Eli Lilly and Company under the companies’ ongoing collaboration to develop RNA-editing therapies for hereditary hearing loss, according to multiple Korean media reports citing the company. The development was first reported by Seoul Economic Daily, one of South Korea’s leading business publications, which reported that Rznomics ...\nThe post Rznomics Reports New Research Funding as RNA-Editing Hearing Loss Program Advances appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/zea3s0/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-tinnitus-tips-cnec39",
       "type": "article",
       "title": "Masseter Muscle Tinnitus: Botox Treatment Review",
@@ -354,26 +334,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-2wugj4",
-      "type": "article",
-      "title": "IAHA Launches Global Working Group to Advance Hearing Accessibility Standards",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/iaha-launches-hearing-access-standards/",
-      "author": "HHTM",
-      "publishedAt": "2026-07-23T15:26:30.000Z",
-      "readTime": 1,
-      "summary": "The International Association for Hearing Accessibility (IAHA) has established a new working group to assess hearing accessibility regulations worldwide, identify areas for improvement, and coordinate with local stakeholders to expand access to assistive listening technologies. More than one billion people globally experience some degree of hearing difficulty, according to IAHA, yet many continue to face unequal access to services, information, ...\nThe post IAHA Launches Global Working Group to Advance Hearing Accessibility Standards appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/2wugj4/600/400",
-      "tags": [
-        "Hearing Technologies"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-phonak-blog-zee6k4",
       "type": "article",
       "title": "New evidence on Roger™ technology for adults",
@@ -433,26 +393,6 @@
         "Accessible Communication",
         "Advocacy",
         "Hear This! Blog"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-cqaajy",
-      "type": "article",
-      "title": "Survey Finds Americans Highly Value Hearing but Say Hearing Loss Remains Poorly Understood",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/hearing-loss-awareness-poor-understood/",
-      "author": "HHTM",
-      "publishedAt": "2026-07-22T15:09:47.000Z",
-      "readTime": 1,
-      "summary": "INNSBRUCK, AUSTRIA — Hearing plays a fundamental role in everyday life, helping people stay connected, safe, and engaged with the world around them. Yet despite its importance, fewer than 3 in 10 Americans believe society knows enough about hearing loss. A new survey conducted by MED-EL, a global leader in hearing implant solutions, reveals a gap between how strongly people in ...\nThe post Survey Finds Americans Highly Value Hearing but Say Hearing Loss Remains Poorly Understood appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/cqaajy/600/400",
-      "tags": [
-        "Hearing News Watch"
       ],
       "relevanceScore": 50,
       "whyItMatters": [
@@ -573,26 +513,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-tvjhac",
-      "type": "article",
-      "title": "Envoy Medical Reaches Three-Month Milestone for All 56 Patients in Pivotal Acclaim Cochlear Implant Trial",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/envoy-medical-3month-acclaim-cochlear-implant-trial/",
-      "author": "HHTM",
-      "publishedAt": "2026-07-21T14:50:04.000Z",
-      "readTime": 1,
-      "summary": "WHITE BEAR LAKE, MINNESOTA — Envoy Medical Inc. (NASDAQ: COCH) announced that all 56 patients enrolled in its pivotal clinical trial of the investigational Acclaim® cochlear implant have completed their three-month follow-up visits. The milestone follows the company’s recent announcement that all 56 study participants had been successfully activated with the Acclaim device, marking another step forward in the pivotal ...\nThe post Envoy Medical Reaches Three-Month Milestone for All 56 Patients in Pivotal Acclaim Cochlear Implant Trial appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/tvjhac/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-review-4pxx0t",
       "type": "article",
       "title": "Med-El Survey: Fewer Than 3 in 10 Americans Believe Society Knows Enough About Hearing Loss",
@@ -614,26 +534,6 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-nmpiva",
-      "type": "article",
-      "title": "Ear device patents for May 2026",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-economics/2026/ear-device-patents-for-may-2026/",
-      "author": "Holly Hosford-Dunn",
-      "publishedAt": "2026-07-21T03:17:00.000Z",
-      "readTime": 1,
-      "summary": "The large clawing hand in figure 1 of STMicroelectronics’s patent #12629039 may conjure Stephen King images, but don’t be afraid. The beating heart of this patent, entitled Sensorized earphone device for out-of-ear measurements, is the little earbud in the middle of Figure 1. The reaching hand is the out-of-ear location where the wrist offers up the radial artery for measurements. ...\nThe post Ear device patents for May 2026 appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/nmpiva/600/400",
-      "tags": [
-        "Hearing Economics"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
       ],
       "saved": false
     },
@@ -780,26 +680,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-v0prjs",
-      "type": "article",
-      "title": "The Real Reason Auracast Could Finally Change Hearing Access",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/findhearing/2026/auracast-hearing-access/",
-      "author": "Shari Eberts",
-      "publishedAt": "2026-07-20T02:50:42.000Z",
-      "readTime": 1,
-      "summary": "Auracast is the likely future of hearing access in public spaces. While questions remain about the timing of venue rollout and the speed of the hearing aid replacement cycle, the direction is increasingly clear: Auracast will provide clean, clear sound in movie theaters, airports, lecture halls, jury rooms, conference rooms, performance venues, houses of worship, and more. People with hearing ...\nThe post The Real Reason Auracast Could Finally Change Hearing Access appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/v0prjs/600/400",
-      "tags": [
-        "FindHearing"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-review-5wd8wr",
       "type": "article",
       "title": "LXE Hearing Announces Wind-Down of US Operations, Affecting Eargo, Lexie, and Go Brands",
@@ -846,47 +726,6 @@
       "whyItMatters": [
         "Relevant to your core patient population and treatment pathways.",
         "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-q6ulid",
-      "type": "article",
-      "title": "Contactless Optical Stimulation of the Cochlea Produces Auditory-Like Responses in Animal Study",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/auditory-cochlea-optical-response/",
-      "author": "HHTM",
-      "publishedAt": "2026-07-17T16:49:22.000Z",
-      "readTime": 1,
-      "summary": "Cochlear implants have transformed the lives of hundreds of thousands of people with severe hearing loss, but the devices do require surgery and have inherent limitations, including the spread of electrical stimulation within the cochlea. Researchers have long sought ways to stimulate the auditory system more precisely while reducing the need for invasive procedures. A new study from Doshisha University ...\nThe post Contactless Optical Stimulation of the Cochlea Produces Auditory-Like Responses in Animal Study appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/q6ulid/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes.",
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-n1loos",
-      "type": "article",
-      "title": "Sittig Technologies Brings Auracast™ Broadcast Audio to Munich Airport",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/sittig-munich-airport/",
-      "author": "HHTM",
-      "publishedAt": "2026-07-17T03:44:12.000Z",
-      "readTime": 1,
-      "summary": "MUNICH/FRANKFURT, GERMANY — Munich Airport is partnering with Sittig Technologies to pilot Auracast™ broadcast audio at six gates across Terminal 1 and Terminal 2. The pilot began July 14, 2026. The project is intended to make airport announcements more accessible and personalized by allowing passengers to receive live gate information directly through compatible hearing aids, cochlear implants, headphones, or earbuds. A ...\nThe post Sittig Technologies Brings Auracast™ Broadcast Audio to Munich Airport appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/n1loos/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
       ],
       "saved": false
     },
@@ -951,26 +790,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-tracker-bnla99",
-      "type": "article",
-      "title": "Signia Styletto X - Hearing Aid Review",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/opinion/signia-styletto-x-hearing-aid-review",
-      "author": "Mark Truong",
-      "publishedAt": "2026-07-16T22:02:05.000Z",
-      "readTime": 1,
-      "summary": "I spent over 130 hours reviewing the new Signia Styletto X hearing aids. Here are the pros and cons of these devices.",
-      "imageUrl": "https://picsum.photos/seed/bnla99/600/400",
-      "tags": [
-        "Opinion"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-academy-scdn04",
       "type": "article",
       "title": "Where Audiology Comes Together: Join Us for AAA 2027 in St. Louis",
@@ -1011,26 +830,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-6na8vr",
-      "type": "article",
-      "title": "The Cost of Noise Exposure: Protect Your Hearing Today",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/cost-noise-exposure-hearing-loss/",
-      "author": "HHTM",
-      "publishedAt": "2026-07-15T15:46:18.000Z",
-      "readTime": 1,
-      "summary": "What does it take to damage your hearing? The truth is that it can happen quicker than you think. A single gunshot. An afternoon using power tools. A night out at a concert. Many of the activities we love pose a risk for harmful noise exposure. While these sounds may seem temporary, repeated exposure can have lasting effects on your ...\nThe post The Cost of Noise Exposure: Protect Your Hearing Today appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/6na8vr/600/400",
-      "tags": [
-        "Hearing Technologies"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-academy-ili0x2",
       "type": "article",
       "title": "Vestibular Exercises May Improve Outcomes in Those with Intracerebral Hemorrhage",
@@ -1049,7 +848,207 @@
         "Emerging tinnitus treatment modality — understand the competitive landscape."
       ],
       "saved": false
+    },
+    {
+      "id": "feed-phonak-blog-1xsex0",
+      "type": "article",
+      "title": "How much space will AI take up in the hearing care professional’s toolbox?",
+      "source": "Phonak Audiology Blog",
+      "sourceUrl": "https://audiologyblog.phonakpro.com/how-much-space-will-ai-take-up-in-the-hearing-care-professionals-toolbox/",
+      "author": "Anna Biggins",
+      "publishedAt": "2026-07-15T11:42:57.000Z",
+      "readTime": 1,
+      "summary": "Audiology has always evolved. As AI enters hearing care, the question is how we shape its role in clinical practice.\nThe post How much space will AI take up in the hearing care professional’s toolbox? appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
+      "imageUrl": "https://picsum.photos/seed/1xsex0/600/400",
+      "tags": [
+        "Clinical Practice",
+        "AI Series",
+        "audiology",
+        "best practice",
+        "Hearing care",
+        "hearing loss"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-online-wojgzg",
+      "type": "article",
+      "title": "Abstract Submissions Open for CI2027 San Diego: Conference on Cochlear Implants",
+      "source": "Audiology Online",
+      "sourceUrl": "https://www.audiologyonline.com/releases/29765-abstract-submissions-open-for-ci2027",
+      "publishedAt": "2026-07-15T04:00:00.000Z",
+      "readTime": 1,
+      "summary": "American Cochlear Implant Alliance (ACI Alliance) is accepting abstract submissions for its upcoming clinical research conference.",
+      "imageUrl": "https://picsum.photos/seed/wojgzg/600/400",
+      "tags": [],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-online-dqoovo",
+      "type": "article",
+      "title": "American Board of Audiology Opens Application for New General Audiology Board Certification Beta Test",
+      "source": "Audiology Online",
+      "sourceUrl": "https://www.audiologyonline.com/releases/29764-american-board-audiology-opens-application",
+      "publishedAt": "2026-07-15T04:00:00.000Z",
+      "readTime": 1,
+      "summary": "The American Board of Audiology (ABA) is now accepting applications for the beta test of the General Audiology Board Certification (GABC) exam.",
+      "imageUrl": "https://picsum.photos/seed/dqoovo/600/400",
+      "tags": [],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-academy-mhp0d1",
+      "type": "article",
+      "title": "Reminder: Join the SPAN Meeting on July 22",
+      "source": "American Academy of Audiology",
+      "sourceUrl": "https://www.audiology.org/reminder-join-the-span-meeting-on-july-22/",
+      "author": "AishaAli",
+      "publishedAt": "2026-07-14T18:54:29.000Z",
+      "readTime": 1,
+      "summary": "There’s still time to join the Academy’s next State Policy Advocate Network (SPAN) quarterly meeting, taking place on Wednesday, July 22, from 8:00–9:00 pm ET. SPAN provides Academy members with…\nThe post Reminder: Join the SPAN Meeting on July 22 appeared first on American Academy of Audiology.",
+      "imageUrl": "https://picsum.photos/seed/mhp0d1/600/400",
+      "tags": [
+        "Government Relations News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-loss-org-krad3j",
+      "type": "article",
+      "title": "Virginia’s New Movie Captioning Law Opens the Big Screen to More People",
+      "source": "Hearing Loss Association",
+      "sourceUrl": "https://www.hearingloss.org/virginias-new-movie-captioning-law-opens-the-big-screen-to-more-people/",
+      "author": "Neil Snyder",
+      "publishedAt": "2026-07-14T18:53:32.000Z",
+      "readTime": 1,
+      "summary": "Virginia’s new law requires movie theaters to offer open-captioned screenings, making cinema more accessible for viewers with hearing loss.\nThe post Virginia’s New Movie Captioning Law Opens the Big Screen to More People first appeared on Hearing Loss Association of America.",
+      "imageUrl": "https://picsum.photos/seed/krad3j/600/400",
+      "tags": [
+        "Advocacy",
+        "Hear This! Blog"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-online-l8e2hj",
+      "type": "article",
+      "title": "Cochlear Introduces the New Osia® 3 Sound Processor",
+      "source": "Audiology Online",
+      "sourceUrl": "https://www.audiologyonline.com/releases/29761-cochlear-introduces-new-osia-3",
+      "publishedAt": "2026-07-13T04:00:00.000Z",
+      "readTime": 1,
+      "summary": "Cochlear Limited (ASX: COH), the global leader in implantable hearing solutions, today announces FDA clearance of the new Cochlear® Osia® 3 Sound Processor",
+      "imageUrl": "https://assets-atlas-production.continued.com/ao-assets/content/c29700/c29761/osiachargerenvv2-fly1-lightblue-camera1-hq1-4000x40001.png",
+      "tags": [],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-academy-mch2ld",
+      "type": "article",
+      "title": "The Hum",
+      "source": "American Academy of Audiology",
+      "sourceUrl": "https://www.audiology.org/the-hum/",
+      "author": "AishaAli",
+      "publishedAt": "2026-07-09T14:31:02.000Z",
+      "readTime": 1,
+      "summary": "In the early 1970s, humans around the globe began reporting a persistent, low frequency (30-80 Hz) noise and dubbed it “The Hum”. While there are countless reporters of the Hum,…\nThe post The Hum appeared first on American Academy of Audiology.",
+      "imageUrl": "https://picsum.photos/seed/mch2ld/600/400",
+      "tags": [
+        "Audiology in the News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-online-koxcp6",
+      "type": "article",
+      "title": "Academy of Doctors of Audiology Launches AuDvantage™ Membership Program to Strengthen State Associations Nationwide",
+      "source": "Audiology Online",
+      "sourceUrl": "https://www.audiologyonline.com/releases/29759-academy-doctors-audiology-launches-audvantage",
+      "publishedAt": "2026-07-08T04:00:00.000Z",
+      "readTime": 1,
+      "summary": "The Academy of Doctors of Audiology (ADA) announces the launch of the AuDvantage Membership Program, a strategic partnership initiative designed to strengthen state audiology associations, encourage professional engagement, and support the long-term future of the audiology profession.",
+      "imageUrl": "https://picsum.photos/seed/koxcp6/600/400",
+      "tags": [],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-academy-ap67ek",
+      "type": "article",
+      "title": "Exploring the Impact of Tinnitus on Work Productivity",
+      "source": "American Academy of Audiology",
+      "sourceUrl": "https://www.audiology.org/exploring-the-impact-of-tinnitus-on-work-productivity/",
+      "author": "AishaAli",
+      "publishedAt": "2026-07-07T13:08:47.000Z",
+      "readTime": 1,
+      "summary": "Over 50 million people in the United States experience tinnitus; nearly half of those individuals struggle with it, and some even perceive it as debilitating (American Tinnitus Association, 2024). Despite these staggering…\nThe post Exploring the Impact of Tinnitus on Work Productivity appeared first on American Academy of Audiology.",
+      "imageUrl": "https://picsum.photos/seed/ap67ek/600/400",
+      "tags": [
+        "Audiology in the News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-phonak-blog-na45pt",
+      "type": "article",
+      "title": "Spheric Speech Clarity can help adolescents hear in the real world",
+      "source": "Phonak Audiology Blog",
+      "sourceUrl": "https://audiologyblog.phonakpro.com/spheric-speech-clarity-can-help-adolescents-hear-in-the-real-world/",
+      "author": "Erin Picou",
+      "publishedAt": "2026-07-07T11:07:07.000Z",
+      "readTime": 1,
+      "summary": "In a real-world study, most adolescents preferred Spheric Speech Clarity in noisy environments where sounds changed quickly and speech came from different directions. Self-reported listening effort was also reduced by 15% compared to a traditional directional noise management system.\nThe post Spheric Speech Clarity can help adolescents hear in the real world appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
+      "imageUrl": "https://picsum.photos/seed/na45pt/600/400",
+      "tags": [
+        "Pediatrics",
+        "Evidence",
+        "Clinical Practice",
+        "audiology",
+        "best practice",
+        "hearing healthcare"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
     }
   ],
-  "fetchedAt": "2026-07-26T18:22:53.639Z"
+  "fetchedAt": "2026-07-27T15:57:17.291Z"
 }
