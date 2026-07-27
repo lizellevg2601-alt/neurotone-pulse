@@ -15,6 +15,7 @@ const feedSources = [
   { id: "hearing-health-matters", name: "Hearing Health Matters", type: "article", feedUrl: "https://hearinghealthmatters.org/feed", siteUrl: "https://hearinghealthmatters.org", image: "https://images.unsplash.com/photo-1585435557343-3b092031a831?w=600&q=80" },
   { id: "pivot-hearing", name: "Pivot Hearing", type: "article", feedUrl: "https://pivothearing.com/feed", siteUrl: "https://pivothearing.com", image: "https://images.unsplash.com/photo-1664575602276-acd073f104c1?w=600&q=80" },
   { id: "hearing-loss-org", name: "Hearing Loss Association", type: "article", feedUrl: "https://www.hearingloss.org/feed", siteUrl: "https://www.hearingloss.org", image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=600&q=80" },
+  { id: "audexperts", name: "AuDExperts", type: "article", feedUrl: "https://audexperts.com/feed/", siteUrl: "https://audexperts.com", image: "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&q=80" },
 ];
 
 function estimateReadTime(content) {
@@ -56,6 +57,14 @@ const relevanceReasons = [
   { keywords: ["practice", "clinic", "revenue", "patient acquisition", "retention"], reasons: ["Practice management insights to help grow your hearing care business."] },
   { keywords: ["medicare", "insurance", "reimbursement", "coverage"], reasons: ["Policy changes affect patient access and your practice revenue."] },
   { keywords: ["neuromodulation", "bimodal", "stimulation"], reasons: ["Emerging tinnitus treatment modality — understand the competitive landscape."] },
+  { keywords: ["sales", "revenue", "growth", "pipeline", "acquisition", "conversion", "lead", "closing"], reasons: ["Directly applicable to your sales strategy and opportunity closure process.", "Tactical insight for growing patient pipeline and conversion rates."] },
+  { keywords: ["marketing", "patient acquisition", "lead generation", "brand", "campaign", "advertising"], reasons: ["Patient acquisition strategies to inform your go-to-market approach.", "Marketing tactics that support your sales funnel and team."] },
+  { keywords: ["competition", "competitive", "differentiate", "market share", "positioning"], reasons: ["Competitive intelligence to sharpen your positioning and value proposition."] },
+  { keywords: ["objection", "barrier", "hesitation", "stall"], reasons: ["Addresses common patient objections — useful for your sales conversations and team coaching."] },
+  { keywords: ["training", "onboarding", "coaching", "team", "enablement"], reasons: ["Sales enablement best practices to level up your team's closing skills."] },
+  { keywords: ["pricing", "insurance", "reimbursement", "financing", "affordable"], reasons: ["Pricing and affordability strategies that affect deal velocity and close rates."] },
+  { keywords: ["practitioner", "audiologist", "clinician", "provider"], reasons: ["Understanding practitioner perspectives is key to your sales conversations with clinics."] },
+  { keywords: ["digital", "AI", "automation", "platform", "software", "app"], reasons: ["Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."] },
 ];
 
 function generateWhyItMatters(title, summary, tags) {

@@ -1,17 +1,23 @@
 import { RelevanceProfile } from "@/lib/types";
 
 export const mockProfile: RelevanceProfile = {
-  role: "Hearing Care Practitioner",
-  seniority: "Practice Owner / Audiologist",
-  orgSize: "Independent Practice",
-  companyStage: "Established",
-  functionFocus: ["Clinical Audiology", "Cognitive Training", "Patient Care"],
-  region: ["North America", "Europe"],
-  industry: ["Hearing Care", "Audiology", "Health Tech"],
+  role: "Sales Director / Revenue Leader",
+  seniority: "Head of Sales",
+  orgSize: "Growth-Stage Health Tech",
+  companyStage: "Scaling",
+  functionFocus: ["Sales Strategy", "Opportunity Closure", "Revenue Operations", "Team Leadership"],
+  region: ["North America", "Europe", "South Africa"],
+  industry: ["Hearing Care", "Health Tech", "Audiology"],
   preferredDepth: "balanced",
   strategicWeight: 70,
   tacticalWeight: 30,
-  podcastWeight: 50,
-  boostedKeywords: ["auditory training", "neuroplasticity", "tinnitus", "tinnitus relief", "hearing loss", "practice growth", "cognitive training", "patient outcomes"],
-  blockedTopics: ["hearing aid retail pricing"],
+  podcastWeight: 30,
+  boostedKeywords: [
+    "sales strategy", "opportunity closure", "patient acquisition", "pipeline management",
+    "competitive positioning", "sales enablement", "objection handling", "revenue growth",
+    "practice growth", "closing techniques", "GTM strategy", "sales coaching",
+    "auditory training", "neuroplasticity", "tinnitus", "hearing loss",
+    "cognitive training", "patient outcomes", "practice management",
+  ],
+  blockedTopics: [],
 };

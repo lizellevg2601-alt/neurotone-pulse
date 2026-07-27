@@ -12,6 +12,7 @@ import { PodcastCard } from "@/components/feed/PodcastCard";
 import { ThemeOfWeekCard } from "@/components/intelligence/ThemeOfWeekCard";
 import { AIOverviewCard } from "@/components/intelligence/AIOverviewCard";
 import { TrendingThemes } from "@/components/intelligence/TrendingThemes";
+import { GrowthPlaybookCard } from "@/components/intelligence/GrowthPlaybookCard";
 import { mockEvents } from "@/data/mockEvents";
 import type { FeedFiltersState, FeedItem } from "@/lib/types";
 
@@ -361,6 +362,7 @@ export default function Dashboard() {
 
                 <aside className="xl:w-[300px] shrink-0 space-y-4">
                   <ThemeOfWeekCard theme={computedThemeOfWeek} onSelect={(topic) => setFilters((prev) => ({ ...prev, topicFilter: prev.topicFilter === topic ? undefined : topic, contentType: "all", view: "feed" }))} />
+                  <GrowthPlaybookCard feedItems={feed} />
                   <AIOverviewCard feedItems={feed} />
                   <TrendingThemes themes={computedThemes} onSelect={(topic) => setFilters((prev) => ({ ...prev, topicFilter: prev.topicFilter === topic ? undefined : topic, contentType: "all" }))} />
                 </aside>

@@ -64,4 +64,13 @@ export const mockEvents: IndustryEvent[] = [
     url: "https://audiology.org",
     virtual: false,
   },
+  {
+    id: "sacig-saaa-2027",
+    name: "SACIG & SAAA Conference 2027",
+    organisation: "South African Cochlear Implant Group & South African Association of Audiologists",
+    date: "2027-05-13",
+    location: "Cape Town, South Africa",
+    url: "https://www.sacig.org.za",
+    virtual: false,
+  },
 ];

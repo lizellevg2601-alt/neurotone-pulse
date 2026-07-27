@@ -70,6 +70,9 @@ export function AppSidebar({ filters, onChange }: Props) {
               <div className="text-[10px] text-[var(--slate-500)] leading-tight">
                 Intelligence for Hearing Care
               </div>
+              <div className="text-[10px] text-[var(--coral-500)] font-medium leading-tight mt-0.5">
+                Tailored for Juan-Paul Balanco
+              </div>
             </div>
           )}
         </div>
@@ -95,24 +98,6 @@ export function AppSidebar({ filters, onChange }: Props) {
           </button>
         ))}
       </nav>
-
-      <div className="px-3 py-4 border-t border-[var(--border)]">
-        <div className="flex items-center gap-3">
-          <div className="w-8 h-8 rounded-full bg-[var(--blue-grey-200)] flex items-center justify-center text-xs font-semibold text-[var(--navy-900)] shrink-0">
-            NT
-          </div>
-          {!collapsed && (
-            <div className="min-w-0">
-              <div className="text-sm font-medium text-[var(--navy-900)] truncate">
-                EMEA Team
-              </div>
-              <div className="text-[11px] text-[var(--slate-500)]">
-                Neurotone AI
-              </div>
-            </div>
-          )}
-        </div>
-      </div>
 
       <button
         onClick={() => setCollapsed(!collapsed)}
