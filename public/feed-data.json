@@ -1,6 +1,92 @@
 {
   "items": [
     {
+      "id": "feed-hearing-tracker-9bt5qk",
+      "type": "article",
+      "title": "Starkey University Workshop Empowers Hundreds of Future Audiologists",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/starkey-university-empowers-hundreds-of-future-audiologists",
+      "author": "Staff",
+      "publishedAt": "2026-07-28T18:20:00.000Z",
+      "readTime": 1,
+      "summary": "Starkey University welcomed hundreds of audiology students for hands-on learning in AI hearing technology, clinical care, and innovation.",
+      "imageUrl": "https://picsum.photos/seed/9bt5qk/600/400",
+      "tags": [
+        "Press Releases"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Practice management insights to help grow your hearing care business.",
+        "Understanding practitioner perspectives is key to your sales conversations with clinics."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-stt3fr",
+      "type": "article",
+      "title": "Hearing, Healthy Aging, and Longevity: Q&A with Sigurd Brandt, MD",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/hearing-healthy-aging-and-longevity-q-a-with-sigurd-brandt-md",
+      "author": "Karl Strom",
+      "publishedAt": "2026-07-28T17:50:00.000Z",
+      "readTime": 1,
+      "summary": "Why should hearing be part of healthy aging? Dr. Sigurd Brandt explains the links between hearing loss, cognition, confidence, and care.",
+      "imageUrl": "https://picsum.photos/seed/stt3fr/600/400",
+      "tags": [
+        "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Patient acquisition strategies to inform your go-to-market approach."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-rrulpk",
+      "type": "article",
+      "title": "Advanced Bionics Receives FDA Approval for Expanded Cochlear Implant Candidacy Criteria in SSD and AHL",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-products/implants-bone-conduction/cochlear-implants/advanced-bionics-receives-fda-approval-for-expanded-cochlear-implant-candidacy-criteria-in-ssd-and-ahl",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-07-28T15:59:55.000Z",
+      "readTime": 1,
+      "summary": "The newly approved indications broaden eligibility for adults and children with single-sided deafness or asymmetric hearing loss.",
+      "imageUrl": "https://picsum.photos/seed/rrulpk/600/400",
+      "tags": [
+        "Cochlear Implants",
+        "Industry News",
+        "Advanced Bionics",
+        "asymmetric hearing loss",
+        "cochlear implant candidacy",
+        "FDA approval"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-online-i14qmd",
+      "type": "article",
+      "title": "Starkey University Empowers the Next Generation of Hearing Professionals Through Innovation, Collaboration and Hands-On Learning",
+      "source": "Audiology Online",
+      "sourceUrl": "https://www.audiologyonline.com/releases/29774-starkey-university-empowers-next-generation",
+      "publishedAt": "2026-07-28T04:00:00.000Z",
+      "readTime": 1,
+      "summary": "Starkey welcomed hundreds of audiology students from across the United States for its annual Starkey University Workshop, an immersive, engaging educational experience designed to prepare the next generation of hearing professionals to lead the future of hearing healthcare.",
+      "imageUrl": "https://picsum.photos/seed/i14qmd/600/400",
+      "tags": [],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly applicable to your sales strategy and opportunity closure process.",
+        "Tactical insight for growing patient pipeline and conversion rates."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-review-wo1clx",
       "type": "article",
       "title": "IAHA Establishes Global Working Group to Advance Hearing Accessibility Standards",
@@ -46,6 +132,69 @@
       "saved": false
     },
     {
+      "id": "feed-tinnitus-tips-dyvycl",
+      "type": "article",
+      "title": "Digital Therapeutics for Tinnitus in Emerging Markets",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/digital-therapeutics-for-tinnitus-in-emerging-markets/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-07-26T07:04:31.000Z",
+      "readTime": 1,
+      "summary": "The systematic assessment of ten leading mHealth apps for tinnitus, using the 23-item Mobile App Rating Scale (MARS), reveals a highly capable but subscription-heavy digital therapeutic field. Oto achieved the highest overall quality score of 4.52 out of 5. Key Takeaways Oto, MindEar, and Tinnitus Pro ranked highest for overall quality in a systematic review...\nThe post Digital Therapeutics for Tinnitus in Emerging Markets appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/dyvycl/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Directly applicable to your sales strategy and opportunity closure process."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-6hcsx",
+      "type": "article",
+      "title": "Digital Therapeutics for Tinnitus: A Quality Review",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/digital-therapeutics-for-tinnitus-a-quality-review/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-07-25T19:02:41.000Z",
+      "readTime": 1,
+      "summary": "A systematic review of ten leading tinnitus management apps has found they are technically capable but often locked behind expensive subscriptions. The study, which used a validated rating scale, identified Oto, MindEar, and Tinnitus Pro as the highest-rated applications. Critically, it also highlights a significant gap: these digital tools face major adoption barriers in places...\nThe post Digital Therapeutics for Tinnitus: A Quality Review appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/6hcsx/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Directly applicable to your sales strategy and opportunity closure process."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-mqlzm2",
+      "type": "article",
+      "title": "Bimodal Neuromodulation: Tinnitus Device Compliance and Satisfaction",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/bimodal-neuromodulation-tinnitus-device-compliance-and-satisfaction/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-07-25T07:03:22.000Z",
+      "readTime": 1,
+      "summary": "A new clinical study has found that simplifying the setup of a bimodal neuromodulation tinnitus device and using virtual follow-up appointments did not compromise treatment effectiveness. The modifications, which aimed to improve patient access, resulted in high compliance and satisfaction, with many participants experiencing a meaningful reduction in tinnitus severity after 12 weeks. The research,...\nThe post Bimodal Neuromodulation: Tinnitus Device Compliance and Satisfaction appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/mqlzm2/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-review-svo3bg",
       "type": "article",
       "title": "NIH Awards $1.84M to Develop Spider-Inspired Ear Canal Probe for OAE Detection",
@@ -66,6 +215,27 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-83wgqm",
+      "type": "article",
+      "title": "Tinnitus Sleep Solutions: Insomnia Relief Guide",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/tinnitus-sleep-solutions-insomnia-relief-guide/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-07-24T19:15:48.000Z",
+      "readTime": 1,
+      "summary": "The Science of Tinnitus and Sleep: A Comprehensive Guide to Insomnia Relief Sleep Disturbance in Tinnitus: Evidence-Based Insights for Rest and Relief F...\nThe post Tinnitus Sleep Solutions: Insomnia Relief Guide appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/83wgqm/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
       ],
       "saved": false
     },
@@ -107,6 +277,132 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-v7oqj3",
+      "type": "article",
+      "title": "Nanocarriers for Hearing Disorders: Otic Delivery Advances",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/nanocarriers-for-hearing-disorders-otic-delivery-advances-2/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-07-24T07:07:13.000Z",
+      "readTime": 1,
+      "summary": "Key Takeaways The tympanic membrane, round window membrane, and blood-labyrinth barrier are the primary anatomical obstacles preventing effective drug delivery to the middle and inner ear. Conventional treatments like systemic pills or simple intratympanic injections often fail because drugs clear out too quickly or cannot penetrate these barriers. New delivery methods, including nanoparticle carriers and...\nThe post Nanocarriers for Hearing Disorders: Otic Delivery Advances appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/v7oqj3/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Addresses common patient objections — useful for your sales conversations and team coaching."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-avvehx",
+      "type": "article",
+      "title": "Masseter Muscle Botulinum Toxin for Tinnitus",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/masseter-muscle-botulinum-toxin-for-tinnitus/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-07-24T07:05:38.000Z",
+      "readTime": 1,
+      "summary": "A scoping review of 284 records found only four studies that directly examined the connection between Botulinum Toxin Type A (BoNT/A) and tinnitus linked to jaw muscle activity. This scarcity highlights a significant gap between the strong theoretical rationale for the treatment and the clinical evidence to support it. Key Takeaways A clear anatomical and...\nThe post Masseter Muscle Botulinum Toxin for Tinnitus appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/avvehx/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-5ajnw6",
+      "type": "article",
+      "title": "TMD and Tinnitus: MMP3 Gene Links in Women",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/tmd-and-tinnitus-mmp3-gene-links-in-women/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-07-24T07:04:11.000Z",
+      "readTime": 1,
+      "summary": "Univariate analysis of 305 women in southern Brazil found that chronic pain, somatic symptoms, and depression were significantly associated with a diagnosis of temporomandibular disorder (TMD). A new study, led by researchers Ian Luna Parente Brasileiro, Francisca Katiana De Oliveira Feitosa Donato, and Paulo Henrique Couto Souza, investigated the complex interplay of clinical, biopsychosocial, and...\nThe post TMD and Tinnitus: MMP3 Gene Links in Women appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/5ajnw6/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-cnec39",
+      "type": "article",
+      "title": "Masseter Muscle Tinnitus: Botox Treatment Review",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/masseter-muscle-tinnitus-botox-treatment-review/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-07-23T19:08:40.000Z",
+      "readTime": 1,
+      "summary": "Masseter muscle hyperactivity has a plausible anatomical and neurophysiological link to somatosensory tinnitus. A scoping review analyzing 284 records synthesized this rationale and evaluated the potential of botulinum neurotoxin type A (BoNT/A) as a treatment, finding only four studies that directly met its eligibility criteria. Researchers Jacopo Gardellin, Marta D’Angelo, and Lorenzo Spadotto concluded that...\nThe post Masseter Muscle Tinnitus: Botox Treatment Review appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/cnec39/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-fjxjmh",
+      "type": "article",
+      "title": "Migraine’s Impact on Hearing and Sensory Health",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/migraines-impact-on-hearing-and-sensory-health/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-07-23T19:07:10.000Z",
+      "readTime": 1,
+      "summary": "Migraine affects over 1 billion people worldwide, ranking as the second leading cause of global disability. For patients with tinnitus, misophonia, or hyperacusis, this neurological disorder is far more than just a headache; it represents a significant comorbid condition with shared mechanisms of sensory processing dysfunction. A 2026 evidence review by Pola Kobryń, Igor Nowiński,...\nThe post Migraine’s Impact on Hearing and Sensory Health appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/fjxjmh/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Directly applicable to your sales strategy and opportunity closure process."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-i3nj1q",
+      "type": "article",
+      "title": "Self-Adjusting Tinnitus Device: Patient Satisfaction Study",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/self-adjusting-tinnitus-device-patient-satisfaction-study/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-07-23T19:05:32.000Z",
+      "readTime": 1,
+      "summary": "Tinnitus affects millions of people worldwide, with many experiencing a significant reduction in their quality of life. For those seeking treatment, proven options can be difficult to access. A study published in *Frontiers in Audiology and Otology* investigated whether simplifying a known tinnitus therapy could make it more accessible without losing its benefits. The research...\nThe post Self-Adjusting Tinnitus Device: Patient Satisfaction Study appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/i3nj1q/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
       ],
       "saved": false
     },
@@ -488,31 +784,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-review-5wd8wr",
-      "type": "article",
-      "title": "LXE Hearing Announces Wind-Down of US Operations, Affecting Eargo, Lexie, and Go Brands",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/otc/lxe-hearing-announces-wind-down-of-us-operations-affecting-eargo-lexie-and-go-brands",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-07-17T19:55:41.000Z",
-      "readTime": 1,
-      "summary": "LXE Hearing, the parent company of Eargo, Lexie Hearing, Go Hearing, and hearX, made the announcement after failing to identify a viable path forward following restructuring efforts.",
-      "imageUrl": "https://picsum.photos/seed/5wd8wr/600/400",
-      "tags": [
-        "Hearing Aids",
-        "Industry News",
-        "Over the Counter",
-        "HearX",
-        "hearX Group"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Patient acquisition strategies to inform your go-to-market approach."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-academy-scdn04",
       "type": "article",
       "title": "Where Audiology Comes Together: Join Us for AAA 2027 in St. Louis",
@@ -757,47 +1028,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-tracker-5hip91",
-      "type": "article",
-      "title": "Study Links Hearing Aid Use to Lower Frailty Risk",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/study-links-hearing-aid-use-to-lower-frailty-risk",
-      "author": "Karl Strom",
-      "publishedAt": "2026-07-09T22:40:00.000Z",
-      "readTime": 1,
-      "summary": "Study finds hearing aid use may weaken the link between hearing loss and frailty in older adults, highlighting hearing care’s role in healthy aging.",
-      "imageUrl": "https://picsum.photos/seed/5hip91/600/400",
-      "tags": [
-        "News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-wkfpjq",
-      "type": "article",
-      "title": "Why Aren't Hearing Aids Covered by Insurance?",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/resources/why-hearing-aids-are-not-covered-by-insurance",
-      "author": "Megan Looney",
-      "publishedAt": "2026-07-09T19:25:00.000Z",
-      "readTime": 1,
-      "summary": "Hearing aids are medically necessary, so why won't most insurance pay? Learn how a decades-old Medicare exclusion shaped today's coverage gap.",
-      "imageUrl": "https://picsum.photos/seed/wkfpjq/600/400",
-      "tags": [
-        "Resources"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Policy changes affect patient access and your practice revenue."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-academy-mch2ld",
       "type": "article",
       "title": "The Hum",
@@ -833,255 +1063,7 @@
         "Trending topic in hearing care — stay informed on latest developments."
       ],
       "saved": false
-    },
-    {
-      "id": "feed-audiology-academy-ap67ek",
-      "type": "article",
-      "title": "Exploring the Impact of Tinnitus on Work Productivity",
-      "source": "American Academy of Audiology",
-      "sourceUrl": "https://www.audiology.org/exploring-the-impact-of-tinnitus-on-work-productivity/",
-      "author": "AishaAli",
-      "publishedAt": "2026-07-07T13:08:47.000Z",
-      "readTime": 1,
-      "summary": "Over 50 million people in the United States experience tinnitus; nearly half of those individuals struggle with it, and some even perceive it as debilitating (American Tinnitus Association, 2024). Despite these staggering…\nThe post Exploring the Impact of Tinnitus on Work Productivity appeared first on American Academy of Audiology.",
-      "imageUrl": "https://picsum.photos/seed/ap67ek/600/400",
-      "tags": [
-        "Audiology in the News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-phonak-blog-na45pt",
-      "type": "article",
-      "title": "Spheric Speech Clarity can help adolescents hear in the real world",
-      "source": "Phonak Audiology Blog",
-      "sourceUrl": "https://audiologyblog.phonakpro.com/spheric-speech-clarity-can-help-adolescents-hear-in-the-real-world/",
-      "author": "Erin Picou",
-      "publishedAt": "2026-07-07T11:07:07.000Z",
-      "readTime": 1,
-      "summary": "In a real-world study, most adolescents preferred Spheric Speech Clarity in noisy environments where sounds changed quickly and speech came from different directions. Self-reported listening effort was also reduced by 15% compared to a traditional directional noise management system.\nThe post Spheric Speech Clarity can help adolescents hear in the real world appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
-      "imageUrl": "https://picsum.photos/seed/na45pt/600/400",
-      "tags": [
-        "Pediatrics",
-        "Evidence",
-        "Clinical Practice",
-        "audiology",
-        "best practice",
-        "hearing healthcare"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Practice management insights to help grow your hearing care business.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-audiology-online-zf3l4w",
-      "type": "article",
-      "title": "MED-EL US’s New Rechargeable Battery Options Offering 23 Hours of Hearing Are Now Available For Consumers",
-      "source": "Audiology Online",
-      "sourceUrl": "https://www.audiologyonline.com/releases/29755-med-el-us-s-new",
-      "publishedAt": "2026-07-06T04:00:00.000Z",
-      "readTime": 1,
-      "summary": "MED-EL US today announced the consumer availability of its new rechargeable batteries, Standard Pro and Micro Pro, compatible with both SONNET 2 and SONNET 3 audio processors.",
-      "imageUrl": "https://picsum.photos/seed/zf3l4w/600/400",
-      "tags": [],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-audiology-academy-z3i8ii",
-      "type": "article",
-      "title": "Federal Judge Blocks Key Portion of Student Loan Rule: Department Includes Professional Degree Status for Audiology Programs",
-      "source": "American Academy of Audiology",
-      "sourceUrl": "https://www.audiology.org/federal-judge-blocks-key-portion-of-student-loan-rule-affecting-audiology-students/",
-      "author": "AishaAli",
-      "publishedAt": "2026-06-30T14:21:45.000Z",
-      "readTime": 1,
-      "summary": "Audiology students received an important, though temporary, victory after a federal court blocked a key provision of the U.S. Department of Education’s new student loan regulations, prompting the department to…\nThe post Federal Judge Blocks Key Portion of Student Loan Rule: Department Includes Professional Degree Status for Audiology Programs appeared first on American Academy of Audiology.",
-      "imageUrl": "https://picsum.photos/seed/z3i8ii/600/400",
-      "tags": [
-        "Government Relations News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-phonak-blog-fdnhni",
-      "type": "article",
-      "title": "From preschool to primary school: What influences caregiver stress as children with hearing loss grow?",
-      "source": "Phonak Audiology Blog",
-      "sourceUrl": "https://audiologyblog.phonakpro.com/from-preschool-to-primary-school-what-influences-caregiver-stress-as-children-with-hearing-loss-grow/",
-      "author": "Viji Easwar",
-      "publishedAt": "2026-06-30T11:09:45.000Z",
-      "readTime": 1,
-      "summary": "As children with hearing loss grow, the challenges and concerns experienced by families may shift over time. Researchers from the LOCHI study explored the factors associated with caregiver stress at two important stages of childhood.\nThe post From preschool to primary school: What influences caregiver stress as children with hearing loss grow? appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
-      "imageUrl": "https://picsum.photos/seed/fdnhni/600/400",
-      "tags": [
-        "Evidence",
-        "Clinical Practice",
-        "audiology",
-        "Hearing care",
-        "hearing loss",
-        "pediatric audiology"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-audiology-online-qdw81c",
-      "type": "article",
-      "title": "Call for Nominations for the 2026 Oticon Focus on People Awards",
-      "source": "Audiology Online",
-      "sourceUrl": "https://www.audiologyonline.com/releases/29748-call-for-nominations-2026-oticon",
-      "publishedAt": "2026-06-29T04:00:00.000Z",
-      "readTime": 1,
-      "summary": "National Awards Program Honors Hearing Champions Who Are Reshaping the Perception of Hearing Loss",
-      "imageUrl": "https://assets-atlas-production.continued.com/ao-assets/content/00000/00000/foplogo2026.png",
-      "tags": [],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-audiology-online-1lyfoi",
-      "type": "article",
-      "title": "Starkey Powers Healthy Hearing at the 2026 Special Olympics USA Games as Gold Sponsor and Exclusive Healthy Hearing Partner",
-      "source": "Audiology Online",
-      "sourceUrl": "https://www.audiologyonline.com/releases/29747-starkey-powers-healthy-hearing-at",
-      "publishedAt": "2026-06-29T04:00:00.000Z",
-      "readTime": 1,
-      "summary": "Nearly 200 Starkey volunteers support Healthy Hearing program, providing hearing care and hearing technology to athletes from across the nation",
-      "imageUrl": "https://assets-atlas-production.continued.com/ao-assets/content/c29700/c29747/2026specialolympicsusagames6-25-26lns19774.jpg",
-      "tags": [],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-phonak-blog-c43jc0",
-      "type": "article",
-      "title": "What can hearing care professionals consider when appointments involve spoken-language interpreters?",
-      "source": "Phonak Audiology Blog",
-      "sourceUrl": "https://audiologyblog.phonakpro.com/what-can-hearing-care-professionals-consider-when-appointments-involve-spoken-language-interpreters/",
-      "author": "Barbra Timmer",
-      "publishedAt": "2026-06-23T11:50:45.000Z",
-      "readTime": 1,
-      "summary": "A recent study highlights how briefing and debriefing may support shared understanding during interpreter-supported appointments.\nThe post What can hearing care professionals consider when appointments involve spoken-language interpreters? appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
-      "imageUrl": "https://picsum.photos/seed/c43jc0/600/400",
-      "tags": [
-        "Evidence",
-        "Clinical Practice",
-        "audiology",
-        "Hearing care",
-        "hearing healthcare",
-        "hearing loss"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-phonak-blog-tj1hir",
-      "type": "article",
-      "title": "Why do greater hearing difficulties not always lead to hearing aid adoption?",
-      "source": "Phonak Audiology Blog",
-      "sourceUrl": "https://audiologyblog.phonakpro.com/why-do-greater-hearing-difficulties-not-always-lead-to-hearing-aid-adoption/",
-      "author": "Gurjit Singh",
-      "publishedAt": "2026-06-19T07:12:24.000Z",
-      "readTime": 1,
-      "summary": "Hearing loss alone does not fully explain why some people adopt hearing aids while others do not. This study highlights the potential role of cognitive and affective factors in shaping rehabilitation decisions.\nThe post Why do greater hearing difficulties not always lead to hearing aid adoption? appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
-      "imageUrl": "https://picsum.photos/seed/tj1hir/600/400",
-      "tags": [
-        "Evidence",
-        "Clinical Practice",
-        "audiology",
-        "Hearing care",
-        "hearing healthcare",
-        "hearing loss"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly supports the brain-training approach your hearing app is built on.",
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-phonak-blog-peqwr7",
-      "type": "article",
-      "title": "Can the right remote microphone make a difference?",
-      "source": "Phonak Audiology Blog",
-      "sourceUrl": "https://audiologyblog.phonakpro.com/can-the-right-remote-microphone-make-a-difference/",
-      "author": "Min Roh",
-      "publishedAt": "2026-06-08T13:16:27.000Z",
-      "readTime": 1,
-      "summary": "A recent study found that children achieved significantly better speech recognition with Roger™ Touchscreen Mic than with a traditional fixed directional remote microphone in realistic classroom listening scenarios.\nThe post Can the right remote microphone make a difference? appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
-      "imageUrl": "https://picsum.photos/seed/peqwr7/600/400",
-      "tags": [
-        "Technology",
-        "Clinical Practice",
-        "audiology",
-        "best practice",
-        "Hearing care",
-        "hearing loss"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-phonak-blog-pnfo82",
-      "type": "article",
-      "title": "What a study at Vanderbilt University teaches us about fitting Spheric Speech Clarity to adolescents",
-      "source": "Phonak Audiology Blog",
-      "sourceUrl": "https://audiologyblog.phonakpro.com/what-a-study-at-vanderbilt-university-teaches-us-about-fitting-spheric-speech-clarity-to-adolescents/",
-      "author": "Jodie Nelson",
-      "publishedAt": "2026-06-04T08:39:58.000Z",
-      "readTime": 1,
-      "summary": "A 2026 study explored whether Spheric Speech Clarity (SSC) can improve communication outcomes for adolescents and whether they prefer it  over other noise management options. This article provides fitting guidance for SSC based on this research.\nThe post What a study at Vanderbilt University teaches us about fitting Spheric Speech Clarity to adolescents appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
-      "imageUrl": "https://picsum.photos/seed/pnfo82/600/400",
-      "tags": [
-        "Pediatrics",
-        "Technology",
-        "audiology",
-        "best practice",
-        "hearing loss",
-        "SSC and Adolescents"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
     }
   ],
-  "fetchedAt": "2026-07-28T12:25:53.401Z"
+  "fetchedAt": "2026-07-29T13:11:14.703Z"
 }
