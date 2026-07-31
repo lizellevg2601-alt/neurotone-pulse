@@ -1,6 +1,74 @@
 {
   "items": [
     {
+      "id": "feed-hearing-tracker-8faaea",
+      "type": "article",
+      "title": "Amplifon Reports 4.7% Organic Growth in Second Quarter of 2026",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/amplifon-reports-4-7-organic-growth-in-second-quarter-of-2026",
+      "author": "Karl Strom",
+      "publishedAt": "2026-07-30T20:55:00.000Z",
+      "readTime": 1,
+      "summary": "Amplifon reports 4.7% organic growth and higher profitability in Q2 2026, with adjusted net profit up 17.1% and its full-year outlook confirmed.",
+      "imageUrl": "https://picsum.photos/seed/8faaea/600/400",
+      "tags": [
+        "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly applicable to your sales strategy and opportunity closure process.",
+        "Tactical insight for growing patient pipeline and conversion rates."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-hu6xso",
+      "type": "article",
+      "title": "WSA and ADA Launch “Listen Up” Initiative to Promote Hearing Screening at 50",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/inside-hearing/industry-news/wsa-and-ada-launch-listen-up-initiative-to-promote-hearing-screening-at-50",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-07-30T17:08:36.000Z",
+      "readTime": 1,
+      "summary": "WSA and the Academy of Doctors of Audiology have joined forces to bring a national public awareness and PSA campaign to adults 50 and older, positioning local audiologists as the front door to hearing care.",
+      "imageUrl": "https://picsum.photos/seed/hu6xso/600/400",
+      "tags": [
+        "Industry News",
+        "Patient Care",
+        "Prevention",
+        "Academy of Doctors of Audiology",
+        "healthy aging",
+        "hearing loss awareness"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Patient acquisition strategies to inform your go-to-market approach."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-tfit7r",
+      "type": "article",
+      "title": "WSA and ADA Partner to Launch Listen Up Initiative",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/wsa-and-ada-partner-to-launch-listen-up-initiative",
+      "author": "Staff",
+      "publishedAt": "2026-07-30T13:50:00.000Z",
+      "readTime": 1,
+      "summary": "WSA and ADA are expanding the Listen Up campaign to encourage hearing screenings at age 50 and connect adults with local audiologists.",
+      "imageUrl": "https://picsum.photos/seed/tfit7r/600/400",
+      "tags": [
+        "Press Releases"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Patient acquisition strategies to inform your go-to-market approach.",
+        "Marketing tactics that support your sales funnel and team."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-tinnitus-tips-i0hbyj",
       "type": "article",
       "title": "COPD Breath Test Trial Results",
@@ -730,31 +798,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-review-4pxx0t",
-      "type": "article",
-      "title": "Med-El Survey: Fewer Than 3 in 10 Americans Believe Society Knows Enough About Hearing Loss",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/practice-building/marketing/surveys-statistics/med-el-survey-fewer-than-3-in-10-americans-believe-society-knows-enough-about-hearing-loss",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-07-21T13:00:00.000Z",
-      "readTime": 1,
-      "summary": "A new Med-El survey of more than 1,000 US adults finds that nearly half believe public awareness of hearing loss is lacking.",
-      "imageUrl": "https://picsum.photos/seed/4pxx0t/600/400",
-      "tags": [
-        "Counseling & Education",
-        "Health & Wellness",
-        "Research",
-        "Surveys & Statistics",
-        "hearing loss awareness",
-        "MED-EL USA"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-tracker-uj618y",
       "type": "article",
       "title": "Telehealth in Audiology: Where Does Validity Really Live?",
@@ -864,27 +907,6 @@
       ],
       "relevanceScore": 50,
       "whyItMatters": [
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-oclzgf",
-      "type": "article",
-      "title": "Eargo and Lexie Parent LXE Hearing Begins U.S. Wind-Down; Support Beyond Sept. 15 Uncertain",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/eargo-and-lexie-parent-lxe-hearing-begins-u-s-wind-down",
-      "author": "Abram Bailey, AuD",
-      "publishedAt": "2026-07-15T21:20:38.000Z",
-      "readTime": 1,
-      "summary": "The company says hearing aids and mobile apps will continue working for now, but long-term app availability, warranty administration, replacement parts, and customer service remain unresolved.",
-      "imageUrl": "https://picsum.photos/seed/oclzgf/600/400",
-      "tags": [
-        "News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
         "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
       ],
       "saved": false
@@ -1034,26 +1056,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-tracker-dhque0",
-      "type": "article",
-      "title": "Cochlear Announces New Osia 3 Rechargeable Sound Processor",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/press-releases/cochlear-announces-new-osia-3-rechargeable-sound-processor",
-      "author": "Staff",
-      "publishedAt": "2026-07-13T20:10:00.000Z",
-      "readTime": 1,
-      "summary": "Cochlear’s FDA-cleared Osia 3 is the first fully rechargeable active bone conduction sound processor, offering up to 30 hours of battery life and Auracast.",
-      "imageUrl": "https://picsum.photos/seed/dhque0/600/400",
-      "tags": [
-        "Press Releases"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-online-l8e2hj",
       "type": "article",
       "title": "Cochlear Introduces the New Osia® 3 Sound Processor",
@@ -1072,5 +1074,5 @@
       "saved": false
     }
   ],
-  "fetchedAt": "2026-07-30T12:14:01.388Z"
+  "fetchedAt": "2026-07-31T12:32:48.403Z"
 }
