@@ -1,6 +1,260 @@
 {
   "items": [
     {
+      "id": "feed-hearing-tracker-jrhtug",
+      "type": "article",
+      "title": "WSA Launches EMPOWERS U to Support the Next Generation of Audiologists",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/wsa-launches-empowers-u-to-support-the-next-generation-of-audiologists",
+      "author": "Staff",
+      "publishedAt": "2026-08-06T09:05:00.000Z",
+      "readTime": 1,
+      "summary": "WSA launches EMPOWERS U to connect AuD students with mentorship, scholarships, externships, industry experience, and career support.",
+      "imageUrl": "https://picsum.photos/seed/jrhtug/600/400",
+      "tags": [
+        "Press Releases"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Understanding practitioner perspectives is key to your sales conversations with clinics."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-ipgshm",
+      "type": "article",
+      "title": "Effortful Listening Activates Ear Muscles in Hearing Aid Users",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/effortful-listening-activates-ear-muscles-in-hearing-aid-users/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-08-06T07:08:34.000Z",
+      "readTime": 1,
+      "summary": "When a person with hearing aids concentrates on a single voice in a noisy room, their ears may literally try to move. A new study published in Frontiers in Neuroscience provides the first direct measurement of this “auriculomotor” activity in hearing aid users, finding that the effort of listening in noise is written in the...\nThe post Effortful Listening Activates Ear Muscles in Hearing Aid Users appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/ipgshm/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-57d87i",
+      "type": "article",
+      "title": "Hidden Hearing Loss: Modern Diagnosis Advances",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/hidden-hearing-loss-modern-diagnosis-advances-3/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-08-06T07:07:22.000Z",
+      "readTime": 1,
+      "summary": "A normal pure-tone audiogram does not guarantee normal hearing. New research synthesizing twenty peer-reviewed studies confirms that a condition known as hidden hearing loss (HHL) is a significant and often missed source of auditory dysfunction. Individuals with HHL struggle to understand speech in noisy places and experience auditory fatigue, despite passing a standard hearing test....\nThe post Hidden Hearing Loss: Modern Diagnosis Advances appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/57d87i/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-ofnkte",
+      "type": "article",
+      "title": "Hidden Hearing Loss: New Diagnostic Strategies",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/hidden-hearing-loss-new-diagnostic-strategies-4/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-08-06T07:05:56.000Z",
+      "readTime": 1,
+      "summary": "Many individuals report significant trouble understanding speech in noisy environments, yet their standard hearing test results come back normal. This frustrating disconnect is the central problem addressed by hidden hearing loss (HHL), a concept focused on auditory nerve dysfunction that standard tests miss. A new review synthesizes international evidence to clarify what HHL is, how...\nThe post Hidden Hearing Loss: New Diagnostic Strategies appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/ofnkte/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-8d4xuy",
+      "type": "article",
+      "title": "Low-Frequency rTMS for Refractory Tinnitus",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/low-frequency-rtms-for-refractory-tinnitus-3/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-08-06T07:04:40.000Z",
+      "readTime": 1,
+      "summary": "A single patient with severe, treatment-resistant chronic tinnitus experienced a substantial and progressive reduction in her symptoms after receiving three repeated courses of repetitive transcranial magnetic stimulation (rTMS) over one year. Her Tinnitus Handicap Inventory (THI) score fell from a severe 98 to a moderate 50, a change quantified as a large clinical effect. Key...\nThe post Low-Frequency rTMS for Refractory Tinnitus appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/8d4xuy/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-l83h1r",
+      "type": "article",
+      "title": "Tinnitus and TMJ Disorders in Iraqi Adults",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/tinnitus-and-tmj-disorders-in-iraqi-adults-2/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-08-05T19:05:10.000Z",
+      "readTime": 1,
+      "summary": "A prospective study of 278 patients diagnosed with temporomandibular joint disorder (TMD) found that one in three experienced ear pain, while significant numbers also reported ear fullness, tinnitus, and hearing loss. The research, led by Ahmed Mohammed Al-Alwan and Mohammed Radef Dawood, provides new data on the strong correlation between jaw joint problems and otological...\nThe post Tinnitus and TMJ Disorders in Iraqi Adults appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/l83h1r/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-ngut2u",
+      "type": "article",
+      "title": "Tinnitus Research Trends: 40-Year Bibliometric Analysis",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/tinnitus-research-trends-40-year-bibliometric-analysis/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-08-05T19:03:38.000Z",
+      "readTime": 1,
+      "summary": "The global scientific output on tinnitus pathology has grown steadily for four decades and is projected to accelerate, according to a new bibliometric analysis. The research, published in the *International Journal of Emergency Medicine*, maps the academic terrain of a condition affecting roughly 14% of adults worldwide. The study’s authors highlight that despite this high...\nThe post Tinnitus Research Trends: 40-Year Bibliometric Analysis appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/ngut2u/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-hmk9jo",
+      "type": "article",
+      "title": "Misophonia Relief: Nerve Stimulation Cuts Severity Score",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/misophonia-relief-nerve-stimulation-cuts-severity-score/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-08-05T19:03:00.000Z",
+      "readTime": 1,
+      "summary": "A 64-Year-Old Woman Saw Her Misophonia Severity Score Drop from 80 to 9 in a Month Using Nerve Stimulation A research team from the University Campus Bi...\nThe post Misophonia Relief: Nerve Stimulation Cuts Severity Score appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/hmk9jo/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Emerging tinnitus treatment modality — understand the competitive landscape."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-v8a9m3",
+      "type": "article",
+      "title": "Augmented Reality Tinnitus Therapy Feasibility Study",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/augmented-reality-tinnitus-therapy-feasibility-study/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-08-05T19:02:23.000Z",
+      "readTime": 1,
+      "summary": "Key Takeaways An augmented reality app that turns tinnitus into an interactive avatar provided immediate, short-term symptom relief for users. After one week of using the app, participants reported a slight improvement in their overall perception of their tinnitus. Preliminary data suggests a user’s emotional connection to their tinnitus avatar may influence how bothersome their...\nThe post Augmented Reality Tinnitus Therapy Feasibility Study appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/v8a9m3/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-irlfud",
+      "type": "article",
+      "title": "Starkey Cares Hosts a Hearing Event for Individuals with Usher Syndrome",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/starkey-cares-hosts-a-hearing-event-for-individuals-with-usher-syndrome",
+      "author": "Staff",
+      "publishedAt": "2026-08-05T16:04:00.000Z",
+      "readTime": 1,
+      "summary": "Starkey Cares provided hearing evaluations and hearing aids to 20 individuals with Usher syndrome during the coalition’s 2026 conference.",
+      "imageUrl": "https://picsum.photos/seed/irlfud/600/400",
+      "tags": [
+        "Press Releases"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-academy-xpn8bu",
+      "type": "article",
+      "title": "Arkansas Rules to Implement Audiology Scope Expansion",
+      "source": "American Academy of Audiology",
+      "sourceUrl": "https://www.audiology.org/arkansas-rules-to-implement-audiology-scope-expansion/",
+      "author": "AishaAli",
+      "publishedAt": "2026-08-05T13:10:40.000Z",
+      "readTime": 1,
+      "summary": "The Arkansas Board of Examiners in Speech-Language Pathology and Audiology has finalized rules to implement Act 517 of 2025, which expanded the statutory scope of practice for audiology. The proposed…\nThe post Arkansas Rules to Implement Audiology Scope Expansion appeared first on American Academy of Audiology.",
+      "imageUrl": "https://picsum.photos/seed/xpn8bu/600/400",
+      "tags": [
+        "Government Relations News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Practice management insights to help grow your hearing care business.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-j3x163",
+      "type": "article",
+      "title": "What to Tell Audio Engineers About Equalizations for Their Hearing Loss",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-loss/patient-care/counseling-education/what-to-tell-audio-engineers-about-equalizations-for-their-hearing-loss",
+      "author": "Melanie Hamilton",
+      "publishedAt": "2026-08-05T13:00:00.000Z",
+      "readTime": 1,
+      "summary": "For audio engineers and musicians who have high-frequency hearing loss, it's not enough to simply boost frequencies to match their audiogram.",
+      "imageUrl": "https://picsum.photos/seed/j3x163/600/400",
+      "tags": [
+        "Counseling & Education",
+        "Music & Entertainment",
+        "back to basics",
+        "contributed article",
+        "marshall chasin",
+        "musicians with hearing loss"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-tinnitus-tips-sxl7er",
       "type": "article",
       "title": "Self-Adjusting Tinnitus Device and Virtual Care Study",
@@ -43,107 +297,19 @@
       "saved": false
     },
     {
-      "id": "feed-tinnitus-tips-kourhw",
+      "id": "feed-audiology-online-pxhe2u",
       "type": "article",
-      "title": "Cannabis for PTSD Treatment Trial",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/cannabis-for-ptsd-treatment-trial/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-08-05T07:02:21.000Z",
+      "title": "International Hearing Society Announces 2026 Award Recipients",
+      "source": "Audiology Online",
+      "sourceUrl": "https://www.audiologyonline.com/releases/29780-international-hearing-society-announces-2026",
+      "publishedAt": "2026-08-05T04:00:00.000Z",
       "readTime": 1,
-      "summary": "🔬 Active Clinical Trial: NCT07740954 | Status: NOT_YET_RECRUITING | Phase: NA View full trial details on ClinicalTrials.gov → A Direct Test of Two Appr...\nThe post Cannabis for PTSD Treatment Trial appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/kourhw/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
+      "summary": "The International Hearing Society is proud to announce its 2026 award recipients",
+      "imageUrl": "https://assets-atlas-production.continued.com/ao-assets/content/00000/00000/image001.jpg",
+      "tags": [],
       "relevanceScore": 50,
       "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-8rpqd2",
-      "type": "article",
-      "title": "Tinnitus Research Trends: A 40-Year Bibliometric Analysis",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/tinnitus-research-trends-a-40-year-bibliometric-analysis/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-08-04T19:08:08.000Z",
-      "readTime": 1,
-      "summary": "Tinnitus affects approximately 14% of adults globally, yet the path to effective treatment is hampered by its complex biology and historically limited research funding. A new bibliometric analysis provides a systematic look at the past, present, and future of scientific inquiry into tinnitus pathology, identifying where knowledge is growing and where critical gaps remain. Key...\nThe post Tinnitus Research Trends: A 40-Year Bibliometric Analysis appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/8rpqd2/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-ywev6m",
-      "type": "article",
-      "title": "Augmented Reality Tinnitus Therapy Pilot Study",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/augmented-reality-tinnitus-therapy-pilot-study/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-08-04T19:07:00.000Z",
-      "readTime": 1,
-      "summary": "A mobile augmented reality (AR) application that allows users to interact with a digital avatar representing their tinnitus provided transient symptom relief and a slight improvement in tinnitus perception after one week. This is the central finding from a pilot study by Kaho Magami, Hiroaki Yata, and Yasuo Kabe, who explored the feasibility of a...\nThe post Augmented Reality Tinnitus Therapy Pilot Study appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/ywev6m/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-9sek2w",
-      "type": "article",
-      "title": "Self-Adjusting Tinnitus Device: Compliance and Satisfaction",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/self-adjusting-tinnitus-device-compliance-and-satisfaction/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-08-04T19:05:27.000Z",
-      "readTime": 1,
-      "summary": "A new study has tested a simplified, more accessible approach to bimodal neuromodulation for tinnitus, and the results show promise for expanding treatment options. Researchers led by Grace Conchas, Yezihalem Mesfin, and Yuan He investigated whether a treatment protocol using remote follow-ups and standardized device settings could maintain the effectiveness seen in more complex, in-person...\nThe post Self-Adjusting Tinnitus Device: Compliance and Satisfaction appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/9sek2w/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Emerging tinnitus treatment modality — understand the competitive landscape."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-9puj3v",
-      "type": "article",
-      "title": "Stressors Alter Heart Rate Patterns in Hearing Disorders",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/stressors-alter-heart-rate-patterns-in-hearing-disorders/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-08-04T19:03:46.000Z",
-      "readTime": 1,
-      "summary": "Thirty healthy adults had their heart rate variability measured in 30-second windows during three different laboratory stressors. The resulting high-resolution data revealed that mental arithmetic, noise exposure, and pain each trigger a unique, dynamic pattern of autonomic nervous system response—patterns that were completely missed by traditional, averaged measurements. A new study by Bérangère Villatte, Danielle...\nThe post Stressors Alter Heart Rate Patterns in Hearing Disorders appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/9puj3v/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+        "Trending topic in hearing care — stay informed on latest developments."
       ],
       "saved": false
     },
@@ -166,69 +332,6 @@
       "whyItMatters": [
         "Practice management insights to help grow your hearing care business.",
         "Understanding practitioner perspectives is key to your sales conversations with clinics."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-57d88d",
-      "type": "article",
-      "title": "Hidden Hearing Loss: Modern Diagnosis Advances",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/hidden-hearing-loss-modern-diagnosis-advances-2/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-08-04T07:10:39.000Z",
-      "readTime": 1,
-      "summary": "Hidden hearing loss presents a significant challenge because individuals often report serious communication problems yet pass a standard hearing test. A narrative review of twenty scientific publications consolidates current evidence on this condition, identifying cochlear synaptopathy as a primary mechanism and speech-in-noise difficulty as a hallmark symptom. The analysis, led by researchers Daniel Sebastian Zamora...\nThe post Hidden Hearing Loss: Modern Diagnosis Advances appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/57d88d/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-ofnksj",
-      "type": "article",
-      "title": "Hidden Hearing Loss: New Diagnostic Strategies",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/hidden-hearing-loss-new-diagnostic-strategies-3/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-08-04T07:08:20.000Z",
-      "readTime": 1,
-      "summary": "Many individuals with normal hearing test results still struggle profoundly in noisy restaurants, crowded meetings, or social gatherings. This disconnect between standard clinical results and real-world listening difficulties is the core challenge of hidden hearing loss (HHL). A new review synthesizes international evidence on this condition, analyzing its causes, how to identify it, and what...\nThe post Hidden Hearing Loss: New Diagnostic Strategies appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/ofnksj/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-te5o00",
-      "type": "article",
-      "title": "Low-Frequency rTMS for Refractory Tinnitus Treatment",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/low-frequency-rtms-for-refractory-tinnitus-treatment-2/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-08-04T07:06:37.000Z",
-      "readTime": 1,
-      "summary": "A 30-year-old patient with severe, treatment-resistant chronic tinnitus saw her Tinnitus Handicap Inventory score drop from 98 to 50 after three courses of repetitive transcranial magnetic stimulation (rTMS). This single-subject case study, published by researchers Ardıl Bayram Şahin, Melike Kocahasan, and Rışvan Deniz, suggests repeated rTMS courses may be associated with sustained reductions in both...\nThe post Low-Frequency rTMS for Refractory Tinnitus Treatment appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/te5o00/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Emerging tinnitus treatment modality — understand the competitive landscape."
       ],
       "saved": false
     },
@@ -723,32 +826,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-review-rrulpk",
-      "type": "article",
-      "title": "Advanced Bionics Receives FDA Approval for Expanded Cochlear Implant Candidacy Criteria in SSD and AHL",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/hearing-products/implants-bone-conduction/cochlear-implants/advanced-bionics-receives-fda-approval-for-expanded-cochlear-implant-candidacy-criteria-in-ssd-and-ahl",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-07-28T15:59:55.000Z",
-      "readTime": 1,
-      "summary": "The newly approved indications broaden eligibility for adults and children with single-sided deafness or asymmetric hearing loss.",
-      "imageUrl": "https://picsum.photos/seed/rrulpk/600/400",
-      "tags": [
-        "Cochlear Implants",
-        "Industry News",
-        "Advanced Bionics",
-        "asymmetric hearing loss",
-        "cochlear implant candidacy",
-        "FDA approval"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-online-i14qmd",
       "type": "article",
       "title": "Starkey University Empowers the Next Generation of Hearing Professionals Through Innovation, Collaboration and Hands-On Learning",
@@ -854,26 +931,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-tracker-d2h5l0",
-      "type": "article",
-      "title": "Fatigue and Hearing Loss: How OTC Hearing Aids Can Help",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/fatigue-and-hearing-loss-how-otc-hearing-aids-can-help",
-      "author": "Karl Strom",
-      "publishedAt": "2026-07-23T02:27:08.000Z",
-      "readTime": 1,
-      "summary": "Untreated hearing loss can increase listening effort and fatigue. Learn how OTC hearing aids like the Yeasound RIC800 may help make conversations easier.",
-      "imageUrl": "https://picsum.photos/seed/d2h5l0/600/400",
-      "tags": [
-        "News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-loss-org-utkreu",
       "type": "article",
       "title": "The Americans with Disabilities Act and Assistive Listening in Places of Public Accommodation",
@@ -934,27 +991,6 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-uj618y",
-      "type": "article",
-      "title": "Telehealth in Audiology: Where Does Validity Really Live?",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/opinion/telehealth-in-audiology-where-does-validity-really-live-",
-      "author": "Staff",
-      "publishedAt": "2026-07-20T20:22:59.000Z",
-      "readTime": 1,
-      "summary": "An audiologist explains why telehealth may provide valid, accessible auditory processing disorder (APD) care, with clinical standards that are matched to the questions being asked.",
-      "imageUrl": "https://picsum.photos/seed/uj618y/600/400",
-      "tags": [
-        "Opinion"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes.",
-        "Practice management insights to help grow your hearing care business."
       ],
       "saved": false
     },
@@ -1029,49 +1065,7 @@
         "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
       ],
       "saved": false
-    },
-    {
-      "id": "feed-audiology-academy-4xfngp",
-      "type": "article",
-      "title": "CMS Releases Calendar Year 2027 Proposed Medicare Physician Fee Schedule (MPFS) and Hospital Outpatient Prospective Payment System (OPPS)",
-      "source": "American Academy of Audiology",
-      "sourceUrl": "https://www.audiology.org/cms-releases-calendar-year-2027-proposed-medicare-physician-fee-schedule-mpfs-and-hospital-outpatient-prospective-payment-system-opps/",
-      "author": "AishaAli",
-      "publishedAt": "2026-07-15T16:47:01.000Z",
-      "readTime": 1,
-      "summary": "Updated July 22, 2026 The Centers for Medicare and Medicaid Services (CMS) released the 2027 Medicare Physician Fee Schedule proposed rule late on July 14, 2026, reducing the PFS conversion…\nThe post CMS Releases Calendar Year 2027 Proposed Medicare Physician Fee Schedule (MPFS) and Hospital Outpatient Prospective Payment System (OPPS) appeared first on American Academy of Audiology.",
-      "imageUrl": "https://picsum.photos/seed/4xfngp/600/400",
-      "tags": [
-        "Coding and Reimbursement"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Policy changes affect patient access and your practice revenue.",
-        "Directly applicable to your sales strategy and opportunity closure process."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-audiology-academy-ili0x2",
-      "type": "article",
-      "title": "Vestibular Exercises May Improve Outcomes in Those with Intracerebral Hemorrhage",
-      "source": "American Academy of Audiology",
-      "sourceUrl": "https://www.audiology.org/vestibular-exercises-may-improve-outcomes-in-those-with-intracerebral-hemorrhage/",
-      "author": "AishaAli",
-      "publishedAt": "2026-07-15T14:00:00.000Z",
-      "readTime": 1,
-      "summary": "In a recent article study by Killedar and Kanase (2026), effects of vestibular stimulation exercises were analyzed in individuals with intracerebral hemorrhage. This study randomly assigned patients into two groups.…\nThe post Vestibular Exercises May Improve Outcomes in Those with Intracerebral Hemorrhage appeared first on American Academy of Audiology.",
-      "imageUrl": "https://picsum.photos/seed/ili0x2/600/400",
-      "tags": [
-        "Audiology in the News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Emerging tinnitus treatment modality — understand the competitive landscape.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
     }
   ],
-  "fetchedAt": "2026-08-05T08:46:05.014Z"
+  "fetchedAt": "2026-08-06T08:47:40.577Z"
 }
