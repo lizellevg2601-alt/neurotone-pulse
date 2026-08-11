@@ -1,6 +1,52 @@
 {
   "items": [
     {
+      "id": "feed-audiology-academy-avhhx9",
+      "type": "article",
+      "title": "The Heart of Audiology       ",
+      "source": "American Academy of Audiology",
+      "sourceUrl": "https://www.audiology.org/the-heart-of-audiology/",
+      "author": "AishaAli",
+      "publishedAt": "2026-08-10T16:03:28.000Z",
+      "readTime": 1,
+      "summary": "In last quarter’s ABA newsletter, we were ‘springing’ into the spring season, and now here we are sweating it out in the summer season! Last newsletter had a call for…\nThe post The Heart of Audiology        appeared first on American Academy of Audiology.",
+      "imageUrl": "https://picsum.photos/seed/avhhx9/600/400",
+      "tags": [
+        "ABA News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-j905q",
+      "type": "article",
+      "title": "Lifting the Voice You Choose: ReSound Sensia Hearing Aids Launch",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/lifting-the-voice-you-choose-resound-sensia-hearing-aids-launch",
+      "author": "Melanie Hamilton",
+      "publishedAt": "2026-08-10T16:02:46.000Z",
+      "readTime": 1,
+      "summary": "ReSound Sensia is a premium AI-powered hearing aid family that combines advanced environmental classification, beamforming, and DNN noise reduction to automatically help users focus on the people and sounds they choose to hear in noisy environments.",
+      "imageUrl": "https://picsum.photos/seed/j905q/600/400",
+      "tags": [
+        "Hearing Aids",
+        "AI hearing aids",
+        "cocktail party effect",
+        "Deep Neural Network DNN",
+        "GN Hearing",
+        "GN ReSound"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-tinnitus-tips-ie54b9",
       "type": "article",
       "title": "Schemas, Personality, and Misophonia Link",
@@ -39,6 +85,98 @@
       "whyItMatters": [
         "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
         "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-online-tlbsk1",
+      "type": "article",
+      "title": "New Beltone Illuminate Hearing Aids Automatically Adapt to Noise, Helping People Hear More Clearly in Everyday Life",
+      "source": "Audiology Online",
+      "sourceUrl": "https://www.audiologyonline.com/releases/29783-new-beltone-illuminate-hearing-aids",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "readTime": 1,
+      "summary": "Beltone announced Beltone Illuminate™, a new family of premium hearing aids designed to deliver the world's best hearing in noise.",
+      "imageUrl": "https://picsum.photos/seed/tlbsk1/600/400",
+      "tags": [],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-online-ly9rk",
+      "type": "article",
+      "title": "New ReSound Sensia™ hearing aids lift the voice you want to hear – not just the loudest. Automatically, accurately, proven.",
+      "source": "Audiology Online",
+      "sourceUrl": "https://www.audiologyonline.com/releases/29784-new-resound-sensia-hearing-aids",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "readTime": 1,
+      "summary": "GN announces ReSound Sensia™, a new family of premium hearing aids built on the company’s new AI platform.",
+      "imageUrl": "https://picsum.photos/seed/ly9rk/600/400",
+      "tags": [],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-online-egcvoz",
+      "type": "article",
+      "title": "Starkey’s Omega AI Recognized with Healthcare Eagles Award for Best Use of Artificial Intelligence",
+      "source": "Audiology Online",
+      "sourceUrl": "https://www.audiologyonline.com/releases/29782-starkey-s-omega-ai-recognized",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "readTime": 1,
+      "summary": "Starkey announced that its Omega AI has been named a winner in the Best Use of Artificial Intelligence category at the 2026 Healthcare Eagles Awards.",
+      "imageUrl": "https://picsum.photos/seed/egcvoz/600/400",
+      "tags": [],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-tr7syg",
+      "type": "article",
+      "title": "Starkey Omega AI Honored with Healthcare Eagles Award for Best Use of Artificial Intelligence",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/starkey-omega-ai-honored-with-healthcare-eagles-award-for-best-use-of-artificial-intelligence",
+      "author": "Staff",
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "readTime": 1,
+      "summary": "Starkey’s Omega AI wins a 2026 Healthcare Eagles Award for Best Use of Artificial Intelligence, recognizing its AI-driven hearing technology.",
+      "imageUrl": "https://picsum.photos/seed/tr7syg/600/400",
+      "tags": [
+        "Press Releases"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-tdy60x",
+      "type": "article",
+      "title": "ReSound Sensia Launch: AI That Follows the Voice You Want to Hear",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/resound-sensia-launch-ai-follows-the-voice-you-want-to-hear",
+      "author": "Karl Strom",
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "readTime": 1,
+      "summary": "ReSound Sensia combines automatic DNN denoising, AcoustIQ classification, and 4-microphone beamforming to help users hear the person they want.",
+      "imageUrl": "https://picsum.photos/seed/tdy60x/600/400",
+      "tags": [
+        "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
       ],
       "saved": false
     },
@@ -757,31 +895,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-review-7jgvju",
-      "type": "article",
-      "title": "Q&A: Counseling Patients on Hearing Loss Risks in Group Fitness Classes",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/hearing-loss/health-wellness/qa-counseling-patients-on-hearing-loss-risks-in-group-fitness-classes",
-      "author": "Melanie Hamilton",
-      "publishedAt": "2026-07-29T18:10:40.000Z",
-      "readTime": 1,
-      "summary": "Eleni Zarvos, AuD, shares her takeaways from a new study on risks of noise-induced hearing loss from loud group fitness classes.",
-      "imageUrl": "https://picsum.photos/seed/7jgvju/600/400",
-      "tags": [
-        "Common Risk Factors",
-        "Counseling & Education",
-        "Health & Wellness",
-        "Music & Entertainment",
-        "Research",
-        "Eleni Zarvos"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-academy-vwlz3h",
       "type": "article",
       "title": "SPAN Members Connect on Student Loan Advocacy and State Legislative Updates",
@@ -844,27 +957,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-tracker-stt3fr",
-      "type": "article",
-      "title": "Hearing, Healthy Aging, and Longevity: Q&A with Sigurd Brandt, MD",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/hearing-healthy-aging-and-longevity-q-a-with-sigurd-brandt-md",
-      "author": "Karl Strom",
-      "publishedAt": "2026-07-28T17:50:00.000Z",
-      "readTime": 1,
-      "summary": "Why should hearing be part of healthy aging? Dr. Sigurd Brandt explains the links between hearing loss, cognition, confidence, and care.",
-      "imageUrl": "https://picsum.photos/seed/stt3fr/600/400",
-      "tags": [
-        "News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Patient acquisition strategies to inform your go-to-market approach."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-online-i14qmd",
       "type": "article",
       "title": "Starkey University Empowers the Next Generation of Hearing Professionals Through Innovation, Collaboration and Hands-On Learning",
@@ -899,27 +991,6 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-tobywa",
-      "type": "article",
-      "title": "WHO Adds Hearing Aids to Dementia Prevention Guidance",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/who-adds-hearing-aids-to-dementia-prevention-guidance",
-      "author": "Karl Strom",
-      "publishedAt": "2026-07-24T14:15:00.000Z",
-      "readTime": 1,
-      "summary": "WHO’s new dementia guidelines conditionally recommend hearing aids for adults with hearing loss as part of strategies to reduce cognitive decline and dementia risk.",
-      "imageUrl": "https://picsum.photos/seed/tobywa/600/400",
-      "tags": [
-        "News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Key evidence for the hearing-dementia prevention link — a growing patient motivator.",
-        "Directly supports the brain-training approach your hearing app is built on."
       ],
       "saved": false
     },
@@ -992,79 +1063,7 @@
         "Pricing and affordability strategies that affect deal velocity and close rates."
       ],
       "saved": false
-    },
-    {
-      "id": "feed-audiology-academy-atqkyn",
-      "type": "article",
-      "title": "Use of a Tablet-Based Mobile Classifier to Diagnose Vestibular Disorders",
-      "source": "American Academy of Audiology",
-      "sourceUrl": "https://www.audiology.org/use-of-a-tablet-based-mobile-classifier-to-diagnose-vestibular-disorders/",
-      "author": "AishaAli",
-      "publishedAt": "2026-07-21T15:00:00.000Z",
-      "readTime": 1,
-      "summary": "In a preprint article by Rye et al. (2026), the feasibility of utilizing a tablet-based screening questionnaire (“mobile classifier”) to diagnose vestibular disorders was studied. Individuals with “vestibular symptoms” were…\nThe post Use of a Tablet-Based Mobile Classifier to Diagnose Vestibular Disorders appeared first on American Academy of Audiology.",
-      "imageUrl": "https://picsum.photos/seed/atqkyn/600/400",
-      "tags": [
-        "Audiology in the News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-audiology-online-axbvy",
-      "type": "article",
-      "title": "MED-EL Survey Reveals: Fewer Than 3 in 10 Americans Believe Society Knows Enough About Hearing Loss",
-      "source": "Audiology Online",
-      "sourceUrl": "https://www.audiologyonline.com/releases/29771-med-el-survey-reveals-fewer",
-      "publishedAt": "2026-07-20T04:00:00.000Z",
-      "readTime": 1,
-      "summary": "A new survey*, conducted by MED-EL, reveals a clear gap between how strongly people in the United States value hearing and how little they believe hearing loss is understood.",
-      "imageUrl": "https://picsum.photos/seed/axbvy/600/400",
-      "tags": [],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-audiology-online-adtmwc",
-      "type": "article",
-      "title": "Six Years of Inventis Academia: Growing Together With the Clinical Community",
-      "source": "Audiology Online",
-      "sourceUrl": "https://www.audiologyonline.com/releases/29768-six-years-inventis-academia-growing",
-      "publishedAt": "2026-07-20T04:00:00.000Z",
-      "readTime": 1,
-      "summary": "Inventis Academia offers educational content in English, Italian, French, and Spanish, reaching audiologists, vestibular specialists, hearing care professionals, and distributors around the world",
-      "imageUrl": "https://picsum.photos/seed/adtmwc/600/400",
-      "tags": [],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Practice management insights to help grow your hearing care business.",
-        "Understanding practitioner perspectives is key to your sales conversations with clinics."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-audiology-online-r3c49c",
-      "type": "article",
-      "title": "The International Hearing Society Launches Podcast",
-      "source": "Audiology Online",
-      "sourceUrl": "https://www.audiologyonline.com/releases/29767-international-hearing-society-launches-podcast",
-      "publishedAt": "2026-07-20T04:00:00.000Z",
-      "readTime": 1,
-      "summary": "The International Hearing Society (IHS) invites you to listen to The Hearing Professional podcast.",
-      "imageUrl": "https://assets-atlas-production.continued.com/ao-assets/content/00000/00000/ihspodcast.jpg",
-      "tags": [],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
     }
   ],
-  "fetchedAt": "2026-08-10T07:53:36.678Z"
+  "fetchedAt": "2026-08-11T07:18:03.856Z"
 }
