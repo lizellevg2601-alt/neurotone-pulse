@@ -1,6 +1,251 @@
 {
   "items": [
     {
+      "id": "feed-hearing-tracker-6dyv4f",
+      "type": "article",
+      "title": "Samsung Galaxy Buds Gain FDA-Cleared OTC Hearing Aid Feature",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/samsung-galaxy-buds-gain-fda-cleared-otc-hearing-aid-feature",
+      "author": "Karl Strom",
+      "publishedAt": "2026-08-11T23:50:00.000Z",
+      "readTime": 1,
+      "summary": "Samsung’s FDA-cleared Galaxy Buds hearing aid feature brings self-fitting OTC amplification to Android users, following Apple’s AirPods hearing health push.",
+      "imageUrl": "https://picsum.photos/seed/6dyv4f/600/400",
+      "tags": [
+        "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-rw1yov",
+      "type": "article",
+      "title": "Fennec Pharmaceuticals Reports 78% Revenue Jump as Pedmark Demand Reaches Record High",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-loss/hearing-loss-prevention/fennec-pharmaceuticals-reports-78-revenue-jump-as-pedmark-demand-reaches-record-high",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-08-11T19:23:06.000Z",
+      "readTime": 1,
+      "summary": "Fennec's Pedmark is reportedly in demand as the only FDA-approved therapy to reduce cisplatin-induced hearing loss in pediatric patients.",
+      "imageUrl": "https://picsum.photos/seed/rw1yov/600/400",
+      "tags": [
+        "Industry News",
+        "Pediatric Care",
+        "Prevention",
+        "Sensorineural",
+        "cisplatin hearing loss",
+        "cisplatin ototoxicity"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-7g0el9",
+      "type": "article",
+      "title": "Misophonia and Early Maladaptive Schemas Explained",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/misophonia-and-early-maladaptive-schemas-explained/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-08-11T19:05:20.000Z",
+      "readTime": 1,
+      "summary": "Early maladaptive schemas (EMSs)—deep-seated negative beliefs about oneself and the world—predict misophonia severity even after accounting for personality and general mental health symptoms. A 2026 study published in *Hearing Research* found that individuals with misophonia scored significantly higher on all 18 EMSs compared to matched controls, with two schemas, Entitlement and Emotional Inhibition, emerging as...\nThe post Misophonia and Early Maladaptive Schemas Explained appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/7g0el9/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-sg6olz",
+      "type": "article",
+      "title": "Audiologist Tinnitus Management Outcomes in Singapore",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/audiologist-tinnitus-management-outcomes-in-singapore/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-08-11T19:03:04.000Z",
+      "readTime": 1,
+      "summary": "Audiologist-led management in a Singapore hospital helped 93% of patients reduce their tinnitus-related distress within three months. A retrospective study of 201 patients found that mean scores on the Tinnitus Handicap Inventory (THI) dropped significantly, suggesting structured audiological care can provide substantial relief. Key Takeaways 93% of patients who returned for follow-up reported a reduction...\nThe post Audiologist Tinnitus Management Outcomes in Singapore appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/sg6olz/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Understanding practitioner perspectives is key to your sales conversations with clinics."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-11wz1u",
+      "type": "article",
+      "title": "ADA Awards Inaugural Audiology Practice Accreditation to North Carolina Clinic",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/inside-hearing/industry-news/ada-awards-inaugural-audiology-practice-accreditation-to-north-carolina-clinic",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-08-11T18:41:09.000Z",
+      "readTime": 1,
+      "summary": "The Academy of Doctors of Audiology has granted its new Audiology Practice Accreditation to Coates Hearing Clinic, a four-location independent practice in North Carolina, marking the program's first award since standards were adopted by ADA members in 2025.",
+      "imageUrl": "https://picsum.photos/seed/11wz1u/600/400",
+      "tags": [
+        "Industry News",
+        "Organizations",
+        "Practice Management",
+        "Academy of Doctors of Audiology",
+        "ADA",
+        "original"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-academy-7wc8g5",
+      "type": "article",
+      "title": "Senate Passes Continuing Resolution: What It Means for Hearing Health",
+      "source": "American Academy of Audiology",
+      "sourceUrl": "https://www.audiology.org/senate-passes-continuing-resolution-what-it-means-for-hearing-health/",
+      "author": "AishaAli",
+      "publishedAt": "2026-08-11T18:06:30.000Z",
+      "readTime": 1,
+      "summary": "The Senate recently passed a continuing resolution (CR) to keep the federal government funded through December 11, 2026, giving Congress additional time to complete the fiscal year (FY) 2027 appropriations…\nThe post Senate Passes Continuing Resolution: What It Means for Hearing Health appeared first on American Academy of Audiology.",
+      "imageUrl": "https://picsum.photos/seed/7wc8g5/600/400",
+      "tags": [
+        "Government Relations News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-loss-org-6esgmz",
+      "type": "article",
+      "title": "Hawaii Takes a Huge Step Toward Better Hearing Health",
+      "source": "Hearing Loss Association",
+      "sourceUrl": "https://www.hearingloss.org/hawaii-takes-a-huge-step-toward-better-hearing-health/",
+      "author": "Tori Carapelho",
+      "publishedAt": "2026-08-11T15:27:23.000Z",
+      "readTime": 1,
+      "summary": "A new law in Hawaii will lead to the development of a State Plan on Hearing Loss to address vital hearing health care needs and close service gaps.\nThe post Hawaii Takes a Huge Step Toward Better Hearing Health first appeared on Hearing Loss Association of America.",
+      "imageUrl": "https://picsum.photos/seed/6esgmz/600/400",
+      "tags": [
+        "Advocacy",
+        "Chapters",
+        "Hear This! Blog"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Directly applicable to your sales strategy and opportunity closure process."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-academy-hxe8fc",
+      "type": "article",
+      "title": "General Audiology Board Certification (GABC): Historical, Current and Future Perspectives and Why It Matters     ",
+      "source": "American Academy of Audiology",
+      "sourceUrl": "https://www.audiology.org/general-audiology-board-certification-gabc-historical-current-and-future-perspectives-and-why-it-matters/",
+      "author": "AishaAli",
+      "publishedAt": "2026-08-11T14:33:34.000Z",
+      "readTime": 1,
+      "summary": "Like many other healthcare professionals, audiologists have the dubious distinction of the “alphabet signature” indicating our training and education, our expertise, and commitment to our field. For many years, the…\nThe post General Audiology Board Certification (GABC): Historical, Current and Future Perspectives and Why It Matters      appeared first on American Academy of Audiology.",
+      "imageUrl": "https://picsum.photos/seed/hxe8fc/600/400",
+      "tags": [
+        "ABA News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Sales enablement best practices to level up your team's closing skills.",
+        "Understanding practitioner perspectives is key to your sales conversations with clinics."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-phonak-blog-lodpd4",
+      "type": "article",
+      "title": "Mild hearing loss and speech: What new research reveals",
+      "source": "Phonak Audiology Blog",
+      "sourceUrl": "https://audiologyblog.phonakpro.com/supporting-speech-development-in-children-with-mild-hearing-loss/",
+      "author": "Emi Vella",
+      "publishedAt": "2026-08-11T09:49:45.000Z",
+      "readTime": 1,
+      "summary": "New findings suggest that children with mild bilateral hearing loss may continue to experience speech production difficulties even when hearing aids are fitted early, highlighting the importance of ongoing monitoring throughout the preschool years.\nThe post Mild hearing loss and speech: What new research reveals appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
+      "imageUrl": "https://picsum.photos/seed/lodpd4/600/400",
+      "tags": [
+        "Pediatrics",
+        "Evidence",
+        "audiology",
+        "best practice",
+        "Hearing care",
+        "hearing healthcare"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-78s5fk",
+      "type": "article",
+      "title": "Oticon Reveal Launches With Dual AI for Speech and Surrounding Sounds",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/oticon-reveal-launches-with-dual-ai-for-speech-and-surrounding-sounds",
+      "author": "Karl Strom",
+      "publishedAt": "2026-08-11T00:00:00.000Z",
+      "readTime": 1,
+      "summary": "Oticon launches Reveal, a new hearing aid with Dual AI technology designed to enhance speech while preserving important surrounding sounds.",
+      "imageUrl": "https://picsum.photos/seed/78s5fk/600/400",
+      "tags": [
+        "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-w315dk",
+      "type": "article",
+      "title": "Demant Reports Strong Q2 Hearing Aid Growth, Raises 2026 Outlook",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/demant-reports-strong-q2-hearing-aid-growth-raises-2026-outlook",
+      "author": "Karl Strom",
+      "publishedAt": "2026-08-11T00:00:00.000Z",
+      "readTime": 1,
+      "summary": "Demant reports 10% organic hearing aid growth in Q2 2026, led by strong North American performance, and raises its full-year financial outlook.",
+      "imageUrl": "https://picsum.photos/seed/w315dk/600/400",
+      "tags": [
+        "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Directly applicable to your sales strategy and opportunity closure process."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-audiology-academy-avhhx9",
       "type": "article",
       "title": "The Heart of Audiology       ",
@@ -141,26 +386,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-tracker-tr7syg",
-      "type": "article",
-      "title": "Starkey Omega AI Honored with Healthcare Eagles Award for Best Use of Artificial Intelligence",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/press-releases/starkey-omega-ai-honored-with-healthcare-eagles-award-for-best-use-of-artificial-intelligence",
-      "author": "Staff",
-      "publishedAt": "2026-08-10T00:00:00.000Z",
-      "readTime": 1,
-      "summary": "Starkey’s Omega AI wins a 2026 Healthcare Eagles Award for Best Use of Artificial Intelligence, recognizing its AI-driven hearing technology.",
-      "imageUrl": "https://picsum.photos/seed/tr7syg/600/400",
-      "tags": [
-        "Press Releases"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-tracker-tdy60x",
       "type": "article",
       "title": "ReSound Sensia Launch: AI That Follows the Voice You Want to Hear",
@@ -173,6 +398,26 @@
       "imageUrl": "https://picsum.photos/seed/tdy60x/600/400",
       "tags": [
         "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-tr7syg",
+      "type": "article",
+      "title": "Starkey Omega AI Honored with Healthcare Eagles Award for Best Use of Artificial Intelligence",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/starkey-omega-ai-honored-with-healthcare-eagles-award-for-best-use-of-artificial-intelligence",
+      "author": "Staff",
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "readTime": 1,
+      "summary": "Starkey’s Omega AI wins a 2026 Healthcare Eagles Award for Best Use of Artificial Intelligence, recognizing its AI-driven hearing technology.",
+      "imageUrl": "https://picsum.photos/seed/tr7syg/600/400",
+      "tags": [
+        "Press Releases"
       ],
       "relevanceScore": 50,
       "whyItMatters": [
@@ -303,48 +548,6 @@
       "whyItMatters": [
         "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
         "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-y62dwz",
-      "type": "article",
-      "title": "Using the Tinnitus Handicap Inventory for Treatment",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/using-the-tinnitus-handicap-inventory-for-treatment/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-08-08T07:04:02.000Z",
-      "readTime": 1,
-      "summary": "A prospective observational study of 100 patients with idiopathic subjective tinnitus found that a 12-week treatment protocol led to a significant drop in average Tinnitus Handicap Inventory (THI) scores, from a moderate to a slight handicap level. The research, conducted at a rural South Indian hospital, suggests that the THI is a practical and effective...\nThe post Using the Tinnitus Handicap Inventory for Treatment appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/y62dwz/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-h7xhlp",
-      "type": "article",
-      "title": "Cochlear Implants Boost Cognition in Hearing Loss",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/cochlear-implants-boost-cognition-in-hearing-loss/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-08-08T07:02:59.000Z",
-      "readTime": 1,
-      "summary": "Cognitive performance improved significantly within the first year after a cochlear implant and remained stable for the next four years. This is the central finding from a five-year prospective study by Ellen Andries, Olivier M. Vanderveken, and Marc J.W. Lammers, published in Scientific Reports. The research followed 104 adults aged 55 and older with bilateral...\nThe post Cochlear Implants Boost Cognition in Hearing Loss appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/h7xhlp/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Directly supports the brain-training approach your hearing app is built on."
       ],
       "saved": false
     },
@@ -740,32 +943,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-review-mj182z",
-      "type": "article",
-      "title": "Soundly Launches AARP Hearing Care Program with Member Discounts, Unbundled Pricing Model",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/soundly-launches-aarp-hearing-care-program-with-member-discounts-unbundled-pricing-model",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-07-31T18:53:30.000Z",
-      "readTime": 1,
-      "summary": "The new AARP Hearing Care by Soundly program offers AARP members up to 50% off prescription hearing aids, transparent unbundled pricing, and access to a nationwide provider network.",
-      "imageUrl": "https://picsum.photos/seed/mj182z/600/400",
-      "tags": [
-        "Dispensing Networks",
-        "Hearing Aids",
-        "Over the Counter",
-        "AARP",
-        "AARP Hearing Solutions",
-        "Blake Cadwell"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Pricing and affordability strategies that affect deal velocity and close rates."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-academy-okhez8",
       "type": "article",
       "title": "Can You (Or Should You) Bring a Baby to a Concert?",
@@ -827,53 +1004,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-review-hu6xso",
-      "type": "article",
-      "title": "WSA and ADA Launch “Listen Up” Initiative to Promote Hearing Screening at 50",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/inside-hearing/industry-news/wsa-and-ada-launch-listen-up-initiative-to-promote-hearing-screening-at-50",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-07-30T17:08:36.000Z",
-      "readTime": 1,
-      "summary": "WSA and the Academy of Doctors of Audiology have joined forces to bring a national public awareness and PSA campaign to adults 50 and older, positioning local audiologists as the front door to hearing care.",
-      "imageUrl": "https://picsum.photos/seed/hu6xso/600/400",
-      "tags": [
-        "Industry News",
-        "Patient Care",
-        "Prevention",
-        "Academy of Doctors of Audiology",
-        "healthy aging",
-        "hearing loss awareness"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Patient acquisition strategies to inform your go-to-market approach."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-tfit7r",
-      "type": "article",
-      "title": "WSA and ADA Partner to Launch Listen Up Initiative",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/press-releases/wsa-and-ada-partner-to-launch-listen-up-initiative",
-      "author": "Staff",
-      "publishedAt": "2026-07-30T13:50:00.000Z",
-      "readTime": 1,
-      "summary": "WSA and ADA are expanding the Listen Up campaign to encourage hearing screenings at age 50 and connect adults with local audiologists.",
-      "imageUrl": "https://picsum.photos/seed/tfit7r/600/400",
-      "tags": [
-        "Press Releases"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Patient acquisition strategies to inform your go-to-market approach.",
-        "Marketing tactics that support your sales funnel and team."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-phonak-blog-5mhyig",
       "type": "article",
       "title": "Proper hearing loss language may drive better outcomes",
@@ -916,47 +1046,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-tracker-tw41pc",
-      "type": "article",
-      "title": "Hearing Aid Benefit Plan Transparency Addressed in New Illinois Law",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/hearing-aid-benefit-plan-transparency-addressed-in-new-illinois-law",
-      "author": "Karl Strom",
-      "publishedAt": "2026-07-29T00:00:00.000Z",
-      "readTime": 1,
-      "summary": "Illinois SB 2838 requires hearing care plans to disclose benefits, discounts, patient costs, and manufacturer ownership beginning in 2027.",
-      "imageUrl": "https://picsum.photos/seed/tw41pc/600/400",
-      "tags": [
-        "News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-9bt5qk",
-      "type": "article",
-      "title": "Starkey University Workshop Empowers Hundreds of Future Audiologists",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/press-releases/starkey-university-empowers-hundreds-of-future-audiologists",
-      "author": "Staff",
-      "publishedAt": "2026-07-28T18:20:00.000Z",
-      "readTime": 1,
-      "summary": "Starkey University welcomed hundreds of audiology students for hands-on learning in AI hearing technology, clinical care, and innovation.",
-      "imageUrl": "https://picsum.photos/seed/9bt5qk/600/400",
-      "tags": [
-        "Press Releases"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Practice management insights to help grow your hearing care business.",
-        "Understanding practitioner perspectives is key to your sales conversations with clinics."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-online-i14qmd",
       "type": "article",
       "title": "Starkey University Empowers the Next Generation of Hearing Professionals Through Innovation, Collaboration and Hands-On Learning",
@@ -973,97 +1062,7 @@
         "Tactical insight for growing patient pipeline and conversion rates."
       ],
       "saved": false
-    },
-    {
-      "id": "feed-audiology-academy-ehpxfu",
-      "type": "article",
-      "title": "Illinois Governor Signs Hearing Care Plan Transparency",
-      "source": "American Academy of Audiology",
-      "sourceUrl": "https://www.audiology.org/illinois-governor-signs-hearing-care-plan-transparency/",
-      "author": "AishaAli",
-      "publishedAt": "2026-07-27T19:36:40.000Z",
-      "readTime": 1,
-      "summary": "Illinois Governor JB Pritzker signed into law Senate Bill 2838 (SB 2838), a measure designed to increase transparency, strengthen consumer protections, and improve fairness in hearing care plan contracts.  The…\nThe post Illinois Governor Signs Hearing Care Plan Transparency appeared first on American Academy of Audiology.",
-      "imageUrl": "https://picsum.photos/seed/ehpxfu/600/400",
-      "tags": [
-        "Government Relations News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-phonak-blog-zee6k4",
-      "type": "article",
-      "title": "New evidence on Roger™ technology for adults",
-      "source": "Phonak Audiology Blog",
-      "sourceUrl": "https://audiologyblog.phonakpro.com/new-evidence-on-roger-technology-for-adults/",
-      "author": "Elizabeth Stewart",
-      "publishedAt": "2026-07-23T07:44:28.000Z",
-      "readTime": 1,
-      "summary": "Adults with hearing loss often struggle to understand speech when conversations take place at a distance or in noisy environments, even with well-fitted hearing aids. A recent study investigated whether Roger technology can help overcome these everyday listening challenges.\nThe post New evidence on Roger™ technology for adults appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
-      "imageUrl": "https://picsum.photos/seed/zee6k4/600/400",
-      "tags": [
-        "Technology",
-        "Evidence",
-        "audiology",
-        "hearing aids",
-        "Hearing care",
-        "hearing healthcare"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-loss-org-utkreu",
-      "type": "article",
-      "title": "The Americans with Disabilities Act and Assistive Listening in Places of Public Accommodation",
-      "source": "Hearing Loss Association",
-      "sourceUrl": "https://www.hearingloss.org/ada-assistive-listening-public-accommodation/",
-      "author": "Kyla Plutte, Mary Elizabeth Barrow and Sarah Hanson",
-      "publishedAt": "2026-07-22T17:59:00.000Z",
-      "readTime": 1,
-      "summary": "Discover how Title III of the ADA ensures equal access and effective communication through assistive listening systems in places of public accommodation.\nThe post The Americans with Disabilities Act and Assistive Listening in Places of Public Accommodation first appeared on Hearing Loss Association of America.",
-      "imageUrl": "https://picsum.photos/seed/utkreu/600/400",
-      "tags": [
-        "Accessible Communication",
-        "Advocacy",
-        "Hear This! Blog"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-audiology-academy-nixf5r",
-      "type": "article",
-      "title": "New Vestibular CPT® Codes for 2027 Implementation",
-      "source": "American Academy of Audiology",
-      "sourceUrl": "https://www.audiology.org/new-vestibular-cpt-codes-for-2027-implementation/",
-      "author": "AishaAli",
-      "publishedAt": "2026-07-21T17:53:51.000Z",
-      "readTime": 1,
-      "summary": "This content is an exclusive benefit for American Academy of Audiology members. If you're a member, log in and you'll get immediate access. Member Login If you're not yet a…\nThe post New Vestibular CPT® Codes for 2027 Implementation appeared first on American Academy of Audiology.",
-      "imageUrl": "https://picsum.photos/seed/nixf5r/600/400",
-      "tags": [
-        "Coding and Reimbursement"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Policy changes affect patient access and your practice revenue.",
-        "Pricing and affordability strategies that affect deal velocity and close rates."
-      ],
-      "saved": false
     }
   ],
-  "fetchedAt": "2026-08-11T07:18:03.856Z"
+  "fetchedAt": "2026-08-12T07:41:42.313Z"
 }
