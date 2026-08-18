@@ -1,6 +1,183 @@
 {
   "items": [
     {
+      "id": "feed-hearing-review-cuscs4",
+      "type": "article",
+      "title": "Elehear Launches ElePro Plus Live Tele-Audiology Service for OTC Hearing Aid Users",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/otc/elehear-launches-elepro-plus-live-tele-audiology-service-for-otc-hearing-aid-users",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-08-17T21:47:17.000Z",
+      "readTime": 1,
+      "summary": "The new per-session service connects Elehear device owners with licensed audiologists via live video, aiming to close the professional support gap that persists in the OTC hearing care market.",
+      "imageUrl": "https://picsum.photos/seed/cuscs4/600/400",
+      "tags": [
+        "Industry News",
+        "Over the Counter",
+        "TeleHealth",
+        "ELEHEAR",
+        "ElePro Plus",
+        "original"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Understanding practitioner perspectives is key to your sales conversations with clinics."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-kdqq2k",
+      "type": "article",
+      "title": "ASHA to Present 2026 ‘Annie Glenn Award’ to ‘The Pitt’",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/inside-hearing/people/asha-to-present-2026-annie-glenn-award-to-the-pitt",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-08-17T21:33:58.000Z",
+      "readTime": 1,
+      "summary": "The Max Original medical drama has been recognized for its authentic portrayal of communication access, social determinants of health, and the real-world complexities facing clinicians in emergency care settings.",
+      "imageUrl": "https://picsum.photos/seed/kdqq2k/600/400",
+      "tags": [
+        "Industry News",
+        "Organizations",
+        "People",
+        "ASHA",
+        "original"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Practice management insights to help grow your hearing care business.",
+        "Understanding practitioner perspectives is key to your sales conversations with clinics."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-vy9mjg",
+      "type": "article",
+      "title": "Hearing Aids Not Enough in Noise? How Auditory Training Helps",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/resources/still-struggling-in-noise-with-hearing-aids-auditory-training-may-help-",
+      "author": "Lawrence Cardano, AuD, CPD",
+      "publishedAt": "2026-08-17T20:50:00.000Z",
+      "readTime": 1,
+      "summary": "Still struggling to hear in noise with hearing aids? Brian Taylor, AuD, explains how auditory training may improve listening skills and communication.",
+      "imageUrl": "https://picsum.photos/seed/vy9mjg/600/400",
+      "tags": [
+        "Resources"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes.",
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-5q0bk4",
+      "type": "article",
+      "title": "Bioelectronic Therapies for Meniere’s Disease",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/bioelectronic-therapies-for-menieres-disease-2/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-08-17T19:06:05.000Z",
+      "readTime": 1,
+      "summary": "Meniere’s disease is a chronic inner ear disorder that can profoundly disrupt life with its hallmark symptoms of vertigo, tinnitus, aural fullness, and fluctuating hearing loss. While traditional treatments like medication and diet help many, a significant number of patients continue to experience persistent and debilitating symptoms. A new review by Sandesh Bole, Shoheb Shaikh,...\nThe post Bioelectronic Therapies for Meniere’s Disease appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/5q0bk4/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-uz2o7q",
+      "type": "article",
+      "title": "Digital Therapeutics for Tinnitus: A Quality Review",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/digital-therapeutics-for-tinnitus-a-quality-review-2/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-08-17T19:05:00.000Z",
+      "readTime": 1,
+      "summary": "The systematic review of ten leading mHealth apps for tinnitus reveals a highly capable but subscription-heavy digital marketplace. Oto achieved the highest overall quality score of 4.52 out of 5, with MindEar and Tinnitus Pro close behind. For 64% of its users, the AI-driven MindEar app led to significant reductions in tinnitus distress. Key Takeaways...\nThe post Digital Therapeutics for Tinnitus: A Quality Review appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/uz2o7q/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Directly applicable to your sales strategy and opportunity closure process."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-fvhw5b",
+      "type": "article",
+      "title": "Sound Therapy Fitting and Verification Tips",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/sound-therapy-fitting-and-verification-tips/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-08-17T19:03:55.000Z",
+      "readTime": 1,
+      "summary": "Default sound therapy outputs in hearing aids can vary by as much as 15 dB across different brands. This finding comes from a new study that used standard clinical tools to measure how hearing aid features interact, revealing that these interactions can sometimes work against the patient’s goals. Key Takeaways The default output of sound...\nThe post Sound Therapy Fitting and Verification Tips appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/fvhw5b/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-oao9lh",
+      "type": "article",
+      "title": "Audiologist-Led Tinnitus Management Outcomes in Singapore",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/audiologist-led-tinnitus-management-outcomes-in-singapore/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-08-17T19:02:47.000Z",
+      "readTime": 1,
+      "summary": "Audiologist-led management in a Singapore hospital helped 93% of patients reduce their tinnitus handicap within three months, with the average severity score nearly halving. This finding, from one of the first studies to evaluate such a service in Asia, points to the substantial benefit structured audiological care can provide. Key Takeaways 93% of patients who...\nThe post Audiologist-Led Tinnitus Management Outcomes in Singapore appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/oao9lh/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Understanding practitioner perspectives is key to your sales conversations with clinics."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-h6kvrh",
+      "type": "article",
+      "title": "Autistic Adult Sound Sensitivity: 77% Report Impact on Anxiety, Life",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/autistic-adult-sound-sensitivity-77-report-impact-on-anxiety-life/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-08-17T07:07:14.000Z",
+      "readTime": 1,
+      "summary": "Nearly 77% of Autistic Adults Report Decreased Sound Tolerance, with Significant Links to Anxiety and Quality of Life A recent study from Wilfrid Laurie...\nThe post Autistic Adult Sound Sensitivity: 77% Report Impact on Anxiety, Life appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/h6kvrh/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-tinnitus-tips-ufknen",
       "type": "article",
       "title": "Misophonia, Schemas, and Personality Traits Explained",
@@ -102,111 +279,6 @@
       "whyItMatters": [
         "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
         "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-rwq54c",
-      "type": "article",
-      "title": "Video Analysis of Sound-Induced Pain in Mice",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/video-analysis-of-sound-induced-pain-in-mice/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-08-16T07:06:49.000Z",
-      "readTime": 1,
-      "summary": "A new machine learning framework can now objectively measure pain in mice caused by loud sound, providing a direct behavioral model for studying a human condition known as pain hyperacusis. Researchers at Johns Hopkins University have developed an automated video analysis method that quantifies pain-related behaviors, a critical step for understanding how normally tolerable sounds...\nThe post Video Analysis of Sound-Induced Pain in Mice appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/rwq54c/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-2qqufz",
-      "type": "article",
-      "title": "Hidden Hearing Loss: Audiology and Tinnitus Research",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/hidden-hearing-loss-audiology-and-tinnitus-research/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-08-16T07:05:36.000Z",
-      "readTime": 1,
-      "summary": "A scoping review of 29 studies has found that noise exposure leads to measurable dysfunction in both the peripheral and central auditory systems in people with hidden hearing loss. The work, led by researchers Meliha Başöz Behmen, Merve Kaygusuz, and Elif Kuru, consolidates evidence on how to detect this elusive condition, where standard hearing tests...\nThe post Hidden Hearing Loss: Audiology and Tinnitus Research appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/2qqufz/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-9a3lyx",
-      "type": "article",
-      "title": "Self-Adjusting Tinnitus Device and Virtual Care",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/self-adjusting-tinnitus-device-and-virtual-care/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-08-16T07:04:45.000Z",
-      "readTime": 1,
-      "summary": "Key Takeaways Simplifying the setup of a bimodal neuromodulation device for tinnitus by using standard settings did not reduce its therapeutic effectiveness. Conducting follow-up sessions virtually, rather than in-person, maintained high patient compliance and satisfaction. These changes could make effective tinnitus treatments more accessible to people who live far from clinics or face other travel...\nThe post Self-Adjusting Tinnitus Device and Virtual Care appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/9a3lyx/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-hccd7y",
-      "type": "article",
-      "title": "Schema Theory’s Role in Misophonia Severity",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/schema-theorys-role-in-misophonia-severity/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-08-16T07:03:33.000Z",
-      "readTime": 1,
-      "summary": "Introduction A study of 144 adults has found that deeply held negative beliefs about the self and the world, known as early maladaptive schemas, are strongly linked to the severity of misophonia. The research, published in Hearing Research, shows that these core beliefs contribute to the sound sensitivity disorder in a way that goes beyond...\nThe post Schema Theory’s Role in Misophonia Severity appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/hccd7y/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-s9a9rs",
-      "type": "article",
-      "title": "Misophonia Early Experiences and Patient Insights",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/misophonia-early-experiences-and-patient-insights/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-08-16T07:02:24.000Z",
-      "readTime": 1,
-      "summary": "The study by Gates, Gabbidon, and Heppes analyzed open-ended survey responses from 50 U.S. adults with misophonia to construct seven core themes about its early development. Key Takeaways Seven themes define early misophonia: Concealment, Psychological Distress, Course Variability, Heterogeneity of Cues, Coping Strategies, Barriers to Coping, and Theories of Causality. Symptom onset is often in...\nThe post Misophonia Early Experiences and Patient Insights appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/s9a9rs/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Addresses common patient objections — useful for your sales conversations and team coaching."
       ],
       "saved": false
     },
@@ -629,31 +701,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-review-j905q",
-      "type": "article",
-      "title": "Lifting the Voice You Choose: ReSound Sensia Hearing Aids Launch",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/lifting-the-voice-you-choose-resound-sensia-hearing-aids-launch",
-      "author": "Melanie Hamilton",
-      "publishedAt": "2026-08-10T16:02:46.000Z",
-      "readTime": 1,
-      "summary": "ReSound Sensia is a premium AI-powered hearing aid family that combines advanced environmental classification, beamforming, and DNN noise reduction to automatically help users focus on the people and sounds they choose to hear in noisy environments.",
-      "imageUrl": "https://picsum.photos/seed/j905q/600/400",
-      "tags": [
-        "Hearing Aids",
-        "AI hearing aids",
-        "cocktail party effect",
-        "Deep Neural Network DNN",
-        "GN Hearing",
-        "GN ReSound"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-online-tlbsk1",
       "type": "article",
       "title": "New Beltone Illuminate Hearing Aids Automatically Adapt to Noise, Helping People Hear More Clearly in Everyday Life",
@@ -706,26 +753,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-tracker-tr7syg",
-      "type": "article",
-      "title": "Starkey Omega AI Honored with Healthcare Eagles Award for Best Use of Artificial Intelligence",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/press-releases/starkey-omega-ai-honored-with-healthcare-eagles-award-for-best-use-of-artificial-intelligence",
-      "author": "Staff",
-      "publishedAt": "2026-08-10T00:00:00.000Z",
-      "readTime": 1,
-      "summary": "Starkey’s Omega AI wins a 2026 Healthcare Eagles Award for Best Use of Artificial Intelligence, recognizing its AI-driven hearing technology.",
-      "imageUrl": "https://picsum.photos/seed/tr7syg/600/400",
-      "tags": [
-        "Press Releases"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-tracker-tdy60x",
       "type": "article",
       "title": "ReSound Sensia Launch: AI That Follows the Voice You Want to Hear",
@@ -738,6 +765,26 @@
       "imageUrl": "https://picsum.photos/seed/tdy60x/600/400",
       "tags": [
         "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-tr7syg",
+      "type": "article",
+      "title": "Starkey Omega AI Honored with Healthcare Eagles Award for Best Use of Artificial Intelligence",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/starkey-omega-ai-honored-with-healthcare-eagles-award-for-best-use-of-artificial-intelligence",
+      "author": "Staff",
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "readTime": 1,
+      "summary": "Starkey’s Omega AI wins a 2026 Healthcare Eagles Award for Best Use of Artificial Intelligence, recognizing its AI-driven hearing technology.",
+      "imageUrl": "https://picsum.photos/seed/tr7syg/600/400",
+      "tags": [
+        "Press Releases"
       ],
       "relevanceScore": 50,
       "whyItMatters": [
@@ -762,32 +809,6 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-review-niqmnz",
-      "type": "article",
-      "title": "EU Approves Sanofi’s MenQuadfi for Infants as Young as 6 Weeks, Expanding Protection Against a Leading Cause of Acquired Deafness",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/hearing-loss/hearing-loss-prevention/eu-approves-sanofis-menquadfi-for-infants-as-young-as-6-weeks-expanding-protection-against-a-leading-cause-of-acquired-deafness",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-08-07T00:15:01.000Z",
-      "readTime": 1,
-      "summary": "The vaccine offers protection against invasive meningococcal disease—a bacterial infection known to cause permanent hearing loss in survivors.",
-      "imageUrl": "https://picsum.photos/seed/niqmnz/600/400",
-      "tags": [
-        "Hearing Disorders",
-        "Pediatric Care",
-        "Prevention",
-        "Sensorineural",
-        "MenQuadfi",
-        "original"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Directly applicable to your sales strategy and opportunity closure process."
       ],
       "saved": false
     },
@@ -1026,27 +1047,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-tracker-8faaea",
-      "type": "article",
-      "title": "Amplifon Reports 4.7% Organic Growth in Second Quarter of 2026",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/amplifon-reports-4-7-organic-growth-in-second-quarter-of-2026",
-      "author": "Karl Strom",
-      "publishedAt": "2026-07-30T20:55:00.000Z",
-      "readTime": 1,
-      "summary": "Amplifon reports 4.7% organic growth and higher profitability in Q2 2026, with adjusted net profit up 17.1% and its full-year outlook confirmed.",
-      "imageUrl": "https://picsum.photos/seed/8faaea/600/400",
-      "tags": [
-        "News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly applicable to your sales strategy and opportunity closure process.",
-        "Tactical insight for growing patient pipeline and conversion rates."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-phonak-blog-5mhyig",
       "type": "article",
       "title": "Proper hearing loss language may drive better outcomes",
@@ -1068,5 +1068,5 @@
       "saved": false
     }
   ],
-  "fetchedAt": "2026-08-17T07:07:12.664Z"
+  "fetchedAt": "2026-08-18T06:54:31.970Z"
 }
