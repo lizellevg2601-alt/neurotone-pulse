@@ -1,6 +1,137 @@
 {
   "items": [
     {
+      "id": "feed-hearing-review-6fhgl",
+      "type": "article",
+      "title": "Jabra Enhance Launches M Series FDA-Cleared Self-Fitting Hearing Aids",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/otc/jabra-enhance-launches-m-series-fda-cleared-self-fitting-hearing-aids",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-08-18T23:57:21.000Z",
+      "readTime": 1,
+      "summary": "Jabra Enhance has debuted its M Series lineup headlined by the Enhance Select M3, which the company bills as the world's smallest rechargeable micro receiver-in-ear hearing aid.",
+      "imageUrl": "https://picsum.photos/seed/6fhgl/600/400",
+      "tags": [
+        "Over the Counter",
+        "TeleHealth",
+        "Auracast broadcast audio",
+        "FDA clearance",
+        "Jabra Enhance",
+        "Jabra Enhance OTC"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-bbrx5a",
+      "type": "article",
+      "title": "Schemas, Personality, and Misophonia Severity",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/schemas-personality-and-misophonia-severity/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-08-18T19:04:32.000Z",
+      "readTime": 1,
+      "summary": "A new study has identified two specific psychological patterns—Entitlement and Emotional Inhibition—as the strongest independent predictors of misophonia severity. Published in *Hearing Research*, the research from a team at Guglielmo Marconi University provides the first direct evidence that early maladaptive schemas (EMSs), or deep-seated negative beliefs about oneself and the world, contribute to misophonia beyond...\nThe post Schemas, Personality, and Misophonia Severity appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/bbrx5a/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Sales enablement best practices to level up your team's closing skills."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-vt9b7p",
+      "type": "article",
+      "title": "Tinnitus Management Outcomes in Singapore Public Health",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/tinnitus-management-outcomes-in-singapore-public-health/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-08-18T19:02:41.000Z",
+      "readTime": 1,
+      "summary": "Key Takeaways An audiologist-led tinnitus clinic in Singapore achieved a 93% reduction in tinnitus distress scores among patients who returned for follow-up. The average Tinnitus Handicap Inventory score fell significantly from 46.9 to 24.3, indicating a large treatment effect. 81% of patients who started with moderate or severe tinnitus handicap improved by at least one...\nThe post Tinnitus Management Outcomes in Singapore Public Health appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/vt9b7p/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-tiwvn3",
+      "type": "article",
+      "title": "Jabra Enhance Launches New M Series of Self-Fitting OTC Hearing Aids",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/jabra-enhance-launches-new-m-series-of-self-fitting-otc-hearing-aids",
+      "author": "Karl Strom",
+      "publishedAt": "2026-08-18T16:25:00.000Z",
+      "readTime": 1,
+      "summary": "Jabra Enhance launches its M1, M2, and M3 self-fitting OTC hearing aids, priced from $1,195, with in-app testing, LE Audio, Auracast, and remote care.",
+      "imageUrl": "https://picsum.photos/seed/tiwvn3/600/400",
+      "tags": [
+        "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-phonak-blog-e098si",
+      "type": "article",
+      "title": "New research explores DNN denoising and Mandarin tone perception",
+      "source": "Phonak Audiology Blog",
+      "sourceUrl": "https://audiologyblog.phonakpro.com/new-research-explores-dnn-denoising-and-mandarin-tone-perception/",
+      "author": "Jingjing Guan",
+      "publishedAt": "2026-08-18T09:18:27.000Z",
+      "readTime": 1,
+      "summary": "A new study from PARC Shanghai, Shanghai Jiao Tong University, and Sonova researchers in Switzerland explores whether DNN denoising can preserve Mandarin lexical tone perception in noise.\nThe post New research explores DNN denoising and Mandarin tone perception appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
+      "imageUrl": "https://picsum.photos/seed/e098si/600/400",
+      "tags": [
+        "Evidence",
+        "PARC",
+        "Sonova China"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-xltcff",
+      "type": "article",
+      "title": "Cognitive Behavioral Therapy for Misophonia Management",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/cognitive-behavioral-therapy-for-misophonia-management/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-08-18T07:02:43.000Z",
+      "readTime": 1,
+      "summary": "Misophonia and Cognitive Behavioral Therapy: An Evidence-Based Guide Between December 2019 and December 2021, one large integrated health system made 43...\nThe post Cognitive Behavioral Therapy for Misophonia Management appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/xltcff/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Directly supports the brain-training approach your hearing app is built on."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-review-cuscs4",
       "type": "article",
       "title": "Elehear Launches ElePro Plus Live Tele-Audiology Service for OTC Hearing Aid Users",
@@ -209,69 +340,6 @@
       "readTime": 1,
       "summary": "Key Takeaways 93% of patients who completed follow-up reported reduced tinnitus distress after audiologist-led treatment. Average tinnitus handicap scores dropped significantly, from 46.9 to 24.3, showing a large clinical effect. 81% of patients who started with moderate or worse tinnitus saw an improvement of at least one severity category. The study provides strong preliminary support...\nThe post Audiologist-Delivered Tinnitus Management Outcomes appeared first on Tinnitus.tips.",
       "imageUrl": "https://picsum.photos/seed/pgggu5/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-o385j",
-      "type": "article",
-      "title": "Internet CBT Cuts Anxiety in Autistic Youth, Minimal Therapist Time",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/internet-cbt-cuts-anxiety-in-autistic-youth-minimal-therapist-time/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-08-17T07:02:56.000Z",
-      "readTime": 1,
-      "summary": "Parent-Led Internet CBT for Autistic Youth Shows Efficacy with Minimal Therapist Time A 2024 randomized trial from Baylor College of Medicine and the Un...\nThe post Internet CBT Cuts Anxiety in Autistic Youth, Minimal Therapist Time appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/o385j/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-u8xeg2",
-      "type": "article",
-      "title": "Youth CBT Outcomes: Homework Adherence Boosts Treatment Results",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/youth-cbt-outcomes-homework-adherence-boosts-treatment-results/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-08-16T19:06:50.000Z",
-      "readTime": 1,
-      "summary": "Homework Adherence Produces a Small-to-Moderate Boost in Youth CBT Outcomes A 2026 meta-analysis of 1,179 young patients found a clear link between comp...\nThe post Youth CBT Outcomes: Homework Adherence Boosts Treatment Results appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/u8xeg2/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-mp12fj",
-      "type": "article",
-      "title": "Can New Gene Therapy Cure Blindness?",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/can-new-gene-therapy-cure-blindness/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-08-16T19:02:07.000Z",
-      "readTime": 1,
-      "summary": "🔬 Active Clinical Trial: NCT07740954 | Status: NOT_YET_RECRUITING | Phase: NA View full trial details on ClinicalTrials.gov → A Head-to-Head Trial for ...\nThe post Can New Gene Therapy Cure Blindness? appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/mp12fj/600/400",
       "tags": [
         "Tinnitus Research"
       ],
@@ -506,31 +574,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-review-11wz1u",
-      "type": "article",
-      "title": "ADA Awards Inaugural Audiology Practice Accreditation to North Carolina Clinic",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/inside-hearing/industry-news/ada-awards-inaugural-audiology-practice-accreditation-to-north-carolina-clinic",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-08-11T18:41:09.000Z",
-      "readTime": 1,
-      "summary": "The Academy of Doctors of Audiology has granted its new Audiology Practice Accreditation to Coates Hearing Clinic, a four-location independent practice in North Carolina, marking the program's first award since standards were adopted by ADA members in 2025.",
-      "imageUrl": "https://picsum.photos/seed/11wz1u/600/400",
-      "tags": [
-        "Industry News",
-        "Organizations",
-        "Practice Management",
-        "Academy of Doctors of Audiology",
-        "ADA",
-        "original"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-academy-7wc8g5",
       "type": "article",
       "title": "Senate Passes Continuing Resolution: What It Means for Hearing Health",
@@ -639,26 +682,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-tracker-78s5fk",
-      "type": "article",
-      "title": "Oticon Reveal Launches With Dual AI for Speech and Surrounding Sounds",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/oticon-reveal-launches-with-dual-ai-for-speech-and-surrounding-sounds",
-      "author": "Karl Strom",
-      "publishedAt": "2026-08-11T00:00:00.000Z",
-      "readTime": 1,
-      "summary": "Oticon launches Reveal, a new hearing aid with Dual AI technology designed to enhance speech while preserving important surrounding sounds.",
-      "imageUrl": "https://picsum.photos/seed/78s5fk/600/400",
-      "tags": [
-        "News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-tracker-w315dk",
       "type": "article",
       "title": "Demant Reports Strong Q2 Hearing Aid Growth, Raises 2026 Outlook",
@@ -676,6 +699,26 @@
       "whyItMatters": [
         "Relevant to your core patient population and treatment pathways.",
         "Directly applicable to your sales strategy and opportunity closure process."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-78s5fk",
+      "type": "article",
+      "title": "Oticon Reveal Launches With Dual AI for Speech and Surrounding Sounds",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/oticon-reveal-launches-with-dual-ai-for-speech-and-surrounding-sounds",
+      "author": "Karl Strom",
+      "publishedAt": "2026-08-11T00:00:00.000Z",
+      "readTime": 1,
+      "summary": "Oticon launches Reveal, a new hearing aid with Dual AI technology designed to enhance speech while preserving important surrounding sounds.",
+      "imageUrl": "https://picsum.photos/seed/78s5fk/600/400",
+      "tags": [
+        "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways."
       ],
       "saved": false
     },
@@ -1025,48 +1068,7 @@
         "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
       ],
       "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-c233vz",
-      "type": "article",
-      "title": "FDA Expands Advanced Bionics Cochlear Implant Candidacy to SSD and AHL",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/press-releases/fda-expands-advanced-bionics-cochlear-implant-candidacy-to-ssd-and-ahl",
-      "author": "Staff",
-      "publishedAt": "2026-07-31T12:53:00.000Z",
-      "readTime": 1,
-      "summary": "FDA expands Advanced Bionics cochlear implant criteria for adults and children with single-sided deafness or asymmetric hearing loss.",
-      "imageUrl": "https://picsum.photos/seed/c233vz/600/400",
-      "tags": [
-        "Press Releases"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-phonak-blog-5mhyig",
-      "type": "article",
-      "title": "Proper hearing loss language may drive better outcomes",
-      "source": "Phonak Audiology Blog",
-      "sourceUrl": "https://audiologyblog.phonakpro.com/proper-hearing-loss-language-may-drive-better-outcomes-2/",
-      "author": "Shari Eberts",
-      "publishedAt": "2026-07-30T09:26:50.000Z",
-      "readTime": 1,
-      "summary": "Using person-centered language that acknowledges your patient’s struggles but also conveys respect is a good first step towards making the idea of wearing hearing devices more palatable.\nThe post Proper hearing loss language may drive better outcomes appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
-      "imageUrl": "https://picsum.photos/seed/5mhyig/600/400",
-      "tags": [
-        "Clinical Practice"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
     }
   ],
-  "fetchedAt": "2026-08-18T06:54:31.970Z"
+  "fetchedAt": "2026-08-19T06:54:59.515Z"
 }
