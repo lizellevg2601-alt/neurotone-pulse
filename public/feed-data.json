@@ -1,6 +1,163 @@
 {
   "items": [
     {
+      "id": "feed-hearing-health-matters-r91yf4",
+      "type": "article",
+      "title": "Inside Signia MaX Hearing Aids: Four DNNs and a New Approach to Sound Processing",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/thisweek/2026/signia-max-four-dnn-ai/",
+      "author": "HHTM",
+      "publishedAt": "2026-08-25T03:58:54.000Z",
+      "readTime": 1,
+      "summary": "What changes when a hearing aid uses four specialized deep neural networks at the same time? Andrew Bellavia travels to Munich for an early look at Signia MaX, the company’s new hearing aid platform built around what Signia calls Acoustic Intelligence. Andrew sits down with Barinder Samra, MSc, Global Senior Commercial Audiology Manager at Signia, to explore how the new ...\nThe post Inside Signia MaX Hearing Aids: Four DNNs and a New Approach to Sound Processing appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/r91yf4/600/400",
+      "tags": [
+        "This Week in Hearing"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-p6tt10",
+      "type": "article",
+      "title": "Starkey Receives Prestigious Pro Patria Award for Support of National Guard and Reserve Employees",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/starkey-receivespro-patria-award/",
+      "author": "HHTM",
+      "publishedAt": "2026-08-25T03:36:08.000Z",
+      "readTime": 1,
+      "summary": "EDEN PRAIRIE, MINNESOTA — Starkey has been named a recipient of the 2026 Pro Patria Award, the highest honor presented by a state committee of the Employer Support of the Guard and Reserve (ESGR). The award recognizes Starkey for its support of employees serving in the National Guard and Reserve through workplace policies, leadership, and support for military service members and ...\nThe post Starkey Receives Prestigious Pro Patria Award for Support of National Guard and Reserve Employees appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/p6tt10/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly applicable to your sales strategy and opportunity closure process.",
+        "Tactical insight for growing patient pipeline and conversion rates."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-7w719x",
+      "type": "article",
+      "title": "Cannabis and Tinnitus: Effects in People With HIV",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/cannabis-and-tinnitus-effects-in-people-with-hiv/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-08-24T19:03:22.000Z",
+      "readTime": 1,
+      "summary": "A large study of over 3,400 adults found no link between cannabis use and whether someone develops tinnitus. However, among those who already have tinnitus, cannabis users were 29% less likely to rate their symptoms as a moderate-to-very big problem. Key Takeaways Cannabis use was not associated with the overall presence of tinnitus in a...\nThe post Cannabis and Tinnitus: Effects in People With HIV appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/7w719x/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-q281t4",
+      "type": "article",
+      "title": "Phonak Launches Eon Hearing Aids with New HyperSonic Chip and Auracast",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/phonak-launches-eon-hearing-aids-with-new-hypersonic-chip-and-auracast",
+      "author": "Melanie Hamilton",
+      "publishedAt": "2026-08-24T17:00:02.000Z",
+      "readTime": 1,
+      "summary": "Phonak's Eon hearing aid platform features 2 AI systems with a new power-efficient HyperSonic chip, advanced AI speech processing, Auracast and broad Bluetooth connectivity, and a smaller, lighter design with up to 38 hours of battery life.",
+      "imageUrl": "https://picsum.photos/seed/q281t4/600/400",
+      "tags": [
+        "Hearing Aids",
+        "AI hearing aids",
+        "Auracast broadcast audio",
+        "CROS",
+        "Deep Neural Network DNN",
+        "original"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-sz7hgl",
+      "type": "article",
+      "title": "Live Noisy: Signia Debuts MaX AI Hearing Aid Platform with 4 DNNs",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/live-noisy-signia-debuts-max-ai-hearing-aid-platform-with-4-dnns",
+      "author": "Melanie Hamilton",
+      "publishedAt": "2026-08-24T15:38:00.000Z",
+      "readTime": 1,
+      "summary": "Signia's new MaX AI hearing aid platform features four coordinated deep neural networks designed to analyze speech, own voice, sound scenes, and noise in real time for a more natural and immersive listening experience in complex environments.",
+      "imageUrl": "https://picsum.photos/seed/sz7hgl/600/400",
+      "tags": [
+        "Hearing Aids",
+        "AI hearing aids",
+        "Deep Neural Network AI",
+        "Deep Neural Network DNN",
+        "new product",
+        "original"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-ck5j51",
+      "type": "article",
+      "title": "Phonak Introduces EON Hearing Aid Platform with HYPERSONIC Chip and Updated AI Processing",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/phonak-eon-hearing-aids-new-chip/",
+      "author": "HHTM",
+      "publishedAt": "2026-08-24T11:00:31.000Z",
+      "readTime": 1,
+      "summary": "STÄFA, SWITZERLAND — Phonak has introduced EON, its next-generation hearing aid platform, featuring a newly developed HYPERSONIC™ chip along with updated artificial intelligence-based speech and environmental processing. The new platform brings together Spheric Speech Clarity 3.0, AutoSense OS™ AI 8.0 and Phonak’s Made-For-All connectivity. Compared with the previous Sphere generation, EON is 25% smaller and 20% lighter and offers up ...\nThe post Phonak Introduces EON Hearing Aid Platform with HYPERSONIC Chip and Updated AI Processing appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/ck5j51/600/400",
+      "tags": [
+        "Hearing Technologies"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-awf9tr",
+      "type": "article",
+      "title": "Signia Introduces MaX Hearing Aid Platform with Four-DNN Acoustic Intelligence",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/signia-max-4dnn-ai-hearing-aids/",
+      "author": "HHTM",
+      "publishedAt": "2026-08-24T09:05:55.000Z",
+      "readTime": 1,
+      "summary": "LYNGE, DENMARK — Signia, part of WSA, has introduced Signia Multi-adaptive Xperience (MaX), a new hearing aid platform built around what the company calls Acoustic Intelligence — a system that uses four task-specific deep neural networks (DNNs) to simultaneously analyze speech, noise, environmental conditions, and the wearer’s own voice. The Pure Charge&Go MaX receiver-in-canal (RIC) hearing aid is the first ...\nThe post Signia Introduces MaX Hearing Aid Platform with Four-DNN Acoustic Intelligence appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/awf9tr/600/400",
+      "tags": [
+        "Hearing Technologies"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-tinnitus-tips-5q0blu",
       "type": "article",
       "title": "Bioelectronic Therapies for Meniere’s Disease",
@@ -58,6 +215,59 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-online-rz3k4o",
+      "type": "article",
+      "title": "New EON hearing aid portfolio strengthens Phonak’s leadership in speech understanding, scene intelligence and Made-For-All connectivity",
+      "source": "Audiology Online",
+      "sourceUrl": "https://www.audiologyonline.com/releases/29795-new-eon-hearing-aid-portfolio",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "readTime": 1,
+      "summary": "Phonak today launched EON, its next-generation hearing aid platform",
+      "imageUrl": "https://picsum.photos/seed/rz3k4o/600/400",
+      "tags": [],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Directly applicable to your sales strategy and opportunity closure process."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-online-taktiv",
+      "type": "article",
+      "title": "Signia Introduces MaX, Powered by Acoustic Intelligence™: World's First AI Hearing Aid Platform with 4 DNNs",
+      "source": "Audiology Online",
+      "sourceUrl": "https://www.audiologyonline.com/releases/29796-signia-introduces-max-powered-by",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "readTime": 1,
+      "summary": "Signia introduces Multi-adaptive Xperience (MaX), the world's first multi-dimensional AI hearing aid platform with 4 DNNs, supporting wearers in noisy, vibrant environments.",
+      "imageUrl": "https://picsum.photos/seed/taktiv/600/400",
+      "tags": [],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-online-iom9qr",
+      "type": "article",
+      "title": "Starkey Receives Prestigious Pro Patria Award for Support of National Guard and Reserve Employees",
+      "source": "Audiology Online",
+      "sourceUrl": "https://www.audiologyonline.com/releases/29797-starkey-receives-prestigious-pro-patria",
+      "publishedAt": "2026-08-24T04:00:00.000Z",
+      "readTime": 1,
+      "summary": "Starkey receives the 2026 Pro Patria Award for its exceptional workplace support of National Guard and Reserve employees.",
+      "imageUrl": "https://picsum.photos/seed/iom9qr/600/400",
+      "tags": [],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
       ],
       "saved": false
     },
@@ -219,27 +429,6 @@
       "readTime": 1,
       "summary": "The online survey responses from 50 adults with misophonia reveal a consistent pattern of early concealment. Individuals reported hiding their intense reactions to trigger sounds like chewing or pen clicking from family and friends, often for years, due to fear of being misunderstood or labeled as overly sensitive. Key Takeaways The early experience of misophonia...\nThe post Early Misophonia Experiences: Firsthand Perspectives appeared first on Tinnitus.tips.",
       "imageUrl": "https://picsum.photos/seed/lcjubk/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-y8cu8j",
-      "type": "article",
-      "title": "Biomarkers for Tinnitus: Key Proteins Analyzed",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/biomarkers-for-tinnitus-key-proteins-analyzed/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-08-22T07:06:36.000Z",
-      "readTime": 1,
-      "summary": "Serum levels of the outer hair cell protein prestin were significantly higher in people with chronic tinnitus than in matched controls, according to a new study published in *Otolaryngology–Head and Neck Surgery* (PMID: 42605968). This finding provides new support for the role of outer hair cell dysfunction in tinnitus and points to a potential future...\nThe post Biomarkers for Tinnitus: Key Proteins Analyzed appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/y8cu8j/600/400",
       "tags": [
         "Tinnitus Research"
       ],
@@ -712,27 +901,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-y1b8w0",
-      "type": "article",
-      "title": "Vue Cinemas Brings Auri Auracast Assistive Listening to 200+ Screens Across UK and Ireland",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/vue-uk-ireland-auracast/",
-      "author": "HHTM",
-      "publishedAt": "2026-08-17T14:55:29.000Z",
-      "readTime": 1,
-      "summary": "BLUFFDALE, UTAH & NEWARK-ON-TRENT, U.K. — Vue has deployed an Auracast-based assistive listening system across 20 cinemas in the United Kingdom and Ireland, bringing direct wireless audio access to more than 200 screens. The installation uses Auri, an assistive listening system developed by Listen Technologies and Ampetronic around Bluetooth Auracast broadcast audio. According to the companies, the participating Vue locations ...\nThe post Vue Cinemas Brings Auri Auracast Assistive Listening to 200+ Screens Across UK and Ireland appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/y1b8w0/600/400",
-      "tags": [
-        "Hearing Technologies"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Addresses common patient objections — useful for your sales conversations and team coaching."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-review-wxqvq3",
       "type": "article",
       "title": "Samsung’s Galaxy Buds Hearing Aid Feature Receives FDA Clearance",
@@ -759,27 +927,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-8fszi9",
-      "type": "article",
-      "title": "Fennec Reports Growing PEDMARK Demand as New Data Support Hearing Protection During Cisplatin Treatment",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/pedmark-cisplatin-hearing-loss-prevention/",
-      "author": "HHTM",
-      "publishedAt": "2026-08-14T03:30:32.000Z",
-      "readTime": 1,
-      "summary": "Fennec Pharmaceuticals reported continued growth in demand for PEDMARK® (sodium thiosulfate), its treatment designed to reduce the risk of hearing loss associated with cisplatin chemotherapy, as new clinical evidence adds support for protecting hearing without compromising cisplatin’s antitumor activity. PEDMARK net product sales reached $17.1 million during the second quarter of 2026, up 78% from $9.7 million during the same ...\nThe post Fennec Reports Growing PEDMARK Demand as New Data Support Hearing Protection During Cisplatin Treatment appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/8fszi9/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-review-pjb0p8",
       "type": "article",
       "title": "Study Offers New Model of How the Cochlea Processes Sound — With Implications for Hearing Aid Fitting",
@@ -802,100 +949,6 @@
       "whyItMatters": [
         "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes.",
         "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-review-la68xp",
-      "type": "article",
-      "title": "IHS Announces 2026 Award Recipients",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/inside-hearing/organizations/ihs-announces-2026-award-recipients",
-      "author": "Melanie Hamilton",
-      "publishedAt": "2026-08-13T21:05:00.000Z",
-      "readTime": 1,
-      "summary": "The IHS 2026 award recipients will be recognized at the closing awards celebration on August 15, during the 2026 IHS Conference & Expo in Washington, D.C.",
-      "imageUrl": "https://picsum.photos/seed/la68xp/600/400",
-      "tags": [
-        "Organizations",
-        "hearing aid specialists",
-        "IHS Lifetime Achievement Award",
-        "International Hearing Society IHS",
-        "original",
-        "professional conferences"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Directly applicable to your sales strategy and opportunity closure process."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-tsa002",
-      "type": "article",
-      "title": "Doctor of Audiology Emilie Vos Places Second Runner-Up at Miss Universe Canada 2026",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/emilie-vos-miss-universe/",
-      "author": "HHTM",
-      "publishedAt": "2026-08-13T12:28:00.000Z",
-      "readTime": 1,
-      "summary": "Toronto audiologist Emilie Vos, AuD, placed second runner-up at Miss Universe Canada 2026, using the national competition to bring greater attention to hearing healthcare, newborn hearing screening and hearing conservation. Vos finished among the top three delegates in the competition and was also named a Top Five Humanitarian finalist and finished among the Top Three in the People’s Choice vote. ...\nThe post Doctor of Audiology Emilie Vos Places Second Runner-Up at Miss Universe Canada 2026 appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/tsa002/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Competitive intelligence to sharpen your positioning and value proposition.",
-        "Understanding practitioner perspectives is key to your sales conversations with clinics."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-review-8djewh",
-      "type": "article",
-      "title": "Oticon Launches Reveal Hearing Aid Powered by Dual AI System",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/oticon-launches-reveal-hearing-aid-powered-by-dual-ai-system",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-08-12T18:55:24.000Z",
-      "readTime": 1,
-      "summary": "Oticon's new Reveal hearing aid pairs two dedicated AI systems—one for speech, one for context—with an upgraded connectivity platform.",
-      "imageUrl": "https://picsum.photos/seed/8djewh/600/400",
-      "tags": [
-        "Hearing Aids",
-        "Industry News",
-        "Speech in Noise",
-        "AI hearing aids",
-        "new product",
-        "original"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-xxvnpu",
-      "type": "article",
-      "title": "Oticon Launches Reveal Hearing Aids with Dual AI Processing and Expanded Connectivity",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/oticon-reveal-dual-ai-processing/",
-      "author": "HHTM",
-      "publishedAt": "2026-08-12T16:37:43.000Z",
-      "readTime": 1,
-      "summary": "Oticon has introduced Oticon Reveal™, a new hearing aid platform featuring what the company describes as the world’s first Dual AI system for hearing aids. The new platform uses two dedicated AI systems—one focused on speech and another on contextual sounds—with the goal of providing clearer speech while preserving meaningful sounds in the surrounding environment. Oticon Reveal also incorporates a ...\nThe post Oticon Launches Reveal Hearing Aids with Dual AI Processing and Expanded Connectivity appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/xxvnpu/600/400",
-      "tags": [
-        "Hearing Technologies"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
       ],
       "saved": false
     },
@@ -1030,66 +1083,7 @@
         "Practice management insights to help grow your hearing care business."
       ],
       "saved": false
-    },
-    {
-      "id": "feed-audiology-online-j62qxi",
-      "type": "article",
-      "title": "Elevate Your Practice: Expert-Led Education for H2 2026 from Inventis Academia",
-      "source": "Audiology Online",
-      "sourceUrl": "https://www.audiologyonline.com/releases/29781-elevate-your-practice-expert-led",
-      "publishedAt": "2026-08-11T04:00:00.000Z",
-      "readTime": 1,
-      "summary": "To support clinicians in navigating increasingly complex cases, Inventis Academia is rolling out an exclusive new series of live educational webinars running from September through December 2026.",
-      "imageUrl": "https://picsum.photos/seed/j62qxi/600/400",
-      "tags": [],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Practice management insights to help grow your hearing care business.",
-        "Understanding practitioner perspectives is key to your sales conversations with clinics."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-w315dk",
-      "type": "article",
-      "title": "Demant Reports Strong Q2 Hearing Aid Growth, Raises 2026 Outlook",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/demant-reports-strong-q2-hearing-aid-growth-raises-2026-outlook",
-      "author": "Karl Strom",
-      "publishedAt": "2026-08-11T00:00:00.000Z",
-      "readTime": 1,
-      "summary": "Demant reports 10% organic hearing aid growth in Q2 2026, led by strong North American performance, and raises its full-year financial outlook.",
-      "imageUrl": "https://picsum.photos/seed/w315dk/600/400",
-      "tags": [
-        "News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Directly applicable to your sales strategy and opportunity closure process."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-78s5fk",
-      "type": "article",
-      "title": "Oticon Reveal Launches With Dual AI for Speech and Surrounding Sounds",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/oticon-reveal-launches-with-dual-ai-for-speech-and-surrounding-sounds",
-      "author": "Karl Strom",
-      "publishedAt": "2026-08-11T00:00:00.000Z",
-      "readTime": 1,
-      "summary": "Oticon launches Reveal, a new hearing aid with Dual AI technology designed to enhance speech while preserving important surrounding sounds.",
-      "imageUrl": "https://picsum.photos/seed/78s5fk/600/400",
-      "tags": [
-        "News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
     }
   ],
-  "fetchedAt": "2026-08-24T07:10:44.355Z"
+  "fetchedAt": "2026-08-25T06:58:00.506Z"
 }
