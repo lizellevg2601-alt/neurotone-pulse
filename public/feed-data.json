@@ -1,6 +1,248 @@
 {
   "items": [
     {
+      "id": "feed-phonak-blog-y210aw",
+      "type": "article",
+      "title": "WindBlock 2.0: Comfort and clarity outdoors",
+      "source": "Phonak Audiology Blog",
+      "sourceUrl": "https://audiologyblog.phonakpro.com/windblock-2-0-comfort-and-clarity-outdoors/",
+      "author": "Alice Lindeman",
+      "publishedAt": "2026-09-01T07:02:02.000Z",
+      "readTime": 1,
+      "summary": "Phonak EON introduces WindBlock 2.0, a wind noise cancellation algorithm that goes beyond suppression to actively preserve speech when wind noise is present. It operates automatically across performance levels, helping support communication in everyday outdoor environments.\nThe post WindBlock 2.0: Comfort and clarity outdoors appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
+      "imageUrl": "https://picsum.photos/seed/y210aw/600/400",
+      "tags": [
+        "Technology",
+        "audiology",
+        "EON",
+        "Hearing care",
+        "hearing loss"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-e4my6h",
+      "type": "article",
+      "title": "Phonak EON Takes Sphere’s AI Performance into a Smaller, More Accessible Era",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/phonak-eon-takes-sphere-s-ai-performance-into-a-smaller-more-accessible-era",
+      "author": "Karl Strom",
+      "publishedAt": "2026-08-31T20:30:00.000Z",
+      "readTime": 1,
+      "summary": "Inside Phonak’s EON launch: a smaller Sphere hearing aid with a new Hypersonic AI chip, Auracast, WindBlock 2.0, and expanded speech clarity.",
+      "imageUrl": "https://picsum.photos/seed/e4my6h/600/400",
+      "tags": [
+        "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-gqqfqq",
+      "type": "article",
+      "title": "Auri Auracast Assistive Listening System Comes to Vue Cinemas Across UK and Ireland",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-products/accessories/assistive-technologies/auri-auracast-assistive-listening-system-comes-to-vue-cinemas-across-uk-and-ireland",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-08-31T19:21:40.000Z",
+      "readTime": 1,
+      "summary": "Listen Technologies and Ampetronic have deployed their Auri assistive listening system across 20 Vue cinema locations in the UK and Ireland.",
+      "imageUrl": "https://picsum.photos/seed/gqqfqq/600/400",
+      "tags": [
+        "Assistive Devices",
+        "Assistive Technologies",
+        "Industry News",
+        "Ampetronic",
+        "Auracast broadcast audio",
+        "Auri"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-eoqp7a",
+      "type": "article",
+      "title": "Tinnitus and Sleep Disturbance: A Bidirectional Link",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/tinnitus-and-sleep-disturbance-a-bidirectional-link-2/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-08-31T19:08:34.000Z",
+      "readTime": 1,
+      "summary": "The comorbidity of tinnitus and sleep disturbance creates a debilitating vicious cycle, substantially compromising patients’ health. A 2026 systematic review in *Frontiers in Neurology* by Jiawei Sun, Difei Li, and colleagues synthesizes the evidence, arguing this relationship is not merely causal but driven by shared central nervous system mechanisms. The authors propose that persistent central...\nThe post Tinnitus and Sleep Disturbance: A Bidirectional Link appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/eoqp7a/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-qz3u5a",
+      "type": "article",
+      "title": "Noise Sensitivity and Anxiety After Brain Injury",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/noise-sensitivity-and-anxiety-after-brain-injury/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-08-31T19:06:53.000Z",
+      "readTime": 1,
+      "summary": "Fourteen adults recovering from a mild traumatic brain injury (mTBI) described a complex web of symptoms where noise sensitivity, balance issues, and anxiety frequently interacted, constraining their daily lives. A new qualitative study from researchers at the University of Otago Christchurch and the University of Pittsburgh provides a detailed look at these lived experiences, highlighting...\nThe post Noise Sensitivity and Anxiety After Brain Injury appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/qz3u5a/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Sales enablement best practices to level up your team's closing skills."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-uirhyj",
+      "type": "article",
+      "title": "Childhood Trauma, Emotion Regulation, and Misophonia Link",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/childhood-trauma-emotion-regulation-and-misophonia-link-2/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-08-31T19:05:35.000Z",
+      "readTime": 1,
+      "summary": "Key Takeaways A study of 294 university students found strong positive links between childhood trauma, emotion regulation difficulties, and misophonia severity. The data suggests that difficulties in managing emotions fully explain the link between childhood trauma and misophonia. Childhood trauma did not have a significant direct effect on misophonia when emotion regulation problems were considered....\nThe post Childhood Trauma, Emotion Regulation, and Misophonia Link appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/uirhyj/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-b8n805",
+      "type": "article",
+      "title": "tDCS Outcomes: Sex Differences in Hearing Health",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/tdcs-outcomes-sex-differences-in-hearing-health/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-08-31T19:04:38.000Z",
+      "readTime": 1,
+      "summary": "A 2026 review of 47 studies has concluded that biological sex is a significant and complex factor in how individuals respond to transcranial direct current stimulation (tDCS). The research, published in *Cells*, finds that identical tDCS protocols can produce different outcomes in women and men, a finding that has direct implications for its potential use...\nThe post tDCS Outcomes: Sex Differences in Hearing Health appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/b8n805/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Emerging tinnitus treatment modality — understand the competitive landscape."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-v4om2u",
+      "type": "article",
+      "title": "Predicting Sound Timing in Hearing Disorders",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/predicting-sound-timing-in-hearing-disorders/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-08-31T19:02:38.000Z",
+      "readTime": 1,
+      "summary": "The brain creates unified predictions that specify not just *what* will happen, but also *when* and *how likely* it is to occur. This integrated forecast, which researchers term a “complete prediction object,” is fundamental to how we interact with a world full of sound. A new study demonstrates that a single network of neurons can...\nThe post Predicting Sound Timing in Hearing Disorders appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/v4om2u/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-gv82tv",
+      "type": "article",
+      "title": "ACI Alliance Releases Free Medicaid Toolkit Ahead of Expected Federal Funding Cuts",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-products/implants-bone-conduction/cochlear-implants/aci-alliance-releases-free-medicaid-toolkit-ahead-of-expected-federal-funding-cuts",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-08-31T18:35:34.000Z",
+      "readTime": 1,
+      "summary": "The six-module online resource is designed to help audiologists, CI surgeons, and advocates protect cochlear implant coverage as OBBBA-driven Medicaid changes take effect as early as December 2026.",
+      "imageUrl": "https://picsum.photos/seed/gv82tv/600/400",
+      "tags": [
+        "Cochlear Implants",
+        "Legislation",
+        "Medicare & Insurance",
+        "ACI Alliance",
+        "medicaid",
+        "original"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Policy changes affect patient access and your practice revenue.",
+        "Pricing and affordability strategies that affect deal velocity and close rates."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-b7ekhq",
+      "type": "article",
+      "title": "September 2026 NeuroAudiology Newsletter",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/pathways-society/2026/september-2026-neuroaudiology-newsletter/",
+      "author": "HHTM",
+      "publishedAt": "2026-08-31T14:29:49.000Z",
+      "readTime": 1,
+      "summary": "Click here to read the September NeuroAudiology Newsletter.\nThe post September 2026 NeuroAudiology Newsletter appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/b7ekhq/600/400",
+      "tags": [
+        "Pathways Society"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-t0wbf9",
+      "type": "article",
+      "title": "Phonak EON Hearing Aids Deep Dive: Smaller Sphere, Smarter AI and Auracast",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/thisweek/2026/phonak-eon-sphere-ai-hearing-aid-review/",
+      "author": "HHTM",
+      "publishedAt": "2026-08-31T14:16:49.000Z",
+      "readTime": 1,
+      "summary": "Phonak’s new EON hearing aid platform brings a smaller Sphere design, a new HYPERSONIC AI chip, expanded Spheric Speech Clarity, improved wind noise management, and Auracast connectivity. Andrew Bellavia visits the Phonak EON hearing aid launch at Ravinia Festival near Chicago for an in-depth look at the technology with Christine Jones, Michael Preuss, and Stefan Launer. They explore how a ...\nThe post Phonak EON Hearing Aids Deep Dive: Smaller Sphere, Smarter AI and Auracast appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/t0wbf9/600/400",
+      "tags": [
+        "This Week in Hearing"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-tinnitus-tips-9utbxe",
       "type": "article",
       "title": "Auditory Brainstem Response Norms for Hearing Health",
@@ -106,27 +348,6 @@
       "saved": false
     },
     {
-      "id": "feed-tinnitus-tips-sl0rr0",
-      "type": "article",
-      "title": "Auditory Brainstem Response: Cochlear Health Indicator",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/auditory-brainstem-response-cochlear-health-indicator-2/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-08-30T19:03:19.000Z",
-      "readTime": 1,
-      "summary": "A new study has established clear normative ranges for a key auditory brainstem response (ABR) measurement, providing clinicians with a potential tool to diagnose cochlear deafferentation—a hidden hearing loss—in patients with normal hearing tests. Published in the *American Journal of Audiology*, the research from the VA National Center for Rehabilitative Auditory Research offers a method...\nThe post Auditory Brainstem Response: Cochlear Health Indicator appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/sl0rr0/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-health-matters-ekwu0s",
       "type": "article",
       "title": "Cochlear Implants for Children: New Study Supports Earlier Access and Expanded Candidacy",
@@ -144,90 +365,6 @@
       "whyItMatters": [
         "Relevant to your core patient population and treatment pathways.",
         "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-otcrgo",
-      "type": "article",
-      "title": "Cannabis and Tinnitus in HIV and Non-HIV Individuals",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/cannabis-and-tinnitus-in-hiv-and-non-hiv-individuals/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-08-30T07:02:32.000Z",
-      "readTime": 1,
-      "summary": "Cannabis use was not linked to whether people experienced tinnitus, but it was associated with them reporting their tinnitus as less severe. This is the conclusion of a recent analysis of over 3,400 adults, published in The Open Public Health Journal by researchers Chukwuemeka N. Okafor, Deanna Ware, and Andrew Edmonds. Key Takeaways In a...\nThe post Cannabis and Tinnitus in HIV and Non-HIV Individuals appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/otcrgo/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-a1nzu3",
-      "type": "article",
-      "title": "New Psoriasis Treatment Shows Promising Results",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/new-psoriasis-treatment-shows-promising-results/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-08-30T07:02:16.000Z",
-      "readTime": 1,
-      "summary": "🔬 Active Clinical Trial: NCT07788638 | Status: RECRUITING | Phase: NA View full trial details on ClinicalTrials.gov → Learning to Control Brain Activit...\nThe post New Psoriasis Treatment Shows Promising Results appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/a1nzu3/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-6ty5s1",
-      "type": "article",
-      "title": "Audiologist Tinnitus Management Outcomes in Singapore",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/audiologist-tinnitus-management-outcomes-in-singapore-5/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-08-29T19:04:27.000Z",
-      "readTime": 1,
-      "summary": "Audiologist-led tinnitus management in a Singapore hospital achieved a large, significant reduction in patients’ reported tinnitus handicap. A retrospective analysis of 201 patients found that three months after treatment, the mean Tinnitus Handicap Inventory (THI) score fell from 46.9 to 24.3. Key Takeaways 93% of patients who attended a follow-up showed a reduction in their...\nThe post Audiologist Tinnitus Management Outcomes in Singapore appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/6ty5s1/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Understanding practitioner perspectives is key to your sales conversations with clinics."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-255rvf",
-      "type": "article",
-      "title": "Tinnitus and Sleep: A Bidirectional Cycle Explained",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/tinnitus-and-sleep-a-bidirectional-cycle-explained/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-08-29T19:03:07.000Z",
-      "readTime": 1,
-      "summary": "A 2026 systematic review confirms that tinnitus and sleep disturbance do not simply co-occur; they fuel each other in a debilitating and self-reinforcing cycle. The analysis by Sun, Li, and colleagues synthesizes clinical and neurobiological evidence, arguing that the relationship is bidirectional and driven by shared brain mechanisms. Key Takeaways Tinnitus and poor sleep create...\nThe post Tinnitus and Sleep: A Bidirectional Cycle Explained appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/255rvf/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Practice management insights to help grow your hearing care business."
       ],
       "saved": false
     },
@@ -670,27 +807,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-p6tt10",
-      "type": "article",
-      "title": "Starkey Receives Prestigious Pro Patria Award for Support of National Guard and Reserve Employees",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/starkey-receivespro-patria-award/",
-      "author": "HHTM",
-      "publishedAt": "2026-08-25T03:36:08.000Z",
-      "readTime": 1,
-      "summary": "EDEN PRAIRIE, MINNESOTA — Starkey has been named a recipient of the 2026 Pro Patria Award, the highest honor presented by a state committee of the Employer Support of the Guard and Reserve (ESGR). The award recognizes Starkey for its support of employees serving in the National Guard and Reserve through workplace policies, leadership, and support for military service members and ...\nThe post Starkey Receives Prestigious Pro Patria Award for Support of National Guard and Reserve Employees appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/p6tt10/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly applicable to your sales strategy and opportunity closure process.",
-        "Tactical insight for growing patient pipeline and conversion rates."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-review-q281t4",
       "type": "article",
       "title": "Phonak Launches Eon Hearing Aids with New HyperSonic Chip and Auracast",
@@ -734,27 +850,6 @@
         "Deep Neural Network DNN",
         "new product",
         "original"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-ck5j51",
-      "type": "article",
-      "title": "Phonak Introduces EON Hearing Aid Platform with HYPERSONIC Chip and Updated AI Processing",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/phonak-eon-hearing-aids-new-chip/",
-      "author": "HHTM",
-      "publishedAt": "2026-08-24T11:00:31.000Z",
-      "readTime": 1,
-      "summary": "STÄFA, SWITZERLAND — Phonak has introduced EON, its next-generation hearing aid platform, featuring a newly developed HYPERSONIC™ chip along with updated artificial intelligence-based speech and environmental processing. The new platform brings together Spheric Speech Clarity 3.0, AutoSense OS™ AI 8.0 and Phonak’s Made-For-All connectivity. Compared with the previous Sphere generation, EON is 25% smaller and 20% lighter and offers up ...\nThe post Phonak Introduces EON Hearing Aid Platform with HYPERSONIC Chip and Updated AI Processing appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/ck5j51/600/400",
-      "tags": [
-        "Hearing Technologies"
       ],
       "relevanceScore": 50,
       "whyItMatters": [
@@ -951,52 +1046,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-tracker-9zdhph",
-      "type": "article",
-      "title": "Ceretone and Easter Seals Greater Houston Bring Hearing Technology to Local Seniors",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/press-releases/ceretone-and-easter-seals-greater-houston-bring-hearing-technology-to-local-seniors",
-      "author": "Staff",
-      "publishedAt": "2026-08-21T13:00:00.000Z",
-      "readTime": 1,
-      "summary": "Ceretone partners with Houston nonprofits to give seniors free Core One Pro OTC hearing aids and gather feedback to improve future products.",
-      "imageUrl": "https://picsum.photos/seed/9zdhph/600/400",
-      "tags": [
-        "Press Releases"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-review-ot4fgx",
-      "type": "article",
-      "title": "Individualized Hearing Aid Sound Quality Affects Mood and Well-Being",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/individualized-hearing-aid-sound-quality-affects-mood-and-well-being",
-      "author": "Melanie Hamilton",
-      "publishedAt": "2026-08-19T19:21:42.000Z",
-      "readTime": 1,
-      "summary": "A new study reinforces the importance of choosing hearing aids with good sound quality and of individualizing the sound to the individual wearer to improve their mood and well-being.",
-      "imageUrl": "https://picsum.photos/seed/ot4fgx/600/400",
-      "tags": [
-        "Health & Wellness",
-        "Hearing Aids",
-        "contributed article",
-        "Eric Branda",
-        "Erin Picou",
-        "Laura Winther Balling"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Patient acquisition strategies to inform your go-to-market approach."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-online-4ndbvx",
       "type": "article",
       "title": "Call for Abstract Submissions Open for AAA 2027 Annual Convention in St Louis, Missouri",
@@ -1030,54 +1079,7 @@
         "Policy changes affect patient access and your practice revenue."
       ],
       "saved": false
-    },
-    {
-      "id": "feed-hearing-review-6fhgl",
-      "type": "article",
-      "title": "Jabra Enhance Launches M Series FDA-Cleared Self-Fitting Hearing Aids",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/otc/jabra-enhance-launches-m-series-fda-cleared-self-fitting-hearing-aids",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-08-18T23:57:21.000Z",
-      "readTime": 1,
-      "summary": "Jabra Enhance has debuted its M Series lineup headlined by the Enhance Select M3, which the company bills as the world's smallest rechargeable micro receiver-in-ear hearing aid.",
-      "imageUrl": "https://picsum.photos/seed/6fhgl/600/400",
-      "tags": [
-        "Over the Counter",
-        "TeleHealth",
-        "Auracast broadcast audio",
-        "FDA clearance",
-        "Jabra Enhance",
-        "Jabra Enhance OTC"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-phonak-blog-e098si",
-      "type": "article",
-      "title": "New research explores DNN denoising and Mandarin tone perception",
-      "source": "Phonak Audiology Blog",
-      "sourceUrl": "https://audiologyblog.phonakpro.com/new-research-explores-dnn-denoising-and-mandarin-tone-perception/",
-      "author": "Jingjing Guan",
-      "publishedAt": "2026-08-18T09:18:27.000Z",
-      "readTime": 1,
-      "summary": "A new study from PARC Shanghai, Shanghai Jiao Tong University, and Sonova researchers in Switzerland explores whether DNN denoising can preserve Mandarin lexical tone perception in noise.\nThe post New research explores DNN denoising and Mandarin tone perception appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
-      "imageUrl": "https://picsum.photos/seed/e098si/600/400",
-      "tags": [
-        "Evidence",
-        "PARC",
-        "Sonova China"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
     }
   ],
-  "fetchedAt": "2026-08-31T13:21:01.285Z"
+  "fetchedAt": "2026-09-01T11:29:01.375Z"
 }
