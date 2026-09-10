@@ -1,6 +1,183 @@
 {
   "items": [
     {
+      "id": "feed-phonak-blog-y8ynnj",
+      "type": "article",
+      "title": "Phonak EON: Every aspect purposefully designed",
+      "source": "Phonak Audiology Blog",
+      "sourceUrl": "https://audiologyblog.phonakpro.com/phonak-eon-every-aspect-purposefully-designed/",
+      "author": "Jodie Nelson",
+      "publishedAt": "2026-09-10T09:50:17.000Z",
+      "readTime": 1,
+      "summary": "Great hearing aid design goes beyond the physical device. With Phonak EON, every design decision has a purpose, from how it feels and functions throughout the day to the technology clients can access and the way hearing care professionals fit it.\nThe post Phonak EON: Every aspect purposefully designed appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
+      "imageUrl": "https://picsum.photos/seed/y8ynnj/600/400",
+      "tags": [
+        "Technology",
+        "audiology",
+        "EON",
+        "Hearing care",
+        "hearing loss"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-xz6pcq",
+      "type": "article",
+      "title": "Misophonia: Brain Responses to Sound Triggers",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/misophonia-brain-responses-to-sound-triggers/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-09-10T07:07:10.000Z",
+      "readTime": 1,
+      "summary": "The physiological distress of misophonia can be triggered not just by sounds, but by the mere sight of someone preparing to make that sound, and even by thinking about the sound. A 2026 study from the University of South Carolina provides the first comprehensive evidence for this multi-sensory reality, measuring the body’s direct response to...\nThe post Misophonia: Brain Responses to Sound Triggers appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/xz6pcq/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-4zrw63",
+      "type": "article",
+      "title": "Pandemic Stress Worsens Tinnitus and Depression",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/pandemic-stress-worsens-tinnitus-and-depression-3/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-09-10T07:05:24.000Z",
+      "readTime": 1,
+      "summary": "During the strictest COVID-19 restrictions in 2020, people with chronic bothersome tinnitus showed significantly higher rates of depression and stress than those without tinnitus or with only mild symptoms. This is the central finding from a new analysis of Korean national health data, which also found that this psychological gap had closed by 2022 when...\nThe post Pandemic Stress Worsens Tinnitus and Depression appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/4zrw63/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-yn8l79",
+      "type": "article",
+      "title": "Dental Occlusion, Brain Function, and Hearing Health",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/dental-occlusion-brain-function-and-hearing-health/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-09-10T07:03:32.000Z",
+      "readTime": 1,
+      "summary": "A new review paper confirms the brain and the jaw have a two-way conversation. Research by Bingfeng Dai, Ziming Zhao, and Jie Lin synthesizes evidence showing that dental occlusion—how your teeth fit together—directly influences brain structure and function, while the brain simultaneously regulates jaw position and muscle tone. This bidirectional relationship has significant implications for...\nThe post Dental Occlusion, Brain Function, and Hearing Health appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/yn8l79/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-7ha88",
+      "type": "article",
+      "title": "Streamlining Operations in the Modern Audiology Practice",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/practice-building/office-services/office-management-systems/streamlining-operations-in-the-modern-audiology-practice",
+      "author": "Melanie Hamilton",
+      "publishedAt": "2026-09-09T19:50:31.000Z",
+      "readTime": 1,
+      "summary": "By addressing operational bottlenecks with integrated software and automated workflows, hearing care practices can save time, improve data quality, and enhance the patient experience.",
+      "imageUrl": "https://picsum.photos/seed/7ha88/600/400",
+      "tags": [
+        "Office Management Systems",
+        "Practice Management",
+        "Auditdata",
+        "AudSoft",
+        "Blueprint Solutions",
+        "HIMSA"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Practice management insights to help grow your hearing care business.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-l6eau0",
+      "type": "article",
+      "title": "Misophonia: Auditory, Visual, and Imagery Triggers",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/misophonia-auditory-visual-and-imagery-triggers/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-09-09T19:04:43.000Z",
+      "readTime": 1,
+      "summary": "Key Takeaways People with misophonia show heightened physiological stress—including muscle tension, sweating, and heart rate increases—specifically to trigger sounds, not just generally unpleasant noises. Silent videos of trigger actions (like someone chewing) can also provoke a significant, though slightly weaker, physiological response. Simply imagining a trigger sound can elicit a measurable stress reaction in the...\nThe post Misophonia: Auditory, Visual, and Imagery Triggers appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/l6eau0/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-tinnitus-tips-owclen",
+      "type": "article",
+      "title": "Dental Occlusion’s Brain and Hearing Health Links",
+      "source": "Tinnitus Research",
+      "sourceUrl": "https://tinnitus.tips/dental-occlusions-brain-and-hearing-health-links/",
+      "author": "Tinnitus Tips Editorial",
+      "publishedAt": "2026-09-09T19:03:31.000Z",
+      "readTime": 1,
+      "summary": "A new review paper from researchers at Nanjing University has synthesized the evidence for a two-way street between how your teeth fit together and how your brain functions. The work by Bingfeng Dai, Ziming Zhao, and Jie Lin argues that sensory input from dental occlusion—the contact between upper and lower teeth—can directly modulate sensorimotor control,...\nThe post Dental Occlusion’s Brain and Hearing Health Links appeared first on Tinnitus.tips.",
+      "imageUrl": "https://picsum.photos/seed/owclen/600/400",
+      "tags": [
+        "Tinnitus Research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-academy-47gn11",
+      "type": "article",
+      "title": "A Case Study Providing a Potential Link Between Long-COVID and Vestibular Symptoms ",
+      "source": "American Academy of Audiology",
+      "sourceUrl": "https://www.audiology.org/a-case-study-providing-a-potential-link-between-long-covid-and-vestibular-symptoms/",
+      "author": "AishaAli",
+      "publishedAt": "2026-09-09T13:00:00.000Z",
+      "readTime": 1,
+      "summary": "The case report, Relative Brain Perfusion Differences in a Patient with Persistent Neurocognitive and Vestibular Symptoms Associated with Post-COVID-19 Condition: A Case Report (Pham, 2026), describes a patient who developed persistent…\nThe post A Case Study Providing a Potential Link Between Long-COVID and Vestibular Symptoms  appeared first on American Academy of Audiology.",
+      "imageUrl": "https://picsum.photos/seed/47gn11/600/400",
+      "tags": [
+        "Audiology in the News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly supports the brain-training approach your hearing app is built on.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-tinnitus-tips-cho0mb",
       "type": "article",
       "title": "Tinnitus and Sleep Disturbance: A Bidirectional Cycle",
@@ -183,6 +360,27 @@
       "saved": false
     },
     {
+      "id": "feed-hearing-health-matters-x8qhpt",
+      "type": "article",
+      "title": "Beyond the Audiology Appointment: How HLAA Supports People with Hearing Loss",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/thisweek/2026/hlaa-resources-clinicians/",
+      "author": "HHTM",
+      "publishedAt": "2026-09-08T15:05:49.000Z",
+      "readTime": 1,
+      "summary": "For people with hearing loss, many of the biggest challenges happen outside the clinic—from navigating difficult listening situations to managing the emotional and social impact of hearing loss. Shari Eberts is joined by Dan Reiner, Director of Communications and Marketing at the Hearing Loss Association of America (HLAA), to explore how the organization can complement clinical hearing care and help ...\nThe post Beyond the Audiology Appointment: How HLAA Supports People with Hearing Loss appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/x8qhpt/600/400",
+      "tags": [
+        "This Week in Hearing"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-tinnitus-tips-biwt3f",
       "type": "article",
       "title": "Pandemic Stress Worsens Tinnitus and Depression",
@@ -331,111 +529,6 @@
       "whyItMatters": [
         "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
         "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-8fj5vx",
-      "type": "article",
-      "title": "New Hope in [Condition Name] Treatment",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/new-hope-in-condition-name-treatment/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-09-06T07:03:17.000Z",
-      "readTime": 1,
-      "summary": "🔬 Active Clinical Trial: NCT07798297 | Status: RECRUITING | Phase: NA View full trial details on ClinicalTrials.gov → A Targeted Trial for an Untreated...\nThe post New Hope in [Condition Name] Treatment appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/8fj5vx/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-65j1xt",
-      "type": "article",
-      "title": "Hyperacusis Treatment and Management: Evidence-Based Guide",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/hyperacusis-treatment-and-management-evidence-based-guide/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-09-05T09:32:06.000Z",
-      "readTime": 1,
-      "summary": "Hyperacusis Treatment and Management: A Complete Evidence-Based Guide Hyperacusis — a reduced tolerance to everyday sound — affects an estimated 3–17% o...\nThe post Hyperacusis Treatment and Management: Evidence-Based Guide appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/65j1xt/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-uirhwt",
-      "type": "article",
-      "title": "Childhood Trauma, Emotion Regulation, and Misophonia Link",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/childhood-trauma-emotion-regulation-and-misophonia-link-4/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-09-05T07:09:54.000Z",
-      "readTime": 1,
-      "summary": "A cross-sectional study of 294 university students has found that the link between childhood trauma and misophonia is fully explained by difficulties in regulating emotions. The research, led by Şenay Kılınçel, Furkan Bulut, and Pelin Göksel, suggests that trauma may contribute to sound intolerance by impairing a person’s ability to manage their emotional reactions. Key...\nThe post Childhood Trauma, Emotion Regulation, and Misophonia Link appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/uirhwt/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-lv7csq",
-      "type": "article",
-      "title": "Misophonia Triggers: Auditory vs. Visual Responses",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/misophonia-triggers-auditory-vs-visual-responses/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-09-05T07:08:14.000Z",
-      "readTime": 1,
-      "summary": "Key Takeaways People with misophonia show stronger, measurable physiological reactions to trigger sounds compared to generally unpleasant noises. Silent videos of trigger actions (like someone chewing) can also cause a significant physiological stress response, primarily in facial muscle tension and heart rate. Even imagining a trigger sound can activate part of the misophonic response, specifically...\nThe post Misophonia Triggers: Auditory vs. Visual Responses appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/lv7csq/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-yfb65z",
-      "type": "article",
-      "title": "Acupuncture for Tinnitus: Mechanisms and Treatment Advances",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/acupuncture-for-tinnitus-mechanisms-and-treatment-advances/",
-      "author": "Tinnitus Tips Editorial",
-      "publishedAt": "2026-09-05T07:06:17.000Z",
-      "readTime": 1,
-      "summary": "Key Takeaways Tinnitus involves a dual mechanism: peripheral hearing damage combined with abnormal central nervous system plasticity, including changes in the auditory cortex and limbic system. Conventional treatments like sound therapy, CBT, and neuromodulation have documented effects but also significant research limitations. Acupuncture shows potential for symptom relief by improving cochlear blood flow and altering...\nThe post Acupuncture for Tinnitus: Mechanisms and Treatment Advances appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/yfb65z/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes."
       ],
       "saved": false
     },
@@ -711,32 +804,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-review-xwg6ic",
-      "type": "article",
-      "title": "HearUSA Adds Signia Pure C&G MaX to Nationwide Hearing Aid Portfolio",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/practice-building/office-services/dispensing-networks/hearusa-adds-signia-pure-cg-max-to-nationwide-hearing-aid-portfolio",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-09-02T19:14:05.000Z",
-      "readTime": 1,
-      "summary": "The new receiver-in-canal device runs on Signia's Multi-adaptive Xperience platform, which uses four deep neural networks to simultaneously process speech, noise, environmental conditions, and the wearer's own voice.",
-      "imageUrl": "https://picsum.photos/seed/xwg6ic/600/400",
-      "tags": [
-        "Dispensing Networks",
-        "Hearing Aids",
-        "Speech in Noise",
-        "AI hearing aids",
-        "HearUSA",
-        "original"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-academy-95b58c",
       "type": "article",
       "title": "Congress Averts Government Shutdown Through December",
@@ -899,27 +966,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-8av3cr",
-      "type": "article",
-      "title": "HearUSA Adds Signia Pure C&G MaX Hearing Aids Nationwide",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/pure-charge-go-max-hearusa/",
-      "author": "HHTM",
-      "publishedAt": "2026-09-01T12:51:57.000Z",
-      "readTime": 1,
-      "summary": "TAMPA, FLORIDA — HearUSA announced that the new Signia Pure C&G MaX hearing aids are now available at its hearing centers nationwide, adding Signia’s latest AI-powered hearing technology to the company’s portfolio. Built on the new Signia Multi-adaptive Xperience (MaX) platform, Pure C&G MaX is designed to address challenging listening situations, particularly dynamic group conversations involving multiple speakers and background ...\nThe post HearUSA Adds Signia Pure C&G MaX Hearing Aids Nationwide appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/8av3cr/600/400",
-      "tags": [
-        "Hearing Technologies"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-phonak-blog-y210aw",
       "type": "article",
       "title": "WindBlock 2.0: Comfort and clarity outdoors",
@@ -1038,52 +1084,7 @@
         "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
       ],
       "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-tnt38v",
-      "type": "article",
-      "title": "Legato Emerges From Stealth with $12M to Launch AI Hearing Glasses",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/legato-emerges-from-stealth-with-12m-to-launch-ai-hearing-glasses",
-      "author": "Karl Strom",
-      "publishedAt": "2026-08-26T14:20:00.000Z",
-      "readTime": 1,
-      "summary": "Legato emerges from stealth with $12M in funding and unveils AI-powered hearing glasses, with Legato Frames set to launch later this fall.",
-      "imageUrl": "https://picsum.photos/seed/tnt38v/600/400",
-      "tags": [
-        "News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-phonak-blog-8b7owe",
-      "type": "article",
-      "title": "Phonak EON: Three advances shaping the next generation of hearing technology",
-      "source": "Phonak Audiology Blog",
-      "sourceUrl": "https://audiologyblog.phonakpro.com/phonak-eon-three-advances-shaping-the-next-generation-of-hearing-technology/",
-      "author": "Michael Preuss",
-      "publishedAt": "2026-08-25T07:12:59.000Z",
-      "readTime": 1,
-      "summary": "EON brings advanced signal processing, a more efficient HYPERSONIC™ chip and broader connectivity into a smaller RIC design for comfortable everyday wear.\nThe post Phonak EON: Three advances shaping the next generation of hearing technology appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
-      "imageUrl": "https://picsum.photos/seed/8b7owe/600/400",
-      "tags": [
-        "Technology",
-        "audiology",
-        "EON",
-        "Hearing care",
-        "hearing loss"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
     }
   ],
-  "fetchedAt": "2026-09-09T11:06:30.140Z"
+  "fetchedAt": "2026-09-10T11:02:36.922Z"
 }
