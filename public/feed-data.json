@@ -1,6 +1,107 @@
 {
   "items": [
     {
+      "id": "feed-hearing-health-matters-lggl8k",
+      "type": "article",
+      "title": "FDA Expands Pediatric Cochlear Implant Candidacy: What’s Changed?",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/thisweek/2026/fda-ci-candidacy-7-months/",
+      "author": "HHTM",
+      "publishedAt": "2026-09-11T03:45:44.000Z",
+      "readTime": 1,
+      "summary": "Pediatric cochlear implant candidacy has expanded significantly in recent years, creating opportunities for earlier intervention and opening the door to implantation for children who may not have been considered candidates in the past. Dr. Bob Traynor is joined by Dr. Samantha Scharf, Research Assistant Professor in the Department of Otolaryngology/Head and Neck Surgery at the University of North Carolina at ...\nThe post FDA Expands Pediatric Cochlear Implant Candidacy: What’s Changed? appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/lggl8k/600/400",
+      "tags": [
+        "This Week in Hearing"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-e6mjoh",
+      "type": "article",
+      "title": "Fortell AI 2.0 Hearing Aids: A 50-Hour NYC Trial",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/fortell-ai-2-0-hearing-aids-a-50-hour-nyc-trial",
+      "author": "Ben Gailor",
+      "publishedAt": "2026-09-10T23:54:00.000Z",
+      "readTime": 1,
+      "summary": "An experienced hearing aid wearer provides a first-hand account of using Fortell AI 2.0, focusing on speech clarity, noise reduction, and battery life.",
+      "imageUrl": "https://picsum.photos/seed/e6mjoh/600/400",
+      "tags": [
+        "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-8aflev",
+      "type": "article",
+      "title": "Sonova Buys Danish Mobile Hearing Provider Høreservice Danmark",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/sonova-buys-danish-mobile-hearing-provider-horeservice-danmark",
+      "author": "Karl Strom",
+      "publishedAt": "2026-09-10T22:02:00.000Z",
+      "readTime": 1,
+      "summary": "Sonova acquires Denmark’s Høreservice Danmark, adding 25 mobile hearing clinics and a model it may expand to other countries.",
+      "imageUrl": "https://picsum.photos/seed/8aflev/600/400",
+      "tags": [
+        "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Practice management insights to help grow your hearing care business.",
+        "Understanding practitioner perspectives is key to your sales conversations with clinics."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-ffezi9",
+      "type": "article",
+      "title": "New Study Examines Satisfaction and Daily Use Among Cochlear Implant Users",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/cochlear-implant-satisfaction/",
+      "author": "HHTM",
+      "publishedAt": "2026-09-10T18:10:02.000Z",
+      "readTime": 1,
+      "summary": "A large real-world study of cochlear implant users has found generally high levels of satisfaction with external audio processors, while also identifying a strong association between satisfaction and how long people use their devices each day. Published September 7 in Frontiers in Psychology, the study analyzed responses from 861 cochlear implant users in Germany and the United Kingdom. Researchers examined ...\nThe post New Study Examines Satisfaction and Daily Use Among Cochlear Implant Users appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/ffezi9/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-k4w4yf",
+      "type": "article",
+      "title": "Amplifon Recognized Among TIME’s World’s Best Companies for Fourth Consecutive Year",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/amplifon-time-magazin/",
+      "author": "HHTM",
+      "publishedAt": "2026-09-10T17:53:06.000Z",
+      "readTime": 1,
+      "summary": "MILAN, ITALY — Amplifon has been named to TIME magazine’s World’s Best Companies of 2026 list, marking the fourth consecutive year the hearing care company has been included in the global ranking. The annual list, developed by TIME in collaboration with Statista, evaluates companies across three primary areas: employee satisfaction, economic performance, and transparency around sustainability. The 2026 ranking includes ...\nThe post Amplifon Recognized Among TIME’s World’s Best Companies for Fourth Consecutive Year appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/k4w4yf/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-phonak-blog-y8ynnj",
       "type": "article",
       "title": "Phonak EON: Every aspect purposefully designed",
@@ -845,48 +946,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-vvgb3y",
-      "type": "article",
-      "title": "Voting Now Open for 2026 Hearing Technology Innovator Awards",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/voting-now-open-for-2026-hearing-technology-innovator-awards/",
-      "author": "HHTM",
-      "publishedAt": "2026-09-02T08:56:12.000Z",
-      "readTime": 1,
-      "summary": "Hearing Health & Technology Matters (HHTM), an online resource for hearing professionals and consumers with hearing loss, has today announced the opening of the public voting period for the seventh annual Hearing Technology Innovator Awards™, an international awards program recognizing technological innovation and achievement across the hearing industry. Now in its seventh year, the program highlights products, services, and technologies advancing ...\nThe post Voting Now Open for 2026 Hearing Technology Innovator Awards appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/vvgb3y/600/400",
-      "tags": [
-        "Hearing Technologies"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-vm0w8u",
-      "type": "article",
-      "title": "Inside Fortell’s Push Into the Prescription Hearing Aid Market",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/thisweek/2026/fortell-prescription-hearing-aids-review/",
-      "author": "HHTM",
-      "publishedAt": "2026-09-02T08:06:57.000Z",
-      "readTime": 1,
-      "summary": "Fortell is taking an unusual path for a hearing aid startup: entering the prescription hearing aid market with proprietary AI technology, its own clinics, and a care model built around audiologists. Shari Eberts speaks with Fortell co-founders Matt de Jonge and Cole Morris about the company’s approach to one of the most persistent challenges in hearing care—understanding speech in environments ...\nThe post Inside Fortell’s Push Into the Prescription Hearing Aid Market appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/vm0w8u/600/400",
-      "tags": [
-        "This Week in Hearing"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-online-ufdcnc",
       "type": "article",
       "title": "WSA Pledges 100 Additional Hearing Aids and Employee Volunteers to Support the Dallas Hearing Foundation",
@@ -900,27 +959,6 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-765fpn",
-      "type": "article",
-      "title": "Starkey Italy Welcomes Barbara Zancan as Managing Director",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/starkey-italy/",
-      "author": "HHTM",
-      "publishedAt": "2026-09-01T23:22:24.000Z",
-      "readTime": 1,
-      "summary": "MILAN, ITALY — Starkey has announced the appointment of Barbara Zancan as Managing Director of Starkey Italy, where she will oversee the company’s business strategy and operations in the Italian market. Zancan brings more than 20 years of experience in senior leadership roles across the medical device and healthcare sectors, including positions with Medela, Sivantos, and Walgreens. Her experience includes market ...\nThe post Starkey Italy Welcomes Barbara Zancan as Managing Director appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/765fpn/600/400",
-      "tags": [
-        "Hearing Technologies"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly applicable to your sales strategy and opportunity closure process.",
-        "Tactical insight for growing patient pipeline and conversion rates."
       ],
       "saved": false
     },
@@ -1044,47 +1082,7 @@
         "Tactical insight for growing patient pipeline and conversion rates."
       ],
       "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-o6hzpu",
-      "type": "article",
-      "title": "Bob Eastman Named Vice President of Government Services for ReSound",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/pro-news/bob-eastman-named-vice-president-of-government-services-for-resound",
-      "author": "Staff",
-      "publishedAt": "2026-08-27T22:30:00.000Z",
-      "readTime": 1,
-      "summary": "GN announces that industry veteran Bob Eastman has been named Vice President of Government Services for ReSound.",
-      "imageUrl": "https://picsum.photos/seed/o6hzpu/600/400",
-      "tags": [
-        "Pro News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-audiology-academy-6j9sh2",
-      "type": "article",
-      "title": "Congratulations to Our 2026 Scholarship Recipients",
-      "source": "American Academy of Audiology",
-      "sourceUrl": "https://www.audiology.org/congratulations-to-our-2026-scholarship-recipients/",
-      "author": "AishaAli",
-      "publishedAt": "2026-08-26T15:47:55.000Z",
-      "readTime": 1,
-      "summary": "The American Academy of Audiology Foundation’s mission is to promote philanthropy in support of public awareness, research, and education in audiology and hearing and balance science. Offering a variety of…\nThe post Congratulations to Our 2026 Scholarship Recipients appeared first on American Academy of Audiology.",
-      "imageUrl": "https://picsum.photos/seed/6j9sh2/600/400",
-      "tags": [
-        "Foundation News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
     }
   ],
-  "fetchedAt": "2026-09-10T11:02:36.922Z"
+  "fetchedAt": "2026-09-11T11:00:57.322Z"
 }
