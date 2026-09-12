@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "feed-hearing-review-2ka3n3",
+      "type": "article",
+      "title": "UNC Researchers Develop Technique to Reduce fMRI Acoustic Noise",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/inside-hearing/research/unc-researchers-develop-technique-to-reduce-fmri-acoustic-noise",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-09-11T23:57:46.000Z",
+      "readTime": 1,
+      "summary": "A new fMRI acquisition method developed at the University of North Carolina reduces peak scan noise from levels exceeding 120 decibels.",
+      "imageUrl": "https://picsum.photos/seed/2ka3n3/600/400",
+      "tags": [
+        "Cochlear Implants",
+        "Prevention",
+        "Research",
+        "fMRI",
+        "MRI",
+        "noise-induced hearing loss"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Directly applicable to your sales strategy and opportunity closure process."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-7xcwy5",
+      "type": "article",
+      "title": "Amplifon Named to Time’s World’s Best Companies of 2026",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/inside-hearing/industry-news/amplifon-named-to-times-worlds-best-companies-of-2026",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-09-11T23:27:59.000Z",
+      "readTime": 1,
+      "summary": "This marks the fourth straight year the Milan-based hearing care giant has earned the distinction.",
+      "imageUrl": "https://picsum.photos/seed/7xcwy5/600/400",
+      "tags": [
+        "Industry News",
+        "Surveys & Statistics",
+        "Amplifon",
+        "original"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-uugx3z",
+      "type": "article",
+      "title": "BIHIMA’s ‘Hearing Loss Red Flags’ Campaign Encourages Earlier Recognition and Action",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/bihima-red-flags/",
+      "author": "HHTM",
+      "publishedAt": "2026-09-11T16:36:34.000Z",
+      "readTime": 1,
+      "summary": "The British Irish Hearing Instrument Manufacturers Association (BIHIMA) is launching a national awareness campaign aimed at helping people recognize potential signs of hearing loss and encouraging earlier conversations about hearing care. Launching September 14, the Hearing Loss Red Flags campaign focuses on everyday behaviors that may indicate an emerging hearing difficulty, such as increasing the television volume, frequently asking others ...\nThe post BIHIMA’s ‘Hearing Loss Red Flags’ Campaign Encourages Earlier Recognition and Action appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/uugx3z/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Patient acquisition strategies to inform your go-to-market approach."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-health-matters-lggl8k",
       "type": "article",
       "title": "FDA Expands Pediatric Cochlear Implant Candidacy: What’s Changed?",
@@ -132,7 +202,7 @@
       "title": "Misophonia: Brain Responses to Sound Triggers",
       "source": "Tinnitus Research",
       "sourceUrl": "https://tinnitus.tips/misophonia-brain-responses-to-sound-triggers/",
-      "author": "Tinnitus Tips Editorial",
+      "author": "Tinnitus.tips Editorial",
       "publishedAt": "2026-09-10T07:07:10.000Z",
       "readTime": 1,
       "summary": "The physiological distress of misophonia can be triggered not just by sounds, but by the mere sight of someone preparing to make that sound, and even by thinking about the sound. A 2026 study from the University of South Carolina provides the first comprehensive evidence for this multi-sensory reality, measuring the body’s direct response to...\nThe post Misophonia: Brain Responses to Sound Triggers appeared first on Tinnitus.tips.",
@@ -153,7 +223,7 @@
       "title": "Pandemic Stress Worsens Tinnitus and Depression",
       "source": "Tinnitus Research",
       "sourceUrl": "https://tinnitus.tips/pandemic-stress-worsens-tinnitus-and-depression-3/",
-      "author": "Tinnitus Tips Editorial",
+      "author": "Tinnitus.tips Editorial",
       "publishedAt": "2026-09-10T07:05:24.000Z",
       "readTime": 1,
       "summary": "During the strictest COVID-19 restrictions in 2020, people with chronic bothersome tinnitus showed significantly higher rates of depression and stress than those without tinnitus or with only mild symptoms. This is the central finding from a new analysis of Korean national health data, which also found that this psychological gap had closed by 2022 when...\nThe post Pandemic Stress Worsens Tinnitus and Depression appeared first on Tinnitus.tips.",
@@ -174,7 +244,7 @@
       "title": "Dental Occlusion, Brain Function, and Hearing Health",
       "source": "Tinnitus Research",
       "sourceUrl": "https://tinnitus.tips/dental-occlusion-brain-function-and-hearing-health/",
-      "author": "Tinnitus Tips Editorial",
+      "author": "Tinnitus.tips Editorial",
       "publishedAt": "2026-09-10T07:03:32.000Z",
       "readTime": 1,
       "summary": "A new review paper confirms the brain and the jaw have a two-way conversation. Research by Bingfeng Dai, Ziming Zhao, and Jie Lin synthesizes evidence showing that dental occlusion—how your teeth fit together—directly influences brain structure and function, while the brain simultaneously regulates jaw position and muscle tone. This bidirectional relationship has significant implications for...\nThe post Dental Occlusion, Brain Function, and Hearing Health appeared first on Tinnitus.tips.",
@@ -221,7 +291,7 @@
       "title": "Misophonia: Auditory, Visual, and Imagery Triggers",
       "source": "Tinnitus Research",
       "sourceUrl": "https://tinnitus.tips/misophonia-auditory-visual-and-imagery-triggers/",
-      "author": "Tinnitus Tips Editorial",
+      "author": "Tinnitus.tips Editorial",
       "publishedAt": "2026-09-09T19:04:43.000Z",
       "readTime": 1,
       "summary": "Key Takeaways People with misophonia show heightened physiological stress—including muscle tension, sweating, and heart rate increases—specifically to trigger sounds, not just generally unpleasant noises. Silent videos of trigger actions (like someone chewing) can also provoke a significant, though slightly weaker, physiological response. Simply imagining a trigger sound can elicit a measurable stress reaction in the...\nThe post Misophonia: Auditory, Visual, and Imagery Triggers appeared first on Tinnitus.tips.",
@@ -242,7 +312,7 @@
       "title": "Dental Occlusion’s Brain and Hearing Health Links",
       "source": "Tinnitus Research",
       "sourceUrl": "https://tinnitus.tips/dental-occlusions-brain-and-hearing-health-links/",
-      "author": "Tinnitus Tips Editorial",
+      "author": "Tinnitus.tips Editorial",
       "publishedAt": "2026-09-09T19:03:31.000Z",
       "readTime": 1,
       "summary": "A new review paper from researchers at Nanjing University has synthesized the evidence for a two-way street between how your teeth fit together and how your brain functions. The work by Bingfeng Dai, Ziming Zhao, and Jie Lin argues that sensory input from dental occlusion—the contact between upper and lower teeth—can directly modulate sensorimotor control,...\nThe post Dental Occlusion’s Brain and Hearing Health Links appeared first on Tinnitus.tips.",
@@ -284,7 +354,7 @@
       "title": "Tinnitus and Sleep Disturbance: A Bidirectional Cycle",
       "source": "Tinnitus Research",
       "sourceUrl": "https://tinnitus.tips/tinnitus-and-sleep-disturbance-a-bidirectional-cycle/",
-      "author": "Tinnitus Tips Editorial",
+      "author": "Tinnitus.tips Editorial",
       "publishedAt": "2026-09-09T07:07:12.000Z",
       "readTime": 1,
       "summary": "A 2026 systematic review published in *Frontiers in Neurology* provides a detailed neurophysiological model for the debilitating cycle linking tinnitus and poor sleep. The work by Sun, Li, and colleagues argues that these two conditions are not merely coincidental but are bound by shared mechanisms in the brain, creating a self-sustaining loop that worsens both...\nThe post Tinnitus and Sleep Disturbance: A Bidirectional Cycle appeared first on Tinnitus.tips.",
@@ -305,7 +375,7 @@
       "title": "Psychedelic Therapy for Tinnitus and Hearing Disorders",
       "source": "Tinnitus Research",
       "sourceUrl": "https://tinnitus.tips/psychedelic-therapy-for-tinnitus-and-hearing-disorders/",
-      "author": "Tinnitus Tips Editorial",
+      "author": "Tinnitus.tips Editorial",
       "publishedAt": "2026-09-09T07:05:27.000Z",
       "readTime": 1,
       "summary": "The term “neuroplasticity” is widely used to describe any change in the brain, but a new theoretical paper argues this is a scientific misstep that muddies our understanding of mental health and treatment. Researchers Robin Carhart-Harris, Richard Zeifman, and Lorenzo Pasquini propose a critical distinction, suggesting that many so-called markers of brain plasticity actually measure...\nThe post Psychedelic Therapy for Tinnitus and Hearing Disorders appeared first on Tinnitus.tips.",
@@ -326,7 +396,7 @@
       "title": "Pandemic Stress Worsens Tinnitus and Depression",
       "source": "Tinnitus Research",
       "sourceUrl": "https://tinnitus.tips/pandemic-stress-worsens-tinnitus-and-depression-2/",
-      "author": "Tinnitus Tips Editorial",
+      "author": "Tinnitus.tips Editorial",
       "publishedAt": "2026-09-09T07:03:42.000Z",
       "readTime": 1,
       "summary": "During the strictest phase of the COVID-19 pandemic, people with chronic, bothersome tinnitus were significantly more likely to report high stress and symptoms of depression than those with milder tinnitus or no tinnitus at all. This is the core finding from a study by Sang-Yoon Han and Young Ho Kim, published in the *European Archives...\nThe post Pandemic Stress Worsens Tinnitus and Depression appeared first on Tinnitus.tips.",
@@ -487,7 +557,7 @@
       "title": "Pandemic Stress Worsens Tinnitus and Depression",
       "source": "Tinnitus Research",
       "sourceUrl": "https://tinnitus.tips/pandemic-stress-worsens-tinnitus-and-depression/",
-      "author": "Tinnitus Tips Editorial",
+      "author": "Tinnitus.tips Editorial",
       "publishedAt": "2026-09-08T07:03:11.000Z",
       "readTime": 1,
       "summary": "During the peak of COVID-19 restrictions, people with bothersome chronic tinnitus faced significantly more depression and stress than those without tinnitus or with milder symptoms. This is the core finding of a new study by Sang-Yoon Han and Young Ho Kim, published in the *European Archives of Oto-Rhino-Laryngology*. Key Takeaways During the 2020 COVID-19 restriction...\nThe post Pandemic Stress Worsens Tinnitus and Depression appeared first on Tinnitus.tips.",
@@ -618,7 +688,7 @@
       "title": "Coal Dust, Noise, and Hearing Loss Study",
       "source": "Tinnitus Research",
       "sourceUrl": "https://tinnitus.tips/coal-dust-noise-and-hearing-loss-study/",
-      "author": "Tinnitus Tips Editorial",
+      "author": "Tinnitus.tips Editorial",
       "publishedAt": "2026-09-06T19:05:31.000Z",
       "readTime": 1,
       "summary": "Occupational noise combined with coal dust exposure significantly increases the risk of high-frequency hearing loss compared to noise exposure alone. A 2024 study of 1,187 workers found that 46.8% of those exposed to both hazards had high-frequency hearing loss, compared to 35.5% of those exposed only to noise. The research, led by Jiaqi Ma and...\nThe post Coal Dust, Noise, and Hearing Loss Study appeared first on Tinnitus.tips.",
@@ -697,27 +767,6 @@
       "whyItMatters": [
         "Relevant to your core patient population and treatment pathways.",
         "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-ydmu1w",
-      "type": "article",
-      "title": "Consumer Electronics Giant Anker Enters the OTC Hearing Aid Market",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/hearing-aids-anker-otc/",
-      "author": "HHTM",
-      "publishedAt": "2026-09-03T17:46:06.000Z",
-      "readTime": 1,
-      "summary": "BERLIN, GERMANY — Anker, the global consumer electronics company known for its charging products and Soundcore audio devices, is entering the hearing aid market with new receiver-in-canal (RIC) devices powered by its proprietary THUS AI chip. The company announced the move September 3 as part of a broader series of announcements surrounding IFA 2026 in Berlin. According to Anker’s announcement, ...\nThe post Consumer Electronics Giant Anker Enters the OTC Hearing Aid Market appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/ydmu1w/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
       ],
       "saved": false
     },
@@ -846,57 +895,6 @@
       "imageUrl": "https://picsum.photos/seed/741wif/600/400",
       "tags": [
         "Press Releases"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-review-po09at",
-      "type": "article",
-      "title": "Using Data to Personalize Hearing Aid Fittings and Patient Care",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/hearing-loss/patient-care/using-data-to-personalize-hearing-aid-fittings-and-patient-care",
-      "author": "Melanie Hamilton",
-      "publishedAt": "2026-09-02T20:00:35.000Z",
-      "readTime": 1,
-      "summary": "In this feature article, audiology experts share how they balance using data and clinical judgment for truly personalized patient care.",
-      "imageUrl": "https://picsum.photos/seed/po09at/600/400",
-      "tags": [
-        "Patient Care",
-        "Patient Fittings",
-        "Auditdata",
-        "COSI",
-        "International Hearing Society IHS",
-        "Jennifer Gehlen"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-review-96ibms",
-      "type": "article",
-      "title": "Study: DNN Denoising in Hearing Aids May Preserve Mandarin Lexical Tone Perception in Noise",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/inside-hearing/research/study-dnn-denoising-in-hearing-aids-may-preserve-mandarin-lexical-tone-perception-in-noise",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-09-02T19:31:16.000Z",
-      "readTime": 1,
-      "summary": "New research suggests deep neural network denoising can help hearing aid users maintain categorical perception of Mandarin tones in challenging listening environments.",
-      "imageUrl": "https://picsum.photos/seed/96ibms/600/400",
-      "tags": [
-        "Hearing Aids",
-        "Research",
-        "Speech in Noise",
-        "American Journal of Audiology",
-        "Deep Neural Network DNN",
-        "original"
       ],
       "relevanceScore": 50,
       "whyItMatters": [
@@ -1084,5 +1082,5 @@
       "saved": false
     }
   ],
-  "fetchedAt": "2026-09-11T11:00:57.322Z"
+  "fetchedAt": "2026-09-12T10:30:07.336Z"
 }
