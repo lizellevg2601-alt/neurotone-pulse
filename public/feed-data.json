@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "feed-audiology-academy-eenb1b",
+      "type": "article",
+      "title": "Use of Dietary Supplements in the United States",
+      "source": "American Academy of Audiology",
+      "sourceUrl": "https://www.audiology.org/use-of-dietary-supplements-in-the-united-states/",
+      "author": "AishaAli",
+      "publishedAt": "2026-09-12T13:00:00.000Z",
+      "readTime": 1,
+      "summary": "Audiologists, as part of their clinical practice, may review and/or solicit information regarding their patient’s medications. While a given patient may take prescription medications, some may be obtained over-the-counter. These…\nThe post Use of Dietary Supplements in the United States appeared first on American Academy of Audiology.",
+      "imageUrl": "https://picsum.photos/seed/eenb1b/600/400",
+      "tags": [
+        "Audiology in the News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "OTC market shifts affect how patients discover and purchase hearing solutions.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-review-2ka3n3",
       "type": "article",
       "title": "UNC Researchers Develop Technique to Reduce fMRI Acoustic Noise",
@@ -1062,25 +1083,7 @@
         "Relevant to your core patient population and treatment pathways."
       ],
       "saved": false
-    },
-    {
-      "id": "feed-audiology-online-s3fnwd",
-      "type": "article",
-      "title": "Bob Eastman named Vice President of Government Services for ReSound",
-      "source": "Audiology Online",
-      "sourceUrl": "https://www.audiologyonline.com/releases/29802-bob-eastman-named-vice-president",
-      "publishedAt": "2026-08-28T04:00:00.000Z",
-      "readTime": 1,
-      "summary": "Shakopee, Minn. Aug. 27, 2026 – GN announces that Robert (Bob) Eastman has been named Vice President of Government Services for ReSound.  In this role, Eastman will lead the team supporting the Department of Veterans Affairs (VA). He",
-      "imageUrl": "https://assets-atlas-production.continued.com/ao-assets/content/00000/00000/bobeastmanheadshot.jpg",
-      "tags": [],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly applicable to your sales strategy and opportunity closure process.",
-        "Tactical insight for growing patient pipeline and conversion rates."
-      ],
-      "saved": false
     }
   ],
-  "fetchedAt": "2026-09-12T10:30:07.336Z"
+  "fetchedAt": "2026-09-13T11:33:04.194Z"
 }
