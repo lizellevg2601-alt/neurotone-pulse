@@ -1,6 +1,133 @@
 {
   "items": [
     {
+      "id": "feed-hearing-tracker-vopvdz",
+      "type": "article",
+      "title": "EssilorLuxottica Launches Nuance Audio Plus Hearing Glasses",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/essilorluxottica-launches-nuance-audio-plus-hearing-glasses",
+      "author": "Karl Strom",
+      "publishedAt": "2026-09-22T13:43:00.000Z",
+      "readTime": 1,
+      "summary": "Nuance Audio Plus hearing glasses add longer battery life, iPhone calling, improved sound and more styles, starting at $829 in the US.",
+      "imageUrl": "https://picsum.photos/seed/vopvdz/600/400",
+      "tags": [
+        "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-nthdhu",
+      "type": "article",
+      "title": "Neurotone AI Launches Partner Certification for Lace Pro and Tinnitus Pro",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/audiology/2026/neurotone-ai-launches-certifications/",
+      "author": "HHTM",
+      "publishedAt": "2026-09-22T02:54:50.000Z",
+      "readTime": 1,
+      "summary": "GAINESVILLE, FLORIDA — Neurotone AI has launched a new Partner Certification program for hearing care practices and individual providers using its Lace Pro auditory rehabilitation and Tinnitus Pro tinnitus care platforms. The program establishes separate certification pathways for practices and individual clinicians, with the goal of building provider knowledge in aural rehabilitation and tinnitus care while giving participating practices a ...\nThe post Neurotone AI Launches Partner Certification for Lace Pro and Tinnitus Pro appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/nthdhu/600/400",
+      "tags": [
+        "Audiology"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-esdxbz",
+      "type": "article",
+      "title": "Knowles Expands Hearing Health Portfolio at EUHA 2026",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/knowles-expands-hearing-health-portfolio-at-euha-2026/",
+      "author": "HHTM",
+      "publishedAt": "2026-09-21T18:55:50.000Z",
+      "readTime": 1,
+      "summary": "HANOVER, GERMANY — Knowles Corporation will showcase an expanded portfolio of hearing health technologies at EUHA 2026, including its new HiFit 2.0 receiver-in-canal (RIC), MM60 MEMS microphone, and a range of balanced armature receivers and specialty audio components. The company, exhibiting at Booth 213, develops audio components designed for hearing health applications, including compact, low-power microphones and balanced armature receivers ...\nThe post Knowles Expands Hearing Health Portfolio at EUHA 2026 appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/esdxbz/600/400",
+      "tags": [
+        "Hearing Technologies"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-k4ty4r",
+      "type": "article",
+      "title": "Auditdata Appoints Christoffer Spangenberg as CEO",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/auditdata-new-ceo/",
+      "author": "HHTM",
+      "publishedAt": "2026-09-21T15:53:23.000Z",
+      "readTime": 1,
+      "summary": "COPENHAGEN, DENMARK — Auditdata has appointed Christoffer Spangenberg as Chief Executive Officer, effective September 25, 2026. Spangenberg will succeed Kurt Bager, who is leaving the company to pursue a new professional chapter. Spangenberg currently serves as Chief Commercial Officer and Head of Delivery at Auditdata and has been with the hearing care software company since 2019. During that time, he ...\nThe post Auditdata Appoints Christoffer Spangenberg as CEO appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/k4ty4r/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-619l3x",
+      "type": "article",
+      "title": "Sensorion Announces SENS-601 Program Day Focused on GJB2 Gene Therapy for Hearing Loss",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/inside-hearing/research/sensorion-announces-sens-601-program-day-focused-on-gjb2-gene-therapy-for-hearing-loss",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-09-21T13:03:00.000Z",
+      "readTime": 1,
+      "summary": "Sensorion has announced registration details for its upcoming SENS-601 Program Day on September 22, 2026, which will spotlight the science, patient population, and clinical trial design for its lead GJB2 gene therapy candidate. The event will feature key insights from company leadership and clinical experts regarding the HearConnex trial aimed at addressing hereditary hearing loss.",
+      "imageUrl": "https://picsum.photos/seed/619l3x/600/400",
+      "tags": [
+        "Events",
+        "Research",
+        "Sensorineural",
+        "GJB2",
+        "original",
+        "research"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-academy-uwqklv",
+      "type": "article",
+      "title": "Mental Health Treatment by Adults in the United States",
+      "source": "American Academy of Audiology",
+      "sourceUrl": "https://www.audiology.org/mental-health-treatment-by-adults-in-the-united-states/",
+      "author": "AishaAli",
+      "publishedAt": "2026-09-21T13:00:00.000Z",
+      "readTime": 1,
+      "summary": "Some of our adult patients may have a comorbid diagnosis of a mental, behavioral, or emotional disorder. Of these patients, some may have sought and/or be undergoing treatment. This may…\nThe post Mental Health Treatment by Adults in the United States appeared first on American Academy of Audiology.",
+      "imageUrl": "https://picsum.photos/seed/uwqklv/600/400",
+      "tags": [
+        "Audiology in the News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-review-nwnj89",
       "type": "article",
       "title": "Study Supports Expanding Pediatric Cochlear Implant Candidacy to Younger Ages and Residual Hearing",
@@ -304,10 +431,10 @@
       "title": "Phonak EON: Connectivity excellence",
       "source": "Phonak Audiology Blog",
       "sourceUrl": "https://audiologyblog.phonakpro.com/phonak-eon-connectivity-excellence/",
-      "author": "Min Roh",
-      "publishedAt": "2026-09-17T09:17:53.000Z",
+      "author": "Min Cheol Roh",
+      "publishedAt": "2026-09-17T09:17:00.000Z",
       "readTime": 1,
-      "summary": "Phonak Audéo EON combines established Bluetooth Classic and Roger™ connectivity with emerging Auracast™ broadcast audio, giving hearing care professionals flexible ways to help clients stay connected in everyday life.\nThe post Phonak EON: Connectivity excellence appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
+      "summary": "With Bluetooth Classic, Roger™, and Auracast™ broadcast audio working together, Phonak Audéo EON gives hearing care professionals different connectivity options to support clients across personal devices, far-field conversation and emerging public-access audio.\nThe post Phonak EON: Connectivity excellence appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
       "imageUrl": "https://picsum.photos/seed/tppqq6/600/400",
       "tags": [
         "Technology",
@@ -540,27 +667,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-xvwrb3",
-      "type": "article",
-      "title": "A New Framework for Understanding Speech in Challenging Listening Situations",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hear-in-private-practice/2026/drl-framework-speech-noise-audibility/",
-      "author": "HHTM",
-      "publishedAt": "2026-09-15T22:26:49.000Z",
-      "readTime": 1,
-      "summary": "Editor’s note: Ear to the Ground is a monthly column from Dr. Brian Taylor, offering timely reflections on research, technology, clinical practice, and emerging trends in hearing care. You can read last month’s column here. Models, frameworks, and heuristics—all three terms describe similar things: simple guidelines, rules, or shortcuts used to solve a complex problem, better understand a concept, or ...\nThe post A New Framework for Understanding Speech in Challenging Listening Situations appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/xvwrb3/600/400",
-      "tags": [
-        "Hear In Private Practice"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Practice management insights to help grow your hearing care business.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-review-mho2nk",
       "type": "article",
       "title": "Honda Prize 2026 Awarded to Cochlear Implant Pioneers",
@@ -579,47 +685,6 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-yoyniw",
-      "type": "article",
-      "title": "Ingeborg and Erwin Hochmair Honored for Pioneering Cochlear Implant Work",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/med-el-awards/",
-      "author": "HHTM",
-      "publishedAt": "2026-09-15T15:10:59.000Z",
-      "readTime": 1,
-      "summary": "INNSBRUCK, AUSTRIA — MED-EL co-founder and CEO Dr. Ingeborg Hochmair has been named a recipient of the Honda Prize 2026, adding to a series of recent honors recognizing the scientists and engineers whose work contributed to the development of the modern cochlear implant. The announcement follows the selection of Hochmair and her husband and MED-EL co-founder, Dr. Erwin Hochmair, as recipients ...\nThe post Ingeborg and Erwin Hochmair Honored for Pioneering Cochlear Implant Work appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/yoyniw/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-1vmiip",
-      "type": "article",
-      "title": "Auri Brings Auracast Assistive Listening to Houses of Worship",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/auri-auracast-church-installation/",
-      "author": "HHTM",
-      "publishedAt": "2026-09-15T14:49:19.000Z",
-      "readTime": 1,
-      "summary": "BLUFFDALE, UTAH — Houses of worship in the United States and Europe are beginning to deploy Auri, the Auracast-based assistive listening system developed by Listen Technologies and Ampetronic, as churches look to expand audio accessibility for congregants. Recent installations include Christ Presbyterian Church in Edina, Minnesota; St. Gilbert Catholic Church in Grayslake, Illinois; and the Catholic Church in Unterbach, Switzerland. ...\nThe post Auri Brings Auracast Assistive Listening to Houses of Worship appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/1vmiip/600/400",
-      "tags": [
-        "Hearing Technologies"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Addresses common patient objections — useful for your sales conversations and team coaching.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
       ],
       "saved": false
     },
@@ -662,31 +727,6 @@
       "whyItMatters": [
         "Practice management insights to help grow your hearing care business.",
         "Directly applicable to your sales strategy and opportunity closure process."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-review-erktgq",
-      "type": "article",
-      "title": "Aware Defense Awarded Sole-Source US Navy Contract for Custom Hearing Protection Scaled to 42,000 Units",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/hearing-loss/hearing-loss-prevention/industrial-military/aware-defense-awarded-sole-source-us-navy-contract-for-custom-hearing-protection-scaled-to-42000-units",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-09-14T19:52:31.000Z",
-      "readTime": 1,
-      "summary": "The Naval Air Systems Command's Aircrew Systems Program Office selected Aware Defense as its exclusive end-to-end provider of 3D-scanned, custom-fit hearing protection.",
-      "imageUrl": "https://picsum.photos/seed/erktgq/600/400",
-      "tags": [
-        "Industry News",
-        "Military & Industrial",
-        "Prevention",
-        "3D ear scanning system",
-        "Aware Custom Biometric Wearables",
-        "Aware Defense"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Understanding practitioner perspectives is key to your sales conversations with clinics."
       ],
       "saved": false
     },
@@ -792,7 +832,7 @@
       "title": "Phonak EON: Every aspect purposefully designed",
       "source": "Phonak Audiology Blog",
       "sourceUrl": "https://audiologyblog.phonakpro.com/phonak-eon-every-aspect-purposefully-designed/",
-      "author": "Jodie Nelson",
+      "author": "Johanna Nelson",
       "publishedAt": "2026-09-10T09:50:17.000Z",
       "readTime": 1,
       "summary": "Great hearing aid design goes beyond the physical device. With Phonak EON, every design decision has a purpose, from how it feels and functions throughout the day to the technology clients can access and the way hearing care professionals fit it.\nThe post Phonak EON: Every aspect purposefully designed appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
@@ -1040,49 +1080,7 @@
         "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
       ],
       "saved": false
-    },
-    {
-      "id": "feed-phonak-blog-egfa3x",
-      "type": "article",
-      "title": "What do the 2026 WHO dementia guidelines mean for hearing care professionals?",
-      "source": "Phonak Audiology Blog",
-      "sourceUrl": "https://audiologyblog.phonakpro.com/what-do-the-2026-who-dementia-guidelines-mean-for-hearing-care-professionals/",
-      "author": "Ulrike Lemke",
-      "publishedAt": "2026-09-07T08:14:36.000Z",
-      "readTime": 1,
-      "summary": "The latest recommendations from the World Health Organization reinforce a broader, person-centered approach to hearing care. Phonak's framework for holistic hearing care reflects this progression from hearing outcomes to broader well-being and quality of life.\nThe post What do the 2026 WHO dementia guidelines mean for hearing care professionals? appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
-      "imageUrl": "https://picsum.photos/seed/egfa3x/600/400",
-      "tags": [
-        "Clinical Practice"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Key evidence for the hearing-dementia prevention link — a growing patient motivator.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-3lje2b",
-      "type": "article",
-      "title": "Coal Dust, Noise, and Hearing Loss Study",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/coal-dust-noise-and-hearing-loss-study/",
-      "author": "Tinnitus.tips Editorial",
-      "publishedAt": "2026-09-06T19:05:31.000Z",
-      "readTime": 1,
-      "summary": "Occupational noise combined with coal dust exposure significantly increases the risk of high-frequency hearing loss compared to noise exposure alone. A 2024 study of 1,187 workers found that 46.8% of those exposed to both hazards had high-frequency hearing loss, compared to 35.5% of those exposed only to noise. The research, led by Jiaqi Ma and...\nThe post Coal Dust, Noise, and Hearing Loss Study appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/3lje2b/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
     }
   ],
-  "fetchedAt": "2026-09-21T12:33:22.810Z"
+  "fetchedAt": "2026-09-22T11:21:28.644Z"
 }
