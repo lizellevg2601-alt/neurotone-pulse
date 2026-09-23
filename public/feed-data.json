@@ -1,6 +1,116 @@
 {
   "items": [
     {
+      "id": "feed-hearing-tracker-dfg8wx",
+      "type": "article",
+      "title": "Driving With Hearing Loss: Laws, Safety, and What to Know",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/resources/driving-with-hearing-loss",
+      "author": "Megan Looney",
+      "publishedAt": "2026-09-22T23:05:00.000Z",
+      "readTime": 1,
+      "summary": "Driving as a Deaf person can be challenging, but it's legal. Find out what the law says and learn how to stay safe when driving with hearing loss.",
+      "imageUrl": "https://picsum.photos/seed/dfg8wx/600/400",
+      "tags": [
+        "Resources"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-ceqqlk",
+      "type": "article",
+      "title": "Auditdata Appoints Christoffer Spangenberg as New CEO; Builds on Strong Growth",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/auditdata-appoints-christoffer-spangenberg-as-new-ceo-builds-on-strong-growth",
+      "author": "Staff",
+      "publishedAt": "2026-09-22T21:20:00.000Z",
+      "readTime": 1,
+      "summary": "After seven years at Auditdata, Christoffer Spangenberg will take over as CEO. He will lead the company’s ambition to become the most innovative software provider to the global hearing care industry.",
+      "imageUrl": "https://picsum.photos/seed/ceqqlk/600/400",
+      "tags": [
+        "Press Releases"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly applicable to your sales strategy and opportunity closure process.",
+        "Tactical insight for growing patient pipeline and conversion rates."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-d7c0p8",
+      "type": "article",
+      "title": "EssilorLuxottica Launches Nuance Audio Plus Hearing Glasses",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/otc/essilorluxottica-launches-nuance-audio-plus-hearing-glasses",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-09-22T19:15:17.000Z",
+      "readTime": 1,
+      "summary": "EssilorLuxottica's Nuance Audio Plus is the next generation of its FDA-cleared hearing glasses, featuring improved amplification, extended battery life, and hands-free phone calling for adults with mild-to-moderate hearing loss.",
+      "imageUrl": "https://picsum.photos/seed/d7c0p8/600/400",
+      "tags": [
+        "Over the Counter",
+        "hearing glasses",
+        "new product",
+        "Nuance Audio",
+        "Nuance Audio Glasses",
+        "Nuance Audio Glasses Plus"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-5p8x8e",
+      "type": "article",
+      "title": "Auditdata Names Christoffer Spangenberg as New CEO",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/inside-hearing/people/auditdata-names-christoffer-spangenberg-as-new-ceo",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-09-22T18:21:00.000Z",
+      "readTime": 1,
+      "summary": "Auditdata has appointed Christoffer Spangenberg as its new CEO, succeeding Kurt Bager, effective September 25, 2026.",
+      "imageUrl": "https://picsum.photos/seed/5p8x8e/600/400",
+      "tags": [
+        "Office Management Systems",
+        "People",
+        "Auditdata",
+        "Christoffer Spangenberg",
+        "original"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-5714rl",
+      "type": "article",
+      "title": "ELEHEAR Beyond 2 Pro OTC Hearing Aids Debut at $799",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/elehear-launches-799-beyond-2-pro-otc-hearing-aids",
+      "author": "Karl Strom",
+      "publishedAt": "2026-09-22T17:10:00.000Z",
+      "readTime": 1,
+      "summary": "ELEHEAR launches its $799 Beyond 2 Pro OTC hearing aids with VOCCLEAR 3.0, Auracast, AI translation, and remote audiology support.",
+      "imageUrl": "https://picsum.photos/seed/5714rl/600/400",
+      "tags": [
+        "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-tracker-vopvdz",
       "type": "article",
       "title": "EssilorLuxottica Launches Nuance Audio Plus Hearing Glasses",
@@ -17,6 +127,27 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-gd2164",
+      "type": "article",
+      "title": "ELEHEAR Introduces Beyond 2 Pro, Its Latest AI-Powered OTC Hearing Aids",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/beyond-pro-2-launch/",
+      "author": "HHTM",
+      "publishedAt": "2026-09-22T12:02:50.000Z",
+      "readTime": 1,
+      "summary": "CHICAGO, ILLINOIS — ELEHEAR has announced the launch of Beyond 2 Pro, the latest addition to its Beyond series of over-the-counter hearing aids. The new receiver-in-canal (RIC) device introduces the company’s VOCCLEAR® 3.0 sound-processing system, Auracast™ broadcast audio support, expanded personalization and fitting options, and access to ELEHEAR’s ElePro™ Plus remote audiology service. Beyond 2 Pro builds on the company’s ...\nThe post ELEHEAR Introduces Beyond 2 Pro, Its Latest AI-Powered OTC Hearing Aids appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/gd2164/600/400",
+      "tags": [
+        "Hearing Technologies"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "OTC market shifts affect how patients discover and purchase hearing solutions."
       ],
       "saved": false
     },
@@ -498,31 +629,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-review-pxdyf6",
-      "type": "article",
-      "title": "WSA Appoints Peter Bøggild as New CFO",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/inside-hearing/people/wsa-appoints-peter-boggild-as-new-cfo",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-09-16T19:32:50.000Z",
-      "readTime": 1,
-      "summary": "WSA has appointed life sciences finance veteran Peter Bøggild as its new chief financial officer and member of the executive board.",
-      "imageUrl": "https://picsum.photos/seed/pxdyf6/600/400",
-      "tags": [
-        "Industry News",
-        "People",
-        "Jan Makela",
-        "Marianne Wiinholt",
-        "original",
-        "Peter Boggild"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-tracker-uydbe2",
       "type": "article",
       "title": "WSA Names Peter Bøggild as New CFO",
@@ -642,49 +748,6 @@
       "whyItMatters": [
         "Relevant to your core patient population and treatment pathways.",
         "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-smgvuw",
-      "type": "article",
-      "title": "70th EUHA Congress and Industry Exhibition Set for October",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/euha-26-october/",
-      "author": "HHTM",
-      "publishedAt": "2026-09-15T22:40:31.000Z",
-      "readTime": 1,
-      "summary": "HANOVER, GERMANY — The international hearing care industry will gather in Hanover next month for the 70th International Congress of Hearing Aid Acousticians and its accompanying Industry Exhibition. The three-day event is scheduled for October 14–16, 2026, at Deutsche Messe Hannover. Organizers expect the anniversary event to bring together hearing care professionals, researchers, manufacturers, educators, students, and other industry participants ...\nThe post 70th EUHA Congress and Industry Exhibition Set for October appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/smgvuw/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-review-mho2nk",
-      "type": "article",
-      "title": "Honda Prize 2026 Awarded to Cochlear Implant Pioneers",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/inside-hearing/research/honda-prize-2026-awarded-to-cochlear-implant-pioneers",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-09-15T21:20:03.000Z",
-      "readTime": 1,
-      "summary": "The Honda Foundation has named Prof Graeme M. Clark and Dr Ingeborg Hochmair as joint recipients of the 2026 Honda Prize, recognizing their roles in advancing the multichannel cochlear implant.",
-      "imageUrl": "https://picsum.photos/seed/mho2nk/600/400",
-      "tags": [
-        "Cochlear Implants",
-        "Implants & Bone Conduction",
-        "Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
       ],
       "saved": false
     },
@@ -1018,69 +1081,7 @@
         "Supports your work in auditory-cognitive training and brain reorganization for hearing."
       ],
       "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-4zrw6y",
-      "type": "article",
-      "title": "Pandemic Stress Worsens Tinnitus and Depression",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/pandemic-stress-worsens-tinnitus-and-depression-2/",
-      "author": "Tinnitus.tips Editorial",
-      "publishedAt": "2026-09-09T07:03:42.000Z",
-      "readTime": 1,
-      "summary": "During the strictest phase of the COVID-19 pandemic, people with chronic, bothersome tinnitus were significantly more likely to report high stress and symptoms of depression than those with milder tinnitus or no tinnitus at all. This is the core finding from a study by Sang-Yoon Han and Young Ho Kim, published in the *European Archives...\nThe post Pandemic Stress Worsens Tinnitus and Depression appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/4zrw6y/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-wj8idz",
-      "type": "article",
-      "title": "Inside Oticon Reveal’s Dual AI: A Q&A with Thomas Behrens",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/why-dual-ai-in-oticon-reveal-is-about-more-than-speech-q-a-with-thomas-behrens",
-      "author": "Karl Strom",
-      "publishedAt": "2026-09-08T17:15:00.000Z",
-      "readTime": 1,
-      "summary": "Oticon’s Thomas Behrens explains how Reveal’s Dual AI improves speech clarity while preserving surrounding sounds, context, and awareness.",
-      "imageUrl": "https://picsum.photos/seed/wj8idz/600/400",
-      "tags": [
-        "News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-biwt3f",
-      "type": "article",
-      "title": "Pandemic Stress Worsens Tinnitus and Depression",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/pandemic-stress-worsens-tinnitus-and-depression/",
-      "author": "Tinnitus.tips Editorial",
-      "publishedAt": "2026-09-08T07:03:11.000Z",
-      "readTime": 1,
-      "summary": "During the peak of COVID-19 restrictions, people with bothersome chronic tinnitus faced significantly more depression and stress than those without tinnitus or with milder symptoms. This is the core finding of a new study by Sang-Yoon Han and Young Ho Kim, published in the *European Archives of Oto-Rhino-Laryngology*. Key Takeaways During the 2020 COVID-19 restriction...\nThe post Pandemic Stress Worsens Tinnitus and Depression appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/biwt3f/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
     }
   ],
-  "fetchedAt": "2026-09-22T11:21:28.644Z"
+  "fetchedAt": "2026-09-23T11:16:22.666Z"
 }
