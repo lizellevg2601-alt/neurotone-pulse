@@ -1,6 +1,72 @@
 {
   "items": [
     {
+      "id": "feed-hearing-tracker-b859se",
+      "type": "article",
+      "title": "Meta Smart Glasses to Get FDA-Cleared OTC Hearing Aid Feature",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/meta-smart-glasses-to-get-fda-cleared-otc-hearing-aid-feature",
+      "author": "Karl Strom",
+      "publishedAt": "2026-09-24T18:01:00.000Z",
+      "readTime": 1,
+      "summary": "Meta’s Hearing Enhancement will add an FDA-cleared OTC hearing aid feature to compatible smart glasses for $149.99. Here’s what we know so far.",
+      "imageUrl": "https://picsum.photos/seed/b859se/600/400",
+      "tags": [
+        "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-wwcd4e",
+      "type": "article",
+      "title": "Meta AI Glasses to Add FDA-Cleared OTC Hearing Aid Feature",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/meta-glasses-otc-hearing-aid/",
+      "author": "HHTM",
+      "publishedAt": "2026-09-24T15:38:11.000Z",
+      "readTime": 1,
+      "summary": "MENLO PARK, CALIFORNIA — Meta is preparing to turn compatible AI glasses into over-the-counter hearing aids through a new FDA-cleared software feature aimed at adults with perceived mild-to-moderate hearing loss. Announced September 23 at Meta Connect 2026, the company’s new Hearing Enhancement feature will launch in the United States later this year and can be added to supported Meta AI ...\nThe post Meta AI Glasses to Add FDA-Cleared OTC Hearing Aid Feature appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/wwcd4e/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "OTC market shifts affect how patients discover and purchase hearing solutions."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-phonak-blog-wgrton",
+      "type": "article",
+      "title": "EON: Adaptive clarity that speaks for itself",
+      "source": "Phonak Audiology Blog",
+      "sourceUrl": "https://audiologyblog.phonakpro.com/eon-adaptive-clarity-that-speaks-for-itself/",
+      "author": "Michael Preuss",
+      "publishedAt": "2026-09-24T12:14:07.000Z",
+      "readTime": 1,
+      "summary": "Four advanced new features work together in EON: Spheric Speech Clarity 3.0, AutoSense OS™ AI 8.0, APD 4.0 and WindBlock 2.0. Together, they prioritize speech understanding and reduce listening effort in real time while providing a more natural listening experience.\nThe post EON: Adaptive clarity that speaks for itself appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
+      "imageUrl": "https://picsum.photos/seed/wgrton/600/400",
+      "tags": [
+        "Technology",
+        "audiology",
+        "EON",
+        "Hearing care",
+        "hearing loss"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-health-matters-euf54z",
       "type": "article",
       "title": "Breathing and Tinnitus: Tuning the Orchestra of the Brain",
@@ -739,27 +805,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-9o9u18",
-      "type": "article",
-      "title": "Amplifon Moves GN Hearing Acquisition Forward with Shareholder Vote on Capital Increase",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/gn-amplifon-shareholder-vote/",
-      "author": "HHTM",
-      "publishedAt": "2026-09-17T15:04:12.000Z",
-      "readTime": 1,
-      "summary": "MILAN, ITALY — Amplifon is taking another step toward completing its proposed acquisition of GN Hearing, with the company’s Board of Directors moving to call a shareholders’ meeting to approve the issuance of 56 million new Amplifon shares to GN Store Nord as part of the transaction. The board approved a proposal for a capital increase reserved for GN, which ...\nThe post Amplifon Moves GN Hearing Acquisition Forward with Shareholder Vote on Capital Increase appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/9o9u18/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly applicable to your sales strategy and opportunity closure process.",
-        "Tactical insight for growing patient pipeline and conversion rates."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-phonak-blog-tppqq6",
       "type": "article",
       "title": "Phonak EON: Connectivity excellence",
@@ -781,27 +826,6 @@
       "whyItMatters": [
         "Relevant to your core patient population and treatment pathways.",
         "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-uydbe2",
-      "type": "article",
-      "title": "WSA Names Peter Bøggild as New CFO",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/press-releases/wsa-appoints-peter-boggild-as-new-cfo",
-      "author": "Staff",
-      "publishedAt": "2026-09-16T16:50:00.000Z",
-      "readTime": 1,
-      "summary": "WSA appoints Peter Bøggild as Group CFO and Executive Board member, bringing more than 21 years of finance and leadership experience from Novo.",
-      "imageUrl": "https://picsum.photos/seed/uydbe2/600/400",
-      "tags": [
-        "Press Releases"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Directly applicable to your sales strategy and opportunity closure process."
       ],
       "saved": false
     },
@@ -1050,28 +1074,7 @@
         "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
       ],
       "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-l6eau0",
-      "type": "article",
-      "title": "Misophonia: Auditory, Visual, and Imagery Triggers",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/misophonia-auditory-visual-and-imagery-triggers/",
-      "author": "Tinnitus.tips Editorial",
-      "publishedAt": "2026-09-09T19:04:43.000Z",
-      "readTime": 1,
-      "summary": "Key Takeaways People with misophonia show heightened physiological stress—including muscle tension, sweating, and heart rate increases—specifically to trigger sounds, not just generally unpleasant noises. Silent videos of trigger actions (like someone chewing) can also provoke a significant, though slightly weaker, physiological response. Simply imagining a trigger sound can elicit a measurable stress reaction in the...\nThe post Misophonia: Auditory, Visual, and Imagery Triggers appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/l6eau0/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes."
-      ],
-      "saved": false
     }
   ],
-  "fetchedAt": "2026-09-24T11:30:43.991Z"
+  "fetchedAt": "2026-09-25T11:36:33.150Z"
 }
