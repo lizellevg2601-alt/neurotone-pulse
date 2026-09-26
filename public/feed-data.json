@@ -1,6 +1,95 @@
 {
   "items": [
     {
+      "id": "feed-hearing-health-matters-8sh52k",
+      "type": "article",
+      "title": "Researchers Explore Whether Auditory Nerve Cell Therapy Could Improve Cochlear Implant Outcomes",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/review-cell-therapy-cochlear-implant/",
+      "author": "HHTM",
+      "publishedAt": "2026-09-26T04:14:51.000Z",
+      "readTime": 1,
+      "summary": "A cochlear implant can deliver sound information to the inner ear, but its benefit also depends on the auditory nerve carrying that information to the brain. A new review in Hearing Research examines whether cell therapy might one day strengthen that connection for selected patients—and how researchers could identify the people most likely to benefit. The paper, “Boosting auditory nerve ...\nThe post Researchers Explore Whether Auditory Nerve Cell Therapy Could Improve Cochlear Implant Outcomes appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/8sh52k/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-h26wcl",
+      "type": "article",
+      "title": "Hearing Health Takes Center Stage at AAO-HNSF 2026 Annual Meeting",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/inside-hearing/events/hearing-health-takes-center-stage-at-aao-hnsf-2026-annual-meeting",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-09-25T22:45:41.000Z",
+      "readTime": 1,
+      "summary": "Research set to be presented in Los Angeles links hearing loss to type 2 diabetes, cognitive decline, and the growing GLP-1 medication landscape—underscoring hearing health's expanding role in whole-body care.",
+      "imageUrl": "https://picsum.photos/seed/h26wcl/600/400",
+      "tags": [
+        "Events",
+        "Hearing Loss",
+        "Medicare & Insurance",
+        "Organizations",
+        "Research",
+        "AAO-HNS"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Key evidence for the hearing-dementia prevention link — a growing patient motivator.",
+        "Directly supports the brain-training approach your hearing app is built on."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-mgtilb",
+      "type": "article",
+      "title": "HIA and HLAA Launch “Sounds of America” Hearing Health Campaign",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/sounds-of-america-campaign/",
+      "author": "HHTM",
+      "publishedAt": "2026-09-25T19:28:11.000Z",
+      "readTime": 1,
+      "summary": "The Hearing Industries Association (HIA) and the Hearing Loss Association of America (HLAA) have launched Sounds of America, an eight-week campaign inviting people to share the sounds they associate with home and community. The organizations say the effort is intended to make hearing health conversations more personal and encourage people to seek information and support when they notice a change ...\nThe post HIA and HLAA Launch “Sounds of America” Hearing Health Campaign appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/mgtilb/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Patient acquisition strategies to inform your go-to-market approach."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-vv7frb",
+      "type": "article",
+      "title": "Neurotone Offers Partner Certification Program for Lace Pro and Tinnitus Pro",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/pro-news/neurotone-offers-partner-certification-program-for-lace-pro-and-tinnitus-pro",
+      "author": "Karl Strom",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "readTime": 1,
+      "summary": "Neurotone launches Lace Pro certification for hearing care providers and practices, with a separate Tinnitus Pro certification available September 28.",
+      "imageUrl": "https://picsum.photos/seed/vv7frb/600/400",
+      "tags": [
+        "Pro News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-tracker-b859se",
       "type": "article",
       "title": "Meta Smart Glasses to Get FDA-Cleared OTC Hearing Aid Feature",
@@ -21,18 +110,18 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-wwcd4e",
+      "id": "feed-hearing-health-matters-ttk5nn",
       "type": "article",
       "title": "Meta AI Glasses to Add FDA-Cleared OTC Hearing Aid Feature",
       "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/meta-glasses-otc-hearing-aid/",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/meta-glasses-otc-hearing-aid/",
       "author": "HHTM",
       "publishedAt": "2026-09-24T15:38:11.000Z",
       "readTime": 1,
       "summary": "MENLO PARK, CALIFORNIA — Meta is preparing to turn compatible AI glasses into over-the-counter hearing aids through a new FDA-cleared software feature aimed at adults with perceived mild-to-moderate hearing loss. Announced September 23 at Meta Connect 2026, the company’s new Hearing Enhancement feature will launch in the United States later this year and can be added to supported Meta AI ...\nThe post Meta AI Glasses to Add FDA-Cleared OTC Hearing Aid Feature appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/wwcd4e/600/400",
+      "imageUrl": "https://picsum.photos/seed/ttk5nn/600/400",
       "tags": [
-        "Hearing News Watch"
+        "Hearing Technologies"
       ],
       "relevanceScore": 50,
       "whyItMatters": [
@@ -675,27 +764,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-gykrys",
-      "type": "article",
-      "title": "Trihear SmartMic Brings Remote Microphone Streaming to Compatible Phonak, Unitron and Sennheiser Devices",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/trihear-smartmic-sonova-hearing-aids/",
-      "author": "HHTM",
-      "publishedAt": "2026-09-18T17:34:51.000Z",
-      "readTime": 1,
-      "summary": "Trihear has launched SmartMic, a compact remote microphone designed to stream a conversation partner’s voice directly to compatible hearing aids from Sonova-owned brands, including Phonak, Unitron, and Sennheiser. Designed primarily for one-on-one conversations, the clip-on microphone is intended to provide additional listening support when background noise, distance, or room acoustics make speech more difficult to follow. The speaker wears the ...\nThe post Trihear SmartMic Brings Remote Microphone Streaming to Compatible Phonak, Unitron and Sennheiser Devices appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/gykrys/600/400",
-      "tags": [
-        "Hearing Technologies"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Patient acquisition strategies to inform your go-to-market approach."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-tracker-79asrp",
       "type": "article",
       "title": "ACHIEVE Study Links Hearing Treatment to Slower Rise in Brain-Health Biomarker",
@@ -733,74 +801,6 @@
       "whyItMatters": [
         "Supports your work in auditory-cognitive training and brain reorganization for hearing.",
         "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-review-4wvnvf",
-      "type": "article",
-      "title": "Amplifon Calls Shareholders’ Meeting to Advance GN Hearing Acquisition",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/inside-hearing/industry-news/amplifon-calls-shareholders-meeting-to-advance-gn-hearing-acquisition",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-09-17T22:48:16.000Z",
-      "readTime": 1,
-      "summary": "Amplifon has called a shareholders' meeting to approve a capital increase advancing its acquisition of GN Hearing, a major consolidation move expected to close by late 2026.",
-      "imageUrl": "https://picsum.photos/seed/4wvnvf/600/400",
-      "tags": [
-        "Growth Strategies",
-        "Industry News",
-        "Amplifon",
-        "GN Hearing",
-        "hearing aids",
-        "mergers and acquisitions"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Directly applicable to your sales strategy and opportunity closure process."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-marh9n",
-      "type": "article",
-      "title": "LXE to Discontinue Eargo and Lexie Apps: What Users Should Know",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/lxe-announces-discontinuation-of-eargo-and-lexie-what-users-know",
-      "author": "Karl Strom",
-      "publishedAt": "2026-09-17T21:01:00.000Z",
-      "readTime": 1,
-      "summary": "Eargo and Lexie will discontinue their hearing aid apps in October. Learn the deadlines and how users can preserve app access and saved settings.",
-      "imageUrl": "https://picsum.photos/seed/marh9n/600/400",
-      "tags": [
-        "News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-ina9wo",
-      "type": "article",
-      "title": "Japanese PEDMARK Study Reports Significant Reduction in Cisplatin-Related Hearing Loss",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/pedmark-phase-2-hearing-loss-japan/",
-      "author": "HHTM",
-      "publishedAt": "2026-09-17T15:35:08.000Z",
-      "readTime": 1,
-      "summary": "RESEARCH TRIANGLE PARK, N.C. — New Phase 2 clinical data from Japan found that pediatric and adolescent and young adult (AYA) patients receiving PEDMARK® (sodium thiosulfate) following cisplatin chemotherapy experienced a significantly lower rate of hearing loss compared with a prespecified historical benchmark. Fennec Pharmaceuticals announced detailed results from the investigator-initiated STS-J01 study, which are being presented September 17 at ...\nThe post Japanese PEDMARK Study Reports Significant Reduction in Cisplatin-Related Hearing Loss appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/ina9wo/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Practice management insights to help grow your hearing care business."
       ],
       "saved": false
     },
@@ -1076,5 +1076,5 @@
       "saved": false
     }
   ],
-  "fetchedAt": "2026-09-25T11:36:33.150Z"
+  "fetchedAt": "2026-09-26T11:11:08.791Z"
 }
