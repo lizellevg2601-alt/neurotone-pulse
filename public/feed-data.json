@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "feed-hearing-health-matters-lngvy5",
+      "type": "article",
+      "title": "VA Emergency Department Tests Hearing Assistive Devices for Veterans",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/va-er-hearing-assistance-trial/",
+      "author": "HHTM",
+      "publishedAt": "2026-09-27T15:21:01.000Z",
+      "readTime": 1,
+      "summary": "Emergency departments are difficult places to hear. Background conversations, equipment, alarms, and the urgency of care can make it hard for patients to understand questions and instructions. For Veterans with hearing loss, those barriers may affect some of the most consequential conversations of a hospital visit. Researchers at the VA Greater Los Angeles Healthcare System tested a practical response: offering ...\nThe post VA Emergency Department Tests Hearing Assistive Devices for Veterans appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/lngvy5/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Addresses common patient objections — useful for your sales conversations and team coaching."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-health-matters-8sh52k",
       "type": "article",
       "title": "Researchers Explore Whether Auditory Nerve Cell Therapy Could Improve Cochlear Implant Outcomes",
@@ -596,26 +617,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-k4ty4r",
-      "type": "article",
-      "title": "Auditdata Appoints Christoffer Spangenberg as CEO",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/auditdata-new-ceo/",
-      "author": "HHTM",
-      "publishedAt": "2026-09-21T15:53:23.000Z",
-      "readTime": 1,
-      "summary": "COPENHAGEN, DENMARK — Auditdata has appointed Christoffer Spangenberg as Chief Executive Officer, effective September 25, 2026. Spangenberg will succeed Kurt Bager, who is leaving the company to pursue a new professional chapter. Spangenberg currently serves as Chief Commercial Officer and Head of Delivery at Auditdata and has been with the hearing care software company since 2019. During that time, he ...\nThe post Auditdata Appoints Christoffer Spangenberg as CEO appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/k4ty4r/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-review-619l3x",
       "type": "article",
       "title": "Sensorion Announces SENS-601 Program Day Focused on GJB2 Gene Therapy for Hearing Loss",
@@ -1076,5 +1077,5 @@
       "saved": false
     }
   ],
-  "fetchedAt": "2026-09-27T11:49:29.617Z"
+  "fetchedAt": "2026-09-28T13:32:36.871Z"
 }
