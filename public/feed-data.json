@@ -1,6 +1,108 @@
 {
   "items": [
     {
+      "id": "feed-phonak-blog-9l46w5",
+      "type": "article",
+      "title": "Turning 50 into a prompt for better hearing health",
+      "source": "Phonak Audiology Blog",
+      "sourceUrl": "https://audiologyblog.phonakpro.com/turning-50-into-a-prompt-for-better-hearing-health/",
+      "author": "Barbra Timmer",
+      "publishedAt": "2026-09-29T11:05:07.000Z",
+      "readTime": 1,
+      "summary": "A national letter campaign inviting Australians to have their hearing checked at age 50 offers a compelling real-world example of how to position adult hearing screening as routine preventive care and put the WHO’s life-course approach to hearing care into practice.\nThe post Turning 50 into a prompt for better hearing health appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
+      "imageUrl": "https://picsum.photos/seed/9l46w5/600/400",
+      "tags": [
+        "Clinical Practice"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Practice management insights to help grow your hearing care business.",
+        "Patient acquisition strategies to inform your go-to-market approach."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-u6d290",
+      "type": "article",
+      "title": "Cochlear Surpasses 1 Million Hours of Patient Experience in Fully Implantable Hearing Technology Program",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-products/implants-bone-conduction/cochlear-implants/cochlear-surpasses-1-million-hours-of-patient-experience-in-fully-implantable-hearing-technology-program",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-09-28T20:27:03.000Z",
+      "readTime": 1,
+      "summary": "Cochlear has completed worldwide pivotal trial recruitment for its fully implantable cochlear implant system, with patients accumulating more than 1 million hours of experience across the research program.",
+      "imageUrl": "https://picsum.photos/seed/u6d290/600/400",
+      "tags": [
+        "Cochlear Implants",
+        "Cochlear Americas",
+        "original",
+        "research",
+        "tech trends"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-fkt1x",
+      "type": "article",
+      "title": "Cochlear Fully Implantable Hearing Technology Research Surpasses 1 Million Hours of Patient Experience",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/cochlear-fully-implantable-1-million-hours/",
+      "author": "HHTM",
+      "publishedAt": "2026-09-28T17:15:19.000Z",
+      "readTime": 1,
+      "summary": "SYDNEY, AUSTRALIA — Cochlear has reached a new milestone in the development of its fully implantable hearing technology, with patients across the company’s research programs now accumulating more than 1 million hours of experience with investigational devices. The company also announced that recruitment has been completed for its global pivotal trial program, including the ELEVATE study in the United States ...\nThe post Cochlear Fully Implantable Hearing Technology Research Surpasses 1 Million Hours of Patient Experience appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/fkt1x/600/400",
+      "tags": [
+        "Hearing Technologies"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-6h4vqn",
+      "type": "article",
+      "title": "Cochlear Completes Enrollment in Fully Implantable Implant Trials",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/cochlear-completes-enrollment-in-fully-implantable-implant-trials",
+      "author": "Staff",
+      "publishedAt": "2026-09-28T15:04:05.000Z",
+      "readTime": 1,
+      "summary": "Cochlear has completed enrollment in two pivotal trials of its fully implantable cochlear implant, with 92 adults enrolled across the U.S., France, and Australia.",
+      "imageUrl": "https://picsum.photos/seed/6h4vqn/600/400",
+      "tags": [
+        "Press Releases"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-online-bu9dbb",
+      "type": "article",
+      "title": "Cochlear reaches more than 1 million hours of patient experience across its fully implantable hearing technology research program",
+      "source": "Audiology Online",
+      "sourceUrl": "https://www.audiologyonline.com/releases/29823-cochlear-reaches-more-than-1",
+      "publishedAt": "2026-09-28T04:00:00.000Z",
+      "readTime": 1,
+      "summary": "Cochlear today announced the completion of recruitment for the worldwide pivotal trial program evaluating fully implantable hearing technology.",
+      "imageUrl": "https://picsum.photos/seed/bu9dbb/600/400",
+      "tags": [],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-health-matters-lngvy5",
       "type": "article",
       "title": "VA Emergency Department Tests Hearing Assistive Devices for Veterans",
@@ -597,26 +699,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-esdxbz",
-      "type": "article",
-      "title": "Knowles Expands Hearing Health Portfolio at EUHA 2026",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/knowles-expands-hearing-health-portfolio-at-euha-2026/",
-      "author": "HHTM",
-      "publishedAt": "2026-09-21T18:55:50.000Z",
-      "readTime": 1,
-      "summary": "HANOVER, GERMANY — Knowles Corporation will showcase an expanded portfolio of hearing health technologies at EUHA 2026, including its new HiFit 2.0 receiver-in-canal (RIC), MM60 MEMS microphone, and a range of balanced armature receivers and specialty audio components. The company, exhibiting at Booth 213, develops audio components designed for hearing health applications, including compact, low-power microphones and balanced armature receivers ...\nThe post Knowles Expands Hearing Health Portfolio at EUHA 2026 appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/esdxbz/600/400",
-      "tags": [
-        "Hearing Technologies"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-review-619l3x",
       "type": "article",
       "title": "Sensorion Announces SENS-601 Program Day Focused on GJB2 Gene Therapy for Hearing Loss",
@@ -731,52 +813,6 @@
         "education",
         "Opus Technologies",
         "original"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-review-8t4eaj",
-      "type": "article",
-      "title": "Fennec Pharmaceuticals Reports Hearing Loss Reduction With Pedmark in Japan Phase 2 Trial",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/inside-hearing/research/fennec-pharmaceuticals-reports-hearing-loss-reduction-with-pedmark-in-japan-phase-2-trial",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-09-18T22:11:13.000Z",
-      "readTime": 1,
-      "summary": "Data from the Phase 2 STS-J01 trial presented at SIOP 2026 show that Fennec Pharmaceuticals’ Pedmark significantly reduced cisplatin-related hearing loss in pediatric and AYA patients in Japan while maintaining a high tumor response rate.",
-      "imageUrl": "https://picsum.photos/seed/8t4eaj/600/400",
-      "tags": [
-        "Hearing Loss",
-        "Prevention",
-        "Research",
-        "cisplatin hearing loss",
-        "cisplatin ototoxicity",
-        "clinical trials"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-79asrp",
-      "type": "article",
-      "title": "ACHIEVE Study Links Hearing Treatment to Slower Rise in Brain-Health Biomarker",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/achieve-study-links-hearing-treatment-to-slower-rise-in-brain-health-biomarker",
-      "author": "Karl Strom",
-      "publishedAt": "2026-09-18T13:10:00.000Z",
-      "readTime": 1,
-      "summary": "New ACHIEVE findings suggest hearing treatment may slow a blood marker linked to inflammation and degeneration in the aging brain.",
-      "imageUrl": "https://picsum.photos/seed/79asrp/600/400",
-      "tags": [
-        "News"
       ],
       "relevanceScore": 50,
       "whyItMatters": [
@@ -1033,49 +1069,7 @@
         "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
       ],
       "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-4zrw63",
-      "type": "article",
-      "title": "Pandemic Stress Worsens Tinnitus and Depression",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/pandemic-stress-worsens-tinnitus-and-depression-3/",
-      "author": "Tinnitus.tips Editorial",
-      "publishedAt": "2026-09-10T07:05:24.000Z",
-      "readTime": 1,
-      "summary": "During the strictest COVID-19 restrictions in 2020, people with chronic bothersome tinnitus showed significantly higher rates of depression and stress than those without tinnitus or with only mild symptoms. This is the central finding from a new analysis of Korean national health data, which also found that this psychological gap had closed by 2022 when...\nThe post Pandemic Stress Worsens Tinnitus and Depression appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/4zrw63/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-tinnitus-tips-yn8l79",
-      "type": "article",
-      "title": "Dental Occlusion, Brain Function, and Hearing Health",
-      "source": "Tinnitus Research",
-      "sourceUrl": "https://tinnitus.tips/dental-occlusion-brain-function-and-hearing-health/",
-      "author": "Tinnitus.tips Editorial",
-      "publishedAt": "2026-09-10T07:03:32.000Z",
-      "readTime": 1,
-      "summary": "A new review paper confirms the brain and the jaw have a two-way conversation. Research by Bingfeng Dai, Ziming Zhao, and Jie Lin synthesizes evidence showing that dental occlusion—how your teeth fit together—directly influences brain structure and function, while the brain simultaneously regulates jaw position and muscle tone. This bidirectional relationship has significant implications for...\nThe post Dental Occlusion, Brain Function, and Hearing Health appeared first on Tinnitus.tips.",
-      "imageUrl": "https://picsum.photos/seed/yn8l79/600/400",
-      "tags": [
-        "Tinnitus Research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
     }
   ],
-  "fetchedAt": "2026-09-28T13:32:36.871Z"
+  "fetchedAt": "2026-09-29T12:34:12.646Z"
 }
