@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "feed-hearing-review-7499dk",
+      "type": "article",
+      "title": "William Shatner Partners with Audien Hearing on “Boldly Hear What’s Next” Campaign",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/otc/william-shatner-partners-with-audien-hearing-on-boldly-hear-whats-next-campaign",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-09-30T19:00:48.000Z",
+      "readTime": 1,
+      "summary": "Iconic actor William Shatner's Audien Hearing campaign leverages his personal experience with hearing challenges to encourage adoption among older adults.",
+      "imageUrl": "https://picsum.photos/seed/7499dk/600/400",
+      "tags": [
+        "Industry News",
+        "Over the Counter",
+        "Audien Atom X",
+        "Audien Hearing",
+        "hearing aid stigma",
+        "original"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Patient acquisition strategies to inform your go-to-market approach."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-vel9mn",
+      "type": "article",
+      "title": "Audigy Earns 2026 Top Workplace and Top Women-Led Workplace Honors",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/inside-hearing/industry-news/audigy-earns-2026-top-workplace-and-top-women-led-workplace-honors",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-09-30T18:34:11.000Z",
+      "readTime": 1,
+      "summary": "Vancouver, Wash.-based hearing care management company Audigy has been named a 2026 Top Workplace and Top Women-Led Workplace by *The Oregonian*. Based entirely on confidential employee feedback, the back-to-back honors highlight the organization's ongoing commitment to a culture of leadership, support, and professional growth.",
+      "imageUrl": "https://picsum.photos/seed/vel9mn/600/400",
+      "tags": [
+        "Industry News",
+        "Practice Management",
+        "Audigy",
+        "original",
+        "workplace culture"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Practice management insights to help grow your hearing care business.",
+        "Directly applicable to your sales strategy and opportunity closure process."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-9r65kr",
+      "type": "article",
+      "title": "Why Does Tinnitus Feel Worse at Night? (And What to Do About It)",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/tinnitus-education-corner/2026/tinnitus-worse-at-night-why/",
+      "author": "HHTM",
+      "publishedAt": "2026-09-30T15:24:03.000Z",
+      "readTime": 1,
+      "summary": "By Dr. Jennifer J. Gans Many people say about their tinnitus: “It’s manageable during the day, but at night it becomes unbearable.” This is one of the most common tinnitus experiences—and it makes complete sense once you understand what your brain is doing. Tinnitus is not actually worse at night What changes is your environment and your brain state. What ...\nThe post Why Does Tinnitus Feel Worse at Night? (And What to Do About It) appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/9r65kr/600/400",
+      "tags": [
+        "Tinnitus Education Corner with Dr. Jennifer Gans"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-health-matters-zi6gvg",
       "type": "article",
       "title": "Listen Up: A New Push to Make Hearing Screening Routine at 50",
@@ -399,27 +471,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-mgtilb",
-      "type": "article",
-      "title": "HIA and HLAA Launch “Sounds of America” Hearing Health Campaign",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/sounds-of-america-campaign/",
-      "author": "HHTM",
-      "publishedAt": "2026-09-25T19:28:11.000Z",
-      "readTime": 1,
-      "summary": "The Hearing Industries Association (HIA) and the Hearing Loss Association of America (HLAA) have launched Sounds of America, an eight-week campaign inviting people to share the sounds they associate with home and community. The organizations say the effort is intended to make hearing health conversations more personal and encourage people to seek information and support when they notice a change ...\nThe post HIA and HLAA Launch “Sounds of America” Hearing Health Campaign appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/mgtilb/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Patient acquisition strategies to inform your go-to-market approach."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-tracker-vv7frb",
       "type": "article",
       "title": "Neurotone Offers Partner Certification Program for Lace Pro and Tinnitus Pro",
@@ -786,57 +837,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-review-nwnj89",
-      "type": "article",
-      "title": "Study Supports Expanding Pediatric Cochlear Implant Candidacy to Younger Ages and Residual Hearing",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/hearing-products/implants-bone-conduction/cochlear-implants/study-supports-expanding-pediatric-cochlear-implant-candidacy-to-younger-ages-and-residual-hearing",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-09-18T23:15:08.000Z",
-      "readTime": 1,
-      "summary": "A new multicenter study demonstrates strong efficacy outcomes for cochlear implants in children as young as 7 months and those with residual hearing, adding clinical weight to calls for updated FDA candidacy criteria.",
-      "imageUrl": "https://picsum.photos/seed/nwnj89/600/400",
-      "tags": [
-        "Cochlear Implants",
-        "Pediatric Care",
-        "Research",
-        "MED-EL USA",
-        "original",
-        "research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-review-wncxon",
-      "type": "article",
-      "title": "Sensorion Files for US IPO",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/inside-hearing/research/sensorion-files-for-us-ipo",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-09-18T22:42:16.000Z",
-      "readTime": 1,
-      "summary": "The France-based clinical-stage biotech, known for its pipeline of gene therapies targeting hearing loss, has confidentially submitted a draft registration statement to the SEC as it evaluates a potential listing on a US national exchange.",
-      "imageUrl": "https://picsum.photos/seed/wncxon/600/400",
-      "tags": [
-        "Industry News",
-        "Research",
-        "Sensorineural",
-        "gene therapy",
-        "original",
-        "pharmaceuticals"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-academy-k1mt0j",
       "type": "article",
       "title": "Cortical Changes in Total and Partial Vestibular Dysfunction, As Measured by EEG",
@@ -1066,5 +1066,5 @@
       "saved": false
     }
   ],
-  "fetchedAt": "2026-09-30T12:20:02.552Z"
+  "fetchedAt": "2026-10-01T12:55:04.984Z"
 }
