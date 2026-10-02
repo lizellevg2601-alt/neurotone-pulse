@@ -1,6 +1,293 @@
 {
   "items": [
     {
+      "id": "feed-hearing-tracker-131keu",
+      "type": "article",
+      "title": "VS3 Medical Receives FDA Breakthrough Status for Pulsatile Tinnitus Device",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/vs3-medical-receives-fda-breakthrough-status-for-pulsatile-tinnitus-device",
+      "author": "Staff",
+      "publishedAt": "2026-10-02T12:10:00.000Z",
+      "readTime": 1,
+      "summary": "VS3 Medical receives FDA Breakthrough Device Designation for its investigational stent system targeting debilitating pulsatile tinnitus.",
+      "imageUrl": "https://picsum.photos/seed/131keu/600/400",
+      "tags": [
+        "Press Releases"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-wp24o0",
+      "type": "article",
+      "title": "2026 Hearing Technology Innovator Awards™ Winners Announced",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/hti-award-winners-2026/",
+      "author": "HHTM",
+      "publishedAt": "2026-10-02T11:45:54.000Z",
+      "readTime": 1,
+      "summary": "Hearing Health & Technology Matters (HHTM) has announced the winners of the seventh annual Hearing Technology Innovator Awards™, recognizing technologies, products, and services advancing hearing care around the world. The 2026 program drew submissions from a diverse range of companies, from emerging technology developers to established global hearing industry leaders. This year’s winners span hearing aids, auditory implants, assistive technologies ...\nThe post 2026 Hearing Technology Innovator Awards™ Winners Announced appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/wp24o0/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes.",
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-5ifdw9",
+      "type": "article",
+      "title": "Neuromod Appoints Joe Ghiz and Shannon Basham to Executive Positions",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/pro-news/neuromod-appoints-joe-ghiz-and-shannon-basham-to-executive-positions",
+      "author": "Staff",
+      "publishedAt": "2026-10-02T03:20:00.000Z",
+      "readTime": 1,
+      "summary": "Neuromod appoints Joe Ghiz and Shannon Basham to senior commercial roles as it expands access to its Lenire tinnitus treatment.",
+      "imageUrl": "https://picsum.photos/seed/5ifdw9/600/400",
+      "tags": [
+        "Pro News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-5lq4rb",
+      "type": "article",
+      "title": "HIA and HLAA Launch \"Sounds of America\" Campaign",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/hia-and-hlaa-launch-sounds-of-america-campaign",
+      "author": "Staff",
+      "publishedAt": "2026-10-02T02:08:39.000Z",
+      "readTime": 1,
+      "summary": "New initiative invites Americans to share the sounds that define their hometowns and communities while raising awareness of hearing health.",
+      "imageUrl": "https://picsum.photos/seed/5lq4rb/600/400",
+      "tags": [
+        "Press Releases"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Patient acquisition strategies to inform your go-to-market approach.",
+        "Marketing tactics that support your sales funnel and team."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-vemv0i",
+      "type": "article",
+      "title": "Starkey Unveils Omega AI+ With G4 Gen AI Processor, Auracast and New Wellness Features",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/omega-ai-plus-g4-hearing-aids/",
+      "author": "HHTM",
+      "publishedAt": "2026-10-01T15:31:43.000Z",
+      "readTime": 1,
+      "summary": "EDEN PRAIRIE, MINNESOTA — Starkey has introduced Omega AI+, the latest generation of its flagship hearing technology platform, adding a new processor and multi-network deep neural network architecture while extending the company’s AI-based sound processing across a broader range of hearing aid styles. Omega AI+ builds on the Omega AI platform introduced in October 2025, which brought Starkey’s DNN 360 ...\nThe post Starkey Unveils Omega AI+ With G4 Gen AI Processor, Auracast and New Wellness Features appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/vemv0i/600/400",
+      "tags": [
+        "Hearing Technologies"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-ryonx3",
+      "type": "article",
+      "title": "Starkey Introduces Omega AI+ with Quad DNN Architecture and New G4 Neuro Processor",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/starkey-introduces-omega-ai-with-quad-dnn-architecture-and-new-g4-neuro-processor",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-10-01T15:27:49.000Z",
+      "readTime": 1,
+      "summary": "Starkey’s new Omega AI+ hearing aid family features a proprietary Quad DNN Architecture, the G4 Gen AI Neuro Processor, and advanced wellness tools like Sleep Quality Tracking.",
+      "imageUrl": "https://picsum.photos/seed/ryonx3/600/400",
+      "tags": [
+        "Health & Wellness",
+        "Hearing Aids",
+        "AI hearing aids",
+        "new product",
+        "original",
+        "starkey"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-51mdln",
+      "type": "article",
+      "title": "Legato Frames Now Available in the US, Combining AI Hearing Technology With Prescription Eyewear",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/otc/legato-frames-now-available-in-the-us-combining-ai-hearing-technology-with-prescription-eyewear",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-10-01T15:27:00.000Z",
+      "readTime": 1,
+      "summary": "Legato has launched its AI-powered hearing glasses in the US, combining FDA-regulated over-the-counter hearing technology with prescription-compatible eyewear to help bridge the gap in hearing care adoption.",
+      "imageUrl": "https://picsum.photos/seed/51mdln/600/400",
+      "tags": [
+        "Over the Counter",
+        "Legato",
+        "new product",
+        "original",
+        "smart glasses",
+        "tech trends"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "OTC market shifts affect how patients discover and purchase hearing solutions."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-orrj6p",
+      "type": "article",
+      "title": "Neuromod Adds Commercial Leaders to Support Expansion of Lenire Tinnitus Treatment",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/neuromod-commercial-expansion/",
+      "author": "HHTM",
+      "publishedAt": "2026-10-01T15:03:17.000Z",
+      "readTime": 1,
+      "summary": "DUBLIN, IRELAND — Neuromod Devices has expanded its senior commercial leadership team with the appointment of Joe Ghiz as Chief Commercial Officer (CCO) and Shannon Basham as Vice President of Channel Development. The appointments come as Neuromod works to expand access to Lenire, its bimodal neuromodulation treatment for tinnitus, through ENT and audiology practices in the United States and other ...\nThe post Neuromod Adds Commercial Leaders to Support Expansion of Lenire Tinnitus Treatment appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/orrj6p/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-osp30q",
+      "type": "article",
+      "title": "Starkey Launches Omega AI+ with Quad DNNs and DNN Dual Compression",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/starkey-launches-omega-ai-with-quad-dnn-and-dual-compression",
+      "author": "Karl Strom",
+      "publishedAt": "2026-10-01T15:00:00.000Z",
+      "readTime": 1,
+      "summary": "Starkey launches Omega AI+ hearing aids with Quad DNN, AI-powered dual compression, improved feedback control, and expanded custom options.",
+      "imageUrl": "https://picsum.photos/seed/osp30q/600/400",
+      "tags": [
+        "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-egr64e",
+      "type": "article",
+      "title": "Legato Frames OTC Hearing Aid Glasses Launch From $999",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/legato-frames-otc-hearing-aid-glasses-launch-from-999",
+      "author": "Karl Strom",
+      "publishedAt": "2026-10-01T13:02:00.000Z",
+      "readTime": 1,
+      "summary": "Legato Frames OTC hearing aid glasses launch from $999 with AI speech processing, prescription lenses, and Bluetooth streaming for iPhone and Android.",
+      "imageUrl": "https://picsum.photos/seed/egr64e/600/400",
+      "tags": [
+        "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-1lmfy3",
+      "type": "article",
+      "title": "IHS Highlights Hearing Protection During National Protect Your Hearing Month",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/ihs-highlights-hearing-protection-during-national-protect-your-hearing-month/",
+      "author": "HHTM",
+      "publishedAt": "2026-10-01T12:07:23.000Z",
+      "readTime": 1,
+      "summary": "FARMINGTON HILLS, MI — The International Hearing Society (IHS) is encouraging consumers to take steps to protect their hearing during October in recognition of National Protect Your Hearing Month. Observed each October, National Protect Your Hearing Month is intended to raise awareness of noise-induced hearing loss and the steps people can take to reduce potentially harmful noise exposure. The issue ...\nThe post IHS Highlights Hearing Protection During National Protect Your Hearing Month appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/1lmfy3/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-online-r34zaw",
+      "type": "article",
+      "title": "American Academy of Audiology Celebrates National Audiology Awareness Month",
+      "source": "Audiology Online",
+      "sourceUrl": "https://www.audiologyonline.com/releases/29828-american-academy-audiology-celebrates-national",
+      "publishedAt": "2026-10-01T04:00:00.000Z",
+      "readTime": 1,
+      "summary": "October 1st marks the start of National Audiology Awareness Month, highlighting the importance of hearing health and the profession of audiology.",
+      "imageUrl": "https://assets-atlas-production.continued.com/ao-assets/content/c29800/c29828/aaaawarenessmonth-hearingaids1200x630.png",
+      "tags": [],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-online-7n35lv",
+      "type": "article",
+      "title": "New Senior Commercial Appointments at Neuromod",
+      "source": "Audiology Online",
+      "sourceUrl": "https://www.audiologyonline.com/releases/29827-new-senior-commercial-appointments-at",
+      "publishedAt": "2026-10-01T04:00:00.000Z",
+      "readTime": 1,
+      "summary": "Neuromod Devices has announced the appointment of Joe Ghiz as Chief Commercial Officer (CCO) and Shannon Basham as VP of Channel Development.",
+      "imageUrl": "https://assets-atlas-production.continued.com/ao-assets/content/c29800/c29827/lenireproduct.jpg",
+      "tags": [],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-online-lleu5c",
+      "type": "article",
+      "title": "Protect Your Ears in October",
+      "source": "Audiology Online",
+      "sourceUrl": "https://www.audiologyonline.com/releases/29829-protect-your-ears-in-october",
+      "publishedAt": "2026-10-01T04:00:00.000Z",
+      "readTime": 1,
+      "summary": "National Protect Your Hearing Month is observed every October to raise awareness about noise-induced hearing loss and promote hearing protection strategies",
+      "imageUrl": "https://assets-atlas-production.continued.com/ao-assets/content/c29800/c29829/ihs-logo-300x68.webp",
+      "tags": [],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-review-7499dk",
       "type": "article",
       "title": "William Shatner Partners with Audien Hearing on “Boldly Hear What’s Next” Campaign",
@@ -263,27 +550,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-6l2kv4",
-      "type": "article",
-      "title": "William Shatner Partners With Audien Hearing for “Boldly Hear What’s Next” Campaign",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/william-shatner-audien/",
-      "author": "HHTM",
-      "publishedAt": "2026-09-29T13:00:18.000Z",
-      "readTime": 1,
-      "summary": "SCOTTSDALE, ARIZONA — Audien Hearing has announced a partnership with actor William Shatner for a new campaign focused on hearing, healthy aging and staying connected as people grow older. The campaign, called “Boldly Hear What’s Next,” features the 95-year-old actor and longtime Star Trek star discussing his own experience with hearing challenges and the role hearing can play in remaining ...\nThe post William Shatner Partners With Audien Hearing for “Boldly Hear What’s Next” Campaign appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/6l2kv4/600/400",
-      "tags": [
-        "Hearing Technologies"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Patient acquisition strategies to inform your go-to-market approach.",
-        "Marketing tactics that support your sales funnel and team."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-phonak-blog-9l46w5",
       "type": "article",
       "title": "Turning 50 into a prompt for better hearing health",
@@ -346,26 +612,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-fkt1x",
-      "type": "article",
-      "title": "Cochlear Fully Implantable Hearing Technology Research Surpasses 1 Million Hours of Patient Experience",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/cochlear-fully-implantable-1-million-hours/",
-      "author": "HHTM",
-      "publishedAt": "2026-09-28T17:15:19.000Z",
-      "readTime": 1,
-      "summary": "SYDNEY, AUSTRALIA — Cochlear has reached a new milestone in the development of its fully implantable hearing technology, with patients across the company’s research programs now accumulating more than 1 million hours of experience with investigational devices. The company also announced that recruitment has been completed for its global pivotal trial program, including the ELEVATE study in the United States ...\nThe post Cochlear Fully Implantable Hearing Technology Research Surpasses 1 Million Hours of Patient Experience appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/fkt1x/600/400",
-      "tags": [
-        "Hearing Technologies"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-tracker-6h4vqn",
       "type": "article",
       "title": "Cochlear Completes Enrollment in Fully Implantable Implant Trials",
@@ -399,48 +645,6 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-lngvy5",
-      "type": "article",
-      "title": "VA Emergency Department Tests Hearing Assistive Devices for Veterans",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/va-er-hearing-assistance-trial/",
-      "author": "HHTM",
-      "publishedAt": "2026-09-27T15:21:01.000Z",
-      "readTime": 1,
-      "summary": "Emergency departments are difficult places to hear. Background conversations, equipment, alarms, and the urgency of care can make it hard for patients to understand questions and instructions. For Veterans with hearing loss, those barriers may affect some of the most consequential conversations of a hospital visit. Researchers at the VA Greater Los Angeles Healthcare System tested a practical response: offering ...\nThe post VA Emergency Department Tests Hearing Assistive Devices for Veterans appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/lngvy5/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Addresses common patient objections — useful for your sales conversations and team coaching."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-8sh52k",
-      "type": "article",
-      "title": "Researchers Explore Whether Auditory Nerve Cell Therapy Could Improve Cochlear Implant Outcomes",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/review-cell-therapy-cochlear-implant/",
-      "author": "HHTM",
-      "publishedAt": "2026-09-26T04:14:51.000Z",
-      "readTime": 1,
-      "summary": "A cochlear implant can deliver sound information to the inner ear, but its benefit also depends on the auditory nerve carrying that information to the brain. A new review in Hearing Research examines whether cell therapy might one day strengthen that connection for selected patients—and how researchers could identify the people most likely to benefit. The paper, “Boosting auditory nerve ...\nThe post Researchers Explore Whether Auditory Nerve Cell Therapy Could Improve Cochlear Implant Outcomes appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/8sh52k/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
       ],
       "saved": false
     },
@@ -492,26 +696,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-tracker-b859se",
-      "type": "article",
-      "title": "Meta Smart Glasses to Get FDA-Cleared OTC Hearing Aid Feature",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/meta-smart-glasses-to-get-fda-cleared-otc-hearing-aid-feature",
-      "author": "Karl Strom",
-      "publishedAt": "2026-09-24T18:01:00.000Z",
-      "readTime": 1,
-      "summary": "Meta’s Hearing Enhancement will add an FDA-cleared OTC hearing aid feature to compatible smart glasses for $149.99. Here’s what we know so far.",
-      "imageUrl": "https://picsum.photos/seed/b859se/600/400",
-      "tags": [
-        "News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-phonak-blog-wgrton",
       "type": "article",
       "title": "EON: Adaptive clarity that speaks for itself",
@@ -559,68 +743,6 @@
       "whyItMatters": [
         "Relevant to your core patient population and treatment pathways.",
         "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-v5qq59",
-      "type": "article",
-      "title": "Signia Celebrates MaX Launch at COSM Dallas",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/press-releases/signia-celebrates-max-launch-at-cosm-dallas",
-      "author": "Staff",
-      "publishedAt": "2026-09-23T18:02:00.000Z",
-      "readTime": 1,
-      "summary": "Signia marked the U.S. launch of its MaX hearing aid platform at COSM Dallas with hands-on demonstrations, a neuroscience keynote, and a drone show.",
-      "imageUrl": "https://picsum.photos/seed/v5qq59/600/400",
-      "tags": [
-        "Press Releases"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-4hibwr",
-      "type": "article",
-      "title": "Should You Take Your Hearing Aids Out When Flying?",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/resources/flying-with-hearing-aids",
-      "author": "Megan Looney",
-      "publishedAt": "2026-09-23T15:00:00.000Z",
-      "readTime": 1,
-      "summary": "Should you take your hearing aids out when flying or going through TSA? Learn what your rights are and what to do with your hearing aids on an airplane.",
-      "imageUrl": "https://picsum.photos/seed/4hibwr/600/400",
-      "tags": [
-        "Resources"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-8qvs93",
-      "type": "article",
-      "title": "OTC Hearing Aids and Nuance Audio Glasses: Innovation & Outcomes 2026",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/otc-hearing-aids-and-nuance-audio-glasses-2026",
-      "author": "Douglas L. Beck",
-      "publishedAt": "2026-09-23T14:35:00.000Z",
-      "readTime": 1,
-      "summary": "Explore OTC hearing aid trends, professional support, and 2026 clinical evidence for Nuance Audio Glasses and the new Nuance Audio Plus.",
-      "imageUrl": "https://picsum.photos/seed/8qvs93/600/400",
-      "tags": [
-        "News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Practice management insights to help grow your hearing care business."
       ],
       "saved": false
     },
@@ -722,26 +844,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-tracker-dfg8wx",
-      "type": "article",
-      "title": "Driving With Hearing Loss: Laws, Safety, and What to Know",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/resources/driving-with-hearing-loss",
-      "author": "Megan Looney",
-      "publishedAt": "2026-09-22T23:05:00.000Z",
-      "readTime": 1,
-      "summary": "Driving as a Deaf person can be challenging, but it's legal. Find out what the law says and learn how to stay safe when driving with hearing loss.",
-      "imageUrl": "https://picsum.photos/seed/dfg8wx/600/400",
-      "tags": [
-        "Resources"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-review-d7c0p8",
       "type": "article",
       "title": "EssilorLuxottica Launches Nuance Audio Plus Hearing Glasses",
@@ -763,56 +865,6 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-review-5p8x8e",
-      "type": "article",
-      "title": "Auditdata Names Christoffer Spangenberg as New CEO",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/inside-hearing/people/auditdata-names-christoffer-spangenberg-as-new-ceo",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-09-22T18:21:00.000Z",
-      "readTime": 1,
-      "summary": "Auditdata has appointed Christoffer Spangenberg as its new CEO, succeeding Kurt Bager, effective September 25, 2026.",
-      "imageUrl": "https://picsum.photos/seed/5p8x8e/600/400",
-      "tags": [
-        "Office Management Systems",
-        "People",
-        "Auditdata",
-        "Christoffer Spangenberg",
-        "original"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-review-619l3x",
-      "type": "article",
-      "title": "Sensorion Announces SENS-601 Program Day Focused on GJB2 Gene Therapy for Hearing Loss",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/inside-hearing/research/sensorion-announces-sens-601-program-day-focused-on-gjb2-gene-therapy-for-hearing-loss",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-09-21T13:03:00.000Z",
-      "readTime": 1,
-      "summary": "Sensorion has announced registration details for its upcoming SENS-601 Program Day on September 22, 2026, which will spotlight the science, patient population, and clinical trial design for its lead GJB2 gene therapy candidate. The event will feature key insights from company leadership and clinical experts regarding the HearConnex trial aimed at addressing hereditary hearing loss.",
-      "imageUrl": "https://picsum.photos/seed/619l3x/600/400",
-      "tags": [
-        "Events",
-        "Research",
-        "Sensorineural",
-        "GJB2",
-        "original",
-        "research"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Practice management insights to help grow your hearing care business."
       ],
       "saved": false
     },
@@ -888,7 +940,7 @@
       "title": "How to Start an Audiology Practice for Growth and Freedom",
       "source": "AuDExperts",
       "sourceUrl": "https://audexperts.com/2026/09/16/how-to-start-an-audiology-practice/",
-      "author": "Audiology Intelligence",
+      "author": "jmbrader",
       "publishedAt": "2026-09-16T16:20:03.000Z",
       "readTime": 1,
       "summary": "The post How to Start an Audiology Practice for Growth and Freedom appeared first on AuDExperts.",
@@ -1001,70 +1053,7 @@
         "Trending topic in hearing care — stay informed on latest developments."
       ],
       "saved": false
-    },
-    {
-      "id": "feed-audiology-online-h5bi2i",
-      "type": "article",
-      "title": "Starkey Chief Financial Officer Kenny Landherr Named a 2026 Minneapolis/ St. Paul Business Journal CFO of the Year Honoree",
-      "source": "Audiology Online",
-      "sourceUrl": "https://www.audiologyonline.com/releases/29816-starkey-chief-financial-officer-kenny",
-      "publishedAt": "2026-09-14T04:00:00.000Z",
-      "readTime": 1,
-      "summary": "Chief Financial Officer Kenny Landherr, has been named a 2026 Minneapolis/St. Paul Business Journal CFO of the Year Honoree.",
-      "imageUrl": "https://assets-atlas-production.continued.com/ao-assets/content/c29800/c29816/starkeysept14.png",
-      "tags": [],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-audiology-academy-eenb1b",
-      "type": "article",
-      "title": "Use of Dietary Supplements in the United States",
-      "source": "American Academy of Audiology",
-      "sourceUrl": "https://www.audiology.org/use-of-dietary-supplements-in-the-united-states/",
-      "author": "AishaAli",
-      "publishedAt": "2026-09-12T13:00:00.000Z",
-      "readTime": 1,
-      "summary": "Audiologists, as part of their clinical practice, may review and/or solicit information regarding their patient’s medications. While a given patient may take prescription medications, some may be obtained over-the-counter. These…\nThe post Use of Dietary Supplements in the United States appeared first on American Academy of Audiology.",
-      "imageUrl": "https://picsum.photos/seed/eenb1b/600/400",
-      "tags": [
-        "Audiology in the News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "OTC market shifts affect how patients discover and purchase hearing solutions.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-phonak-blog-y8ynnj",
-      "type": "article",
-      "title": "Phonak EON: Every aspect purposefully designed",
-      "source": "Phonak Audiology Blog",
-      "sourceUrl": "https://audiologyblog.phonakpro.com/phonak-eon-every-aspect-purposefully-designed/",
-      "author": "Johanna Nelson",
-      "publishedAt": "2026-09-10T09:50:17.000Z",
-      "readTime": 1,
-      "summary": "Great hearing aid design goes beyond the physical device. With Phonak EON, every design decision has a purpose, from how it feels and functions throughout the day to the technology clients can access and the way hearing care professionals fit it.\nThe post Phonak EON: Every aspect purposefully designed appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
-      "imageUrl": "https://picsum.photos/seed/y8ynnj/600/400",
-      "tags": [
-        "Technology",
-        "audiology",
-        "EON",
-        "Hearing care",
-        "hearing loss"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
     }
   ],
-  "fetchedAt": "2026-10-01T12:55:04.984Z"
+  "fetchedAt": "2026-10-02T12:17:42.422Z"
 }
