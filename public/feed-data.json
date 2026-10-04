@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "id": "feed-hearing-tracker-rnjmjr",
+      "type": "article",
+      "title": "2026 Hearing Technology Innovator Award Winners Announced",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/2026-hearing-technology-innovator-award-winners-announced",
+      "author": "Staff",
+      "publishedAt": "2026-10-03T18:39:00.000Z",
+      "readTime": 1,
+      "summary": "Hearing Health & Technology Matters (HHTM) has announced the winners of its seventh annual Hearing Technology Innovator Awards.",
+      "imageUrl": "https://picsum.photos/seed/rnjmjr/600/400",
+      "tags": [
+        "Press Releases"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-review-hmizdq",
       "type": "article",
       "title": "Phonak Eon Earns 2026 Hearing Technology Innovator Award",
@@ -788,27 +808,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-tracker-vv7frb",
-      "type": "article",
-      "title": "Neurotone Offers Partner Certification Program for Lace Pro and Tinnitus Pro",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/pro-news/neurotone-offers-partner-certification-program-for-lace-pro-and-tinnitus-pro",
-      "author": "Karl Strom",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "readTime": 1,
-      "summary": "Neurotone launches Lace Pro certification for hearing care providers and practices, with a separate Tinnitus Pro certification available September 28.",
-      "imageUrl": "https://picsum.photos/seed/vv7frb/600/400",
-      "tags": [
-        "Pro News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-phonak-blog-wgrton",
       "type": "article",
       "title": "EON: Adaptive clarity that speaks for itself",
@@ -1058,5 +1057,5 @@
       "saved": false
     }
   ],
-  "fetchedAt": "2026-10-03T11:28:00.165Z"
+  "fetchedAt": "2026-10-04T12:09:10.158Z"
 }
