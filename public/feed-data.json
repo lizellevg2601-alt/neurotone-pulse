@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "id": "feed-hearing-health-matters-bvmijz",
+      "type": "article",
+      "title": "Could AI Hearing Glasses Reach People Who Avoid Hearing Aids?",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/eyeglass-hearing-aids-tech-adoption-aynak/",
+      "author": "HHTM",
+      "publishedAt": "2026-10-05T00:48:28.000Z",
+      "readTime": 1,
+      "summary": "SAN DIEGO, CALIFORNIA — Eyeglasses have helped people see more clearly for centuries. A startup incubated at the University of California San Diego Qualcomm Institute (QI) is exploring whether the same familiar form factor could also help more people hear. Aynak Inc. is preparing to test its latest prototypes: AI-enabled hearing technology built directly into eyeglass frames. The company plans ...\nThe post Could AI Hearing Glasses Reach People Who Avoid Hearing Aids? appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/bvmijz/600/400",
+      "tags": [
+        "Hearing Technologies"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-n59tup",
+      "type": "article",
+      "title": "ADA and American Suppressor Association Launch Ear SHIELD Day to Highlight Hearing Risks from Firearm Noise",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/ear-shield-day-noise/",
+      "author": "HHTM",
+      "publishedAt": "2026-10-04T16:48:45.000Z",
+      "readTime": 1,
+      "summary": "MINNEAPOLIS, MINNESOTA — The Academy of Doctors of Audiology (ADA) and the American Suppressor Association (ASA) have launched Ear SHIELD Day, a new annual observance focused on preventing firearm-related noise-induced hearing loss among hunters, recreational shooters, military personnel and law enforcement officers. First recognized on October 2, 2026, Ear SHIELD Day is intended to increase awareness of the potentially permanent ...\nThe post ADA and American Suppressor Association Launch Ear SHIELD Day to Highlight Hearing Risks from Firearm Noise appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/n59tup/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-tracker-rnjmjr",
       "type": "article",
       "title": "2026 Hearing Technology Innovator Award Winners Announced",
@@ -555,27 +597,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-fo80y3",
-      "type": "article",
-      "title": "Hearing Aid Intervention Linked to Improved Cognitive Outcomes in Older Adults With MCI",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/hearing-aids-cognitive-improvement/",
-      "author": "HHTM",
-      "publishedAt": "2026-09-29T20:30:57.000Z",
-      "readTime": 1,
-      "summary": "A large new clinical trial examining hearing aid use in older adults with both hearing loss and mild cognitive impairment (MCI) has produced an intriguing, though mixed, set of findings. Hearing aids did not significantly reduce the number of participants who progressed to dementia-level impairment over two years—the study’s primary measure. However, participants who received hearing aids were considerably more ...\nThe post Hearing Aid Intervention Linked to Improved Cognitive Outcomes in Older Adults With MCI appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/fo80y3/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Key evidence for the hearing-dementia prevention link — a growing patient motivator.",
-        "Directly supports the brain-training approach your hearing app is built on."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-tracker-kyu00p",
       "type": "article",
       "title": "Sonova Named Switzerland's Most Innovative Large Company",
@@ -638,27 +659,6 @@
       "whyItMatters": [
         "Patient acquisition strategies to inform your go-to-market approach.",
         "Marketing tactics that support your sales funnel and team."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-ls75a2",
-      "type": "article",
-      "title": "Cilcare Opens Japan Subsidiary as Base for Asia-Pacific Expansion",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/cilcare-japan-asia-pacific-expansion/",
-      "author": "HHTM",
-      "publishedAt": "2026-09-29T15:20:14.000Z",
-      "readTime": 1,
-      "summary": "MONTPELLIER, FRANCE & TOKYO, JAPAN — Cilcare has established a new subsidiary in Tokyo as the auditory science-focused biotechnology company expands its presence in Japan and across the broader Asia-Pacific region. The new entity, Cilcare K.K., will serve as a local base for developing partnerships in Japan, connecting Japanese organizations with Cilcare’s international pharmaceutical and biotechnology network, and providing access ...\nThe post Cilcare Opens Japan Subsidiary as Base for Asia-Pacific Expansion appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/ls75a2/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
       ],
       "saved": false
     },
@@ -1057,5 +1057,5 @@
       "saved": false
     }
   ],
-  "fetchedAt": "2026-10-04T12:09:10.158Z"
+  "fetchedAt": "2026-10-05T14:16:22.102Z"
 }
