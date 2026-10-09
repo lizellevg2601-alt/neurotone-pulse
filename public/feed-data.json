@@ -1,6 +1,98 @@
 {
   "items": [
     {
+      "id": "feed-hearing-review-i5c3j4",
+      "type": "article",
+      "title": "Amplifon Recognized on Forbes’ World’s Top Companies for Women 2026 List",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/inside-hearing/industry-news/amplifon-recognized-on-forbes-worlds-top-companies-for-women-2026-list",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-10-09T12:19:00.000Z",
+      "readTime": 1,
+      "summary": "Amplifon has been named to Forbes' World's Top Companies for Women 2026 list, marking the third consecutive year the global hearing care retailer has received the distinction. As the only audiology company featured in the ranking, Amplifon is recognized for its ongoing commitment to gender equality, career development, and inclusive workplace practices.",
+      "imageUrl": "https://picsum.photos/seed/i5c3j4/600/400",
+      "tags": [
+        "Industry News",
+        "Amplifon",
+        "GN Hearing",
+        "hearing aids",
+        "original"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-dvb1f8",
+      "type": "article",
+      "title": "Inside Omega AI+: Starkey Makes the Case for Smarter Hearing Care",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/inside-omega-ai-starkey-makes-the-case-for-smarter-hearing-care",
+      "author": "Karl Strom",
+      "publishedAt": "2026-10-08T18:04:00.000Z",
+      "readTime": 1,
+      "summary": "Starkey launches Omega AI+ at Starkey Day, showcasing advances in AI hearing technology, health tracking, and personalized hearing care.",
+      "imageUrl": "https://picsum.photos/seed/dvb1f8/600/400",
+      "tags": [
+        "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-2dtu2b",
+      "type": "article",
+      "title": "Auditdata Adds NAL-NL3 Fitting System and Oldenburg Matrix Sentence Test to Measure",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-loss/patient-care/hearing-fittings/auditdata-adds-nal-nl3-fitting-system-and-oldenburg-matrix-sentence-test-to-measure",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-10-08T15:45:33.000Z",
+      "readTime": 1,
+      "summary": "Auditdata has integrated the NAL-NL3 fitting system and the Oldenburg Matrix Sentence Test into its Measure platform, giving hearing care professionals a streamlined, end-to-end workflow to measure, fit, and verify hearing aid performance in noise.",
+      "imageUrl": "https://picsum.photos/seed/2dtu2b/600/400",
+      "tags": [
+        "Fitting Equipment",
+        "Patient Fittings",
+        "Practice Management",
+        "Speech in Noise",
+        "Testing Software",
+        "Auditdata"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-s2qc3s",
+      "type": "article",
+      "title": "Cilcare Taps Hearing Industry Veteran Kevin Franck to Lead North American Expansion",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/cilcare-kevin-franck/",
+      "author": "HHTM",
+      "publishedAt": "2026-10-08T15:05:40.000Z",
+      "readTime": 1,
+      "summary": "BOSTON, MA — Cilcare, a biotechnology company focused on auditory science, has appointed Kevin Franck, PhD, MBA, as Head of US and General Manager, North America. Based in Washington, DC, Franck will oversee the company’s North American growth strategy, including efforts to expand partnerships involving its clinical research and development platforms. Franck brings more than 25 years of experience spanning ...\nThe post Cilcare Taps Hearing Industry Veteran Kevin Franck to Lead North American Expansion appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/s2qc3s/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-health-matters-6ygcxr",
       "type": "article",
       "title": "We Value Hearing — So Why Is Hearing Loss Still So Misunderstood?",
@@ -18,6 +110,27 @@
       "whyItMatters": [
         "Relevant to your core patient population and treatment pathways.",
         "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-ey9953",
+      "type": "article",
+      "title": "Auditdata Adds NAL-NL3 and Oldenburg Matrix Test to Measure Fitting Software",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/pro-news/auditdata-adds-nal-nl3-and-oldenburg-matrix-test-to-measure-fitting-software",
+      "author": "Karl Strom",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "readTime": 1,
+      "summary": "Auditdata has added the NAL-NL3 hearing aid prescription and the Oldenburg Matrix Sentence Test to its Measure™ software, bringing hearing aid fitting and outcome assessment into a single platform.",
+      "imageUrl": "https://picsum.photos/seed/ey9953/600/400",
+      "tags": [
+        "Pro News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Relevant to your core patient population and treatment pathways."
       ],
       "saved": false
     },
@@ -161,6 +274,27 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-iu1fei",
+      "type": "article",
+      "title": "Amplifon Named Among Forbes’ World’s Top Companies for Women for Third Consecutive Year",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/amplifon-women/",
+      "author": "HHTM",
+      "publishedAt": "2026-10-07T14:56:16.000Z",
+      "readTime": 1,
+      "summary": "MILAN, ITALY — Amplifon has been named to Forbes’ World’s Top Companies for Women 2026 ranking, marking the third consecutive year the global hearing care company has received the recognition. Compiled by Forbes in collaboration with Statista, the annual ranking recognizes companies for their efforts to support gender equality, career development, and inclusive workplace practices. Amplifon was recognized in the Medical ...\nThe post Amplifon Named Among Forbes’ World’s Top Companies for Women for Third Consecutive Year appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/iu1fei/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Practice management insights to help grow your hearing care business.",
         "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
       ],
       "saved": false
@@ -455,26 +589,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-tracker-g9l7te",
-      "type": "article",
-      "title": "Oticon Donates $10,000 to Homes For Our Troops for Severely Injured Veterans",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/press-releases/oticon-donates-10-000-to-homes-for-our-troops-for-severely-injured-veterans",
-      "author": "Staff",
-      "publishedAt": "2026-10-05T15:45:00.000Z",
-      "readTime": 1,
-      "summary": "Oticon donates $10,000 to Homes For Our Troops to help build specially adapted homes for severely injured post-9/11 veterans.",
-      "imageUrl": "https://picsum.photos/seed/g9l7te/600/400",
-      "tags": [
-        "Press Releases"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-tracker-7p7a6m",
       "type": "article",
       "title": "Phonak EON Earns Hearing Technology Innovator Award",
@@ -485,6 +599,26 @@
       "readTime": 1,
       "summary": "Phonak EON wins a 2026 Hearing Technology Innovator Award for its HYPERSONIC chip, AI-powered sound processing, and advanced connectivity.",
       "imageUrl": "https://picsum.photos/seed/7p7a6m/600/400",
+      "tags": [
+        "Press Releases"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-g9l7te",
+      "type": "article",
+      "title": "Oticon Donates $10,000 to Homes For Our Troops for Severely Injured Veterans",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/oticon-donates-10-000-to-homes-for-our-troops-for-severely-injured-veterans",
+      "author": "Staff",
+      "publishedAt": "2026-10-05T15:45:00.000Z",
+      "readTime": 1,
+      "summary": "Oticon donates $10,000 to Homes For Our Troops to help build specially adapted homes for severely injured post-9/11 veterans.",
+      "imageUrl": "https://picsum.photos/seed/g9l7te/600/400",
       "tags": [
         "Press Releases"
       ],
@@ -591,27 +725,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-n59tup",
-      "type": "article",
-      "title": "ADA and American Suppressor Association Launch Ear SHIELD Day to Highlight Hearing Risks from Firearm Noise",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/ear-shield-day-noise/",
-      "author": "HHTM",
-      "publishedAt": "2026-10-04T16:48:45.000Z",
-      "readTime": 1,
-      "summary": "MINNEAPOLIS, MINNESOTA — The Academy of Doctors of Audiology (ADA) and the American Suppressor Association (ASA) have launched Ear SHIELD Day, a new annual observance focused on preventing firearm-related noise-induced hearing loss among hunters, recreational shooters, military personnel and law enforcement officers. First recognized on October 2, 2026, Ear SHIELD Day is intended to increase awareness of the potentially permanent ...\nThe post ADA and American Suppressor Association Launch Ear SHIELD Day to Highlight Hearing Risks from Firearm Noise appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/n59tup/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-tracker-rnjmjr",
       "type": "article",
       "title": "2026 Hearing Technology Innovator Award Winners Announced",
@@ -658,58 +771,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-review-1mem33",
-      "type": "article",
-      "title": "APSO Opens Audiology Assistant Standard for Public Review and Comment",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/practice-building/practice-management/staffing-training/apso-opens-audiology-assistant-standard-for-public-review-and-comment",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-10-02T17:04:34.000Z",
-      "readTime": 1,
-      "summary": "The Audiology Practice Standards Organization is inviting US audiologists to review and comment on a proposed national standard for audiology assistants through November 6, 2026.",
-      "imageUrl": "https://picsum.photos/seed/1mem33/600/400",
-      "tags": [
-        "Organizations",
-        "Regulation",
-        "Staffing & Training",
-        "ADA",
-        "American Academy of Audiology AAA",
-        "APSO standards"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Practice management insights to help grow your hearing care business.",
-        "Sales enablement best practices to level up your team's closing skills."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-review-jlonz0",
-      "type": "article",
-      "title": "Oberkotter Foundation Opens Grant Applications to Expand Pediatric Hearing Screening and Diagnostic Access",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/hearing-products/testing-equipment/pediatric-testing/oberkotter-foundation-opens-grant-applications-to-expand-pediatric-hearing-screening-and-diagnostic-access",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-10-02T16:55:36.000Z",
-      "readTime": 1,
-      "summary": "The Oberkotter Foundation is accepting grant applications through Nov. 30, 2026, for nonprofit initiatives designed to expand pediatric hearing screening and diagnostic access in underserved communities.",
-      "imageUrl": "https://picsum.photos/seed/jlonz0/600/400",
-      "tags": [
-        "Organizations",
-        "Pediatric Testing",
-        "newborn hearing loss screening",
-        "Oberkotter Foundation-Hearing First",
-        "original",
-        "pediatric audiology"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-tracker-131keu",
       "type": "article",
       "title": "VS3 Medical Receives FDA Breakthrough Status for Pulsatile Tinnitus Device",
@@ -726,27 +787,6 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Directly relevant to brain-based tinnitus therapy approaches your patients ask about."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-wp24o0",
-      "type": "article",
-      "title": "2026 Hearing Technology Innovator Awards™ Winners Announced",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/hti-award-winners-2026/",
-      "author": "HHTM",
-      "publishedAt": "2026-10-02T11:45:54.000Z",
-      "readTime": 1,
-      "summary": "Hearing Health & Technology Matters (HHTM) has announced the winners of the seventh annual Hearing Technology Innovator Awards™, recognizing technologies, products, and services advancing hearing care around the world. The 2026 program drew submissions from a diverse range of companies, from emerging technology developers to established global hearing industry leaders. This year’s winners span hearing aids, auditory implants, assistive technologies ...\nThe post 2026 Hearing Technology Innovator Awards™ Winners Announced appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/wp24o0/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes.",
-        "Relevant to your core patient population and treatment pathways."
       ],
       "saved": false
     },
@@ -798,48 +838,6 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-5ifdw9",
-      "type": "article",
-      "title": "Neuromod Appoints Joe Ghiz and Shannon Basham to Executive Positions",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/pro-news/neuromod-appoints-joe-ghiz-and-shannon-basham-to-executive-positions",
-      "author": "Staff",
-      "publishedAt": "2026-10-02T03:20:00.000Z",
-      "readTime": 1,
-      "summary": "Neuromod appoints Joe Ghiz and Shannon Basham to senior commercial roles as it expands access to its Lenire tinnitus treatment.",
-      "imageUrl": "https://picsum.photos/seed/5ifdw9/600/400",
-      "tags": [
-        "Pro News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-5lq4rb",
-      "type": "article",
-      "title": "HIA and HLAA Launch \"Sounds of America\" Campaign",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/press-releases/hia-and-hlaa-launch-sounds-of-america-campaign",
-      "author": "Staff",
-      "publishedAt": "2026-10-02T02:08:39.000Z",
-      "readTime": 1,
-      "summary": "New initiative invites Americans to share the sounds that define their hometowns and communities while raising awareness of hearing health.",
-      "imageUrl": "https://picsum.photos/seed/5lq4rb/600/400",
-      "tags": [
-        "Press Releases"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Patient acquisition strategies to inform your go-to-market approach.",
-        "Marketing tactics that support your sales funnel and team."
       ],
       "saved": false
     },
@@ -1062,5 +1060,5 @@
       "saved": false
     }
   ],
-  "fetchedAt": "2026-10-08T13:12:46.066Z"
+  "fetchedAt": "2026-10-09T12:59:25.162Z"
 }
