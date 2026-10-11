@@ -637,26 +637,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-tracker-7p7a6m",
-      "type": "article",
-      "title": "Phonak EON Earns Hearing Technology Innovator Award",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/press-releases/phonak-eon-earns-hearing-technology-innovator-award",
-      "author": "Staff",
-      "publishedAt": "2026-10-05T15:45:00.000Z",
-      "readTime": 1,
-      "summary": "Phonak EON wins a 2026 Hearing Technology Innovator Award for its HYPERSONIC chip, AI-powered sound processing, and advanced connectivity.",
-      "imageUrl": "https://picsum.photos/seed/7p7a6m/600/400",
-      "tags": [
-        "Press Releases"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-tracker-g9l7te",
       "type": "article",
       "title": "Oticon Donates $10,000 to Homes For Our Troops for Severely Injured Veterans",
@@ -667,6 +647,26 @@
       "readTime": 1,
       "summary": "Oticon donates $10,000 to Homes For Our Troops to help build specially adapted homes for severely injured post-9/11 veterans.",
       "imageUrl": "https://picsum.photos/seed/g9l7te/600/400",
+      "tags": [
+        "Press Releases"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-7p7a6m",
+      "type": "article",
+      "title": "Phonak EON Earns Hearing Technology Innovator Award",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/phonak-eon-earns-hearing-technology-innovator-award",
+      "author": "Staff",
+      "publishedAt": "2026-10-05T15:45:00.000Z",
+      "readTime": 1,
+      "summary": "Phonak EON wins a 2026 Hearing Technology Innovator Award for its HYPERSONIC chip, AI-powered sound processing, and advanced connectivity.",
+      "imageUrl": "https://picsum.photos/seed/7p7a6m/600/400",
       "tags": [
         "Press Releases"
       ],
@@ -1061,5 +1061,5 @@
       "saved": false
     }
   ],
-  "fetchedAt": "2026-10-10T12:16:43.613Z"
+  "fetchedAt": "2026-10-11T12:32:20.103Z"
 }
