@@ -1,6 +1,94 @@
 {
   "items": [
     {
+      "id": "feed-audiology-academy-xxef07",
+      "type": "article",
+      "title": "Motion Intolerance Causes and Treatment Options",
+      "source": "American Academy of Audiology",
+      "sourceUrl": "https://www.audiology.org/motion-intolerance-causes-and-treatment-options/",
+      "author": "AishaAli",
+      "publishedAt": "2026-10-13T13:00:00.000Z",
+      "readTime": 1,
+      "summary": "A recent online publication (Shevtsov, 2026) discussed ways to manage motion intolerance. Motion intolerance, also known as motion sickness, is theorized to occur when there is a mismatch between what…\nThe post Motion Intolerance Causes and Treatment Options appeared first on American Academy of Audiology.",
+      "imageUrl": "https://picsum.photos/seed/xxef07/600/400",
+      "tags": [
+        "Audiology in the News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-phonak-blog-iwb4qj",
+      "type": "article",
+      "title": "One hearing aid or two for age-related hearing loss?",
+      "source": "Phonak Audiology Blog",
+      "sourceUrl": "https://audiologyblog.phonakpro.com/one-hearing-aid-or-two-for-age-related-hearing-loss/",
+      "author": "Sherri L. Smith, AuD, PhD",
+      "publishedAt": "2026-10-13T06:19:00.000Z",
+      "readTime": 1,
+      "summary": "One hearing aid or two is a familiar question in clinical practice. A randomized trial examined whether bilateral hearing aids provide greater benefit than a unilateral hearing aid for adults with age-related hearing loss.\nThe post One hearing aid or two for age-related hearing loss? appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
+      "imageUrl": "https://picsum.photos/seed/iwb4qj/600/400",
+      "tags": [
+        "Clinical Practice",
+        "audiology",
+        "best practice",
+        "Hearing care",
+        "hearing healthcare",
+        "hearing loss"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-ti2psq",
+      "type": "article",
+      "title": "Audiologists and Vaccines: Preparing for the Resurgence of Vaccine-Preventable Hearing Loss",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/audiologists-vaccines-hearing-loss/",
+      "author": "HHTM",
+      "publishedAt": "2026-10-12T20:00:22.000Z",
+      "readTime": 1,
+      "summary": "Today, HHTM posts what is believed to be the final article of Dr. Jerry Northern, co-authored with Barry Freeman. We honor Dr. Northern as a collaborative pioneer in pediatric audiology and list the influential textbooks he co-authored or co-edited. Hearing in Children (1974; 6th edition, 2014) Co-authored with Marion P. Downs Hearing Disorders (1976; later editions, 3rd edition, 1996) Clinical ...\nThe post Audiologists and Vaccines: Preparing for the Resurgence of Vaccine-Preventable Hearing Loss appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/ti2psq/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-2og7k9",
+      "type": "article",
+      "title": "Widex Allure AI Review: Building on Natural Sound with On-Demand AI",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-aid-reviews/2026/widex-allure-ai-detail-review/",
+      "author": "HHTM",
+      "publishedAt": "2026-10-12T15:58:50.000Z",
+      "readTime": 1,
+      "summary": "Widex has built much of its reputation around natural sound quality, low processing delay, and an approach to hearing aid technology that aims to preserve the listening experience rather than heavily alter it. With the introduction of the new Widex Allure AI RIC hearing aids, the company is expanding that philosophy to address one of the most persistent challenges for ...\nThe post Widex Allure AI Review: Building on Natural Sound with On-Demand AI appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/2og7k9/600/400",
+      "tags": [
+        "Hearing Aid Reviews"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-review-5i8xfp",
       "type": "article",
       "title": "IHS Marks National Protect Your Hearing Month With Call for Annual Hearing Evaluations",
@@ -18,6 +106,47 @@
         "International Hearing Society IHS",
         "National Protect Your Hearing Month",
         "noise induced hearing loss"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-cn6b4f",
+      "type": "article",
+      "title": "New WSA Clinical Studies Link Sound Preference to Higher Hearing Aid Conversion",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/new-wsa-clinical-studies-link-sound-preference-to-higher-hearing-aid-conversion",
+      "author": "Staff",
+      "publishedAt": "2026-10-12T00:00:00.000Z",
+      "readTime": 1,
+      "summary": "WSA studies across 42 clinics link sound preference consultations to hearing aid purchase rates that were 5 percentage points higher.",
+      "imageUrl": "https://picsum.photos/seed/cn6b4f/600/400",
+      "tags": [
+        "Press Releases"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-u5n0ea",
+      "type": "article",
+      "title": "Bose ANC Technology in Orka O1 Pro Hearing Aids: Why It's a Big Deal",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/bose-anc-technology-in-orka-o1-pro-hearing-aids-here-s-what-it-means",
+      "author": "Karl Strom",
+      "publishedAt": "2026-10-12T00:00:00.000Z",
+      "readTime": 1,
+      "summary": "Bose’s Andy Sabin and Orka’s Linkai Li explain how ANC in the O1 Pro hearing aid supports AI speech enhancement and reduces boomy own-voice sound.",
+      "imageUrl": "https://picsum.photos/seed/u5n0ea/600/400",
+      "tags": [
+        "News"
       ],
       "relevanceScore": 50,
       "whyItMatters": [
@@ -435,48 +564,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-wjit0y",
-      "type": "article",
-      "title": "How One Word Can Change Everything: Don’t Underestimate the Power of the Labeling Effect",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hear-in-private-practice/2026/hearing-care-labeling-effect/",
-      "author": "HHTM",
-      "publishedAt": "2026-10-06T23:32:28.000Z",
-      "readTime": 1,
-      "summary": "Editor’s note: Ear to the Ground is a monthly column from Dr. Brian Taylor, offering timely reflections on research, technology, clinical practice, and emerging trends in hearing care. You can read last month’s column here. How One Word Can Change Everything: Don’t Underestimate the Power of the Labeling Effect Our profession is awash in social media influencers. They can be ...\nThe post How One Word Can Change Everything: Don’t Underestimate the Power of the Labeling Effect appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/wjit0y/600/400",
-      "tags": [
-        "Hear In Private Practice"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Practice management insights to help grow your hearing care business.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-r70zt5",
-      "type": "article",
-      "title": "Clinical Trial Finds Sound Therapy Reduces Tinnitus Distress in Adults with Mild Hearing Loss",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/tinnitus-mild-hearing-loss-sound-therapy/",
-      "author": "HHTM",
-      "publishedAt": "2026-10-06T22:00:36.000Z",
-      "readTime": 1,
-      "summary": "Sound therapy may offer meaningful relief for people with chronic tinnitus, even when their hearing loss is relatively mild. In a new clinical trial, patients receiving active sound therapy experienced greater improvements than those receiving placebo treatment. Published in Scientific Reports, the study compared active sound therapy with placebo treatment in adults with chronic, bothersome bilateral tinnitus. After 12 weeks, ...\nThe post Clinical Trial Finds Sound Therapy Reduces Tinnitus Distress in Adults with Mild Hearing Loss appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/r70zt5/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-review-mfdm02",
       "type": "article",
       "title": "2026 Hearing Technology Innovator Award Winners Announced",
@@ -751,46 +838,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-tracker-rnjmjr",
-      "type": "article",
-      "title": "2026 Hearing Technology Innovator Award Winners Announced",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/press-releases/2026-hearing-technology-innovator-award-winners-announced",
-      "author": "Staff",
-      "publishedAt": "2026-10-03T18:39:00.000Z",
-      "readTime": 1,
-      "summary": "Hearing Health & Technology Matters (HHTM) has announced the winners of its seventh annual Hearing Technology Innovator Awards.",
-      "imageUrl": "https://picsum.photos/seed/rnjmjr/600/400",
-      "tags": [
-        "Press Releases"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-131keu",
-      "type": "article",
-      "title": "VS3 Medical Receives FDA Breakthrough Status for Pulsatile Tinnitus Device",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/press-releases/vs3-medical-receives-fda-breakthrough-status-for-pulsatile-tinnitus-device",
-      "author": "Staff",
-      "publishedAt": "2026-10-02T12:10:00.000Z",
-      "readTime": 1,
-      "summary": "VS3 Medical receives FDA Breakthrough Device Designation for its investigational stent system targeting debilitating pulsatile tinnitus.",
-      "imageUrl": "https://picsum.photos/seed/131keu/600/400",
-      "tags": [
-        "Press Releases"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-online-vnmnmb",
       "type": "article",
       "title": "Academy of Doctors of Audiology and American Suppressor Association Launch Ear SHIELD Day to Prevent Firearm-Related Hearing Loss",
@@ -1012,53 +1059,7 @@
         "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
       ],
       "saved": false
-    },
-    {
-      "id": "feed-audiology-academy-k1mt0j",
-      "type": "article",
-      "title": "Cortical Changes in Total and Partial Vestibular Dysfunction, As Measured by EEG",
-      "source": "American Academy of Audiology",
-      "sourceUrl": "https://www.audiology.org/cortical-changes-in-total-and-partial-vestibular-dysfunction-as-measured-by-eeg-2/",
-      "author": "AishaAli",
-      "publishedAt": "2026-09-18T13:00:00.000Z",
-      "readTime": 1,
-      "summary": "Study Supports Expanded Candidacy for Pediatric Cochlear Implantation For children less than two years of age, current Food and Drug Administration (FDA) candidacy criteria for pediatric cochlear implantation (CI) require…\nThe post Cortical Changes in Total and Partial Vestibular Dysfunction, As Measured by EEG appeared first on American Academy of Audiology.",
-      "imageUrl": "https://picsum.photos/seed/k1mt0j/600/400",
-      "tags": [
-        "Audiology in the News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Supports your work in auditory-cognitive training and brain reorganization for hearing.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-phonak-blog-tppqq6",
-      "type": "article",
-      "title": "Phonak EON: Connectivity excellence",
-      "source": "Phonak Audiology Blog",
-      "sourceUrl": "https://audiologyblog.phonakpro.com/phonak-eon-connectivity-excellence/",
-      "author": "Min Roh",
-      "publishedAt": "2026-09-17T09:17:00.000Z",
-      "readTime": 1,
-      "summary": "With Bluetooth Classic, Roger™, and Auracast™ broadcast audio working together, Phonak Audéo EON gives hearing care professionals different connectivity options to support clients across personal devices, far-field conversation and emerging public-access audio.\nThe post Phonak EON: Connectivity excellence appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
-      "imageUrl": "https://picsum.photos/seed/tppqq6/600/400",
-      "tags": [
-        "Technology",
-        "audiology",
-        "EON",
-        "Hearing care",
-        "hearing loss"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
     }
   ],
-  "fetchedAt": "2026-10-12T15:04:45.767Z"
+  "fetchedAt": "2026-10-13T13:58:42.709Z"
 }
