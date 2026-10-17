@@ -1,6 +1,113 @@
 {
   "items": [
     {
+      "id": "feed-hearing-health-matters-t5rvu6",
+      "type": "article",
+      "title": "Study Finds Older Adults Prefer Traditional Medical Settings for Hearing Care",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/traditional-hearing-care-preferenc/",
+      "author": "HHTM",
+      "publishedAt": "2026-10-16T20:41:28.000Z",
+      "readTime": 1,
+      "summary": "A newly published study in BMC Geriatrics finds that older adults consistently prefer receiving hearing healthcare information, testing, and hearing devices through traditional medical settings rather than retail stores, online channels, or other nonmedical alternatives. Published October 13, 2026, the research examined survey responses from adults aged 60 and older in Australia, Canada, England, and the United States. The findings ...\nThe post Study Finds Older Adults Prefer Traditional Medical Settings for Hearing Care appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/t5rvu6/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-f5roxw",
+      "type": "article",
+      "title": "Fortell Expands Prescription AI Hearing Aids to More Than 30 States",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/fortell-expands-prescription-ai-hearing-aids-to-more-than-30-states",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-10-16T18:35:03.000Z",
+      "readTime": 1,
+      "summary": "Fortell has expanded the reach of its prescription AI hearing aids to more than 30 states through new brick-and-mortar clinics and its remote teleaudiology platform, Fortell Anywhere.",
+      "imageUrl": "https://picsum.photos/seed/f5roxw/600/400",
+      "tags": [
+        "Hearing Aids",
+        "Speech in Noise",
+        "TeleHealth",
+        "AI hearing aids",
+        "Fortell",
+        "original"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-qbaujh",
+      "type": "article",
+      "title": "Beltone Collects More Than 20,000 Food Items in Third Annual Hear2End Hunger Food Drive",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/belton-3rd-food-drive/",
+      "author": "HHTM",
+      "publishedAt": "2026-10-16T15:45:55.000Z",
+      "readTime": 1,
+      "summary": "CHICAGO, ILLINOIS — Beltone announced that its third annual Hear2End Hunger Food Drive collected 20,640 non-perishable food items for local food banks and hunger-relief organizations across the United States, surpassing its goal of 20,000 items. The month-long initiative, held throughout September in recognition of Hunger Action Month, saw collections increase by more than 41% compared with 2025. Since the program began ...\nThe post Beltone Collects More Than 20,000 Food Items in Third Annual Hear2End Hunger Food Drive appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/qbaujh/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-academy-ek5to1",
+      "type": "article",
+      "title": "Aerobic Physical Activity in U.S. Adults: An Updated Report",
+      "source": "American Academy of Audiology",
+      "sourceUrl": "https://www.audiology.org/aerobic-physical-activity-in-u-s-adults-an-updated-report/",
+      "author": "AishaAli",
+      "publishedAt": "2026-10-16T14:00:00.000Z",
+      "readTime": 1,
+      "summary": "In 2022, the American Academy of Audiology shared an update regarding two data briefs about physical activity in the United States. One was related to youth participation in organized sports…\nThe post Aerobic Physical Activity in U.S. Adults: An Updated Report appeared first on American Academy of Audiology.",
+      "imageUrl": "https://picsum.photos/seed/ek5to1/600/400",
+      "tags": [
+        "Audiology in the News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-academy-1ytd3h",
+      "type": "article",
+      "title": "Adding Vestibular Training to Post-Stroke Care",
+      "source": "American Academy of Audiology",
+      "sourceUrl": "https://www.audiology.org/adding-vestibular-training-to-post-stroke-care/",
+      "author": "AishaAli",
+      "publishedAt": "2026-10-16T13:00:00.000Z",
+      "readTime": 1,
+      "summary": "A recent study by Mishra and colleagues (2026) examined individuals with chronic post-stroke disequilibrium. Participants (n=18) received either traditional balance therapy or balance therapy plus multimodal vestibular training (MVT) over…\nThe post Adding Vestibular Training to Post-Stroke Care appeared first on American Academy of Audiology.",
+      "imageUrl": "https://picsum.photos/seed/1ytd3h/600/400",
+      "tags": [
+        "Audiology in the News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Sales enablement best practices to level up your team's closing skills.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-review-p8zsso",
       "type": "article",
       "title": "Audiologists, ADA File Federal Lawsuit Challenging Medicare’s Private-Pay Exclusion",
@@ -740,72 +847,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-2og7k9",
-      "type": "article",
-      "title": "Widex Allure AI Review: Building on Natural Sound with On-Demand AI",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-aid-reviews/2026/widex-allure-ai-detail-review/",
-      "author": "HHTM",
-      "publishedAt": "2026-10-12T15:58:50.000Z",
-      "readTime": 1,
-      "summary": "Widex has built much of its reputation around natural sound quality, low processing delay, and an approach to hearing aid technology that aims to preserve the listening experience rather than heavily alter it. With the introduction of the new Widex Allure AI RIC hearing aids, the company is expanding that philosophy to address one of the most persistent challenges for ...\nThe post Widex Allure AI Review: Building on Natural Sound with On-Demand AI appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/2og7k9/600/400",
-      "tags": [
-        "Hearing Aid Reviews"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-review-5i8xfp",
-      "type": "article",
-      "title": "IHS Marks National Protect Your Hearing Month With Call for Annual Hearing Evaluations",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/hearing-loss/hearing-loss-prevention/ihs-marks-national-protect-your-hearing-month-with-call-for-annual-hearing-evaluations",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-10-12T13:00:00.000Z",
-      "readTime": 1,
-      "summary": "In observation of National Protect Your Hearing Month, the International Hearing Society is urging the public to prioritize routine annual hearing evaluations to combat rising rates of noise-induced hearing loss.",
-      "imageUrl": "https://picsum.photos/seed/5i8xfp/600/400",
-      "tags": [
-        "Evaluation",
-        "Organizations",
-        "Prevention",
-        "International Hearing Society IHS",
-        "National Protect Your Hearing Month",
-        "noise induced hearing loss"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-u5n0ea",
-      "type": "article",
-      "title": "Bose ANC Technology in Orka O1 Pro Hearing Aids: Why It's a Big Deal",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/bose-anc-technology-in-orka-o1-pro-hearing-aids-here-s-what-it-means",
-      "author": "Karl Strom",
-      "publishedAt": "2026-10-12T00:00:00.000Z",
-      "readTime": 1,
-      "summary": "Bose’s Andy Sabin and Orka’s Linkai Li explain how ANC in the O1 Pro hearing aid supports AI speech enhancement and reduces boomy own-voice sound.",
-      "imageUrl": "https://picsum.photos/seed/u5n0ea/600/400",
-      "tags": [
-        "News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-tracker-cn6b4f",
       "type": "article",
       "title": "New WSA Clinical Studies Link Sound Preference to Higher Hearing Aid Conversion",
@@ -827,23 +868,22 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-jyoeno",
+      "id": "feed-hearing-tracker-u5n0ea",
       "type": "article",
-      "title": "Sonorous Neurovascular Receives FDA Authorization for Pulsatile Tinnitus Stent Trial",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/sonorous-neuro-fda-tinnitus/",
-      "author": "HHTM",
-      "publishedAt": "2026-10-11T22:36:41.000Z",
+      "title": "Bose ANC Technology in Orka O1 Pro Hearing Aids: Why It's a Big Deal",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/bose-anc-technology-in-orka-o1-pro-hearing-aids-here-s-what-it-means",
+      "author": "Karl Strom",
+      "publishedAt": "2026-10-12T00:00:00.000Z",
       "readTime": 1,
-      "summary": "LAKE FOREST, CALIFORNIA — Sonorous Neurovascular has received authorization from the U.S. Food and Drug Administration (FDA) to begin a pivotal clinical trial evaluating its investigational BosSTENT™ device for the treatment of pulsatile tinnitus associated with cerebral venous sinus stenosis. The FDA approved the company’s Investigational Device Exemption (IDE) on October 2, 2026, allowing Sonorous to initiate B-SILENT 2, a ...\nThe post Sonorous Neurovascular Receives FDA Authorization for Pulsatile Tinnitus Stent Trial appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/jyoeno/600/400",
+      "summary": "Bose’s Andy Sabin and Orka’s Linkai Li explain how ANC in the O1 Pro hearing aid supports AI speech enhancement and reduces boomy own-voice sound.",
+      "imageUrl": "https://picsum.photos/seed/u5n0ea/600/400",
       "tags": [
-        "Hearing News Watch"
+        "News"
       ],
       "relevanceScore": 50,
       "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Practice management insights to help grow your hearing care business."
+        "Relevant to your core patient population and treatment pathways."
       ],
       "saved": false
     },
@@ -1025,41 +1065,7 @@
         "Relevant to your core patient population and treatment pathways."
       ],
       "saved": false
-    },
-    {
-      "id": "feed-audiology-online-lxjucl",
-      "type": "article",
-      "title": "Audiology Assistant Standard to Open for Public Review and Comment",
-      "source": "Audiology Online",
-      "sourceUrl": "https://www.audiologyonline.com/releases/29830-audiology-assistant-standard-to-open",
-      "publishedAt": "2026-10-02T04:00:00.000Z",
-      "readTime": 1,
-      "summary": "In an endeavor to establish a common standard for the practice of audiology assistants in the U.S., the Audiology Practice Standards Organization has collaborated with professional organizations across the profession.",
-      "imageUrl": "https://assets-atlas-production.continued.com/ao-assets/content/c29800/c29830/logotext.png",
-      "tags": [],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-audiology-online-44ozu7",
-      "type": "article",
-      "title": "Phonak EON earns Hearing Technology Innovator Award",
-      "source": "Audiology Online",
-      "sourceUrl": "https://www.audiologyonline.com/releases/29831-phonak-eon-earns-hearing-technology",
-      "publishedAt": "2026-10-02T04:00:00.000Z",
-      "readTime": 1,
-      "summary": "Phonak announced that EON has been named a 2026 Hearing Technology Innovator by Hearing Health & Technology Matters (HHTM)",
-      "imageUrl": "https://assets-atlas-production.continued.com/ao-assets/content/c29800/c29831/lowresimageforao.png",
-      "tags": [],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
     }
   ],
-  "fetchedAt": "2026-10-16T11:08:43.695Z"
+  "fetchedAt": "2026-10-17T10:27:59.350Z"
 }
