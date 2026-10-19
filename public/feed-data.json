@@ -847,26 +847,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-tracker-u5n0ea",
-      "type": "article",
-      "title": "Bose ANC Technology in Orka O1 Pro Hearing Aids: Why It's a Big Deal",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/bose-anc-technology-in-orka-o1-pro-hearing-aids-here-s-what-it-means",
-      "author": "Karl Strom",
-      "publishedAt": "2026-10-12T00:00:00.000Z",
-      "readTime": 1,
-      "summary": "Bose’s Andy Sabin and Orka’s Linkai Li explain how ANC in the O1 Pro hearing aid supports AI speech enhancement and reduces boomy own-voice sound.",
-      "imageUrl": "https://picsum.photos/seed/u5n0ea/600/400",
-      "tags": [
-        "News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-tracker-cn6b4f",
       "type": "article",
       "title": "New WSA Clinical Studies Link Sound Preference to Higher Hearing Aid Conversion",
@@ -884,6 +864,26 @@
       "whyItMatters": [
         "Relevant to your core patient population and treatment pathways.",
         "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-u5n0ea",
+      "type": "article",
+      "title": "Bose ANC Technology in Orka O1 Pro Hearing Aids: Why It's a Big Deal",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/bose-anc-technology-in-orka-o1-pro-hearing-aids-here-s-what-it-means",
+      "author": "Karl Strom",
+      "publishedAt": "2026-10-12T00:00:00.000Z",
+      "readTime": 1,
+      "summary": "Bose’s Andy Sabin and Orka’s Linkai Li explain how ANC in the O1 Pro hearing aid supports AI speech enhancement and reduces boomy own-voice sound.",
+      "imageUrl": "https://picsum.photos/seed/u5n0ea/600/400",
+      "tags": [
+        "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways."
       ],
       "saved": false
     },
@@ -1067,5 +1067,5 @@
       "saved": false
     }
   ],
-  "fetchedAt": "2026-10-18T10:47:16.097Z"
+  "fetchedAt": "2026-10-19T12:48:07.609Z"
 }
