@@ -1,6 +1,139 @@
 {
   "items": [
     {
+      "id": "feed-hearing-review-u1p3mt",
+      "type": "article",
+      "title": "Cochlear Nucleus Nexa System Named to TIME’s Best Inventions of 2026 List",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-products/implants-bone-conduction/cochlear-implants/cochlear-nucleus-nexa-system-named-to-times-best-inventions-of-2026-list",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-10-20T23:53:13.000Z",
+      "readTime": 1,
+      "summary": "Cochlear Limited's Nucleus Nexa System has been named to TIME’s Best Inventions of 2026 list for its innovative, upgradeable internal firmware.",
+      "imageUrl": "https://picsum.photos/seed/u1p3mt/600/400",
+      "tags": [
+        "Cochlear Implants",
+        "Cochlear Americas",
+        "Cochlear Nucleus Nexa",
+        "original",
+        "tech trends"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-wf3fmt",
+      "type": "article",
+      "title": "Bill to Extend Medicare Benefits for Hearing Introduced in House",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/inside-hearing/legislation/bill-to-extend-medicare-benefits-for-hearing-introduced-in-house",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-10-20T19:44:24.000Z",
+      "readTime": 1,
+      "summary": "Introducing the Medicare Dental, Vision, and Hearing Benefit Act renews a legislative push to add hearing aids and exams to traditional Medicare coverage for more than 66 million Americans.",
+      "imageUrl": "https://picsum.photos/seed/wf3fmt/600/400",
+      "tags": [
+        "Legislation",
+        "Medicare & Insurance",
+        "medicare",
+        "original"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Policy changes affect patient access and your practice revenue."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-4rix5s",
+      "type": "article",
+      "title": "Cearvol’s Liberté and Wave Earn Double Recognition at 2026 Hearing Technology Innovator Awards",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/otc/cearvols-liberte-and-wave-earn-double-recognition-at-2026-hearing-technology-innovator-awards",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-10-20T19:19:14.000Z",
+      "readTime": 1,
+      "summary": "Cearvol's open-ear Liberté and touchscreen-enabled Wave devices have both been recognized at the 7th annual Hearing Technology Innovator Awards.",
+      "imageUrl": "https://picsum.photos/seed/4rix5s/600/400",
+      "tags": [
+        "Over the Counter",
+        "Cearvol",
+        "HHTM Hearing Technology Innovator Awards",
+        "original"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-ieszb6",
+      "type": "article",
+      "title": "What's It Like to Wear Oticon Reveal Hearing Aids? A Personal Perspective",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/what-s-it-like-to-wear-oticon-reveal-hearing-aids-a-personal-perspective",
+      "author": "Digby Cook",
+      "publishedAt": "2026-10-20T15:50:00.000Z",
+      "readTime": 1,
+      "summary": "Digby Cook reviews Oticon Reveal hearing aids, sharing his experience with Dual AI, music streaming, sound quality, and easy-to-use controls.",
+      "imageUrl": "https://picsum.photos/seed/ieszb6/600/400",
+      "tags": [
+        "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-qo49o9",
+      "type": "article",
+      "title": "Audiology at a Crossroads: New Study Examines Workforce Growth, Retention, and Future Demand",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/audiology-workforce-demand-supply/",
+      "author": "HHTM",
+      "publishedAt": "2026-10-20T14:52:19.000Z",
+      "readTime": 1,
+      "summary": "A new analysis published in Seminars in Hearing raises concerns about the long-term sustainability of the U.S. audiology workforce, finding that the profession has grown substantially more slowly than comparable healthcare disciplines despite an expanding population of people with hearing loss. The study, authored by Victor Bray, PhD, and Amyn M. Amlani, PhD, examines workforce trends spanning more than two ...\nThe post Audiology at a Crossroads: New Study Examines Workforce Growth, Retention, and Future Demand appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/qo49o9/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-sn9ltw",
+      "type": "article",
+      "title": "Lenire Now Included in U.S. ENT Clinical Practice Guidelines",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/lenire-now-included-in-u-s-ent-clinical-practice-guidelines",
+      "author": "Staff",
+      "publishedAt": "2026-10-20T14:50:00.000Z",
+      "readTime": 1,
+      "summary": "AAO-HNSF has included Lenire bimodal neuromodulation as a treatment option in the Academy’s new Clinical Practice Guidelines for Tinnitus.",
+      "imageUrl": "https://picsum.photos/seed/sn9ltw/600/400",
+      "tags": [
+        "Press Releases"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-audiology-online-pwfmx2",
       "type": "article",
       "title": "Audioscan launches redesigned website with easier access to products, support, and education",
@@ -14,6 +147,40 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-online-m5boyo",
+      "type": "article",
+      "title": "MED-EL and Starkey Win Hearing Technology Innovator Award Again for Bimodal Hearing Solution with DualSync Technology",
+      "source": "Audiology Online",
+      "sourceUrl": "https://www.audiologyonline.com/releases/29853-med-el-and-starkey-win-29853",
+      "publishedAt": "2026-10-20T04:00:00.000Z",
+      "readTime": 1,
+      "summary": "MED-EL US announced today its DualSync technology, developed in partnership with Starkey Hearing, was awarded a Hearing Technology Innovator Award in the Bimodal Hearing Category",
+      "imageUrl": "https://picsum.photos/seed/m5boyo/600/400",
+      "tags": [],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Emerging tinnitus treatment modality — understand the competitive landscape."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-online-dihip0",
+      "type": "article",
+      "title": "MED-EL USA Honored with Hearing Technology Innovator Award for the SONNET 3 Audio Processor in Auditory Implant Category",
+      "source": "Audiology Online",
+      "sourceUrl": "https://www.audiologyonline.com/releases/29852-med-el-usa-honored-with-29852",
+      "publishedAt": "2026-10-20T04:00:00.000Z",
+      "readTime": 1,
+      "summary": "MED-EL USA announced today that SONNET 3, has been recognized in the 2026 Hearing Technology Innovator Awards",
+      "imageUrl": "https://picsum.photos/seed/dihip0/600/400",
+      "tags": [],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes."
       ],
       "saved": false
     },
@@ -485,30 +652,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-review-d263vi",
-      "type": "article",
-      "title": "Cilcare Opens Tokyo Subsidiary to Drive Asia-Pacific Hearing Health Expansion",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/inside-hearing/industry-news/cilcare-opens-tokyo-subsidiary-to-drive-asia-pacific-hearing-health-expansion",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-10-14T12:21:00.000Z",
-      "readTime": 1,
-      "summary": "The French auditory biopharmaceutical company's Cilcare K.K. will leverage its decade-long presence in the region to accelerate partnerships and advance preventive and therapeutic hearing solutions.",
-      "imageUrl": "https://picsum.photos/seed/d263vi/600/400",
-      "tags": [
-        "Industry News",
-        "Research",
-        "CILcare",
-        "original",
-        "pharmaceuticals"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-health-matters-5588k4",
       "type": "article",
       "title": "Widex Announces U.S. and European Availability of Allure AI Hearing Aids",
@@ -526,52 +669,6 @@
       "whyItMatters": [
         "Relevant to your core patient population and treatment pathways.",
         "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-review-y9lm9h",
-      "type": "article",
-      "title": "Elehear Earns Two 2026 Hearing Technology Innovator Awards",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/otc/elehear-earns-two-2026-hearing-technology-innovator-awards",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-10-14T12:00:00.000Z",
-      "readTime": 1,
-      "summary": "Elehear has received two 2026 Hearing Technology Innovator Awards from Hearing Health & Technology Matters for its Beyond 2 Pro OTC hearing aids and ElePro Plus tele-audiology service.",
-      "imageUrl": "https://picsum.photos/seed/y9lm9h/600/400",
-      "tags": [
-        "Over the Counter",
-        "TeleHealth",
-        "CES 2026",
-        "CIC hearing aid",
-        "ELEHEAR",
-        "Elehear Beyond 2 Pro"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-9o8hic",
-      "type": "article",
-      "title": "RNID and GN Hearing Partner to Improve Theatre Accessibility with Auracast",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/auracast-access-gn-rnid/",
-      "author": "HHTM",
-      "publishedAt": "2026-10-14T11:00:12.000Z",
-      "readTime": 1,
-      "summary": "LONDON, UK — RNID and GN Hearing have announced the launch of Auracast for Theatres, a new practical guide designed to help theatres and live-performance venues improve audio accessibility for people who are deaf or have hearing loss. Developed by RNID, the UK charity supporting people who are deaf, have hearing loss or tinnitus, with support from GN Hearing, the playbook ...\nThe post RNID and GN Hearing Partner to Improve Theatre Accessibility with Auracast appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/9o8hic/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Relevant to your core patient population and treatment pathways."
       ],
       "saved": false
     },
@@ -710,32 +807,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-review-vdebq5",
-      "type": "article",
-      "title": "AAO-HNSF Issues Updated Clinical Practice Guideline for Tinnitus",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/hearing-loss/tinnitus/aao-hnsf-issues-updated-clinical-practice-guideline-for-tinnitus",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-10-13T18:51:57.000Z",
-      "readTime": 1,
-      "summary": "The American Academy of Otolaryngology–Head and Neck Surgery Foundation has released an updated clinical practice guideline for tinnitus, emphasizing evidence-based, personalized evaluation and management strategies for hearing care professionals and multidisciplinary care teams.",
-      "imageUrl": "https://picsum.photos/seed/vdebq5/600/400",
-      "tags": [
-        "Counseling & Education",
-        "Tinnitus",
-        "Tinnitus Therapy",
-        "American Academy of Otolaryngology-Head and Neck Surgery",
-        "original",
-        "tinnitus assessment"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-phonak-blog-iwb4qj",
       "type": "article",
       "title": "One hearing aid or two for age-related hearing loss?",
@@ -775,47 +846,6 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-cn6b4f",
-      "type": "article",
-      "title": "New WSA Clinical Studies Link Sound Preference to Higher Hearing Aid Conversion",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/press-releases/new-wsa-clinical-studies-link-sound-preference-to-higher-hearing-aid-conversion",
-      "author": "Staff",
-      "publishedAt": "2026-10-12T00:00:00.000Z",
-      "readTime": 1,
-      "summary": "WSA studies across 42 clinics link sound preference consultations to hearing aid purchase rates that were 5 percentage points higher.",
-      "imageUrl": "https://picsum.photos/seed/cn6b4f/600/400",
-      "tags": [
-        "Press Releases"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-u5n0ea",
-      "type": "article",
-      "title": "Bose ANC Technology in Orka O1 Pro Hearing Aids: Why It's a Big Deal",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/bose-anc-technology-in-orka-o1-pro-hearing-aids-here-s-what-it-means",
-      "author": "Karl Strom",
-      "publishedAt": "2026-10-12T00:00:00.000Z",
-      "readTime": 1,
-      "summary": "Bose’s Andy Sabin and Orka’s Linkai Li explain how ANC in the O1 Pro hearing aid supports AI speech enhancement and reduces boomy own-voice sound.",
-      "imageUrl": "https://picsum.photos/seed/u5n0ea/600/400",
-      "tags": [
-        "News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
       ],
       "saved": false
     },
@@ -877,40 +907,6 @@
       "whyItMatters": [
         "Directly applicable to your sales strategy and opportunity closure process.",
         "Tactical insight for growing patient pipeline and conversion rates."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-audiology-online-vnmnmb",
-      "type": "article",
-      "title": "Academy of Doctors of Audiology and American Suppressor Association Launch Ear SHIELD Day to Prevent Firearm-Related Hearing Loss",
-      "source": "Audiology Online",
-      "sourceUrl": "https://www.audiologyonline.com/releases/29833-academy-doctors-audiology-and-american",
-      "publishedAt": "2026-10-02T04:00:00.000Z",
-      "readTime": 1,
-      "summary": "The Academy of Doctors of Audiology (ADA) and the American Suppressor Association (ASA) jointly recognized the inaugural Ear SHIELD Day, designating October 2nd of each year as a national day to raise awareness of the risks that firearm noise poses to military personnel, sportsmen and women, law enforcement officers, and recreational shooters.",
-      "imageUrl": "https://picsum.photos/seed/vnmnmb/600/400",
-      "tags": [],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-audiology-online-lxjucl",
-      "type": "article",
-      "title": "Audiology Assistant Standard to Open for Public Review and Comment",
-      "source": "Audiology Online",
-      "sourceUrl": "https://www.audiologyonline.com/releases/29830-audiology-assistant-standard-to-open",
-      "publishedAt": "2026-10-02T04:00:00.000Z",
-      "readTime": 1,
-      "summary": "In an endeavor to establish a common standard for the practice of audiology assistants in the U.S., the Audiology Practice Standards Organization has collaborated with professional organizations across the profession.",
-      "imageUrl": "https://assets-atlas-production.continued.com/ao-assets/content/c29800/c29830/logotext.png",
-      "tags": [],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Practice management insights to help grow your hearing care business."
       ],
       "saved": false
     },
@@ -1076,5 +1072,5 @@
       "saved": false
     }
   ],
-  "fetchedAt": "2026-10-20T11:18:01.773Z"
+  "fetchedAt": "2026-10-21T11:34:08.846Z"
 }
