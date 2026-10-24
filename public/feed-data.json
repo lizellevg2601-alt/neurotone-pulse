@@ -1,6 +1,184 @@
 {
   "items": [
     {
+      "id": "feed-hearing-review-mhc9eb",
+      "type": "article",
+      "title": "International Misophonia Foundation Launches Free, Searchable Research Database",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-loss/hearing-disorders/international-misophonia-foundation-launches-free-searchable-research-database",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-10-23T16:00:00.000Z",
+      "readTime": 1,
+      "summary": "The International Misophonia Foundation's new database is designed to consolidate peer-reviewed misophonia studies for clinicians, researchers, and patients.",
+      "imageUrl": "https://picsum.photos/seed/mhc9eb/600/400",
+      "tags": [
+        "Hearing Disorders",
+        "Organizations",
+        "Research",
+        "International Misophonia Foundation",
+        "misophonia",
+        "original"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Practice management insights to help grow your hearing care business.",
+        "Understanding practitioner perspectives is key to your sales conversations with clinics."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-mfrzso",
+      "type": "article",
+      "title": "Hear.com Wins 2026 Global Recognition Award for Hearing Care Innovation",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/hear-com-wins-2026-global-recognition-award-for-hearing-care-innovation",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-10-23T15:15:00.000Z",
+      "readTime": 1,
+      "summary": "Hear.com has earned a 2026 Global Recognition Award for Innovation, honoring its Clinic-in-a-Box teleaudiology platform and Horizon IX hearing aids.",
+      "imageUrl": "https://picsum.photos/seed/mfrzso/600/400",
+      "tags": [
+        "Hearing Aids",
+        "Industry News",
+        "TeleHealth",
+        "clinic-in-a-box",
+        "hear.com",
+        "Horizon IX"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-dk13r8",
+      "type": "article",
+      "title": "Hearing Aid Coverage Expands for Children but Declines Among Older Adults, Study Finds",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/hearing-aid-coverage-insurance/",
+      "author": "HHTM",
+      "publishedAt": "2026-10-23T15:04:30.000Z",
+      "readTime": 1,
+      "summary": "Despite gradual improvements in hearing aid insurance coverage across the United States, millions of Americans continue to lack guaranteed benefits, with older adults facing some of the most persistent gaps, according to new research published in JAMA Otolaryngology–Head & Neck Surgery. The study, “Longitudinal Growth of Mandated Hearing Aid Benefits in the US,” examined insurance coverage requirements affecting more than ...\nThe post Hearing Aid Coverage Expands for Children but Declines Among Older Adults, Study Finds appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/dk13r8/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Policy changes affect patient access and your practice revenue."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-2auasu",
+      "type": "article",
+      "title": "Fortell Expands AI Hearing Aids to More Than 30 States",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/fortell-expands-ai-hearing-aids-to-more-than-30-states",
+      "author": "Staff",
+      "publishedAt": "2026-10-23T13:30:00.000Z",
+      "readTime": 1,
+      "summary": "Fortell expands access to its prescription AI hearing aids to more than 30 states through new clinics and Fortell Anywhere remote audiology services.",
+      "imageUrl": "https://picsum.photos/seed/2auasu/600/400",
+      "tags": [
+        "Press Releases"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-xd86ii",
+      "type": "article",
+      "title": "Medicare Hearing Aid Coverage Gets Another Push from a New Leader",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/medicare-hearing-aid-coverage-gets-another-push-from-a-new-leader",
+      "author": "Karl Strom",
+      "publishedAt": "2026-10-23T13:11:00.000Z",
+      "readTime": 1,
+      "summary": "Rep. Mike Thompson will lead a renewed push for Medicare hearing aid coverage, continuing legislation to add hearing, dental, and vision benefits.",
+      "imageUrl": "https://picsum.photos/seed/xd86ii/600/400",
+      "tags": [
+        "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Policy changes affect patient access and your practice revenue."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-gklors",
+      "type": "article",
+      "title": "Shoebox PureTest Wins 2026 Hearing Technology Innovator Award for Boothless Occupational Testing",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-products/vestibular-solutions/diagnostic-equipment/shoebox-puretest-wins-2026-hearing-technology-innovator-award-for-boothless-occupational-testing",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-10-23T13:11:00.000Z",
+      "readTime": 1,
+      "summary": "Shoebox has earned its fifth Hearing Technology Innovator Award for the Shoebox PureTest system, recognizing its boothless, OSHA-compliant occupational audiometry platform.",
+      "imageUrl": "https://picsum.photos/seed/gklors/600/400",
+      "tags": [
+        "Diagnostic Equipment",
+        "Military & Industrial",
+        "Testing Software",
+        "HHTM Hearing Technology Innovator Awards",
+        "industrial hearing conservation",
+        "occupational hearing tests"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-anqthd",
+      "type": "article",
+      "title": "CareCredit Pay Later: Another Way to Plan and Pay for Hearing Care",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/carecredit-introduces-carecredit-pay-later",
+      "author": "Staff",
+      "publishedAt": "2026-10-23T12:20:00.000Z",
+      "readTime": 1,
+      "summary": "CareCredit introduces Pay Later installment loans with fixed monthly payments and a defined payoff timeline, available at select audiology providers.",
+      "imageUrl": "https://picsum.photos/seed/anqthd/600/400",
+      "tags": [
+        "Press Releases"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Addresses common patient objections — useful for your sales conversations and team coaching.",
+        "Understanding practitioner perspectives is key to your sales conversations with clinics."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-online-mwueh2",
+      "type": "article",
+      "title": "Creating Impact Beyond the Game: Starkey and Minnesota Timberwolves Continue Partnership",
+      "source": "Audiology Online",
+      "sourceUrl": "https://www.audiologyonline.com/releases/29859-creating-impact-beyond-game-starkey",
+      "publishedAt": "2026-10-23T04:00:00.000Z",
+      "readTime": 1,
+      "summary": "Starkey today announced the continuation of its partnership with the Minnesota Timberwolves for the 2026-27 NBA season",
+      "imageUrl": "https://assets-atlas-production.continued.com/ao-assets/content/c29800/c29859/phot3233-00-en-st-timberwolvesstarkeysocial-1.jpg",
+      "tags": [],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-tracker-2mqx3h",
       "type": "article",
       "title": "Starkey Named a 2026 Inc. Power Partner for Excellence in Customer Success",
@@ -239,46 +417,6 @@
       "saved": false
     },
     {
-      "id": "feed-audiology-academy-oxvaft",
-      "type": "article",
-      "title": "Treatment of Parkinson’s Disease with Virtual Reality",
-      "source": "American Academy of Audiology",
-      "sourceUrl": "https://www.audiology.org/treatment-of-parkinsons-disease-with-virtual-reality/",
-      "author": "AishaAli",
-      "publishedAt": "2026-10-21T13:04:00.000Z",
-      "readTime": 1,
-      "summary": "In a recent article by Mahato et al. (2026), 250 individuals with Parkinson’s disease were assigned to either traditional physical therapy or virtual reality (VR)-based programs. This study sought to…\nThe post Treatment of Parkinson’s Disease with Virtual Reality appeared first on American Academy of Audiology.",
-      "imageUrl": "https://picsum.photos/seed/oxvaft/600/400",
-      "tags": [
-        "Audiology in the News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-audiology-academy-1ayntc",
-      "type": "article",
-      "title": "SPAN Q4 Meeting Reminder",
-      "source": "American Academy of Audiology",
-      "sourceUrl": "https://www.audiology.org/span-q4-meeting-reminder/",
-      "author": "AishaAli",
-      "publishedAt": "2026-10-21T12:00:00.000Z",
-      "readTime": 1,
-      "summary": "The American Academy of Audiology’s State Policy Advocate Network (SPAN) will hold its fourth-quarter meeting next week, on October 28, 2026, from 8:00–9:00 pm ET. The meeting will focus on…\nThe post SPAN Q4 Meeting Reminder appeared first on American Academy of Audiology.",
-      "imageUrl": "https://picsum.photos/seed/1ayntc/600/400",
-      "tags": [
-        "Government Relations News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-online-mdp5nn",
       "type": "article",
       "title": "Lenire Now Included in U.S. ENT Clinical Practice Guidelines – First New Treatment Added by American Academy of Otolaryngology Since Establishment of the Academy’s Tinnitus Guidelines",
@@ -341,26 +479,6 @@
       "whyItMatters": [
         "Relevant to your core patient population and treatment pathways.",
         "Policy changes affect patient access and your practice revenue."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-audiology-academy-9nou55",
-      "type": "article",
-      "title": "Virginia Audiology Regulations Open for Public Comment",
-      "source": "American Academy of Audiology",
-      "sourceUrl": "https://www.audiology.org/virginia-audiology-regulations-open-for-public-comment/",
-      "author": "AishaAli",
-      "publishedAt": "2026-10-20T19:38:09.000Z",
-      "readTime": 1,
-      "summary": "The Virginia Board of Audiology and Speech-Language Pathology published a proposed rule allowing for ABA certification to serve as an alternative pathway for audiology licensure. The public comment period is…\nThe post Virginia Audiology Regulations Open for Public Comment appeared first on American Academy of Audiology.",
-      "imageUrl": "https://picsum.photos/seed/9nou55/600/400",
-      "tags": [
-        "Government Relations News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
       ],
       "saved": false
     },
@@ -626,32 +744,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-review-f5roxw",
-      "type": "article",
-      "title": "Fortell Expands Prescription AI Hearing Aids to More Than 30 States",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/fortell-expands-prescription-ai-hearing-aids-to-more-than-30-states",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-10-16T18:35:03.000Z",
-      "readTime": 1,
-      "summary": "Fortell has expanded the reach of its prescription AI hearing aids to more than 30 states through new brick-and-mortar clinics and its remote teleaudiology platform, Fortell Anywhere.",
-      "imageUrl": "https://picsum.photos/seed/f5roxw/600/400",
-      "tags": [
-        "Hearing Aids",
-        "Speech in Noise",
-        "TeleHealth",
-        "AI hearing aids",
-        "Fortell",
-        "original"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-health-matters-qbaujh",
       "type": "article",
       "title": "Beltone Collects More Than 20,000 Food Items in Third Annual Hear2End Hunger Food Drive",
@@ -668,73 +760,6 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-audiology-academy-ek5to1",
-      "type": "article",
-      "title": "Aerobic Physical Activity in U.S. Adults: An Updated Report",
-      "source": "American Academy of Audiology",
-      "sourceUrl": "https://www.audiology.org/aerobic-physical-activity-in-u-s-adults-an-updated-report/",
-      "author": "AishaAli",
-      "publishedAt": "2026-10-16T14:00:00.000Z",
-      "readTime": 1,
-      "summary": "In 2022, the American Academy of Audiology shared an update regarding two data briefs about physical activity in the United States. One was related to youth participation in organized sports…\nThe post Aerobic Physical Activity in U.S. Adults: An Updated Report appeared first on American Academy of Audiology.",
-      "imageUrl": "https://picsum.photos/seed/ek5to1/600/400",
-      "tags": [
-        "Audiology in the News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-audiology-academy-1ytd3h",
-      "type": "article",
-      "title": "Adding Vestibular Training to Post-Stroke Care",
-      "source": "American Academy of Audiology",
-      "sourceUrl": "https://www.audiology.org/adding-vestibular-training-to-post-stroke-care/",
-      "author": "AishaAli",
-      "publishedAt": "2026-10-16T13:00:00.000Z",
-      "readTime": 1,
-      "summary": "A recent study by Mishra and colleagues (2026) examined individuals with chronic post-stroke disequilibrium. Participants (n=18) received either traditional balance therapy or balance therapy plus multimodal vestibular training (MVT) over…\nThe post Adding Vestibular Training to Post-Stroke Care appeared first on American Academy of Audiology.",
-      "imageUrl": "https://picsum.photos/seed/1ytd3h/600/400",
-      "tags": [
-        "Audiology in the News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Sales enablement best practices to level up your team's closing skills.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-review-p8zsso",
-      "type": "article",
-      "title": "Audiologists, ADA File Federal Lawsuit Challenging Medicare’s Private-Pay Exclusion",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/inside-hearing/regulation/audiologists-ada-file-federal-lawsuit-challenging-medicares-private-pay-exclusion",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-10-16T00:54:35.000Z",
-      "readTime": 1,
-      "summary": "Two private-practice audiologists and the Academy of Doctors of Audiology have filed a federal lawsuit challenging a Medicare rule that bars audiologists from opting out of the program to enter into private-pay contracts with patients.",
-      "imageUrl": "https://picsum.photos/seed/p8zsso/600/400",
-      "tags": [
-        "Medicare & Insurance",
-        "Regulation",
-        "Academy of Doctors of Audiology",
-        "lawsuit",
-        "medicare",
-        "original"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Practice management insights to help grow your hearing care business.",
-        "Policy changes affect patient access and your practice revenue."
       ],
       "saved": false
     },
@@ -819,113 +844,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-6u34lh",
-      "type": "article",
-      "title": "Inside Starkey Omega AI+ Hearing Aids: Quad DNN, Better Speech and New Health Features",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/thisweek/2026/starkey-omega-ai-plus-review/",
-      "author": "HHTM",
-      "publishedAt": "2026-10-15T02:12:52.000Z",
-      "readTime": 1,
-      "summary": "Starkey’s new Omega AI+ hearing aids introduce a Quad DNN processing architecture, enhanced speech-in-noise technology, improved feedback management, and new sleep-tracking capabilities. But what do these advancements mean for hearing aid users and hearing care professionals? Reporting from Starkey Day in Minneapolis, Andrew Bellavia speaks with three of Starkey’s senior leaders to explore the technology behind Omega AI+ and the ...\nThe post Inside Starkey Omega AI+ Hearing Aids: Quad DNN, Better Speech and New Health Features appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/6u34lh/600/400",
-      "tags": [
-        "This Week in Hearing"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Directly applicable to your sales strategy and opportunity closure process."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-review-mozum8",
-      "type": "article",
-      "title": "Neural Benefits of Natural-Sounding AI Denoising ",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/neural-benefits-of-natural-sounding-ai-denoising",
-      "author": "Melanie Hamilton",
-      "publishedAt": "2026-10-15T00:24:41.000Z",
-      "readTime": 1,
-      "summary": "A study of Widex’s Clarity Boost AI noise-reduction technology looked at whether preserving natural sound quality improved speech understanding in challenging noisy environments.",
-      "imageUrl": "https://picsum.photos/seed/mozum8/600/400",
-      "tags": [
-        "Hearing Aids",
-        "AI hearing aids",
-        "contributed article",
-        "Deep Neural Network DNN",
-        "EEG brainwave",
-        "natural sound"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-audiology-academy-ejo33c",
-      "type": "article",
-      "title": "No Surprises Act Reform: One to Watch in the Lame-Duck Session",
-      "source": "American Academy of Audiology",
-      "sourceUrl": "https://www.audiology.org/no-surprises-act-reform-one-to-watch-in-the-lame-duck-session/",
-      "author": "AishaAli",
-      "publishedAt": "2026-10-14T14:16:04.000Z",
-      "readTime": 1,
-      "summary": "As Congress prepares for the lame-duck session following the November midterm elections, health care legislation could be among the issues lawmakers seek to address before the 119th Congress adjourns. The…\nThe post No Surprises Act Reform: One to Watch in the Lame-Duck Session appeared first on American Academy of Audiology.",
-      "imageUrl": "https://picsum.photos/seed/ejo33c/600/400",
-      "tags": [
-        "Government Relations News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-mgm6np",
-      "type": "article",
-      "title": "SoundGear Earns Two Hearing Technology Innovator Awards for Phantom and SoundCheck Live",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/press-releases/soundgear-earns-two-hearing-technology-innovator-awards-for-phantom-and-soundcheck-live",
-      "author": "Staff",
-      "publishedAt": "2026-10-14T09:51:00.000Z",
-      "readTime": 1,
-      "summary": "SoundGear Phantom and SoundCheck Live earn Hearing Technology Innovator Awards for hearing protection and real-time noise monitoring.",
-      "imageUrl": "https://picsum.photos/seed/mgm6np/600/400",
-      "tags": [
-        "Press Releases"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-m6e2np",
-      "type": "article",
-      "title": "GN and RNID Launch Auracast Installation Guide for Theaters",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/gn-and-rnid-launch-auracast-installation-guide-for-theaters",
-      "author": "Karl Strom",
-      "publishedAt": "2026-10-14T09:01:00.000Z",
-      "readTime": 1,
-      "summary": "RNID and GN launch an Auracast guide for theaters covering installation, audio quality, staff training, and support for audiences with hearing loss.",
-      "imageUrl": "https://picsum.photos/seed/m6e2np/600/400",
-      "tags": [
-        "News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Addresses common patient objections — useful for your sales conversations and team coaching."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-online-k7pl9p",
       "type": "article",
       "title": "Inventis Releases Maestro 1.28.0: New Tools for Hearing Aid Fitting, Vestibular Assessment, and Cortical Responses",
@@ -961,83 +879,197 @@
       "saved": false
     },
     {
-      "id": "feed-audiology-online-p6ncoa",
+      "id": "feed-phonak-blog-iwb4qj",
       "type": "article",
-      "title": "Widex Allure AI RIC with Clarity Boost Now Available in the U.S. and Major European Countries, Redefining How AI Supports Natural Hearing",
-      "source": "Audiology Online",
-      "sourceUrl": "https://www.audiologyonline.com/releases/29843-widex-allure-ai-ric-with",
-      "publishedAt": "2026-10-14T04:00:00.000Z",
+      "title": "One hearing aid or two for age-related hearing loss?",
+      "source": "Phonak Audiology Blog",
+      "sourceUrl": "https://audiologyblog.phonakpro.com/one-hearing-aid-or-two-for-age-related-hearing-loss/",
+      "author": "Sherri L. Smith, AuD, PhD",
+      "publishedAt": "2026-10-13T06:19:00.000Z",
       "readTime": 1,
-      "summary": "Widex announced the availability of Widex Allure AI RIC with Clarity Boost in 15 additional countries, including the U.S. and major European markets",
-      "imageUrl": "https://assets-atlas-production.continued.com/ao-assets/content/c29800/c29843/3widexallureairic.jpg",
-      "tags": [],
+      "summary": "One hearing aid or two is a familiar question in clinical practice. A randomized trial examined whether bilateral hearing aids provide greater benefit than a unilateral hearing aid for adults with age-related hearing loss.\nThe post One hearing aid or two for age-related hearing loss? appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
+      "imageUrl": "https://picsum.photos/seed/iwb4qj/600/400",
+      "tags": [
+        "Clinical Practice",
+        "audiology",
+        "best practice",
+        "Hearing care",
+        "hearing healthcare",
+        "hearing loss"
+      ],
       "relevanceScore": 50,
       "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
+        "Relevant to your core patient population and treatment pathways.",
+        "Practice management insights to help grow your hearing care business."
       ],
       "saved": false
     },
     {
-      "id": "feed-hearing-tracker-12wrk5",
+      "id": "feed-phonak-blog-cag2ks",
       "type": "article",
-      "title": "Roger On Sphere: Phonak Brings AI Speech Separation to Remote Microphones",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/roger-on-sphere-phonak-brings-ai-speech-separation-to-remote-microphones",
-      "author": "Karl Strom",
-      "publishedAt": "2026-10-14T01:05:00.000Z",
+      "title": "Bringing hearing screenings closer to the community: Lessons from Shanghai",
+      "source": "Phonak Audiology Blog",
+      "sourceUrl": "https://audiologyblog.phonakpro.com/bringing-hearing-screenings-closer-to-the-community-lessons-from-shanghai/",
+      "author": "Jingjing Guan",
+      "publishedAt": "2026-10-06T10:33:32.000Z",
       "readTime": 1,
-      "summary": "Phonak’s Roger On Sphere adds AI speech separation to its remote microphone lineup, with a 3 dB SNR improvement.",
-      "imageUrl": "https://picsum.photos/seed/12wrk5/600/400",
+      "summary": "Community-based initiatives in Shanghai are exploring how hearing screening can be integrated into settings older adults already visit and trust. Early experience offers practical insights for hearing care professionals looking to improve access.\nThe post Bringing hearing screenings closer to the community: Lessons from Shanghai appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
+      "imageUrl": "https://picsum.photos/seed/cag2ks/600/400",
       "tags": [
-        "News"
+        "Clinical Practice",
+        "audiology",
+        "best practice",
+        "Hearing care",
+        "hearing healthcare",
+        "hearing loss"
       ],
       "relevanceScore": 50,
       "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Relevant to your core patient population and treatment pathways."
       ],
       "saved": false
     },
     {
-      "id": "feed-audiology-academy-huxac7",
+      "id": "feed-phonak-blog-9l46w5",
       "type": "article",
-      "title": "In Memoriam: Jerry Northern, PhD",
-      "source": "American Academy of Audiology",
-      "sourceUrl": "https://www.audiology.org/in-memoriam-jerry-northern-phd/",
-      "author": "AishaAli",
-      "publishedAt": "2026-10-13T19:38:08.000Z",
+      "title": "Turning 50 into a prompt for better hearing health",
+      "source": "Phonak Audiology Blog",
+      "sourceUrl": "https://audiologyblog.phonakpro.com/turning-50-into-a-prompt-for-better-hearing-health/",
+      "author": "Barbra Timmer",
+      "publishedAt": "2026-09-29T11:05:07.000Z",
       "readTime": 1,
-      "summary": "Dr. Jerry Northern made incomparable contributions to his profession and to the American Academy of Audiology throughout his career. His recent passing is a loss that will be felt by…\nThe post In Memoriam: Jerry Northern, PhD appeared first on American Academy of Audiology.",
-      "imageUrl": "https://picsum.photos/seed/huxac7/600/400",
+      "summary": "A national letter campaign inviting Australians to have their hearing checked at age 50 offers a compelling real-world example of how to position adult hearing screening as routine preventive care and put the WHO’s life-course approach to hearing care into practice.\nThe post Turning 50 into a prompt for better hearing health appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
+      "imageUrl": "https://picsum.photos/seed/9l46w5/600/400",
       "tags": [
-        "Academy News"
+        "Clinical Practice"
       ],
       "relevanceScore": 50,
       "whyItMatters": [
+        "Practice management insights to help grow your hearing care business.",
+        "Patient acquisition strategies to inform your go-to-market approach."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-phonak-blog-wgrton",
+      "type": "article",
+      "title": "EON: Adaptive clarity that speaks for itself",
+      "source": "Phonak Audiology Blog",
+      "sourceUrl": "https://audiologyblog.phonakpro.com/eon-adaptive-clarity-that-speaks-for-itself/",
+      "author": "Michael Preuss",
+      "publishedAt": "2026-09-24T12:14:07.000Z",
+      "readTime": 1,
+      "summary": "Four advanced new features work together in EON: Spheric Speech Clarity 3.0, AutoSense OS™ AI 8.0, APD 4.0 and WindBlock 2.0. Together, they prioritize speech understanding and reduce listening effort in real time while providing a more natural listening experience.\nThe post EON: Adaptive clarity that speaks for itself appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
+      "imageUrl": "https://picsum.photos/seed/wgrton/600/400",
+      "tags": [
+        "Technology",
+        "audiology",
+        "EON",
+        "Hearing care",
+        "hearing loss"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
         "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
       ],
       "saved": false
     },
     {
-      "id": "feed-audiology-academy-l24pl5",
+      "id": "feed-phonak-blog-tppqq6",
       "type": "article",
-      "title": "AMA RUC Upcoming Surveys",
-      "source": "American Academy of Audiology",
-      "sourceUrl": "https://www.audiology.org/ama-ruc-upcoming-surveys-2/",
-      "author": "AishaAli",
-      "publishedAt": "2026-10-13T15:04:04.000Z",
+      "title": "Phonak EON: Connectivity excellence",
+      "source": "Phonak Audiology Blog",
+      "sourceUrl": "https://audiologyblog.phonakpro.com/phonak-eon-connectivity-excellence/",
+      "author": "Min Roh",
+      "publishedAt": "2026-09-17T09:17:00.000Z",
       "readTime": 1,
-      "summary": "Over the next several weeks, a significant number of CPT® codes used to report audiology function tests will undergo review through the AMA/Specialty Society Relative Value Scale Update Committee (RUC)…\nThe post AMA RUC Upcoming Surveys appeared first on American Academy of Audiology.",
-      "imageUrl": "https://picsum.photos/seed/l24pl5/600/400",
+      "summary": "With Bluetooth Classic, Roger™, and Auracast™ broadcast audio working together, Phonak Audéo EON gives hearing care professionals different connectivity options to support clients across personal devices, far-field conversation and emerging public-access audio.\nThe post Phonak EON: Connectivity excellence appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
+      "imageUrl": "https://picsum.photos/seed/tppqq6/600/400",
       "tags": [
-        "Coding and Reimbursement"
+        "Technology",
+        "audiology",
+        "EON",
+        "Hearing care",
+        "hearing loss"
       ],
       "relevanceScore": 50,
       "whyItMatters": [
-        "Policy changes affect patient access and your practice revenue.",
-        "Pricing and affordability strategies that affect deal velocity and close rates."
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audexperts-y9m07f",
+      "type": "article",
+      "title": "How to Start an Audiology Practice for Growth and Freedom",
+      "source": "AuDExperts",
+      "sourceUrl": "https://audexperts.com/2026/09/16/how-to-start-an-audiology-practice/",
+      "author": "jmbrader",
+      "publishedAt": "2026-09-16T16:20:03.000Z",
+      "readTime": 1,
+      "summary": "The post How to Start an Audiology Practice for Growth and Freedom appeared first on AuDExperts.",
+      "imageUrl": "https://picsum.photos/seed/y9m07f/600/400",
+      "tags": [
+        "Audiology",
+        "Private Practice"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Practice management insights to help grow your hearing care business.",
+        "Directly applicable to your sales strategy and opportunity closure process."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audexperts-g02phk",
+      "type": "article",
+      "title": "Audiology Practice Valuation: Revenue vs. EBITDA",
+      "source": "AuDExperts",
+      "sourceUrl": "https://audexperts.com/2026/09/14/audiology-practice-valuation-revenue-vs-ebitda/",
+      "author": "jmbrader",
+      "publishedAt": "2026-09-14T20:34:34.000Z",
+      "readTime": 1,
+      "summary": "The post Audiology Practice Valuation: Revenue vs. EBITDA appeared first on AuDExperts.",
+      "imageUrl": "https://picsum.photos/seed/g02phk/600/400",
+      "tags": [
+        "Audiology",
+        "Private Practice"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Practice management insights to help grow your hearing care business.",
+        "Directly applicable to your sales strategy and opportunity closure process."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-phonak-blog-y8ynnj",
+      "type": "article",
+      "title": "Phonak EON: Every aspect purposefully designed",
+      "source": "Phonak Audiology Blog",
+      "sourceUrl": "https://audiologyblog.phonakpro.com/phonak-eon-every-aspect-purposefully-designed/",
+      "author": "Johanna Nelson",
+      "publishedAt": "2026-09-10T09:50:17.000Z",
+      "readTime": 1,
+      "summary": "Great hearing aid design goes beyond the physical device. With Phonak EON, every design decision has a purpose, from how it feels and functions throughout the day to the technology clients can access and the way hearing care professionals fit it.\nThe post Phonak EON: Every aspect purposefully designed appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
+      "imageUrl": "https://picsum.photos/seed/y8ynnj/600/400",
+      "tags": [
+        "Technology",
+        "audiology",
+        "EON",
+        "Hearing care",
+        "hearing loss"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
       ],
       "saved": false
     }
   ],
-  "fetchedAt": "2026-10-23T11:23:05.382Z"
+  "fetchedAt": "2026-10-24T10:42:29.200Z"
 }
