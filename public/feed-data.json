@@ -9,7 +9,7 @@
       "author": "Neil Hockley",
       "publishedAt": "2026-10-27T11:08:54.000Z",
       "readTime": 1,
-      "summary": "These internationally recognized guidelines have been updated with the latest evidence to help hearing care professionals deliver high-quality care. The 2026 edition brings together the expertise and experience of 17 authors from eight countries.\nThe post Severe and profound hearing loss: Updated guidance for clinical practice appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
+      "summary": "Updated with the latest evidence, these international guidelines bring together 17 authors from eight countries to support high-quality hearing care.\nThe post Severe and profound hearing loss: Updated guidance for clinical practice appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
       "imageUrl": "https://picsum.photos/seed/r9cyuf/600/400",
       "tags": [
         "Clinical Practice",
@@ -44,6 +44,26 @@
       "whyItMatters": [
         "Understanding practitioner perspectives is key to your sales conversations with clinics.",
         "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-x6ioch",
+      "type": "article",
+      "title": "Ontario Moves Toward OTC Hearing Aids, but Launch Date Remains Unset",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/ontario-moves-toward-otc-hearing-aids",
+      "author": "Karl Strom",
+      "publishedAt": "2026-10-27T00:00:00.000Z",
+      "readTime": 1,
+      "summary": "Ontario plans to allow OTC hearing aids for adults with mild to moderate hearing loss. Explore the proposed changes, funding rules, and research.",
+      "imageUrl": "https://picsum.photos/seed/x6ioch/600/400",
+      "tags": [
+        "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways."
       ],
       "saved": false
     },
@@ -397,30 +417,6 @@
       "whyItMatters": [
         "Practice management insights to help grow your hearing care business.",
         "Addresses common patient objections — useful for your sales conversations and team coaching."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-phonak-blog-h0d8y6",
-      "type": "article",
-      "title": "Strengthening hearing care where access is limited",
-      "source": "Phonak Audiology Blog",
-      "sourceUrl": "https://audiologyblog.phonakpro.com/strengthening-hearing-care-where-access-is-limited-a-partnership-with-wizear-zimbabwe/",
-      "author": "Lisa Bacic",
-      "publishedAt": "2026-10-22T08:54:00.000Z",
-      "readTime": 1,
-      "summary": "How locally led hearing care in Zimbabwe, in partnership with Hear the World Foundation, is enabling earlier identification and more consistent access to sustainable care.\nThe post Strengthening hearing care where access is limited appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
-      "imageUrl": "https://picsum.photos/seed/h0d8y6/600/400",
-      "tags": [
-        "Clinical Practice",
-        "audiology",
-        "Hearing care",
-        "hearing loss"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Practice management insights to help grow your hearing care business."
       ],
       "saved": false
     },
@@ -838,27 +834,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-tracker-yshaw0",
-      "type": "article",
-      "title": "Demant Raises 2026 Outlook as Its Hearing Aid Sales Surge 17% in Q3",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/demant-raises-2026-outlook-as-its-hearing-aid-sales-surge-17-in-q3",
-      "author": "Karl Strom",
-      "publishedAt": "2026-10-15T18:30:00.000Z",
-      "readTime": 1,
-      "summary": "Demant raises its 2026 outlook again as Q3 hearing aid revenue grows 17% organically, supported by Oticon Reveal and Zeal.",
-      "imageUrl": "https://picsum.photos/seed/yshaw0/600/400",
-      "tags": [
-        "News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-online-xrrm68",
       "type": "article",
       "title": "Dr. Monita Chatterjee Named the John Niparko Memorial Lecturer for CI2027 San Diego",
@@ -1076,7 +1051,32 @@
         "Directly applicable to your sales strategy and opportunity closure process."
       ],
       "saved": false
+    },
+    {
+      "id": "feed-phonak-blog-y8ynnj",
+      "type": "article",
+      "title": "Phonak EON: Every aspect purposefully designed",
+      "source": "Phonak Audiology Blog",
+      "sourceUrl": "https://audiologyblog.phonakpro.com/phonak-eon-every-aspect-purposefully-designed/",
+      "author": "Johanna Nelson",
+      "publishedAt": "2026-09-10T09:50:17.000Z",
+      "readTime": 1,
+      "summary": "Great hearing aid design goes beyond the physical device. With Phonak EON, every design decision has a purpose, from how it feels and functions throughout the day to the technology clients can access and the way hearing care professionals fit it.\nThe post Phonak EON: Every aspect purposefully designed appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
+      "imageUrl": "https://picsum.photos/seed/y8ynnj/600/400",
+      "tags": [
+        "Technology",
+        "audiology",
+        "EON",
+        "Hearing care",
+        "hearing loss"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
     }
   ],
-  "fetchedAt": "2026-10-27T11:56:22.465Z"
+  "fetchedAt": "2026-10-28T12:33:13.490Z"
 }
