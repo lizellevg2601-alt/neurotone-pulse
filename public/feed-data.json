@@ -1,6 +1,219 @@
 {
   "items": [
     {
+      "id": "feed-hearing-review-3ksz72",
+      "type": "article",
+      "title": "Inside the AI Engines Powering 2026’s Premium Hearing Aids",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/inside-the-ai-engines-powering-2026s-premium-hearing-aids",
+      "author": "Melanie Hamilton",
+      "publishedAt": "2026-10-28T18:45:58.000Z",
+      "readTime": 1,
+      "summary": "This feature article looks at every major premium hearing aid brand's new AI-powered devices and platforms, and the distinct technological philosophies behind them.",
+      "imageUrl": "https://picsum.photos/seed/3ksz72/600/400",
+      "tags": [
+        "Hearing Aids",
+        "AI hearing aids",
+        "Melanie Hamilton-Basich",
+        "original",
+        "original article",
+        "Oticon"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Patient acquisition strategies to inform your go-to-market approach."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-pnxk7r",
+      "type": "article",
+      "title": "Bionix Adds ReadyHub Procedure Staging System to OneLight Ecosystem",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-products/accessories/bionix-adds-readyhub-procedure-staging-system-to-onelight-ecosystem",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-10-28T18:04:42.000Z",
+      "readTime": 1,
+      "summary": "Bionix has expanded its OneLight ecosystem with the new ReadyHub Procedure Staging System, designed to help audiology and ENT practices standardize setup and streamline procedural preparation.",
+      "imageUrl": "https://picsum.photos/seed/pnxk7r/600/400",
+      "tags": [
+        "Accessories",
+        "Diagnostic Equipment",
+        "Testing Equipment",
+        "Bionix",
+        "new product",
+        "original"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-mfp4v9",
+      "type": "article",
+      "title": "If My Hearing Test Is Normal, Why Can’t I Understand Speech?",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/resources/normal-hearing-test-but-still-can-t-understand-speech-",
+      "author": "Lawrence Cardano, AuD, CPD",
+      "publishedAt": "2026-10-28T17:14:00.000Z",
+      "readTime": 1,
+      "summary": "Normal hearing test but still struggling to understand speech? Learn what an audiogram can miss and how additional hearing tests can help.",
+      "imageUrl": "https://picsum.photos/seed/mfp4v9/600/400",
+      "tags": [
+        "Resources"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-jjrmdz",
+      "type": "article",
+      "title": "GLOW Turns Hearing Protection Into Part of the Show",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/glow-turns-hearing-protection-into-part-of-the-show",
+      "author": "Staff",
+      "publishedAt": "2026-10-28T16:10:00.000Z",
+      "readTime": 1,
+      "summary": "Created by audiologist Dr. Stacy O’Brien, GLOW earplugs combine filtered hearing protection with sound-responsive LED lights for concerts and festivals.",
+      "imageUrl": "https://picsum.photos/seed/jjrmdz/600/400",
+      "tags": [
+        "Press Releases"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Understanding practitioner perspectives is key to your sales conversations with clinics."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-w5ypmn",
+      "type": "article",
+      "title": "Tani Austin Honored with Prestigious 2026 Herizon Award",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/tani-austin-honored-with-prestigious-2026-herizon-award",
+      "author": "Staff",
+      "publishedAt": "2026-10-28T15:30:00.000Z",
+      "readTime": 1,
+      "summary": "Starkey Vice Chair Tani Austin receives a 2026 Herizon Award for her leadership in expanding global access to hearing healthcare and professional training.",
+      "imageUrl": "https://picsum.photos/seed/w5ypmn/600/400",
+      "tags": [
+        "Press Releases"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly applicable to your sales strategy and opportunity closure process.",
+        "Tactical insight for growing patient pipeline and conversion rates."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-4a6av",
+      "type": "article",
+      "title": "Why Tinnitus Can Feel Louder Even When Nothing Has Changed",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/tinnitus-education-corner/2026/tinnitus-louder-nothing-changed/",
+      "author": "HHTM",
+      "publishedAt": "2026-10-28T15:26:05.000Z",
+      "readTime": 1,
+      "summary": "By Dr. Jennifer J. Gans For people experiencing tinnitus, the perceived loudness of ringing, buzzing, or other internal sounds can vary considerably. Sometimes tinnitus seems to become more intrusive even when there is no obvious change in hearing or the surrounding environment. One reason is that tinnitus perception involves more than the auditory signal itself. Attention, emotional responses, and the ...\nThe post Why Tinnitus Can Feel Louder Even When Nothing Has Changed appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/4a6av/600/400",
+      "tags": [
+        "Tinnitus Education Corner with Dr. Jennifer Gans"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-1tc1h9",
+      "type": "article",
+      "title": "3 Hearing Hacks I Wish I’d Known Sooner",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/better-hearing-consumer/2026/3-hearing-hacks-i-wish-id-known-sooner/",
+      "author": "Gael Hannan",
+      "publishedAt": "2026-10-28T15:16:33.000Z",
+      "readTime": 1,
+      "summary": "How about this for Understatement of the Year : Hearing loss messes with your social life and your relationships. When you frown at people, struggling to understand, they think you’re grumpy. When you paste on a dorky Mona Lisa smile because you’ve totally lost the convo, they think something’s wrong with you. When you snarl at people because they mumble, ...\nThe post 3 Hearing Hacks I Wish I’d Known Sooner appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/1tc1h9/600/400",
+      "tags": [
+        "Better Hearing Consumer"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-85wxm6",
+      "type": "article",
+      "title": "Therapeutic Interventions for Genetic Hearing Loss: Inside the SKY-GJB2 Trial",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/thisweek/2026/gene-therapy-hearing-loss-skylark-bio/",
+      "author": "HHTM",
+      "publishedAt": "2026-10-28T14:51:26.000Z",
+      "readTime": 1,
+      "summary": "Gene therapy is opening new possibilities for addressing the underlying causes of genetic hearing loss. Brian Taylor, AuD, is joined by Jodi Cook, PhD, CEO of Skylark Bio, and Alexa Kozak, AuD, to discuss emerging therapeutic interventions for inherited hearing loss, with a particular focus on GJB2-related hearing loss, commonly associated with the connexin 26 protein. They explain the role ...\nThe post Therapeutic Interventions for Genetic Hearing Loss: Inside the SKY-GJB2 Trial appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/85wxm6/600/400",
+      "tags": [
+        "This Week in Hearing"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-imzwny",
+      "type": "article",
+      "title": "Updated Guidelines Published for Audiological Management of Adults with Severe and Profound Hearing Loss",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/guidelines-severe-profound-hearing-loss/",
+      "author": "HHTM",
+      "publishedAt": "2026-10-28T14:24:29.000Z",
+      "readTime": 1,
+      "summary": "An international group of audiology and hearing science experts has published updated best practice guidelines for managing adults with severe and profound hearing loss, incorporating recent research, advances in hearing technology, and expanded recommendations for clinical care. Published October 26, 2026, in Seminars in Hearing, the updated guidelines build on the original 2020 recommendations and provide a comprehensive framework for ...\nThe post Updated Guidelines Published for Audiological Management of Adults with Severe and Profound Hearing Loss appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/imzwny/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-online-vihepd",
+      "type": "article",
+      "title": "Tani Austin Honored with Prestigious 2026 Herizon Award for Transforming Global Hearing Healthcare",
+      "source": "Audiology Online",
+      "sourceUrl": "https://www.audiologyonline.com/releases/29863-tani-austin-honored-with-prestigious",
+      "publishedAt": "2026-10-28T04:00:00.000Z",
+      "readTime": 1,
+      "summary": "Tani Austin, Vice Chair of Starkey and Co-Founder of Starkey Hearing Foundation, has been named a 2026 Herizon Award honoree by the Business Intelligence Group",
+      "imageUrl": "https://assets-atlas-production.continued.com/ao-assets/content/c29800/c29863/image42.jpeg",
+      "tags": [],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-phonak-blog-r9cyuf",
       "type": "article",
       "title": "Severe and profound hearing loss: Updated guidance for clinical practice",
@@ -229,6 +442,27 @@
       "saved": false
     },
     {
+      "id": "feed-hearing-health-matters-lqauhs",
+      "type": "article",
+      "title": "How Audiologists Make Hearing Aid Selection Decisions: Insights from New Research",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/thisweek/2026/audiologist-hearing-aid-selection-research/",
+      "author": "HHTM",
+      "publishedAt": "2026-10-23T14:31:15.000Z",
+      "readTime": 1,
+      "summary": "How do audiologists decide which hearing aids to recommend to their patients? And how much of that decision is guided by scientific evidence versus clinical experience, patient listening needs, and traditional technology-tiering approaches? In this conversation, host Brian Taylor is joined by Rachael Pennock, AuD, a PhD student at Northwestern University, to discuss her recently published research examining how audiologists ...\nThe post How Audiologists Make Hearing Aid Selection Decisions: Insights from New Research appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/lqauhs/600/400",
+      "tags": [
+        "This Week in Hearing"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-tracker-2auasu",
       "type": "article",
       "title": "Fortell Expands AI Hearing Aids to More Than 30 States",
@@ -375,27 +609,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-2910mp",
-      "type": "article",
-      "title": "CareCredit Launches Pay Later Installment Loans, Expanding Financing Options for Hearing Care Patients",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/carercredit-pay-later/",
-      "author": "HHTM",
-      "publishedAt": "2026-10-22T14:00:44.000Z",
-      "readTime": 1,
-      "summary": "STAMFORD, CONN. — CareCredit, a healthcare financing solution from Synchrony (NYSE: SYF), has introduced CareCredit Pay Later, an enhanced installment loan product designed to give consumers another way to finance healthcare products and services not covered by insurance. The new offering is available at nearly 20,000 participating health and wellness locations, including select audiology, dental, vision, and cosmetic care providers. ...\nThe post CareCredit Launches Pay Later Installment Loans, Expanding Financing Options for Hearing Care Patients appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/2910mp/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Policy changes affect patient access and your practice revenue.",
-        "Addresses common patient objections — useful for your sales conversations and team coaching."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-review-k49xwd",
       "type": "article",
       "title": "CareCredit Launches CareCredit Pay Later, Expanding Payment Options for Audiology Providers",
@@ -404,7 +617,7 @@
       "author": "HR Edit Staff",
       "publishedAt": "2026-10-22T11:35:00.000Z",
       "readTime": 1,
-      "summary": "CareCredit has introduced \"CareCredit Pay Later,\" a fixed-APR installment loan product that gives audiology patients a defined-payoff alternative to revolving credit. Accessible through a single digital application, the new option aims to help practices improve payment transparency and reduce cost-related treatment delays for hearing technology.",
+      "summary": "CareCredit has introduced \"CareCredit Pay Later,\" a fixed-APR installment loan product that gives audiology patients a defined-payoff alternative to revolving credit.",
       "imageUrl": "https://picsum.photos/seed/k49xwd/600/400",
       "tags": [
         "Financial Services",
@@ -415,8 +628,8 @@
       ],
       "relevanceScore": 50,
       "whyItMatters": [
-        "Practice management insights to help grow your hearing care business.",
-        "Addresses common patient objections — useful for your sales conversations and team coaching."
+        "Addresses common patient objections — useful for your sales conversations and team coaching.",
+        "Understanding practitioner perspectives is key to your sales conversations with clinics."
       ],
       "saved": false
     },
@@ -478,46 +691,6 @@
       "whyItMatters": [
         "Practice management insights to help grow your hearing care business.",
         "Directly applicable to your sales strategy and opportunity closure process."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-6jeslb",
-      "type": "article",
-      "title": "Bang & Olufsen Joins €2.9 Million Fund Backing Sound Technology Startups",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/ban-olufsen-funding-soundinvest/",
-      "author": "HHTM",
-      "publishedAt": "2026-10-21T15:13:06.000Z",
-      "readTime": 1,
-      "summary": "STRUER, DENMARK — SoundInvest, the investment company affiliated with Sound Hub Denmark, has announced the first close of its second venture fund, securing €2.9 million (approximately DKK 21 million) in commitments to support early-stage companies developing technologies involving sound, acoustics, and hearing. The new fund, SoundInvest Fund II, includes investments from existing backers Færchfonden and Vald. Birn Holding, alongside new investor ...\nThe post Bang & Olufsen Joins €2.9 Million Fund Backing Sound Technology Startups appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/6jeslb/600/400",
-      "tags": [
-        "Hearing Technologies"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-5roa2l",
-      "type": "article",
-      "title": "Cochlear’s Nucleus Nexa System Earns Spot on TIME’s 2026 Best Inventions List",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/cochlear-nexa-time-invention/",
-      "author": "HHTM",
-      "publishedAt": "2026-10-21T14:57:55.000Z",
-      "readTime": 1,
-      "summary": "LONE TREE, COLORADO — Cochlear Limited announced that its Cochlear Nucleus Nexa System has been named one of TIME’s Best Inventions of 2026, recognizing the cochlear implant platform’s ability to support future technology updates within the implanted device itself. The recognition follows the system’s introduction in 2025, when Cochlear unveiled a new implant architecture designed to extend the potential for ...\nThe post Cochlear’s Nucleus Nexa System Earns Spot on TIME’s 2026 Best Inventions List appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/5roa2l/600/400",
-      "tags": [
-        "Hearing Technologies"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
       ],
       "saved": false
     },
@@ -590,53 +763,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-review-wf3fmt",
-      "type": "article",
-      "title": "Bill to Extend Medicare Benefits for Hearing Reintroduced in House",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/inside-hearing/legislation/bill-to-extend-medicare-benefits-for-hearing-introduced-in-house",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-10-20T19:44:24.000Z",
-      "readTime": 1,
-      "summary": "Introducing the Medicare Dental, Vision, and Hearing Benefit Act renews a legislative push to add hearing aids and exams to traditional Medicare coverage for more than 66 million Americans.",
-      "imageUrl": "https://picsum.photos/seed/wf3fmt/600/400",
-      "tags": [
-        "Legislation",
-        "Medicare & Insurance",
-        "medicare",
-        "original"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Policy changes affect patient access and your practice revenue."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-review-4rix5s",
-      "type": "article",
-      "title": "Cearvol’s Liberté and Wave Earn Double Recognition at 2026 Hearing Technology Innovator Awards",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/otc/cearvols-liberte-and-wave-earn-double-recognition-at-2026-hearing-technology-innovator-awards",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-10-20T19:19:14.000Z",
-      "readTime": 1,
-      "summary": "Cearvol's open-ear Liberté and touchscreen-enabled Wave devices have both been recognized at the 7th annual Hearing Technology Innovator Awards.",
-      "imageUrl": "https://picsum.photos/seed/4rix5s/600/400",
-      "tags": [
-        "Over the Counter",
-        "Cearvol",
-        "HHTM Hearing Technology Innovator Awards",
-        "original"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-tracker-ieszb6",
       "type": "article",
       "title": "What's It Like to Wear Oticon Reveal Hearing Aids? A Personal Perspective",
@@ -653,48 +779,6 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-qo49o9",
-      "type": "article",
-      "title": "Audiology at a Crossroads: New Study Examines Workforce Growth, Retention, and Future Demand",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/audiology-workforce-demand-supply/",
-      "author": "HHTM",
-      "publishedAt": "2026-10-20T14:52:19.000Z",
-      "readTime": 1,
-      "summary": "A new analysis published in Seminars in Hearing raises concerns about the long-term sustainability of the U.S. audiology workforce, finding that the profession has grown substantially more slowly than comparable healthcare disciplines despite an expanding population of people with hearing loss. The study, authored by Victor Bray, PhD, and Amyn M. Amlani, PhD, examines workforce trends spanning more than two ...\nThe post Audiology at a Crossroads: New Study Examines Workforce Growth, Retention, and Future Demand appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/qo49o9/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-sn9ltw",
-      "type": "article",
-      "title": "Lenire Now Included in U.S. ENT Clinical Practice Guidelines",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/press-releases/lenire-now-included-in-u-s-ent-clinical-practice-guidelines",
-      "author": "Staff",
-      "publishedAt": "2026-10-20T14:50:00.000Z",
-      "readTime": 1,
-      "summary": "AAO-HNSF has included Lenire bimodal neuromodulation as a treatment option in the Academy’s new Clinical Practice Guidelines for Tinnitus.",
-      "imageUrl": "https://picsum.photos/seed/sn9ltw/600/400",
-      "tags": [
-        "Press Releases"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Practice management insights to help grow your hearing care business."
       ],
       "saved": false
     },
@@ -746,68 +830,6 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-8ksocb",
-      "type": "article",
-      "title": "Sound Pharma’s SPI-1005 Shows Promising Hearing Results in Phase 3 Analysis",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/sound-pharma-hearing-phase-3/",
-      "author": "HHTM",
-      "publishedAt": "2026-10-19T14:47:23.000Z",
-      "readTime": 1,
-      "summary": "SEATTLE, WASHINGTON — Sound Pharmaceuticals has presented a new analysis of Phase 3 clinical trial data showing significant improvements in hearing thresholds and speech understanding among patients with Ménière’s disease treated with its investigational oral drug, SPI-1005. The findings, presented at the 2026 American Academy of Otolaryngology–Head and Neck Surgery (AAO-HNS) Annual Meeting in Los Angeles, suggest the treatment may ...\nThe post Sound Pharma’s SPI-1005 Shows Promising Hearing Results in Phase 3 Analysis appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/8ksocb/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Practice management insights to help grow your hearing care business.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-agsfbb",
-      "type": "article",
-      "title": "Can Custom Earmolds Help You Hear Better with Hearing Aids?",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/resources/can-custom-earmolds-help-you-hear-better-with-hearing-aids-",
-      "author": "Matthew Allsop",
-      "publishedAt": "2026-10-19T13:50:00.000Z",
-      "readTime": 1,
-      "summary": "Could custom earmolds improve your hearing aids? Audiologist Matthew Allsop explains potential benefits for fit, feedback, hearing in noise, and sound quality.",
-      "imageUrl": "https://picsum.photos/seed/agsfbb/600/400",
-      "tags": [
-        "Resources"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Understanding practitioner perspectives is key to your sales conversations with clinics."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-nruz2m",
-      "type": "article",
-      "title": "Beltone Collects More Than 20,000 Food Items in Third Annual Hear2End Hunger Food Drive",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/press-releases/beltone-collects-more-than-20-000-food-items-in-third-annual-hear2end-hunger-food-drive",
-      "author": "Staff",
-      "publishedAt": "2026-10-19T13:30:00.000Z",
-      "readTime": 1,
-      "summary": "Beltone celebrates a record-breaking year for its third annual Hear2End Hunger Food Drive, collecting 20,640 non-perishable food items for food banks and hunger-relief organizations.",
-      "imageUrl": "https://picsum.photos/seed/nruz2m/600/400",
-      "tags": [
-        "Press Releases"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
       ],
       "saved": false
     },
@@ -865,23 +887,6 @@
       "whyItMatters": [
         "Supports your work in auditory-cognitive training and brain reorganization for hearing.",
         "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-audiology-online-iue5d6",
-      "type": "article",
-      "title": "Phonak launches Roger On Sphere™: the first AI-powered remote microphone to separate speech from noise in real time",
-      "source": "Audiology Online",
-      "sourceUrl": "https://www.audiologyonline.com/releases/29844-phonak-launches-roger-on-sphere",
-      "publishedAt": "2026-10-14T04:00:00.000Z",
-      "readTime": 1,
-      "summary": "Phonak today announced Roger On Sphere™, the world's first remote microphone powered by a deep neural network (DNN) that separates speech from background noise in real time.",
-      "imageUrl": "https://assets-atlas-production.continued.com/ao-assets/content/c29800/c29844/image001.png",
-      "tags": [],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
       ],
       "saved": false
     },
@@ -1078,5 +1083,5 @@
       "saved": false
     }
   ],
-  "fetchedAt": "2026-10-28T12:33:13.490Z"
+  "fetchedAt": "2026-10-29T12:43:53.179Z"
 }
