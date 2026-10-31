@@ -1,6 +1,139 @@
 {
   "items": [
     {
+      "id": "feed-hearing-review-8owjw0",
+      "type": "article",
+      "title": "WSA Investigating Cybersecurity Incident",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/apps/wsa-investigating-cybersecurity-incident",
+      "author": "Melanie Hamilton",
+      "publishedAt": "2026-10-30T21:41:18.000Z",
+      "readTime": 1,
+      "summary": "WSA, the parent company of Signia and Widex, has been responding to a cybersecurity incident reportedly caused by unauthorized access to some of its IT systems.",
+      "imageUrl": "https://picsum.photos/seed/8owjw0/600/400",
+      "tags": [
+        "Apps",
+        "Hearing Aids",
+        "cyberattack",
+        "cybersecurity",
+        "original",
+        "Signia"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-l2a0x9",
+      "type": "article",
+      "title": "Hearing Aid Market Projected to Surpass $13 Billion by 2031, Fueled by AI and Expanding Access to Care",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/hearing-aids-market-projected-to-surpass-13-billion-by-2031-fueled-by-ai-and-expanding-access-to-care",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-10-30T19:57:00.000Z",
+      "readTime": 1,
+      "summary": "A new Mordor Intelligence report projects the global hearing aids market to reach $13.34 billion by 2031, driven by advancements in AI-enabled sound processing, rechargeable technology, and expanding over-the-counter access channels.",
+      "imageUrl": "https://picsum.photos/seed/l2a0x9/600/400",
+      "tags": [
+        "Hearing Aids",
+        "Over the Counter",
+        "Surveys & Statistics",
+        "Hearing aid market",
+        "original"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "OTC market shifts affect how patients discover and purchase hearing solutions."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-6h6zg9",
+      "type": "article",
+      "title": "WS Audiology Investigates Cybersecurity Incident Affecting IT Systems",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/ws-audiology-investigates-cybersecurity-incident-affecting-it-systems",
+      "author": "Karl Strom",
+      "publishedAt": "2026-10-30T14:50:00.000Z",
+      "readTime": 1,
+      "summary": "WS Audiology reports progress in restoring services after a cybersecurity incident. Widex Compass Cloud is back online, with more services expected to return soon.",
+      "imageUrl": "https://picsum.photos/seed/6h6zg9/600/400",
+      "tags": [
+        "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-m2keh9",
+      "type": "article",
+      "title": "Lineage Reports Progress on Cell Therapy Designed to Restore Auditory Nerve Function",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/lineage-cell-therapy-demant-update/",
+      "author": "HHTM",
+      "publishedAt": "2026-10-30T14:43:04.000Z",
+      "readTime": 1,
+      "summary": "CARLSBAD, CALIFORNIA — Lineage Cell Therapeutics announced that its experimental ReSonance (ANP1) cell therapy program for hearing loss has completed the development activities planned for the first year of its research collaboration with William Demant Invest (WDI), allowing the project to advance into its second year. The program is exploring whether transplanted auditory nerve cells could eventually improve hearing outcomes for ...\nThe post Lineage Reports Progress on Cell Therapy Designed to Restore Auditory Nerve Function appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/m2keh9/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes.",
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-rzf42e",
+      "type": "article",
+      "title": "Amplifon Reports 3.6% Organic Growth, Higher Profits in Q3 2026",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/news/amplifon-reports-3-6-organic-growth-higher-q3-profits-in-q3-2026",
+      "author": "Karl Strom",
+      "publishedAt": "2026-10-30T14:07:00.000Z",
+      "readTime": 1,
+      "summary": "Amplifon reports 3.6% organic growth and higher Q3 profits as restructuring weighs on sales and its GN Hearing acquisition moves toward a year-end close.",
+      "imageUrl": "https://picsum.photos/seed/rzf42e/600/400",
+      "tags": [
+        "News"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly applicable to your sales strategy and opportunity closure process.",
+        "Tactical insight for growing patient pipeline and conversion rates."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-nx65d0",
+      "type": "article",
+      "title": "HearUSA Honored at the 2026 TITAN Business Awards for Transforming Patient Care Excellence",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/hearusa-honored-at-the-2026-titan-business-awards-for-transforming-patient-care-excellence",
+      "author": "Staff",
+      "publishedAt": "2026-10-30T12:40:00.000Z",
+      "readTime": 1,
+      "summary": "HearUSA was recognized by the TITAN Business Awards for the Customer Experience-Customer Service Department Team of the Year category.",
+      "imageUrl": "https://picsum.photos/seed/nx65d0/600/400",
+      "tags": [
+        "Press Releases"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Sales enablement best practices to level up your team's closing skills."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-health-matters-mmgror",
       "type": "article",
       "title": "Amplifon Reports Stronger Q3 Earnings as GN Hearing Acquisition Moves Forward",
@@ -517,27 +650,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-fhvd6k",
-      "type": "article",
-      "title": "Gene Therapy and Light-Based Cochlear Implants Show Promise for Hearing Restoration",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/gene-therapy-cochlear-implant-optical/",
-      "author": "HHTM",
-      "publishedAt": "2026-10-25T20:15:11.000Z",
-      "readTime": 1,
-      "summary": "Researchers have demonstrated that experimental light-based cochlear implants can activate auditory neurons with greater frequency selectivity than conventional electrical stimulation, potentially advancing the development of more precise hearing restoration technologies. The findings, published October 22, 2026, in EMBO Molecular Medicine, come from a preclinical study using Mongolian gerbils. The research combined a light-sensitive protein with experimental optical cochlear implants containing ...\nThe post Gene Therapy and Light-Based Cochlear Implants Show Promise for Hearing Restoration appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/fhvd6k/600/400",
-      "tags": [
-        "Hearing Technologies"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-review-mhc9eb",
       "type": "article",
       "title": "International Misophonia Foundation Launches Free, Searchable Research Database",
@@ -611,27 +723,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-tracker-xd86ii",
-      "type": "article",
-      "title": "Medicare Hearing Aid Coverage Gets Another Push from a New Leader",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/medicare-hearing-aid-coverage-gets-another-push-from-a-new-leader",
-      "author": "Karl Strom",
-      "publishedAt": "2026-10-23T13:11:00.000Z",
-      "readTime": 1,
-      "summary": "Rep. Mike Thompson will lead a renewed push for Medicare hearing aid coverage, continuing legislation to add hearing, dental, and vision benefits.",
-      "imageUrl": "https://picsum.photos/seed/xd86ii/600/400",
-      "tags": [
-        "News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Policy changes affect patient access and your practice revenue."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-review-gklors",
       "type": "article",
       "title": "Shoebox PureTest Wins 2026 Hearing Technology Innovator Award for Boothless Occupational Testing",
@@ -657,27 +748,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-tracker-anqthd",
-      "type": "article",
-      "title": "CareCredit Pay Later: Another Way to Plan and Pay for Hearing Care",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/press-releases/carecredit-introduces-carecredit-pay-later",
-      "author": "Staff",
-      "publishedAt": "2026-10-23T12:20:00.000Z",
-      "readTime": 1,
-      "summary": "CareCredit introduces Pay Later installment loans with fixed monthly payments and a defined payoff timeline, available at select audiology providers.",
-      "imageUrl": "https://picsum.photos/seed/anqthd/600/400",
-      "tags": [
-        "Press Releases"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Addresses common patient objections — useful for your sales conversations and team coaching.",
-        "Understanding practitioner perspectives is key to your sales conversations with clinics."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-online-mwueh2",
       "type": "article",
       "title": "Creating Impact Beyond the Game: Starkey and Minnesota Timberwolves Continue Partnership",
@@ -691,51 +761,6 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-2mqx3h",
-      "type": "article",
-      "title": "Starkey Named a 2026 Inc. Power Partner for Excellence in Customer Success",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/press-releases/starkey-named-a-2026-inc-power-partner-for-excellence-in-customer-success",
-      "author": "Staff",
-      "publishedAt": "2026-10-22T19:10:00.000Z",
-      "readTime": 1,
-      "summary": "Starkey earns a 2026 Inc. Power Partner award for the second consecutive year, recognizing its service and support for hearing professionals.",
-      "imageUrl": "https://picsum.photos/seed/2mqx3h/600/400",
-      "tags": [
-        "Press Releases"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-review-k49xwd",
-      "type": "article",
-      "title": "CareCredit Launches CareCredit Pay Later, Expanding Payment Options for Audiology Providers",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/practice-building/marketing/financial-services/carecredit-launches-carecredit-pay-later-expanding-payment-options-for-audiology-providers",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-10-22T11:35:00.000Z",
-      "readTime": 1,
-      "summary": "CareCredit has introduced \"CareCredit Pay Later,\" a fixed-APR installment loan product that gives audiology patients a defined-payoff alternative to revolving credit.",
-      "imageUrl": "https://picsum.photos/seed/k49xwd/600/400",
-      "tags": [
-        "Financial Services",
-        "CareCredit",
-        "CareCredit Pay Later",
-        "original",
-        "synchrony"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Addresses common patient objections — useful for your sales conversations and team coaching.",
-        "Understanding practitioner perspectives is key to your sales conversations with clinics."
       ],
       "saved": false
     },
@@ -771,32 +796,6 @@
       "whyItMatters": [
         "Directly applicable to your sales strategy and opportunity closure process.",
         "Tactical insight for growing patient pipeline and conversion rates."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-review-qc5y4g",
-      "type": "article",
-      "title": "MVP Launches Beta of ChatMVP, an AI Business Analyst Built for Hearing Care Practices",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/practice-building/practice-management/mvp-launches-beta-of-chatmvp-an-ai-business-analyst-built-for-hearing-care-practices",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-10-21T19:20:50.000Z",
-      "readTime": 1,
-      "summary": "MVP's ChatMVP is an AI-powered business analyst that allows hearing care practice owners and managers to query their performance data using plain language.",
-      "imageUrl": "https://picsum.photos/seed/qc5y4g/600/400",
-      "tags": [
-        "Growth Strategies",
-        "Office Management Systems",
-        "Practice Management",
-        "AI software",
-        "My Vitals Pro",
-        "original"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Practice management insights to help grow your hearing care business.",
-        "Directly applicable to your sales strategy and opportunity closure process."
       ],
       "saved": false
     },
@@ -1084,5 +1083,5 @@
       "saved": false
     }
   ],
-  "fetchedAt": "2026-10-30T12:35:40.928Z"
+  "fetchedAt": "2026-10-31T12:02:38.276Z"
 }
