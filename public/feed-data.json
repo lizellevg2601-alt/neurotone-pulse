@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "feed-hearing-health-matters-k4jhsr",
+      "type": "article",
+      "title": "Tinnitus Holds a Unique Place in Medicine: Rethinking Patient Care",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/tinnitus-education-corner/2026/tinnitus-medicine-unique/",
+      "author": "HHTM",
+      "publishedAt": "2026-11-01T22:56:54.000Z",
+      "readTime": 1,
+      "summary": "By Dr. Jennifer J. Gans Tinnitus holds a unique place in medicine. It is a very credible complaint. The person in front of you is hearing a real sound, and many are frightened by it. And yet, when you go looking for something broken, you usually don’t find it. That is the puzzle I want to talk about with my ...\nThe post Tinnitus Holds a Unique Place in Medicine: Rethinking Patient Care appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/k4jhsr/600/400",
+      "tags": [
+        "Tinnitus Education Corner with Dr. Jennifer Gans"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-review-8owjw0",
       "type": "article",
       "title": "WSA Investigating Cybersecurity Incident",
@@ -563,27 +584,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-c55k83",
-      "type": "article",
-      "title": "Audiologist Wages Fall Short of Doctoral-Level Healthcare Peers, Study Finds",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/audiology-salary-less-than-peers/",
-      "author": "HHTM",
-      "publishedAt": "2026-10-27T02:41:26.000Z",
-      "readTime": 1,
-      "summary": "A new analysis of U.S. healthcare wages suggests that audiologists continue to earn substantially less than many other doctoral-level healthcare professionals, despite the profession’s transition to doctoral-level entry requirements nearly two decades ago. Published October 6, 2026, in Seminars in Hearing, the study by Victor Bray, PhD, and Amyn M. Amlani, PhD examined 25 years of federal wage data to ...\nThe post Audiologist Wages Fall Short of Doctoral-Level Healthcare Peers, Study Finds appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/c55k83/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Understanding practitioner perspectives is key to your sales conversations with clinics.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-tracker-x6ioch",
       "type": "article",
       "title": "Ontario Moves Toward OTC Hearing Aids, but Launch Date Remains Unset",
@@ -1083,5 +1083,5 @@
       "saved": false
     }
   ],
-  "fetchedAt": "2026-11-01T13:02:36.313Z"
+  "fetchedAt": "2026-11-02T15:26:13.922Z"
 }
