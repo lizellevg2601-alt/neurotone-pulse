@@ -1,6 +1,53 @@
 {
   "items": [
     {
+      "id": "feed-hearing-health-matters-by8hqk",
+      "type": "article",
+      "title": "Patient Empowerment: Going Beyond “Do You Like Your Hearing Aids?”",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hear-in-private-practice/2026/do-you-like-your-hearing-aid/",
+      "author": "HHTM",
+      "publishedAt": "2026-11-04T03:04:44.000Z",
+      "readTime": 1,
+      "summary": "Editor’s note: Ear to the Ground is a monthly column from Dr. Brian Taylor, offering timely reflections on research, technology, clinical practice, and emerging trends in hearing care. You can read last month’s column here. The NASEM Meaningful Outcome Report identifies which patient-related outcomes to measure but offers limited guidance on how to improve them. One way to improve those ...\nThe post Patient Empowerment: Going Beyond “Do You Like Your Hearing Aids?” appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/by8hqk/600/400",
+      "tags": [
+        "Hear In Private Practice"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-ue7d9l",
+      "type": "article",
+      "title": "Financing the Newest Hearing Aids",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/practice-building/marketing/financial-services/financing-the-newest-hearing-aids",
+      "author": "Melanie Hamilton",
+      "publishedAt": "2026-11-03T19:29:04.000Z",
+      "readTime": 1,
+      "summary": "AI-enhanced hearing technology is exciting. Helping patients take it home can be, too.",
+      "imageUrl": "https://picsum.photos/seed/ue7d9l/600/400",
+      "tags": [
+        "Financial Services",
+        "Hearing Aids",
+        "AI hearing aids",
+        "CareCredit",
+        "CareCredit credit card",
+        "original"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Pricing and affordability strategies that affect deal velocity and close rates."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-phonak-blog-gw3kxs",
       "type": "article",
       "title": "AutoSense OS AI 8.0: How AI supports a more natural listening experience",
@@ -677,27 +724,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-5qjnkf",
-      "type": "article",
-      "title": "HearUSA Earns TITAN Business Award for Customer Service and Patient Support",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/hearusa-earns-titan-award/",
-      "author": "HHTM",
-      "publishedAt": "2026-10-29T12:43:04.000Z",
-      "readTime": 1,
-      "summary": "TAMPA, FLORIDA – HearUSA has been recognized in the Customer Experience – Customer Service Department Team of the Year category at the 2026 TITAN Business Awards, an international competition honoring achievements in business, leadership, innovation, and customer experience. The recognition, presented by the International Awards Associate (IAA), highlights the company’s Patient Care team and its efforts to improve patient support, ...\nThe post HearUSA Earns TITAN Business Award for Customer Service and Patient Support appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/5qjnkf/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly applicable to your sales strategy and opportunity closure process.",
-        "Tactical insight for growing patient pipeline and conversion rates."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-online-h8gx51",
       "type": "article",
       "title": "Cochlear Nucleus Nexa System Named One of TIME’s Best Inventions of 2026",
@@ -728,32 +754,6 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-review-3ksz72",
-      "type": "article",
-      "title": "Inside the AI Engines Powering 2026’s Premium Hearing Aids",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/inside-the-ai-engines-powering-2026s-premium-hearing-aids",
-      "author": "Melanie Hamilton",
-      "publishedAt": "2026-10-28T18:45:58.000Z",
-      "readTime": 1,
-      "summary": "This feature article looks at every major premium hearing aid brand's new AI-powered devices and platforms, and the distinct technological philosophies behind them.",
-      "imageUrl": "https://picsum.photos/seed/3ksz72/600/400",
-      "tags": [
-        "Hearing Aids",
-        "AI hearing aids",
-        "Melanie Hamilton-Basich",
-        "original",
-        "original article",
-        "Oticon"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Patient acquisition strategies to inform your go-to-market approach."
       ],
       "saved": false
     },
@@ -1082,5 +1082,5 @@
       "saved": false
     }
   ],
-  "fetchedAt": "2026-11-03T13:58:26.986Z"
+  "fetchedAt": "2026-11-04T14:12:32.083Z"
 }
