@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "feed-hearing-health-matters-x8b8cj",
+      "type": "article",
+      "title": "Large Study Finds Association Between Hearing Difficulties and Retinal Thinning",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/eye-health-hearing-health-retina/",
+      "author": "HHTM",
+      "publishedAt": "2026-11-07T17:16:21.000Z",
+      "readTime": 1,
+      "summary": "New research suggests that hearing difficulties may be associated with subtle structural changes in the eye, offering additional evidence of possible biological connections between auditory and visual health. A large study involving more than 32,000 adults has identified an association between poorer hearing performance and thinning of certain layers of the retina, the light-sensitive tissue at the back of the ...\nThe post Large Study Finds Association Between Hearing Difficulties and Retinal Thinning appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/x8b8cj/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-review-6a10rc",
       "type": "article",
       "title": "Amplifon Receives European Commission Approval for GN Hearing Acquisition",
@@ -610,27 +631,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-oy8hwn",
-      "type": "article",
-      "title": "GN Expands VA Hearing Aid Options with ReSound Sensia and Bimodal Solutions",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/resound-sensia-va-bimodal/",
-      "author": "HHTM",
-      "publishedAt": "2026-11-02T16:06:58.000Z",
-      "readTime": 1,
-      "summary": "SHAKOPEE, MINNESOTA — GN has announced that its ReSound Sensia hearing aid portfolio is now available to eligible U.S. veterans through Department of Veterans Affairs (VA) audiology clinics and participating care facilities nationwide, expanding access to the company’s latest artificial intelligence-based hearing technology. Originally introduced in the United States in August 2026, ReSound Sensia incorporates GN’s new AI processing platform, designed ...\nThe post GN Expands VA Hearing Aid Options with ReSound Sensia and Bimodal Solutions appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/oy8hwn/600/400",
-      "tags": [
-        "Hearing Technologies"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-tracker-szeblr",
       "type": "article",
       "title": "Signia Pure C&G MaX Now Available to VA Audiologists",
@@ -1086,5 +1086,5 @@
       "saved": false
     }
   ],
-  "fetchedAt": "2026-11-07T12:47:53.234Z"
+  "fetchedAt": "2026-11-08T13:07:52.706Z"
 }
