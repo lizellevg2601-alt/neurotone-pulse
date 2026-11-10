@@ -1,6 +1,111 @@
 {
   "items": [
     {
+      "id": "feed-hearing-tracker-lofl4d",
+      "type": "article",
+      "title": "Starkey's Omega AI+ Earns CES 2027 Innovation Award for Breakthrough Hearing Innovation",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/starkey-s-omega-ai-earns-ces-2027-innovation-award-for-breakthrough-hearing-innovation",
+      "author": "Staff",
+      "publishedAt": "2026-11-09T21:18:00.000Z",
+      "readTime": 1,
+      "summary": "Starkey’s Omega AI+ hearing aids earn CES 2027 Innovation Awards recognition in the Accessibility & Longevity category for design and engineering.",
+      "imageUrl": "https://picsum.photos/seed/lofl4d/600/400",
+      "tags": [
+        "Press Releases"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-3me90m",
+      "type": "article",
+      "title": "One Hearing Aid or Two? My Takeaways From a New Clinical Trial",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/resources/one-hearing-aid-or-two-my-takeaways-from-a-new-clinical-trial",
+      "author": "Shari Eberts",
+      "publishedAt": "2026-11-09T20:50:00.000Z",
+      "readTime": 1,
+      "summary": "One hearing aid or two? Shari Eberts explains research findings about how hearing benefits and preferences can shape the decision between binaural or monaural hearing aids.",
+      "imageUrl": "https://picsum.photos/seed/3me90m/600/400",
+      "tags": [
+        "Resources"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-qkezun",
+      "type": "article",
+      "title": "Starkey’s Omega AI+ Named CES 2027 Innovation Awards Honoree",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/starkeys-omega-ai-named-ces-2027-innovation-awards-honoree",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-11-09T19:47:52.000Z",
+      "readTime": 1,
+      "summary": "Starkey's Omega AI+ hearing platform has been named a CES 2027 Innovation Awards Honoree in the Accessibility & Longevity category for its advanced AI and wellness features.",
+      "imageUrl": "https://picsum.photos/seed/qkezun/600/400",
+      "tags": [
+        "Hearing Aids",
+        "Industry News",
+        "AI hearing aids",
+        "CES",
+        "CES 2027",
+        "CES Innovation Award"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-3zpnez",
+      "type": "article",
+      "title": "Cilcare and Sonup Announce Partnership to Expand Hearing Research Capabilities",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/cilcare-sonup-partnership/",
+      "author": "HHTM",
+      "publishedAt": "2026-11-09T16:16:24.000Z",
+      "readTime": 1,
+      "summary": "MONTPELLIER, FRANCE — French hearing research company Cilcare has announced a strategic partnership with Sonup, a developer of digital hearing assessment technologies, aimed at improving how auditory data are collected, monitored, and analyzed in clinical research. The collaboration will combine Sonup’s remote hearing assessment capabilities with Cilcare’s expertise in auditory neuroscience, therapeutic development, and clinical data analysis. The companies intend ...\nThe post Cilcare and Sonup Announce Partnership to Expand Hearing Research Capabilities appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/3zpnez/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-online-rbg9kp",
+      "type": "article",
+      "title": "Starkey's Omega AI+ Earns CES 2027 Innovation Award® for Breakthrough Hearing Innovation",
+      "source": "Audiology Online",
+      "sourceUrl": "https://www.audiologyonline.com/releases/29886-starkey-s-omega-ai-earns",
+      "publishedAt": "2026-11-09T05:00:00.000Z",
+      "readTime": 1,
+      "summary": "Starkey today announced that Omega AI+ has been named a CES 2027 Innovation Awards® Honoree in the Accessibility & Longevity category.",
+      "imageUrl": "https://assets-atlas-production.continued.com/ao-assets/content/c29800/c29886/cesannouncementsocialpost-nov261.jpg",
+      "tags": [],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Trending topic in hearing care — stay informed on latest developments."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-health-matters-x8b8cj",
       "type": "article",
       "title": "Large Study Finds Association Between Hearing Difficulties and Retinal Thinning",
@@ -446,27 +551,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-cyldan",
-      "type": "article",
-      "title": "Phonak Brings EON Hearing Aid Portfolio to Veterans and Active-Duty Military",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/phonak-eon-veterans/",
-      "author": "HHTM",
-      "publishedAt": "2026-11-03T00:55:00.000Z",
-      "readTime": 1,
-      "summary": "STÄFA, SWITZERLAND — Phonak has announced that its EON hearing aid portfolio is now available through the U.S. Department of Veterans Affairs (VA) and Department of Defense (DOD), expanding access to the company’s latest hearing technology for eligible veterans and active-duty military personnel. The EON platform incorporates Phonak’s newest artificial intelligence-based sound processing technology, including Spheric Speech Clarity 3.0 and ...\nThe post Phonak Brings EON Hearing Aid Portfolio to Veterans and Active-Duty Military appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/cyldan/600/400",
-      "tags": [
-        "Hearing Technologies"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-review-wdmdjt",
       "type": "article",
       "title": "Oticon Reveal Now Available on VA Contract, Bringing Dual AI Technology to Veterans",
@@ -631,27 +715,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-tracker-szeblr",
-      "type": "article",
-      "title": "Signia Pure C&G MaX Now Available to VA Audiologists",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/press-releases/signia-pure-c-g-max-now-available-to-va-audiologists",
-      "author": "Staff",
-      "publishedAt": "2026-11-02T16:03:00.000Z",
-      "readTime": 1,
-      "summary": "Signia Pure Charge&Go MaX and Active Mini IX hearing aids are now available through the VA, DoD, and IHS, expanding options for government hearing care.",
-      "imageUrl": "https://picsum.photos/seed/szeblr/600/400",
-      "tags": [
-        "Press Releases"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Understanding practitioner perspectives is key to your sales conversations with clinics."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-online-d9dgw",
       "type": "article",
       "title": "Oticon Reveal™ Brings Veterans Closer to a More Natural Listening Experience with Dual AI",
@@ -718,52 +781,6 @@
       "whyItMatters": [
         "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
         "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-review-8owjw0",
-      "type": "article",
-      "title": "WSA Investigating Cybersecurity Incident",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/apps/wsa-investigating-cybersecurity-incident",
-      "author": "Melanie Hamilton",
-      "publishedAt": "2026-10-30T21:41:18.000Z",
-      "readTime": 1,
-      "summary": "WSA, the parent company of Signia and Widex, has been responding to a cybersecurity incident reportedly caused by unauthorized access to some of its IT systems. Nov. 4, they issued an update on the situation.",
-      "imageUrl": "https://picsum.photos/seed/8owjw0/600/400",
-      "tags": [
-        "Apps",
-        "Hearing Aids",
-        "cyberattack",
-        "cybersecurity",
-        "original",
-        "Signia"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-6h6zg9",
-      "type": "article",
-      "title": "WS Audiology Investigates Cybersecurity Incident Affecting IT Systems",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/ws-audiology-investigates-cybersecurity-incident-affecting-it-systems",
-      "author": "Karl Strom",
-      "publishedAt": "2026-10-30T14:50:00.000Z",
-      "readTime": 1,
-      "summary": "WS Audiology reports progress in restoring services after a cybersecurity incident. Widex Compass Cloud is back online, with more services expected to return soon.",
-      "imageUrl": "https://picsum.photos/seed/6h6zg9/600/400",
-      "tags": [
-        "News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
       ],
       "saved": false
     },
@@ -875,24 +892,6 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-audiology-online-ijx2mv",
-      "type": "article",
-      "title": "Starkey Named a 2026 Inc. Power Partner for Excellence in Customer Success for Second Consecutive Year",
-      "source": "Audiology Online",
-      "sourceUrl": "https://www.audiologyonline.com/releases/29858-starkey-named-2026-inc-power",
-      "publishedAt": "2026-10-22T04:00:00.000Z",
-      "readTime": 1,
-      "summary": "Starkey, a global leader in brain-inspired hearing technology and innovation, today announced it has been named a 2026 Inc. Power Partner.",
-      "imageUrl": "https://assets-atlas-production.continued.com/ao-assets/content/c29800/c29858/powerpartnersocialimage-oct26f.jpg",
-      "tags": [],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly applicable to your sales strategy and opportunity closure process.",
-        "Tactical insight for growing patient pipeline and conversion rates."
       ],
       "saved": false
     },
@@ -1086,5 +1085,5 @@
       "saved": false
     }
   ],
-  "fetchedAt": "2026-11-09T15:52:25.035Z"
+  "fetchedAt": "2026-11-10T14:41:55.359Z"
 }
