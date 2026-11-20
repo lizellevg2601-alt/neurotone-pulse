@@ -1,6 +1,116 @@
 {
   "items": [
     {
+      "id": "feed-hearing-tracker-2sg58q",
+      "type": "article",
+      "title": "Sonova Wholesale Raises Outlook as Hearing Aid Sales Rise 11%",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/sonova-wholesale-raises-outlook-as-hearing-aid-sales-rise-11-",
+      "author": "Karl Strom",
+      "publishedAt": "2026-11-20T14:37:08.000Z",
+      "readTime": 1,
+      "summary": "Sonova raised its 2026/27 outlook after wholesale hearing aid sales rose 11%, helped by Phonak Virto R and Infinio Ultra, with EON contributing late in the half.",
+      "imageUrl": "https://picsum.photos/seed/2sg58q/600/400",
+      "tags": [
+        "Press Releases"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Directly applicable to your sales strategy and opportunity closure process."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-ab7m4y",
+      "type": "article",
+      "title": "WSA Posts 2% Organic Growth as U.S. Managed Care Contract Loss Clouds Outlook",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/wsa-posts-2-organic-growth-as-u-s-managed-care-contract-loss-clouds-outlook",
+      "author": "Karl Strom",
+      "publishedAt": "2026-11-20T13:00:00.000Z",
+      "readTime": 1,
+      "summary": "WS Audiology posted 2% organic revenue growth and a higher margin in 2025/26, but the loss of a major U.S. managed care contract weighs on its outlook.",
+      "imageUrl": "https://picsum.photos/seed/ab7m4y/600/400",
+      "tags": [
+        "Press Releases"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Practice management insights to help grow your hearing care business.",
+        "Directly applicable to your sales strategy and opportunity closure process."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-dtmyih",
+      "type": "article",
+      "title": "Auditdata Partners with Neurotone AI: Lace Pro Integrated with Manage PMS",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/auditdata-partners-with-neurotone-ai-lace-pro-integrated-with-managetm-pms",
+      "author": "Staff",
+      "publishedAt": "2026-11-20T12:50:00.000Z",
+      "readTime": 1,
+      "summary": "Auditdata integrates Neurotone AI’s Lace Pro auditory training into its Manage software, giving clinics the option to offer it at new hearing aid fittings.",
+      "imageUrl": "https://picsum.photos/seed/dtmyih/600/400",
+      "tags": [
+        "Press Releases"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes.",
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-tracker-cgpk9j",
+      "type": "article",
+      "title": "MDHearing Gives Every Customer a Personal Hearing Coach with Tuned",
+      "source": "Hearing Tracker",
+      "sourceUrl": "https://www.hearingtracker.com/press-releases/mdhearing-gives-every-customer-a-personal-hearing-coach-with-tuned",
+      "author": "Staff",
+      "publishedAt": "2026-11-20T12:20:00.000Z",
+      "readTime": 1,
+      "summary": "MDHearing and Tuned launch MD Coach, an AI-powered app that helps OTC hearing aid users get started, troubleshoot problems, and connect with hearing professionals.",
+      "imageUrl": "https://picsum.photos/seed/cgpk9j/600/400",
+      "tags": [
+        "Press Releases"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-jusgzg",
+      "type": "article",
+      "title": "MDHearing Launches AI-Powered MD Coach App in Partnership with Tuned",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/apps/mdhearing-launches-ai-powered-md-coach-app-in-partnership-with-tuned",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-11-19T19:16:21.000Z",
+      "readTime": 1,
+      "summary": "MDHearing has partnered with hearing-care technology company Tuned to launch MD Coach, an AI-powered companion app designed to improve OTC hearing aid onboarding and reduce early device adoption drop-off. The platform provides access to licensed professionals when human intervention is needed.",
+      "imageUrl": "https://picsum.photos/seed/jusgzg/600/400",
+      "tags": [
+        "Apps",
+        "Over the Counter",
+        "auditory training",
+        "MDHearing",
+        "original",
+        "Tuned"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes.",
+        "Relevant to your core patient population and treatment pathways."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-health-matters-ipgev4",
       "type": "article",
       "title": "MDHearing Launches AI Hearing Coach to Help Users Adjust to Hearing Aids",
@@ -643,29 +753,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-review-wwj2y2",
-      "type": "article",
-      "title": "Vybronics Introduces 4mm Coin LRA Claimed as Smallest-Diameter Haptic Motor on the Market",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/hearing-products/accessories/components/vybronics-introduces-4mm-coin-lra-claimed-as-smallest-diameter-haptic-motor-on-the-market",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-11-12T14:39:00.000Z",
-      "readTime": 1,
-      "summary": "Vybronics has launched the VG0415001W-240H to provide crisp haptic feedback for ultra-compact hearables.",
-      "imageUrl": "https://picsum.photos/seed/wwj2y2/600/400",
-      "tags": [
-        "Components",
-        "hearables",
-        "original",
-        "Vybronics"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-online-snrutr",
       "type": "article",
       "title": "ReSound Gift of Hearing begins November 17",
@@ -746,47 +833,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-tracker-lofl4d",
-      "type": "article",
-      "title": "Starkey's Omega AI+ Earns CES 2027 Innovation Award for Breakthrough Hearing Innovation",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/press-releases/starkey-s-omega-ai-earns-ces-2027-innovation-award-for-breakthrough-hearing-innovation",
-      "author": "Staff",
-      "publishedAt": "2026-11-09T21:18:00.000Z",
-      "readTime": 1,
-      "summary": "Starkey’s Omega AI+ hearing aids earn CES 2027 Innovation Awards recognition in the Accessibility & Longevity category for design and engineering.",
-      "imageUrl": "https://picsum.photos/seed/lofl4d/600/400",
-      "tags": [
-        "Press Releases"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-3me90m",
-      "type": "article",
-      "title": "One Hearing Aid or Two? My Takeaways From a New Clinical Trial",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/resources/one-hearing-aid-or-two-my-takeaways-from-a-new-clinical-trial",
-      "author": "Shari Eberts",
-      "publishedAt": "2026-11-09T20:50:00.000Z",
-      "readTime": 1,
-      "summary": "One hearing aid or two? Shari Eberts explains research findings about how hearing benefits and preferences can shape the decision between binaural or monaural hearing aids.",
-      "imageUrl": "https://picsum.photos/seed/3me90m/600/400",
-      "tags": [
-        "Resources"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Practice management insights to help grow your hearing care business."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-online-rbg9kp",
       "type": "article",
       "title": "Starkey's Omega AI+ Earns CES 2027 Innovation Award® for Breakthrough Hearing Innovation",
@@ -800,47 +846,6 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Trending topic in hearing care — stay informed on latest developments."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-wa02m8",
-      "type": "article",
-      "title": "Beltone Launches Fourth Annual Hear for the Holidays Giveaway",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/press-releases/beltone-launches-fourth-annual-hear-for-the-holidays-giveaway",
-      "author": "Staff",
-      "publishedAt": "2026-11-06T12:50:00.000Z",
-      "readTime": 1,
-      "summary": "Nationwide initiative invites individuals and families to nominate someone experiencing hearing loss for the opportunity to reconnect with the people and moments that matter most.",
-      "imageUrl": "https://picsum.photos/seed/wa02m8/600/400",
-      "tags": [
-        "Press Releases"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-tracker-u2gwuv",
-      "type": "article",
-      "title": "GN Hearing Posts 5% Growth as Amplifon Sale Nears Completion",
-      "source": "Hearing Tracker",
-      "sourceUrl": "https://www.hearingtracker.com/news/gn-hearing-posts-5-growth-as-amplifon-sale-nears-completion",
-      "author": "Karl Strom",
-      "publishedAt": "2026-11-06T12:44:04.000Z",
-      "readTime": 1,
-      "summary": "ReSound Sensia helps lift third-quarter sales as GN’s hearing healthcare business reports higher adjusted earnings and prepares for a year-end ownership change.",
-      "imageUrl": "https://picsum.photos/seed/u2gwuv/600/400",
-      "tags": [
-        "News"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly applicable to your sales strategy and opportunity closure process.",
-        "Tactical insight for growing patient pipeline and conversion rates."
       ],
       "saved": false
     },
@@ -1087,5 +1092,5 @@
       "saved": false
     }
   ],
-  "fetchedAt": "2026-11-19T15:35:06.527Z"
+  "fetchedAt": "2026-11-20T15:14:30.153Z"
 }
