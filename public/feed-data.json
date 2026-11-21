@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "id": "feed-hearing-health-matters-hyp4aw",
+      "type": "article",
+      "title": "Researchers Find Higher Odds of Hearing Loss Among Adults Reporting Headaches",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/hearing-loss-headaches/",
+      "author": "HHTM",
+      "publishedAt": "2026-11-20T15:33:51.000Z",
+      "readTime": 1,
+      "summary": "A new study involving large population datasets from China and South Korea has identified an association between self-reported headaches and poorer hearing in middle-aged and older adults. The findings suggest that people reporting headaches may be more likely to experience hearing difficulties, although researchers caution that the results do not establish a cause-and-effect relationship. Published in BMC Public Health, the ...\nThe post Researchers Find Higher Odds of Hearing Loss Among Adults Reporting Headaches appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/hyp4aw/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-tracker-2sg58q",
       "type": "article",
       "title": "Sonova Wholesale Raises Outlook as Hearing Aid Sales Rise 11%",
@@ -607,27 +628,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-ktzh2j",
-      "type": "article",
-      "title": "Widex Allure AI RIC Now Available Nationwide Through HearUSA",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/hearusa-widex-allure-ai/",
-      "author": "HHTM",
-      "publishedAt": "2026-11-16T10:38:24.000Z",
-      "readTime": 1,
-      "summary": "TAMPA, FLORIDA — HearUSA has announced the nationwide availability of the Widex Allure AI RIC hearing aid across its hearing care network, expanding patient access to technology that combines Widex’s natural sound processing with user-activated artificial intelligence (AI) support for challenging listening environments. Developed by Widex, part of WS Audiology, the Allure AI RIC is designed to help wearers maintain ...\nThe post Widex Allure AI RIC Now Available Nationwide Through HearUSA appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/ktzh2j/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-audiology-online-e251f4",
       "type": "article",
       "title": "Auditdata Partners with Neurotone AI, Incorporates Lace Pro Auditory Training Program into Manage™ PMS",
@@ -1092,5 +1092,5 @@
       "saved": false
     }
   ],
-  "fetchedAt": "2026-11-20T15:14:30.153Z"
+  "fetchedAt": "2026-11-21T14:29:50.132Z"
 }
