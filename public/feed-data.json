@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "id": "feed-hearing-health-matters-8pm2ad",
+      "type": "article",
+      "title": "Vue Expands Auracast Rollout Following Positive Feedback From Hearing Aid Users",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/vue-auracast-expansion/",
+      "author": "HHTM",
+      "publishedAt": "2026-11-23T15:52:25.000Z",
+      "readTime": 1,
+      "summary": "Vue Entertainment is expanding its rollout of Auracast-enabled assistive listening technology across cinemas in the UK and Ireland, with plans to equip more than half of its locations by the end of 2026 and complete the rollout by the end of 2027. The company says 20 cinemas, representing approximately 200 screens, are currently equipped with the Auri system, which uses ...\nThe post Vue Expands Auracast Rollout Following Positive Feedback From Hearing Aid Users appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/8pm2ad/600/400",
+      "tags": [
+        "Hearing Technologies"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-health-matters-speyzk",
+      "type": "article",
+      "title": "New Study Challenges Longstanding Understanding of How the Inner Ear Processes Sound",
+      "source": "Hearing Health Matters",
+      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/inner-ear-sound-processing-study/",
+      "author": "HHTM",
+      "publishedAt": "2026-11-23T15:36:54.000Z",
+      "readTime": 1,
+      "summary": "Researchers from Oregon Health & Science University (OHSU) and collaborating institutions have uncovered new evidence that challenges a longstanding explanation of how the inner ear processes sound. The findings, published in Science Advances, suggest that low-frequency sounds may produce coordinated vibrations across multiple regions of the cochlea rather than being confined to a single location. The discovery adds to scientists’ ...\nThe post New Study Challenges Longstanding Understanding of How the Inner Ear Processes Sound appeared first on Hearing Health & Technology Matters.",
+      "imageUrl": "https://picsum.photos/seed/speyzk/600/400",
+      "tags": [
+        "Hearing News Watch"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-health-matters-hyp4aw",
       "type": "article",
       "title": "Researchers Find Higher Odds of Hearing Loss Among Adults Reporting Headaches",
@@ -566,27 +607,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-health-matters-ahx105",
-      "type": "article",
-      "title": "Cilcare Expands Hearing Loss Drug Pipeline with Two New Sanofi Agreements",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-news-watch/2026/cilcare-sanofi-agreements/",
-      "author": "HHTM",
-      "publishedAt": "2026-11-16T16:37:48.000Z",
-      "readTime": 1,
-      "summary": "MONTPELLIER, FRANCE — Hearing therapeutics company Cilcare has announced two exclusive licensing agreements with pharmaceutical company Sanofi covering investigational drug candidates targeting different biological mechanisms associated with hearing loss. The agreements cover CIL005, a program targeting inflammation in the cochlea, and CIL006, which targets oxidative stress, with an initial focus on a rare hearing disorder. Both programs will undergo further ...\nThe post Cilcare Expands Hearing Loss Drug Pipeline with Two New Sanofi Agreements appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/ahx105/600/400",
-      "tags": [
-        "Hearing News Watch"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Directly applicable to your sales strategy and opportunity closure process."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-tracker-z52jr5",
       "type": "article",
       "title": "HearUSA Adds Widex Allure AI RIC to Product Offerings",
@@ -603,27 +623,6 @@
       "relevanceScore": 50,
       "whyItMatters": [
         "Directly relevant to brain-based tinnitus therapy approaches your patients ask about."
-      ],
-      "saved": false
-    },
-    {
-      "id": "feed-hearing-health-matters-gih7iu",
-      "type": "article",
-      "title": "Neurotone AI’s Lace Pro Auditory Training Now Integrated with Auditdata Manage",
-      "source": "Hearing Health Matters",
-      "sourceUrl": "https://hearinghealthmatters.org/hearing-technologies/2026/lace-ai-pro-auditdata-manage/",
-      "author": "HHTM",
-      "publishedAt": "2026-11-16T13:24:55.000Z",
-      "readTime": 1,
-      "summary": "Auditdata has announced a partnership with Neurotone AI to integrate the Lace Pro auditory training program into its Manage practice management system, allowing hearing care professionals to incorporate auditory training more easily into routine clinical workflows. The integration connects Neurotone AI’s digital auditory training platform with Auditdata’s audiology-specific practice management software, enabling clinics to provision Lace Pro licenses directly through ...\nThe post Neurotone AI’s Lace Pro Auditory Training Now Integrated with Auditdata Manage appeared first on Hearing Health & Technology Matters.",
-      "imageUrl": "https://picsum.photos/seed/gih7iu/600/400",
-      "tags": [
-        "Hearing Technologies"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes.",
-        "Practice management insights to help grow your hearing care business."
       ],
       "saved": false
     },
@@ -1092,5 +1091,5 @@
       "saved": false
     }
   ],
-  "fetchedAt": "2026-11-22T14:25:34.674Z"
+  "fetchedAt": "2026-11-23T17:51:27.625Z"
 }
