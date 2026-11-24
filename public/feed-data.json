@@ -1,6 +1,75 @@
 {
   "items": [
     {
+      "id": "feed-phonak-blog-e6gy3m",
+      "type": "article",
+      "title": "What the audiogram doesn’t tell us",
+      "source": "Phonak Audiology Blog",
+      "sourceUrl": "https://audiologyblog.phonakpro.com/what-the-audiogram-doesnt-tell-us/",
+      "author": "Viji Easwar",
+      "publishedAt": "2026-11-24T10:57:46.000Z",
+      "readTime": 1,
+      "summary": "Why do children with similar mild hearing losses sometimes have very different listening experiences?\nThe post What the audiogram doesn’t tell us appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
+      "imageUrl": "https://picsum.photos/seed/e6gy3m/600/400",
+      "tags": [
+        "Evidence",
+        "Pediatrics",
+        "audiology",
+        "best practice",
+        "Hearing care",
+        "hearing loss"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Relevant to your core patient population and treatment pathways.",
+        "Practice management insights to help grow your hearing care business."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-audiology-online-i5gdq2",
+      "type": "article",
+      "title": "Starkey's Brandon Sawalich Named Executive of the Year Following Record Growth and Breakthrough Innovation",
+      "source": "Audiology Online",
+      "sourceUrl": "https://www.audiologyonline.com/releases/29895-starkey-s-brandon-sawalich-named-29895",
+      "publishedAt": "2026-11-24T05:00:00.000Z",
+      "readTime": 1,
+      "summary": "Brandon Sawalich, President and CEO of Starkey, has been named Executive of the Year by the Business Intelligence Group.",
+      "imageUrl": "https://assets-atlas-production.continued.com/ao-assets/content/00000/00000/socm4090-00-en-sc-bigawardgraphic-nov26v21page2.jpg",
+      "tags": [],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Directly applicable to your sales strategy and opportunity closure process.",
+        "Tactical insight for growing patient pipeline and conversion rates."
+      ],
+      "saved": false
+    },
+    {
+      "id": "feed-hearing-review-1mb5z3",
+      "type": "article",
+      "title": "HearingLife Opens 20 New Clinics in 2026, Eyes 1,000-Location Milestone",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/inside-hearing/industry-news/hearinglife-opens-20-new-clinics-in-2026-eyes-1000-location-milestone",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-11-23T23:46:18.000Z",
+      "readTime": 1,
+      "summary": "HearingLife is accelerating its Greenfield clinic strategy with 20 new locations in 2026, advancing the Demant Group-owned provider toward a long-term goal of 1,000 nationwide centers.",
+      "imageUrl": "https://picsum.photos/seed/1mb5z3/600/400",
+      "tags": [
+        "Dispensing Networks",
+        "Growth Strategies",
+        "Industry News",
+        "HearingLife",
+        "original"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Practice management insights to help grow your hearing care business.",
+        "Directly applicable to your sales strategy and opportunity closure process."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-health-matters-8pm2ad",
       "type": "article",
       "title": "Vue Expands Auracast Rollout Following Positive Feedback From Hearing Aid Users",
@@ -688,32 +757,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-review-6o2oo9",
-      "type": "article",
-      "title": "Houston’s Health Museum Opens Permanent Exhibit Exploring the Science of Sound Perception",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/inside-hearing/events/houstons-health-museum-opens-permanent-exhibit-exploring-the-science-of-sound-perception",
-      "author": "HR Edit Staff",
-      "publishedAt": "2026-11-13T23:27:45.000Z",
-      "readTime": 1,
-      "summary": "Opening in November 2026, Houston's Health Museum's new permanent exhibit, *Sensing Sound: A Perception Box Experience*, explores the intersection of auditory science, neuroscience, and individual perception through immersive multi-sensory zones.",
-      "imageUrl": "https://picsum.photos/seed/6o2oo9/600/400",
-      "tags": [
-        "Counseling & Education",
-        "Events",
-        "Health & Wellness",
-        "auditory perception",
-        "hearing loss awareness",
-        "original"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Aligns with your focus on auditory-cognitive training and speech-in-noise outcomes.",
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-tracker-id6r54",
       "type": "article",
       "title": "ReSound Gift of Hearing Begins November 17",
@@ -927,24 +970,6 @@
       "saved": false
     },
     {
-      "id": "feed-audiology-online-jfl9k3",
-      "type": "article",
-      "title": "Signia Pure C&G MaX Now Available to VA Audiologists, Bringing the World’s First Four-DNN Hearing Aid Platform to Veterans",
-      "source": "Audiology Online",
-      "sourceUrl": "https://www.audiologyonline.com/releases/29867-signia-pure-c-g-max",
-      "publishedAt": "2026-11-02T05:00:00.000Z",
-      "readTime": 1,
-      "summary": "Signia announced that Pure Charge&Go MaX is now available to audiologists within the U.S. Department of Veterans Affairs (VA), as well as the U.S. Department of Defense (DoD) and Indian Health Service (IHS).",
-      "imageUrl": "https://assets-atlas-production.continued.com/ao-assets/content/c29800/c29867/signiamaxontable.jpg",
-      "tags": [],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Directly relevant to brain-based tinnitus therapy approaches your patients ask about.",
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-phonak-blog-r9cyuf",
       "type": "article",
       "title": "Severe and profound hearing loss: Updated guidance for clinical practice",
@@ -1064,32 +1089,7 @@
         "Patient acquisition strategies to inform your go-to-market approach."
       ],
       "saved": false
-    },
-    {
-      "id": "feed-phonak-blog-wgrton",
-      "type": "article",
-      "title": "EON: Adaptive clarity that speaks for itself",
-      "source": "Phonak Audiology Blog",
-      "sourceUrl": "https://audiologyblog.phonakpro.com/eon-adaptive-clarity-that-speaks-for-itself/",
-      "author": "Michael Preuss",
-      "publishedAt": "2026-09-24T12:14:07.000Z",
-      "readTime": 1,
-      "summary": "Four advanced new features work together in EON: Spheric Speech Clarity 3.0, AutoSense OS™ AI 8.0, APD 4.0 and WindBlock 2.0. Together, they prioritize speech understanding and reduce listening effort in real time while providing a more natural listening experience.\nThe post EON: Adaptive clarity that speaks for itself appeared first on Phonak Audiology Blog - Phonak Pro - life is on.",
-      "imageUrl": "https://picsum.photos/seed/wgrton/600/400",
-      "tags": [
-        "Technology",
-        "audiology",
-        "EON",
-        "Hearing care",
-        "hearing loss"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways.",
-        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
-      ],
-      "saved": false
     }
   ],
-  "fetchedAt": "2026-11-23T17:51:27.625Z"
+  "fetchedAt": "2026-11-24T17:24:43.115Z"
 }
