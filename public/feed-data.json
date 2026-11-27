@@ -1,6 +1,31 @@
 {
   "items": [
     {
+      "id": "feed-hearing-review-qagg04",
+      "type": "article",
+      "title": "Civil Rights Group Sues Three Telehealth Providers Over Deaf and Hard of Hearing Access",
+      "source": "The Hearing Review",
+      "sourceUrl": "https://hearingreview.com/practice-building/office-services/telehealth/civil-rights-group-sues-three-telehealth-providers-over-deaf-and-hard-of-hearing-access",
+      "author": "HR Edit Staff",
+      "publishedAt": "2026-11-27T12:54:00.000Z",
+      "readTime": 1,
+      "summary": "The Equal Rights Center alleges that the providers' platforms fail to provide essential ASL interpretation and live captioning for d/Deaf and hard of hearing patients.",
+      "imageUrl": "https://picsum.photos/seed/qagg04/600/400",
+      "tags": [
+        "TeleHealth",
+        "accessibility",
+        "ASL",
+        "lawsuit",
+        "original"
+      ],
+      "relevanceScore": 50,
+      "whyItMatters": [
+        "Understanding practitioner perspectives is key to your sales conversations with clinics.",
+        "Tech and AI trends shaping how hearing care is delivered and sold — relevant for positioning your solution."
+      ],
+      "saved": false
+    },
+    {
       "id": "feed-hearing-review-m7qka9",
       "type": "article",
       "title": "Rylo and Raz Mobility Partner to Bring Real-Time AI Call Captions to Seniors",
@@ -596,31 +621,6 @@
       "saved": false
     },
     {
-      "id": "feed-hearing-review-v1mim7",
-      "type": "article",
-      "title": "Auracast and AI: Natural Partners",
-      "source": "The Hearing Review",
-      "sourceUrl": "https://hearingreview.com/hearing-products/hearing-aids/auracast-and-ai-natural-partners",
-      "author": "Melanie Hamilton",
-      "publishedAt": "2026-11-18T17:50:00.000Z",
-      "readTime": 1,
-      "summary": "Hearing aid manufacturers are embracing Auracast as the new standard, with many new AI hearing devices being released as Auracast-compatible or ready for future firmware updates.",
-      "imageUrl": "https://picsum.photos/seed/v1mim7/600/400",
-      "tags": [
-        "Assistive Technologies",
-        "Hearing Aids",
-        "AI hearing aids",
-        "Auracast broadcast audio",
-        "Dave Fabry",
-        "Deep Neural Network DNN"
-      ],
-      "relevanceScore": 50,
-      "whyItMatters": [
-        "Relevant to your core patient population and treatment pathways."
-      ],
-      "saved": false
-    },
-    {
       "id": "feed-hearing-tracker-g7pd20",
       "type": "article",
       "title": "Fortell AI 2.5 Update Targets More Natural Sound Without New Hearing Aids",
@@ -1099,5 +1099,5 @@
       "saved": false
     }
   ],
-  "fetchedAt": "2026-11-26T16:42:48.003Z"
+  "fetchedAt": "2026-11-27T16:28:58.208Z"
 }
